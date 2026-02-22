@@ -6716,8 +6716,621 @@
     "url": "https://en-nu.facebook.com",
     "description": "The English-language version of Facebook for users in Niue, providing full interface localization in English for this Pacific island nation.",
     "keywords": ["Facebook", "Niue", "English", "Niuean", "Alofi", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Campus Support Center",
+    "url": "https://support.atu.edu/support/solutions/articles/7000019448-facebook",
+    "description": "An educational institution's support article providing a basic overview of Facebook as a social networking service launched in February 2004, explaining core features like personal profiles, adding friends, and automatic notifications when users update their profiles, with a link to the main Facebook website for more information.",
+    "keywords": ["Facebook", "overview", "social networking", "profile", "friends", "notifications", "2004", "registration", "platform", "introduction"]
+  },
+  {
+    "title": "Meta Platforms Technologies Phone Support Policy (Japan)",
+    "url": "https://www.meta.com/ja-jp/help/policies/23938634512490588/",
+    "description": "Meta's official Japanese-language support page explaining that general customer support phone numbers are not available for Meta products including Facebook, Messenger, Instagram, WhatsApp, and Quest, warning about potential phone scams, and directing users to help centers, Meta AI chat, and region-specific contact forms for assistance.",
+    "keywords": ["Meta", "phone support", "customer service", "scam warning", "help center", "Meta AI", "contact form", "EU support", "verified accounts", "advertisers"]
+  },
+  {
+    "title": "Meta Business Suite App - App Store",
+    "url": "https://apps.apple.com/st/app/meta-business-suite/id514643583",
+    "description": "The official App Store page for Meta Business Suite, a free business application that allows users to create, schedule, and manage posts and stories across Facebook Pages and Instagram accounts, respond to messages and comments in one place, view insights about audience interaction, and manage notifications and to-do lists from iOS devices.",
+    "keywords": ["Meta Business Suite", "business app", "iOS", "post scheduling", "message management", "insights", "notifications", "Facebook Page", "Instagram", "content calendar"]
+  },
+  {
+    "title": "Build and Test - Meta for Developers",
+    "url": "https://developers.alpha.facebook.com/docs/development/build-and-test",
+    "description": "Official developer documentation outlining the basic development and testing process for apps created on Meta for Developers, covering app use cases, app types, development and live modes, app roles for team members, test user accounts, test pages, data deletion callback requirements, and the App Review process for publishing apps.",
+    "keywords": ["Facebook Developers", "app development", "testing", "Graph API", "app modes", "test users", "App Review", "permissions", "data deletion", "SDK"]
+  },
+  {
+    "title": "Facebook's Community Standards: A Guide for Social Media Managers",
+    "url": "https://arynews.tv/facebook-community-standards-a-short-guide-2025",
+    "description": "A 2025 guide for social media managers explaining Facebook's Community Standards across key areas including violence and graphic content, hate speech, bullying and harassment, nudity and sexual activity, spam and misleading content, intellectual property, and child safety, with best practices for maintaining compliant and respectful online communities.",
+    "keywords": ["Facebook", "Community Standards", "social media management", "content moderation", "hate speech", "harassment", "misinformation", "intellectual property", "child safety", "reporting tools"]
+  },
+  {
+    "title": "Facebook launches FBNewswire to become journalists' best friend",
+    "url": "https://prod-appfeeds.intoday.in/technology/story/facebook-launches-fbnewswire-to-become-journalists-best-friend-190388-2014-04-25",
+    "description": "A 2014 news article announcing the launch of FB Newswire, a resource developed in partnership with Storyful to aggregate verified, real-time newsworthy content shared publicly on Facebook, including photos, videos, and status updates from individuals on the ground during breaking news events, designed to help journalists find and embed social content in their reporting.",
+    "keywords": ["Facebook", "FBNewswire", "journalism", "Storyful", "breaking news", "verified content", "real-time", "newsgathering", "media partnerships", "social content"]
+  },
+  {
+    "title": "Academic research on Facebook: a bibliometric review",
+    "url": "https://link.springer.com/article/10.1007/s13278-025-01526-8",
+    "description": "A comprehensive 2025 bibliometric analysis of Facebook-related academic research using Web of Science data, identifying influential authors, institutions, and countries including the United States, United Kingdom, and Australia, with keyword analysis revealing research themes such as privacy, misinformation, psychological well-being, political polarization, and COVID-19 across communication, psychology, and business disciplines.",
+    "keywords": ["Facebook research", "bibliometric analysis", "academic study", "misinformation", "privacy", "psychological well-being", "political polarization", "social media research", "citation analysis", "research trends"]
+  },
+  {
+    "title": "Engineering at Meta — Behind the Scale of Facebook (Meta)",
+    "url": "https://dev.to/ml318097/engineering-at-meta-behind-the-scale-of-facebook-meta-2066",
+    "description": "A DEV Community article introducing the Engineering at Meta technical blog where Meta engineers share insights into how the company tackles massive challenges including AI infrastructure, data infrastructure, privacy and security, front-end performance, and scaling systems to power products used by billions of people globally.",
+    "keywords": ["Facebook Engineering", "Meta engineering", "technical blog", "AI infrastructure", "data infrastructure", "privacy", "security", "scaling", "front-end", "system architecture"]
+  },
+  {
+    "title": "2026: AI Drives Performance",
+    "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+    "description": "Meta's official January 2026 announcement detailing how AI advancements are driving platform performance including a 7% lift in Facebook feed views, double-digit video time spent growth, AI dubbing in nine languages reaching hundreds of millions of daily views, AI-powered advertising tools achieving a $10 billion revenue run-rate, and business messaging momentum with over one million weekly Business AI conversations.",
+    "keywords": ["Meta AI", "2026", "Facebook feed", "video ranking", "AI dubbing", "advertising AI", "business messaging", "WhatsApp Business", "conversions", "personalization"]
+  },
+  {
+    "title": "Improving Your Recommendations on Our Apps With AI at Meta",
+    "url": "https://about.fb.com/news/2025/10/improving-your-recommendations-apps-ai-meta/amp/",
+    "description": "Meta's October 2025 announcement explaining how interactions with Meta AI features will be used to personalize content and ad recommendations across Facebook and Instagram, including examples of how chatting about hiking could lead to relevant group recommendations, with details about user controls, privacy protections, and the December 2025 implementation timeline.",
+    "keywords": ["Meta AI", "recommendations", "personalization", "Facebook feed", "Instagram", "AI interactions", "privacy controls", "ad preferences", "content discovery", "user experience"]
+  },
+  {
+    "title": "Facebook AI Research - Official Site",
+    "url": "https://ai.meta.com/",
+    "description": "The official Meta AI research website showcasing advancements in artificial intelligence across computer vision, natural language processing, speech recognition, and embodied AI, featuring projects from FAIR (Facebook AI Research) with demonstrations of AI-powered features across Meta's family of apps including Facebook and Instagram.",
+    "keywords": ["Facebook AI", "Meta AI", "FAIR", "artificial intelligence", "machine learning", "computer vision", "NLP", "research", "AI research", "Meta"]
+  },
+  {
+    "title": "Facebook Open Source",
+    "url": "https://opensource.fb.com/",
+    "description": "Meta's open source hub featuring projects developed by Facebook engineers and released to the developer community, including React, PyTorch, GraphQL, Presto, and other technologies, with documentation, GitHub repositories, success stories, and information about contributing to open source development.",
+    "keywords": ["Facebook", "open source", "GitHub", "React", "PyTorch", "GraphQL", "Presto", "developer tools", "community", "code"]
+  },
+  {
+    "title": "Facebook Research - Official Site",
+    "url": "https://research.facebook.com/",
+    "description": "The official Facebook Research website presenting academic publications, scientific breakthroughs, and research initiatives across computer science, artificial intelligence, and social technology, with contributions from FAIR and collaborations with academic institutions worldwide.",
+    "keywords": ["Facebook Research", "academic publications", "AI research", "computer science", "FAIR", "scientific research", "innovation", "technology", "Meta research", "collaboration"]
+  },
+  {
+    "title": "Facebook Careers",
+    "url": "https://www.metacareers.com/",
+    "description": "The official Meta careers portal for finding employment opportunities across the company's global offices, featuring job openings in engineering, product management, design, sales, marketing, research, and operations, with information about company culture, benefits, diversity initiatives, and the application process.",
+    "keywords": ["Facebook", "careers", "jobs", "Meta careers", "employment", "hiring", "engineering jobs", "tech jobs", "company culture", "recruiting"]
+  },
+  {
+    "title": "Meta Investor Relations",
+    "url": "https://investor.fb.com/",
+    "description": "Meta's investor relations website providing financial information for shareholders and potential investors including quarterly earnings reports, SEC filings, stock performance data (NASDAQ: META), annual reports, corporate governance information, and presentations about the company's financial strategy and business outlook.",
+    "keywords": ["Meta", "investor relations", "earnings", "stock", "NASDAQ", "META", "SEC filings", "shareholder", "financial reports", "corporate"]
+  },
+  {
+    "title": "Facebook Gaming",
+    "url": "https://www.facebook.com/gaming",
+    "description": "Facebook Gaming is a dedicated gaming hub within the Facebook platform where users can watch live game streams, discover gaming content, follow favorite creators, join gaming communities, and stream their own gameplay with tools for monetization through Stars and subscriptions.",
+    "keywords": ["Facebook Gaming", "game streaming", "live gaming", "creators", "Stars", "gaming community", "esports", "game discovery", "streamers", "gaming content"]
+  },
+  {
+    "title": "Facebook Dating",
+    "url": "https://www.facebook.com/dating",
+    "description": "Facebook Dating is a feature within the Facebook app that helps users find romantic relationships through profile matching, with options to discover potential partners based on preferences, shared interests, groups, and events, all kept separate from the main Facebook profile for privacy.",
+    "keywords": ["Facebook Dating", "relationships", "dating app", "matchmaking", "romance", "dating profile", "Secret Crush", "shared interests", "dating safety", "connections"]
+  },
+  {
+    "title": "Facebook Watch",
+    "url": "https://www.facebook.com/watch",
+    "description": "Facebook Watch is the platform's video-on-demand service where users can discover shows, follow creators, save videos to watch later, and engage with video content through comments and reactions, featuring original programming, user-generated content, and personalized recommendations.",
+    "keywords": ["Facebook Watch", "video on demand", "shows", "creators", "original programming", "video discovery", "playlists", "watchlist", "video content", "entertainment"]
+  },
+  {
+    "title": "Facebook Marketplace",
+    "url": "https://www.facebook.com/marketplace",
+    "description": "Facebook Marketplace is a platform for buying and selling items locally, allowing users to browse categories including vehicles, property, electronics, furniture, and clothing, communicate with sellers, create listings with photos and descriptions, and complete transactions safely within the Facebook ecosystem.",
+    "keywords": ["Facebook Marketplace", "buy and sell", "local shopping", "classifieds", "vehicles", "property", "electronics", "furniture", "listing", "transactions"]
+  },
+  {
+    "title": "Facebook Fundraisers",
+    "url": "https://www.facebook.com/fundraisers",
+    "description": "Facebook Fundraisers enables users to raise money for personal causes, charities, and nonprofits directly on the platform, with tools for setting fundraising goals, sharing stories, inviting donations, tracking progress, and processing secure payments through Facebook's donation infrastructure.",
+    "keywords": ["Facebook", "fundraisers", "donations", "charity", "nonprofit", "fundraising", "causes", "giving", "donation tools", "community support"]
+  },
+  {
+    "title": "Facebook Weather",
+    "url": "https://www.facebook.com/weather",
+    "description": "Facebook Weather is a feature within the platform that provides localized weather information, forecasts, and severe weather alerts to help users stay informed about current conditions in their area and plan activities accordingly.",
+    "keywords": ["Facebook", "weather", "forecast", "local weather", "weather alerts", "temperature", "conditions", "severe weather", "weather updates", "information"]
+  },
+  {
+    "title": "Facebook Sports",
+    "url": "https://www.facebook.com/sports",
+    "description": "Facebook Sports is a dedicated hub for sports content including live game coverage, highlights, scores, team pages, and discussions where users can follow favorite teams and athletes, engage with sports communities, and stay updated on leagues and tournaments.",
+    "keywords": ["Facebook", "sports", "live sports", "scores", "highlights", "teams", "athletes", "sports news", "game coverage", "sports community"]
+  },
+  {
+    "title": "Facebook Privacy Checkup",
+    "url": "https://www.facebook.com/privacy/checkup/",
+    "description": "Facebook's interactive Privacy Checkup tool guides users through reviewing and adjusting privacy settings step by step, covering who can see posts and personal information, app permissions, profile visibility, and data sharing preferences to help maintain control over privacy.",
+    "keywords": ["Facebook", "privacy", "checkup", "settings", "review", "control", "visibility", "data sharing", "permissions", "security"]
+  },
+  {
+    "title": "Facebook Ad Library",
+    "url": "https://www.facebook.com/ads/library/",
+    "description": "Facebook Ad Library is a searchable, transparent repository of all active ads running across Facebook products, including political and issue ads, allowing users to search by advertiser, view ad creative, see spending ranges, and access demographic information about who saw the ads.",
+    "keywords": ["Facebook", "Ad Library", "transparency", "political ads", "advertising", "ad search", "advertisers", "ad creative", "spending", "demographics"]
+  },
+  {
+    "title": "Facebook Blueprint",
+    "url": "https://www.facebook.com/business/learn/certification",
+    "description": "Facebook Blueprint is the official certification program for marketing and advertising professionals, offering online courses, learning paths, and certification exams covering Facebook, Instagram, Messenger, and WhatsApp advertising tools, measurement, and strategy.",
+    "keywords": ["Facebook", "Blueprint", "certification", "marketing", "advertising", "training", "courses", "professional development", "social media marketing", "Meta certification"]
+  },
+  {
+    "title": "Facebook IQ",
+    "url": "https://www.facebook.com/business/marketing/facebook-iq",
+    "description": "Facebook IQ is Meta's insights and research resource providing market research, consumer behavior studies, industry trends, and data-driven insights to help marketers understand audiences, cultural shifts, and effective advertising strategies across Facebook platforms.",
+    "keywords": ["Facebook", "IQ", "insights", "research", "consumer behavior", "marketing research", "trends", "audience insights", "data", "strategy"]
+  },
+  {
+    "title": "Facebook for Creators",
+    "url": "https://www.facebook.com/creators/",
+    "description": "Facebook for Creators provides resources, tools, and monetization options for content creators on the platform, including information about Stars, subscriptions, bonuses, creator studio, and best practices for building an audience and earning revenue from content.",
+    "keywords": ["Facebook", "creators", "content creators", "monetization", "Stars", "subscriptions", "creator studio", "bonuses", "audience growth", "creator tools"]
+  },
+  {
+    "title": "Facebook Journalism Project",
+    "url": "https://www.facebook.com/journalismproject",
+    "description": "The Facebook Journalism Project is an initiative to support journalism and news organizations through partnerships, training programs, tools for newsrooms, and products designed to help publishers build sustainable business models and combat misinformation.",
+    "keywords": ["Facebook", "journalism", "news", "publishers", "media partnerships", "newsroom tools", "misinformation", "journalism training", "news organizations", "media sustainability"]
+  },
+  {
+    "title": "Facebook Safety Center",
+    "url": "https://www.facebook.com/safety",
+    "description": "The Facebook Safety Center provides comprehensive safety resources including tools for protecting accounts, privacy guides, bullying prevention information, mental health resources, and reporting mechanisms to help users stay safe and secure on the platform.",
+    "keywords": ["Facebook", "safety", "security", "privacy", "bullying prevention", "mental health", "reporting", "account protection", "online safety", "well-being"]
+  },
+  {
+    "title": "Facebook Accessibility",
+    "url": "https://www.facebook.com/accessibility/",
+    "description": "Facebook's accessibility hub provides information about features for users with disabilities including screen reader support, automatic alt text for images, keyboard navigation, video captioning, and inclusive design initiatives to make the platform accessible to all users.",
+    "keywords": ["Facebook", "accessibility", "disability", "screen reader", "alt text", "captions", "keyboard navigation", "inclusive design", "assistive technology", "accessible"]
+  },
+  {
+    "title": "Facebook for Nonprofits",
+    "url": "https://nonprofits.fb.com/",
+    "description": "Facebook for Nonprofits offers specialized tools and resources for charitable organizations including fundraising features, donation buttons, volunteer sign-ups, nonprofit-specific page tools, and training materials to help organizations maximize their impact on the platform.",
+    "keywords": ["Facebook", "nonprofit", "charity", "fundraising", "donations", "volunteers", "nonprofit tools", "social good", "community impact", "causes"]
+  },
+  {
+    "title": "Facebook for Education",
+    "url": "https://education.fb.com/",
+    "description": "Facebook for Education provides resources and tools for educators and students including digital literacy programs, online safety curriculum, professional development resources, and technology training to support learning and teaching in the digital age.",
+    "keywords": ["Facebook", "education", "digital literacy", "educators", "students", "online safety", "professional development", "learning resources", "technology training", "educational tools"]
+  },
+  {
+    "title": "Facebook Sustainability",
+    "url": "https://sustainability.fb.com/",
+    "description": "Meta's sustainability page outlines the company's environmental commitments including goals to achieve net zero emissions, power operations with renewable energy, water positive initiatives, and sustainable data center design to minimize environmental impact.",
+    "keywords": ["Facebook", "sustainability", "environment", "renewable energy", "net zero", "carbon", "climate", "data centers", "green", "eco-friendly"]
+  },
+  {
+    "title": "Facebook Diversity",
+    "url": "https://about.fb.com/actions/diversity/",
+    "description": "Meta's diversity page reports on the company's workforce demographics, inclusion initiatives, diversity programs, and commitments to building a representative and equitable workplace across all levels of the organization.",
+    "keywords": ["Facebook", "diversity", "inclusion", "equity", "workforce", "demographics", "representation", "diversity report", "inclusive workplace", "Meta diversity"]
+  },
+  {
+    "title": "Facebook Civil Rights",
+    "url": "https://about.fb.com/actions/civil-rights/",
+    "description": "Meta's civil rights section details the company's efforts to advance equity, diversity, and inclusion across platforms and workplace, including civil rights audits, partnerships with advocacy organizations, and policies addressing hate speech and discrimination.",
+    "keywords": ["Facebook", "civil rights", "equity", "diversity", "inclusion", "civil rights audit", "advocacy", "hate speech", "discrimination", "marginalized communities"]
+  },
+  {
+    "title": "Facebook Oversight Board",
+    "url": "https://www.oversightboard.com/",
+    "description": "The independent Oversight Board makes binding decisions on Facebook and Instagram's content moderation policies, issuing rulings on specific cases and providing recommendations to Meta about how to improve content rules to uphold free expression and human rights.",
+    "keywords": ["Facebook", "Oversight Board", "content moderation", "decisions", "independent", "rulings", "free expression", "human rights", "cases", "policy"]
+  },
+  {
+    "title": "Meta Transparency Center",
+    "url": "https://transparency.fb.com/",
+    "description": "The Meta Transparency Center provides comprehensive information about how the company enforces policies, handles government requests for data, moderates content, protects elections from interference, addresses misinformation, and reports on safety progress.",
+    "keywords": ["Meta", "transparency", "reports", "data", "moderation", "policies", "government requests", "elections", "safety", "accountability"]
+  },
+  {
+    "title": "Facebook Community Help",
+    "url": "https://www.facebook.com/community/",
+    "description": "Facebook Community Help connects people during crises by allowing users to offer or request assistance including food, shelter, transportation, and supplies, with tools for organizing community response during natural disasters or emergency situations.",
+    "keywords": ["Facebook", "community help", "crisis response", "disaster relief", "assistance", "community support", "emergency", "help requests", "neighbors", "mutual aid"]
+  },
+  {
+    "title": "Facebook Campus",
+    "url": "https://www.facebook.com/campus",
+    "description": "Facebook Campus is a dedicated space for college students within the Facebook app, allowing users to connect with classmates, join campus groups, discover events, and communicate with fellow students at their educational institution.",
+    "keywords": ["Facebook", "Campus", "college students", "university", "campus groups", "classmates", "student life", "college community", "education", "student network"]
+  },
+  {
+    "title": "Facebook Local",
+    "url": "https://www.facebook.com/local",
+    "description": "Facebook Local helps users discover events, restaurants, attractions, and activities in their area based on friends' recommendations, events from pages they follow, and local business listings, serving as a discovery tool for local experiences.",
+    "keywords": ["Facebook", "Local", "events", "restaurants", "attractions", "local discovery", "nearby", "activities", "recommendations", "local businesses"]
+  },
+  {
+    "title": "Facebook Pay",
+    "url": "https://www.facebook.com/pay",
+    "description": "Facebook Pay is a payment system enabling secure transactions across Facebook, Messenger, Instagram, and WhatsApp, allowing users to send money, make purchases, donate to fundraisers, and manage payment methods in one centralized location within Meta's apps.",
+    "keywords": ["Facebook", "Pay", "payments", "money transfers", "transactions", "send money", "purchases", "donations", "payment methods", "secure checkout"]
+  },
+  {
+    "title": "Facebook Stars",
+    "url": "https://www.facebook.com/creators/stars",
+    "description": "Facebook Stars is a virtual goods feature allowing fans to support creators during live streams and videos by purchasing and sending stars, with creators earning revenue from star transactions and building connections with engaged audience members.",
+    "keywords": ["Facebook", "Stars", "creators", "monetization", "live streams", "virtual goods", "fan support", "creator earnings", "engagement", "tips"]
+  },
+  {
+    "title": "Facebook Creator Studio",
+    "url": "https://business.facebook.com/creatorstudio",
+    "description": "Creator Studio is Facebook's unified dashboard for content creators to manage posts, analyze performance, access monetization tools, respond to comments, and schedule content across Facebook and Instagram from a single interface designed for professional creators.",
+    "keywords": ["Facebook", "Creator Studio", "content management", "analytics", "monetization", "post scheduling", "comments", "Instagram", "creator tools", "dashboard"]
+  },
+  {
+    "title": "Facebook Business Suite",
+    "url": "https://business.facebook.com/",
+    "description": "Facebook Business Suite is a comprehensive tool for managing business presence across Facebook, Instagram, and Messenger, offering post scheduling, message management, notifications, insights, and ad creation in one place for small and medium business owners.",
+    "keywords": ["Facebook", "Business Suite", "business management", "post scheduling", "message management", "insights", "notifications", "Instagram", "Messenger", "small business"]
+  },
+  {
+    "title": "Facebook Ads Manager",
+    "url": "https://www.facebook.com/business/tools/ads-manager",
+    "description": "Facebook Ads Manager is the primary tool for creating, managing, and analyzing advertising campaigns, offering detailed targeting options, budget controls, ad creative tools, performance reporting, and optimization features for businesses advertising on Facebook.",
+    "keywords": ["Facebook", "Ads Manager", "advertising", "campaigns", "targeting", "budget", "ad creative", "reporting", "optimization", "performance"]
+  },
+  {
+    "title": "Facebook Pixel",
+    "url": "https://www.facebook.com/business/help/742478679120153",
+    "description": "The Facebook Pixel is a piece of code that tracks website conversions, optimizes ads, builds audiences for retargeting, and provides detailed analytics about how users interact with websites after seeing Facebook ads, with implementation guides and best practices.",
+    "keywords": ["Facebook", "pixel", "tracking", "conversions", "website", "retargeting", "analytics", "ad optimization", "implementation", "code"]
+  },
+  {
+    "title": "Facebook Conversions API",
+    "url": "https://developers.facebook.com/docs/marketing-api/conversions-api/",
+    "description": "The Facebook Conversions API enables server-side tracking for advertising events, providing a more reliable way to measure conversions, especially with increasing browser restrictions, and enabling better campaign optimization and attribution through direct server integration.",
+    "keywords": ["Facebook", "Conversions API", "server-side", "tracking", "advertising", "events", "optimization", "attribution", "developers", "measurement"]
+  },
+  {
+    "title": "Facebook Catalog Manager",
+    "url": "https://www.facebook.com/business/help/379511922452472",
+    "description": "Facebook Catalog Manager is a tool for businesses to upload and manage product catalogs for dynamic ads, shopping experiences, and Marketplace listings, including inventory updates, product feeds, and catalog organization across Facebook shops and Instagram.",
+    "keywords": ["Facebook", "Catalog Manager", "products", "inventory", "dynamic ads", "shopping", "Marketplace", "product feeds", "e-commerce", "catalog"]
+  },
+  {
+    "title": "Facebook Shops",
+    "url": "https://www.facebook.com/business/shops",
+    "description": "Facebook Shops allows businesses to create online storefronts across Facebook and Instagram, featuring product catalogs, customizable shop layouts, checkout options, and integration with messaging for customer service, providing seamless shopping experiences.",
+    "keywords": ["Facebook", "Shops", "e-commerce", "storefront", "products", "checkout", "Instagram shopping", "catalog", "online store", "selling"]
+  },
+  {
+    "title": "Facebook Business Manager",
+    "url": "https://business.facebook.com/",
+    "description": "Facebook Business Manager is a centralized platform for managing business assets including pages, ad accounts, catalogs, and pixels, with tools for team collaboration, access control, and security settings to help organizations efficiently manage their Facebook presence.",
+    "keywords": ["Facebook", "Business Manager", "assets", "pages", "ad accounts", "team management", "access control", "security", "organization", "business tools"]
+  },
+  {
+    "title": "Facebook Analytics",
+    "url": "https://www.facebook.com/business/insights/tools/audience-insights",
+    "description": "Facebook Analytics tools provide detailed insights about audience, content performance, and business results, including page insights, audience demographics, engagement metrics, and custom reports to help data-driven decisions for Facebook strategy.",
+    "keywords": ["Facebook", "analytics", "insights", "audience", "engagement", "demographics", "performance", "metrics", "reporting", "data"]
+  },
+  {
+    "title": "Facebook Graph API",
+    "url": "https://developers.facebook.com/docs/graph-api/",
+    "description": "The Facebook Graph API is the primary way to read and write data to Facebook's social graph, providing developers with access to users, posts, photos, pages, groups, events, and other objects through a consistent, RESTful API for building integrations.",
+    "keywords": ["Facebook", "Graph API", "developers", "social graph", "REST API", "data access", "integration", "programming", "app development", "API reference"]
+  },
+  {
+    "title": "Facebook Login API",
+    "url": "https://developers.facebook.com/docs/facebook-login/",
+    "description": "Facebook Login API documentation explains how to implement secure authentication for websites and apps, allowing users to log in with Facebook credentials, with options for permissions, user data access, and integration with existing account systems.",
+    "keywords": ["Facebook", "Login", "API", "authentication", "developers", "OAuth", "permissions", "user data", "SSO", "integration"]
+  },
+  {
+    "title": "Facebook Sharing SDK",
+    "url": "https://developers.facebook.com/docs/sharing/",
+    "description": "The Facebook Sharing SDK documentation provides tools for adding social sharing functionality to websites and apps, enabling users to share content, photos, and links to Facebook with customizable share dialogs and deep linking for better engagement.",
+    "keywords": ["Facebook", "sharing", "SDK", "developers", "social sharing", "share buttons", "content sharing", "integration", "dialogs", "engagement"]
+  },
+  {
+    "title": "Facebook Comments Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/comments/",
+    "description": "The Facebook Comments Plugin documentation explains how to embed a commenting system on websites, allowing users to comment using Facebook accounts, with features for moderation, social integration, and synchronization with Facebook pages for unified discussions.",
+    "keywords": ["Facebook", "comments", "plugin", "developers", "embed", "website comments", "discussion", "moderation", "social comments", "integration"]
+  },
+  {
+    "title": "Facebook Like Button",
+    "url": "https://developers.facebook.com/docs/plugins/like-button/",
+    "description": "The Facebook Like Button documentation provides implementation guides for adding social proof to websites, allowing users to like and share content directly to Facebook, with customizable layouts, share functionality, and real-time count displays for engagement.",
+    "keywords": ["Facebook", "like button", "social plugin", "developers", "embed", "website integration", "social proof", "engagement", "share", "count"]
+  },
+  {
+    "title": "Facebook Save Button",
+    "url": "https://developers.facebook.com/docs/plugins/save-button/",
+    "description": "The Facebook Save Button documentation explains how to add save functionality to websites, allowing users to bookmark content to their Facebook saved items for later viewing, with options for custom buttons and integration with Facebook's save feature.",
+    "keywords": ["Facebook", "save button", "bookmark", "developers", "plugin", "content saving", "later viewing", "integration", "website", "social plugin"]
+  },
+  {
+    "title": "Facebook Instant Games",
+    "url": "https://developers.facebook.com/docs/games/instant-games/",
+    "description": "The Facebook Instant Games platform documentation provides tools for developing lightweight HTML5 games that run directly in Facebook and Messenger, with features for leaderboards, multiplayer, monetization, and social sharing without downloads or installations.",
+    "keywords": ["Facebook", "Instant Games", "HTML5", "developers", "gaming", "Messenger", "leaderboards", "multiplayer", "monetization", "game development"]
+  },
+  {
+    "title": "Facebook Spark AR Studio",
+    "url": "https://sparkar.facebook.com/ar-studio/",
+    "description": "Spark AR Studio is Facebook's platform for creating augmented reality effects for Facebook and Instagram, providing tools for designing, testing, and publishing AR experiences like face filters, world effects, and interactive animations for users to enjoy.",
+    "keywords": ["Facebook", "Spark AR", "augmented reality", "AR", "effects", "filters", "creators", "developers", "Instagram", "AR creation"]
+  },
+  {
+    "title": "Facebook Analytics for Apps",
+    "url": "https://developers.facebook.com/docs/analytics",
+    "description": "Facebook Analytics for Apps provides developers with insights about app usage, user behavior, and engagement metrics, including retention analysis, funnel tracking, event monitoring, and audience segmentation to optimize mobile applications and user experiences.",
+    "keywords": ["Facebook", "analytics", "apps", "developers", "user behavior", "retention", "events", "funnel tracking", "segmentation", "mobile analytics"]
+  },
+  {
+    "title": "Facebook App Events",
+    "url": "https://developers.facebook.com/docs/app-events",
+    "description": "Facebook App Events documentation explains how to track user actions within mobile apps, enabling measurement of conversions, optimization of ad campaigns, creation of custom audiences, and analysis of user behavior across iOS and Android applications.",
+    "keywords": ["Facebook", "app events", "tracking", "analytics", "conversions", "ads", "custom audiences", "mobile", "iOS", "Android"]
+  },
+  {
+    "title": "Facebook Webhooks",
+    "url": "https://developers.facebook.com/docs/graph-api/webhooks",
+    "description": "Facebook Webhooks documentation explains how to receive real-time notifications about changes to Facebook data, enabling applications to react instantly to events like new posts, comments, messages, or page updates without constant polling of the API.",
+    "keywords": ["Facebook", "webhooks", "real-time", "notifications", "events", "API", "developers", "integration", "callbacks", "realtime updates"]
+  },
+  {
+    "title": "Facebook Platform Policies",
+    "url": "https://developers.facebook.com/policy/",
+    "description": "Facebook's Platform Policies outline the rules and requirements for developers building applications that integrate with Facebook, covering data usage, user experience, advertising, content guidelines, and compliance standards for maintaining platform access.",
+    "keywords": ["Facebook", "platform policies", "developers", "rules", "guidelines", "data usage", "compliance", "app review", "terms", "integration"]
+  },
+  {
+    "title": "Facebook App Review",
+    "url": "https://developers.facebook.com/docs/app-review",
+    "description": "Facebook App Review documentation explains the process for getting apps approved to access sensitive permissions and features, including submission requirements, testing guidelines, common approval issues, and best practices for successful app review completion.",
+    "keywords": ["Facebook", "App Review", "permissions", "approval", "submission", "testing", "guidelines", "developers", "app approval", "review process"]
+  },
+  {
+    "title": "Facebook Marketing API",
+    "url": "https://developers.facebook.com/docs/marketing-apis",
+    "description": "The Facebook Marketing API documentation provides comprehensive tools for programmatic advertising management, including ad creation, campaign optimization, audience targeting, reporting, and automation capabilities for businesses and marketing platforms.",
+    "keywords": ["Facebook", "Marketing API", "advertising", "campaigns", "programmatic", "automation", "targeting", "reporting", "developers", "optimization"]
+  },
+  {
+    "title": "Facebook Business SDK",
+    "url": "https://developers.facebook.com/docs/business-sdk",
+    "description": "The Facebook Business SDK documentation provides tools for integrating advertising and business features into applications, including campaign management, audience creation, analytics reporting, and marketing API access for building custom business solutions.",
+    "keywords": ["Facebook", "Business SDK", "advertising", "API", "campaigns", "audiences", "analytics", "developers", "integration", "marketing tools"]
+  },
+  {
+    "title": "Facebook for Workplace",
+    "url": "https://www.workplace.com/",
+    "description": "Workplace from Meta is a business communication platform that uses familiar Facebook features to connect employees, with tools for company-wide announcements, group collaboration, video meetings, live video streaming, and integrations with enterprise software.",
+    "keywords": ["Facebook", "Workplace", "enterprise", "business communication", "collaboration", "video meetings", "company announcements", "employee engagement", "team collaboration", "Meta for Work"]
+  },
+  {
+    "title": "Facebook Horizon Workrooms",
+    "url": "https://www.oculus.com/workrooms/",
+    "description": "Horizon Workrooms is Meta's VR collaboration platform for teams to meet, brainstorm, and work together in virtual spaces using Quest headsets, featuring virtual meeting rooms, whiteboarding, screen sharing, and avatar-based collaboration for remote teams.",
+    "keywords": ["Facebook", "Horizon Workrooms", "VR", "virtual reality", "remote work", "collaboration", "team meetings", "Quest", "metaverse", "virtual office"]
+  },
+  {
+    "title": "Facebook Portal",
+    "url": "https://www.facebook.com/portal",
+    "description": "Facebook Portal is a line of video calling devices with smart camera technology that automatically pans and zooms to keep users in frame during calls, integrating with WhatsApp and Messenger for easy connection with friends and family.",
+    "keywords": ["Facebook", "Portal", "video calling", "smart camera", "WhatsApp", "Messenger", "smart display", "video chat", "communication", "hardware"]
+  },
+  {
+    "title": "Facebook Lite",
+    "url": "https://www.facebook.com/lite",
+    "description": "Facebook Lite is a smaller, faster version of the Facebook app designed for older phones, slower networks, and areas with limited connectivity, using less data while providing core Facebook features like News Feed, messaging, and notifications.",
+    "keywords": ["Facebook", "Lite", "lightweight app", "data saving", "slow networks", "emerging markets", "Android", "mobile app", "efficient", "limited connectivity"]
+  },
+  {
+    "title": "Facebook App for Android",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "description": "The official Facebook app for Android allows users to connect with friends and family through a personalized Feed, share photos and videos, create Reels, shop on Marketplace, join Groups, message privately, and use generative AI for custom stickers and images.",
+    "keywords": ["Facebook", "Android app", "Google Play", "mobile app", "Reels", "Marketplace", "Groups", "Messenger", "AI stickers", "social media"]
+  },
+  {
+    "title": "Facebook App for iOS",
+    "url": "https://apps.apple.com/app/facebook/id284882215",
+    "description": "The official Facebook app for iPhone and iPad allows iOS users to access News Feed, notifications, messaging, photo sharing, live video, and all core Facebook functionality optimized for Apple devices with integration with iOS features.",
+    "keywords": ["Facebook", "iOS app", "iPhone", "iPad", "App Store", "Apple", "mobile app", "News Feed", "live video", "Messenger"]
+  },
+  {
+    "title": "Facebook Lite on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+    "description": "Facebook Lite on Google Play is the lightweight version of the Facebook app for Android, designed to work efficiently on older devices and slower networks while using minimal data and storage space for essential Facebook functionality.",
+    "keywords": ["Facebook", "Lite", "Android", "Google Play", "lightweight app", "data saving", "slow networks", "older phones", "efficient", "mobile"]
+  },
+  {
+    "title": "Messenger App on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "description": "The Messenger app on Google Play enables Android users to download Facebook's official messaging application, offering text messaging, voice and video calling, group chats, photo and video sharing, games, and cross-platform communication with friends.",
+    "keywords": ["Messenger", "Android app", "Google Play", "messaging", "video calls", "voice calls", "group chats", "photo sharing", "games", "Facebook"]
+  },
+  {
+    "title": "Messenger App on App Store",
+    "url": "https://apps.apple.com/app/messenger/id454638411",
+    "description": "The Messenger app on Apple App Store allows iPhone and iPad users to download the official messaging application from Facebook, providing access to text chats, voice and video calls, group conversations, games, and seamless integration with Facebook friends.",
+    "keywords": ["Messenger", "iOS app", "iPhone", "iPad", "App Store", "messaging", "video calls", "group chats", "Facebook", "Apple"]
+  },
+  {
+    "title": "WhatsApp on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "description": "The WhatsApp Messenger app on Google Play allows Android users to download the official application for secure messaging, voice and video calls, group chats, media sharing, and status updates, all protected by end-to-end encryption.",
+    "keywords": ["WhatsApp", "Android app", "Google Play", "messaging", "encryption", "video calls", "voice calls", "group chats", "Meta", "secure"]
+  },
+  {
+    "title": "WhatsApp on App Store",
+    "url": "https://apps.apple.com/app/whatsapp-messenger/id310633997",
+    "description": "The WhatsApp Messenger app on Apple App Store enables iPhone users to download the official application for secure messaging, voice and video calls, group chats, media sharing, and status updates, all protected by end-to-end encryption.",
+    "keywords": ["WhatsApp", "iOS app", "iPhone", "App Store", "messaging", "encryption", "video calls", "voice calls", "group chats", "Meta"]
+  },
+  {
+    "title": "Instagram on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "description": "The Instagram app on Google Play allows Android users to download the official application for sharing photos and videos, applying filters, posting Stories, browsing Feed, sending direct messages, and discovering content from creators and brands worldwide.",
+    "keywords": ["Instagram", "Android app", "Google Play", "photo sharing", "Stories", "Reels", "direct messages", "Explore", "social media", "Meta"]
+  },
+  {
+    "title": "Instagram on App Store",
+    "url": "https://apps.apple.com/app/instagram/id389801252",
+    "description": "The Instagram app on Apple App Store enables iPhone and iPad users to download the official application for sharing photos and videos, applying filters and editing tools, posting Stories, browsing the Feed, and discovering content from creators and brands.",
+    "keywords": ["Instagram", "iOS app", "iPhone", "iPad", "App Store", "photo sharing", "Stories", "Reels", "Explore", "social media"]
+  },
+  {
+    "title": "Threads on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+    "description": "Threads is Meta's text-based conversation app for Android where communities can discuss topics, share updates, and connect through public conversations, integrated with Instagram for seamless following and sharing of text posts.",
+    "keywords": ["Threads", "Android app", "Google Play", "text-based", "conversations", "Instagram", "Meta", "social media", "public discussions", "communities"]
+  },
+  {
+    "title": "Threads on App Store",
+    "url": "https://apps.apple.com/app/threads/id6446901002",
+    "description": "Threads is Meta's text-based conversation app for iOS where communities can discuss topics, share updates, and connect through public conversations, integrated with Instagram for seamless following and sharing of text posts.",
+    "keywords": ["Threads", "iOS app", "iPhone", "App Store", "text-based", "conversations", "Instagram", "Meta", "social media", "public discussions"]
+  },
+  {
+    "title": "Meta Quest App on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.oculus.twilight",
+    "description": "The Meta Quest app for Android allows users to set up and manage Quest VR headsets, discover and purchase VR games and experiences, cast headset display to phone, connect with friends in VR, and access the Quest store from mobile devices.",
+    "keywords": ["Meta Quest", "Android app", "Google Play", "VR", "virtual reality", "Oculus", "Quest headset", "VR games", "VR setup", "Meta"]
+  },
+  {
+    "title": "Meta Quest App on App Store",
+    "url": "https://apps.apple.com/app/oculus/id1366477936",
+    "description": "The Meta Quest app for iOS allows iPhone users to set up and manage Quest VR headsets, discover and purchase VR games and experiences, cast headset display to phone, connect with friends in VR, and access the Quest store from mobile devices.",
+    "keywords": ["Meta Quest", "iOS app", "iPhone", "App Store", "VR", "virtual reality", "Oculus", "Quest headset", "VR games", "Meta"]
+  },
+  {
+    "title": "Facebook Business Suite on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.pages.app",
+    "description": "The Meta Business Suite app on Google Play allows Android users to manage business presence across Facebook and Instagram, including post creation and scheduling, message and comment management, insights viewing, and notification handling for business accounts.",
+    "keywords": ["Meta Business Suite", "Android app", "Google Play", "business management", "post scheduling", "message management", "insights", "Facebook Page", "Instagram", "small business"]
+  },
+  {
+    "title": "Facebook Creator Studio on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.creatorstudio",
+    "description": "The Creator Studio app for Android allows content creators to manage posts, analyze performance, access monetization tools, respond to comments, and schedule content across Facebook and Instagram from a dedicated mobile creator dashboard.",
+    "keywords": ["Facebook", "Creator Studio", "Android app", "Google Play", "content creators", "post management", "analytics", "monetization", "Instagram", "creator tools"]
+  },
+  {
+    "title": "Facebook Ads Manager on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.adsmanager",
+    "description": "The Facebook Ads Manager app for Android allows advertisers to create, manage, and monitor ad campaigns on the go, with tools for viewing performance metrics, adjusting budgets, editing ads, and receiving notifications about campaign results.",
+    "keywords": ["Facebook", "Ads Manager", "Android app", "Google Play", "advertising", "campaign management", "performance metrics", "budget adjustment", "mobile ads", "marketing"]
+  },
+  {
+    "title": "Facebook Ads Manager on App Store",
+    "url": "https://apps.apple.com/app/facebook-ads-manager/id964397083",
+    "description": "The Facebook Ads Manager app for iOS allows advertisers to create, manage, and monitor ad campaigns on iPhone and iPad, with tools for viewing performance metrics, adjusting budgets, editing ads, and receiving notifications about campaign results.",
+    "keywords": ["Facebook", "Ads Manager", "iOS app", "iPhone", "App Store", "advertising", "campaign management", "performance metrics", "budget adjustment", "mobile ads"]
+  },
+  {
+    "title": "Facebook Analytics App",
+    "url": "https://www.facebook.com/business/help/1131634753965190",
+    "description": "The Facebook Analytics app provides on-the-go access to page and ad performance data, allowing business owners and marketers to monitor engagement metrics, audience insights, and content performance directly from mobile devices.",
+    "keywords": ["Facebook", "analytics app", "mobile analytics", "page insights", "performance monitoring", "engagement metrics", "audience insights", "business tools", "marketing", "data"]
+  },
+  {
+    "title": "Facebook Wi-Fi",
+    "url": "https://www.facebook.com/business/m/facebook-wifi",
+    "description": "Facebook Wi-Fi was a feature that allowed businesses to offer free Wi-Fi to customers in exchange for a Facebook check-in, helping businesses attract foot traffic and build customer relationships through social engagement.",
+    "keywords": ["Facebook", "Wi-Fi", "business tool", "customer engagement", "free Wi-Fi", "check-in", "foot traffic", "local business", "social engagement", "marketing"]
+  },
+  {
+    "title": "Facebook Sound Collection",
+    "url": "https://www.facebook.com/sound/collection",
+    "description": "The Facebook Sound Collection is a library of royalty-free music and sound effects that creators can use in videos and content across Facebook and Instagram without copyright concerns, featuring tracks across various genres and moods.",
+    "keywords": ["Facebook", "Sound Collection", "royalty-free music", "sound effects", "video creation", "content creators", "copyright-free", "audio library", "music for videos", "Instagram"]
+  },
+  {
+    "title": "Facebook Climate Science Information Center",
+    "url": "https://www.facebook.com/climatescienceinfo",
+    "description": "The Facebook Climate Science Information Center provides authoritative information about climate change, including facts from climate experts, resources from environmental organizations, and tools to help users understand and address climate issues.",
+    "keywords": ["Facebook", "climate science", "climate change", "environmental information", "climate resources", "scientific facts", "sustainability", "climate action", "information center", "Meta"]
+  },
+  {
+    "title": "Facebook COVID-19 Information Center",
+    "url": "https://www.facebook.com/coronavirus_info",
+    "description": "The Facebook COVID-19 Information Center provided authoritative health information from global health organizations, including updates on the pandemic, safety guidelines, vaccine information, and resources for communities during the global health crisis.",
+    "keywords": ["Facebook", "COVID-19", "coronavirus", "health information", "pandemic resources", "safety guidelines", "vaccine information", "public health", "WHO", "CDC"]
+  },
+  {
+    "title": "Facebook Voting Information Center",
+    "url": "https://www.facebook.com/voting",
+    "description": "The Facebook Voting Information Center provides tools and resources to help users register to vote, learn about elections, find polling places, and understand voting processes, supporting civic engagement and democratic participation.",
+    "keywords": ["Facebook", "voting", "elections", "voter registration", "civic engagement", "polling places", "election information", "democracy", "voting resources", "civic participation"]
+  },
+  {
+    "title": "Facebook Privacy Basics",
+    "url": "https://www.facebook.com/privacy/basics/",
+    "description": "Facebook Privacy Basics is an interactive guide that explains fundamental privacy concepts in simple terms, covering who can see your content, how to control your information, managing friend lists, blocking unwanted contacts, and understanding your data.",
+    "keywords": ["Facebook", "privacy", "basics", "guide", "data control", "visibility", "friends lists", "blocking", "information", "settings"]
+  },
+  {
+    "title": "Facebook Data Policy",
+    "url": "https://www.facebook.com/policy.php",
+    "description": "Facebook's Data Policy explains in detail how the company collects, uses, and shares information from users, including data from activity on and off Facebook, device information, partner data, and how this information is processed to provide and secure services.",
+    "keywords": ["Facebook", "data policy", "privacy policy", "information collection", "data usage", "data sharing", "user data", "privacy", "terms", "Meta"]
+  },
+  {
+    "title": "Facebook Terms of Service",
+    "url": "https://www.facebook.com/legal/terms",
+    "description": "Facebook's Terms of Service outline the legal agreement between users and Meta Platforms, covering acceptable use, account responsibilities, content ownership, dispute resolution, and the rights and obligations of users on the platform.",
+    "keywords": ["Facebook", "terms of service", "legal", "user agreement", "acceptable use", "account terms", "content ownership", "dispute resolution", "Meta", "platform rules"]
+  },
+  {
+    "title": "Facebook Cookies Policy",
+    "url": "https://www.facebook.com/policies/cookies/",
+    "description": "Facebook's Cookies Policy explains how the platform uses cookies and similar technologies to provide, secure, and improve services, including authentication, security, advertising, analytics, and personalization across Facebook and other Meta products.",
+    "keywords": ["Facebook", "cookies", "cookie policy", "tracking", "advertising", "analytics", "personalization", "data collection", "privacy", "Meta"]
+  },
+  {
+    "title": "Facebook Community Standards Enforcement",
+    "url": "https://transparency.fb.com/data/community-standards-enforcement/",
+    "description": "The Community Standards Enforcement report provides quarterly data on how Facebook enforces its content policies, including metrics on content removed for violating standards, proactive detection rates, and appeals data across different policy areas.",
+    "keywords": ["Facebook", "Community Standards", "enforcement", "transparency", "content removal", "proactive detection", "appeals", "moderation metrics", "safety", "report"]
+  },
+  {
+    "title": "Facebook Government Requests Report",
+    "url": "https://transparency.fb.com/data/government-requests/",
+    "description": "The Facebook Government Requests Report provides transparency about requests from governments worldwide for user data and content restrictions, including metrics on requests received, compliance rates, and types of requests from different countries.",
+    "keywords": ["Facebook", "government requests", "transparency", "user data", "content restriction", "legal requests", "government surveillance", "data disclosure", "privacy", "Meta"]
+  },
+  {
+    "title": "Facebook Intellectual Property",
+    "url": "https://www.facebook.com/help/contact/1758255661104383",
+    "description": "Facebook's intellectual property resources provide information and reporting tools for copyright and trademark infringement, allowing rights holders to submit claims about unauthorized use of their protected content on the platform.",
+    "keywords": ["Facebook", "intellectual property", "copyright", "trademark", "DMCA", "infringement", "rights holder", "content protection", "reporting", "legal"]
+  },
+  {
+    "title": "Facebook Bug Bounty Program",
+    "url": "https://www.facebook.com/whitehat",
+    "description": "The Facebook Bug Bounty Program rewards security researchers who responsibly report vulnerabilities in Facebook's products and infrastructure, with guidelines for submissions, reward amounts based on severity, and recognition for contributions to platform security.",
+    "keywords": ["Facebook", "bug bounty", "security", "vulnerabilities", "white hat", "security research", "rewards", "responsible disclosure", "infrastructure", "Meta security"]
+  },
+  {
+    "title": "Facebook Data for Good",
+    "url": "https://dataforgood.fb.com/",
+    "description": "Facebook Data for Good is an initiative that leverages aggregated and anonymized Facebook data to support humanitarian efforts, disaster response, disease prevention, and social good projects through partnerships with researchers and organizations.",
+    "keywords": ["Facebook", "Data for Good", "humanitarian", "disaster response", "disease prevention", "social good", "research partnerships", "anonymized data", "crisis response", "public health"]
   }
 ]
+
 
 
   
