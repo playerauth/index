@@ -5180,6 +5180,1542 @@
     "url": "https://mezha.ua/en/news/meta-closes-messenger-com-308641/",
     "description": "Meta confirms the closure of Messenger.com in April 2026, automatically redirecting all users to facebook.com/messages for browser-based messaging, while those with deactivated Facebook accounts will only have access through the mobile app, following the December 2025 shutdown of Messenger desktop applications for Windows and Mac.",
     "keywords": ["Messenger.com closing", "April 2026", "Facebook messages", "desktop messaging", "Messenger app", "Meta shutdown", "web browser messaging", "deactivated Facebook", "chat access", "platform changes"]
+  },
+  {
+    "title": "Facebook - United States",
+    "url": "https://www.facebook.com",
+    "description": "The official Facebook website for users in the United States, providing access to the world's largest social networking platform where people can connect with friends, family, and communities through posts, photos, videos, and messaging.",
+    "keywords": ["Facebook", "United States", "USA", "English", "social media", "American", "global", "homepage", "login", "international"]
+  },
+  {
+    "title": "Facebook - Global (English)",
+    "url": "https://www.facebook.com/?locale=en_US",
+    "description": "The international English-language version of Facebook, accessible to users worldwide who prefer American English as their interface language for connecting with the global Facebook community.",
+    "keywords": ["Facebook", "global", "English", "international", "worldwide", "US English", "login", "social network", "platform", "homepage"]
+  },
+  {
+    "title": "Facebook - UK English",
+    "url": "https://en-gb.facebook.com",
+    "description": "Facebook's United Kingdom English language portal, offering the social networking service to users in the UK with British English spelling and terminology throughout the interface.",
+    "keywords": ["Facebook", "United Kingdom", "UK", "Great Britain", "British English", "England", "Scotland", "Wales", "Northern Ireland", "UK English"]
+  },
+  {
+    "title": "Facebook - Canada (English)",
+    "url": "https://en-ca.facebook.com",
+    "description": "The English-language version of Facebook for Canadian users, providing localized access to Facebook's social networking features with Canadian English preferences.",
+    "keywords": ["Facebook", "Canada", "Canadian English", "English", "North America", "Canadian", "social media", "CA English", "login", "regional"]
+  },
+  {
+    "title": "Facebook - Canada (French)",
+    "url": "https://fr-ca.facebook.com",
+    "description": "The French-language version of Facebook for Canadian users, particularly serving Quebec and other francophone communities across Canada with fully localized French interface.",
+    "keywords": ["Facebook", "Canada", "French Canadian", "Quebec", "francophone", "French", "CA French", "Canada French", "bilingual", "North America"]
+  },
+  {
+    "title": "Facebook - Australia",
+    "url": "https://en-au.facebook.com",
+    "description": "Facebook's Australian English portal, providing localized social networking services to users in Australia with interface tailored to Australian English conventions.",
+    "keywords": ["Facebook", "Australia", "Aussie", "Australian English", "Oceania", "Down Under", "AU", "social media", "login", "regional"]
+  },
+  {
+    "title": "Facebook - New Zealand",
+    "url": "https://en-nz.facebook.com",
+    "description": "The New Zealand English version of Facebook, offering localized access to the social networking platform for users in Aotearoa New Zealand.",
+    "keywords": ["Facebook", "New Zealand", "NZ", "Kiwi", "Aotearoa", "New Zealand English", "Oceania", "social media", "login", "regional"]
+  },
+  {
+    "title": "Facebook - Ireland",
+    "url": "https://en-ie.facebook.com",
+    "description": "Facebook's Irish English portal, providing social networking services to users in Ireland with interface localization for Irish English speakers.",
+    "keywords": ["Facebook", "Ireland", "Irish", "Eire", "Irish English", "Europe", "EU", "social media", "Dublin", "regional"]
+  },
+  {
+    "title": "Facebook - South Africa",
+    "url": "https://en-za.facebook.com",
+    "description": "The South African English version of Facebook, offering localized access to the platform for users across South Africa with interface in South African English.",
+    "keywords": ["Facebook", "South Africa", "RSA", "South African English", "Africa", "ZA", "Cape Town", "Johannesburg", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - India (English)",
+    "url": "https://en-in.facebook.com",
+    "description": "Facebook's Indian English portal, serving the diverse Indian user base with English-language interface tailored to Indian English conventions and preferences.",
+    "keywords": ["Facebook", "India", "Indian English", "Bharat", "Hindustan", "South Asia", "IN English", "social media", "Hindi belt", "regional"]
+  },
+  {
+    "title": "Facebook - India (Hindi)",
+    "url": "https://hi-in.facebook.com",
+    "description": "The Hindi-language version of Facebook for Indian users, providing full interface localization in Devanagari script for Hindi speakers across India.",
+    "keywords": ["Facebook", "India", "Hindi", "हिन्दी", "Devanagari", "Bharat", "North India", "Hindi belt", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Tamil)",
+    "url": "https://ta-in.facebook.com",
+    "description": "The Tamil-language version of Facebook for Indian users, offering complete interface localization in Tamil script for Tamil speakers in Tamil Nadu and across India.",
+    "keywords": ["Facebook", "India", "Tamil", "தமிழ்", "Tamil Nadu", "Chennai", "Dravidian", "South India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Telugu)",
+    "url": "https://te-in.facebook.com",
+    "description": "The Telugu-language version of Facebook for Indian users, providing full interface localization in Telugu script for Telugu speakers in Andhra Pradesh and Telangana.",
+    "keywords": ["Facebook", "India", "Telugu", "తెలుగు", "Andhra Pradesh", "Telangana", "Hyderabad", "South India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Kannada)",
+    "url": "https://kn-in.facebook.com",
+    "description": "The Kannada-language version of Facebook for Indian users, offering complete interface localization in Kannada script for Kannada speakers in Karnataka.",
+    "keywords": ["Facebook", "India", "Kannada", "ಕನ್ನಡ", "Karnataka", "Bangalore", "Mysore", "South India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Malayalam)",
+    "url": "https://ml-in.facebook.com",
+    "description": "The Malayalam-language version of Facebook for Indian users, providing full interface localization in Malayalam script for Malayalam speakers in Kerala.",
+    "keywords": ["Facebook", "India", "Malayalam", "മലയാളം", "Kerala", "God's Own Country", "South India", "Indian languages", "regional", "Malayali"]
+  },
+  {
+    "title": "Facebook - India (Gujarati)",
+    "url": "https://gu-in.facebook.com",
+    "description": "The Gujarati-language version of Facebook for Indian users, offering complete interface localization in Gujarati script for Gujarati speakers in Gujarat.",
+    "keywords": ["Facebook", "India", "Gujarati", "ગુજરાતી", "Gujarat", "Ahmedabad", "Surat", "Western India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Marathi)",
+    "url": "https://mr-in.facebook.com",
+    "description": "The Marathi-language version of Facebook for Indian users, providing full interface localization in Marathi script for Marathi speakers in Maharashtra.",
+    "keywords": ["Facebook", "India", "Marathi", "मराठी", "Maharashtra", "Mumbai", "Pune", "Western India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Punjabi)",
+    "url": "https://pa-in.facebook.com",
+    "description": "The Punjabi-language version of Facebook for Indian users, offering complete interface localization in Gurmukhi script for Punjabi speakers in Punjab.",
+    "keywords": ["Facebook", "India", "Punjabi", "ਪੰਜਾਬੀ", "Punjab", "Chandigarh", "Amritsar", "North India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Bengali)",
+    "url": "https://bn-in.facebook.com",
+    "description": "The Bengali-language version of Facebook for Indian users, providing full interface localization in Bengali script for Bengali speakers in West Bengal and Northeast India.",
+    "keywords": ["Facebook", "India", "Bengali", "বাংলা", "West Bengal", "Kolkata", "Bengal", "Eastern India", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Odia)",
+    "url": "https://or-in.facebook.com",
+    "description": "The Odia-language version of Facebook for Indian users, offering complete interface localization in Odia script for Odia speakers in Odisha.",
+    "keywords": ["Facebook", "India", "Odia", "ଓଡ଼ିଆ", "Odisha", "Bhubaneswar", "Eastern India", "Indian languages", "regional", "Oriya"]
+  },
+  {
+    "title": "Facebook - India (Assamese)",
+    "url": "https://as-in.facebook.com",
+    "description": "The Assamese-language version of Facebook for Indian users, providing full interface localization in Assamese script for Assamese speakers in Assam and Northeast India.",
+    "keywords": ["Facebook", "India", "Assamese", "অসমীয়া", "Assam", "Guwahati", "Northeast India", "Seven Sisters", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - India (Urdu)",
+    "url": "https://ur-in.facebook.com",
+    "description": "The Urdu-language version of Facebook for Indian users, offering complete interface localization in Perso-Arabic script for Urdu speakers across India.",
+    "keywords": ["Facebook", "India", "Urdu", "اردو", "Muslim", "Perso-Arabic", "North India", "Hyderabad", "Indian languages", "regional"]
+  },
+  {
+    "title": "Facebook - Pakistan (English)",
+    "url": "https://en-pk.facebook.com",
+    "description": "The English-language version of Facebook for Pakistani users, providing social networking services with interface in Pakistani English conventions.",
+    "keywords": ["Facebook", "Pakistan", "Pakistani English", "Urdu", "South Asia", "PK", "Islamabad", "Karachi", "Lahore", "regional"]
+  },
+  {
+    "title": "Facebook - Pakistan (Urdu)",
+    "url": "https://ur-pk.facebook.com",
+    "description": "The Urdu-language version of Facebook for Pakistani users, offering full interface localization in Nastaliq script for Urdu speakers across Pakistan.",
+    "keywords": ["Facebook", "Pakistan", "Urdu", "اردو", "Nastaliq", "Islamabad", "Karachi", "Lahore", "South Asia", "regional"]
+  },
+  {
+    "title": "Facebook - Bangladesh (English)",
+    "url": "https://en-bd.facebook.com",
+    "description": "The English-language version of Facebook for Bangladeshi users, providing social networking access with interface in Bangladeshi English conventions.",
+    "keywords": ["Facebook", "Bangladesh", "Bangladeshi English", "BD", "Dhaka", "Chittagong", "South Asia", "Bengal", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bangladesh (Bengali)",
+    "url": "https://bn-bd.facebook.com",
+    "description": "The Bengali-language version of Facebook for Bangladeshi users, offering full interface localization in Bengali script for the millions of Bengali speakers in Bangladesh.",
+    "keywords": ["Facebook", "Bangladesh", "Bengali", "বাংলা", "Bangla", "Dhaka", "Chittagong", "South Asia", "Bengal", "regional"]
+  },
+  {
+    "title": "Facebook - Sri Lanka (English)",
+    "url": "https://en-lk.facebook.com",
+    "description": "The English-language version of Facebook for Sri Lankan users, providing social networking services with interface in Sri Lankan English conventions.",
+    "keywords": ["Facebook", "Sri Lanka", "Ceylon", "LK", "Colombo", "English", "South Asia", "Sinhala", "Tamil", "regional"]
+  },
+  {
+    "title": "Facebook - Sri Lanka (Sinhala)",
+    "url": "https://si-lk.facebook.com",
+    "description": "The Sinhala-language version of Facebook for Sri Lankan users, offering full interface localization in Sinhala script for Sinhalese speakers across the island nation.",
+    "keywords": ["Facebook", "Sri Lanka", "Sinhala", "සිංහල", "Sinhalese", "Colombo", "Kandy", "South Asia", "Buddhist", "regional"]
+  },
+  {
+    "title": "Facebook - Sri Lanka (Tamil)",
+    "url": "https://ta-lk.facebook.com",
+    "description": "The Tamil-language version of Facebook for Sri Lankan users, providing full interface localization in Tamil script for Tamil speakers in Sri Lanka.",
+    "keywords": ["Facebook", "Sri Lanka", "Tamil", "தமிழ்", "Jaffna", "Colombo", "Eelam", "South Asia", "Dravidian", "regional"]
+  },
+  {
+    "title": "Facebook - Nepal (English)",
+    "url": "https://en-np.facebook.com",
+    "description": "The English-language version of Facebook for Nepali users, providing social networking access with interface in Nepali English conventions.",
+    "keywords": ["Facebook", "Nepal", "NP", "Kathmandu", "Himalayas", "English", "South Asia", "social media", "regional", "Mount Everest"]
+  },
+  {
+    "title": "Facebook - Nepal (Nepali)",
+    "url": "https://ne-np.facebook.com",
+    "description": "The Nepali-language version of Facebook for Nepali users, offering full interface localization in Devanagari script for Nepali speakers across Nepal.",
+    "keywords": ["Facebook", "Nepal", "Nepali", "नेपाली", "Devanagari", "Kathmandu", "Himalayas", "South Asia", "Gorkhali", "regional"]
+  },
+  {
+    "title": "Facebook - Afghanistan (English)",
+    "url": "https://en-af.facebook.com",
+    "description": "The English-language version of Facebook for Afghan users, providing social networking services with interface in English for users in Afghanistan.",
+    "keywords": ["Facebook", "Afghanistan", "AF", "Kabul", "English", "Central Asia", "Dari", "Pashto", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Afghanistan (Dari)",
+    "url": "https://fa-af.facebook.com",
+    "description": "The Dari Persian-language version of Facebook for Afghan users, offering full interface localization in Perso-Arabic script for Dari speakers in Afghanistan.",
+    "keywords": ["Facebook", "Afghanistan", "Dari", "فارسی", "Persian", "Kabul", "Central Asia", "Tajik", "Hazaragi", "regional"]
+  },
+  {
+    "title": "Facebook - Afghanistan (Pashto)",
+    "url": "https://ps-af.facebook.com",
+    "description": "The Pashto-language version of Facebook for Afghan users, providing full interface localization in Pashto script for Pashtun users across Afghanistan.",
+    "keywords": ["Facebook", "Afghanistan", "Pashto", "پښتو", "Pakhto", "Kandahar", "Peshawar", "Central Asia", "Pashtun", "regional"]
+  },
+  {
+    "title": "Facebook - China (English)",
+    "url": "https://en-cn.facebook.com",
+    "description": "The English-language version of Facebook for users in China, though the platform is officially blocked by the Great Firewall, this domain represents the intended localized version.",
+    "keywords": ["Facebook", "China", "Chinese", "PRC", "mainland China", "English", "Great Firewall", "blocked", "social media", "international"]
+  },
+  {
+    "title": "Facebook - China (Simplified)",
+    "url": "https://zh-cn.facebook.com",
+    "description": "The Simplified Chinese version of Facebook for users in mainland China, representing the localized interface that would be available if the platform were accessible in the country.",
+    "keywords": ["Facebook", "China", "Simplified Chinese", "简体中文", "PRC", "mainland", "Great Firewall", "blocked", "Mandarin", "regional"]
+  },
+  {
+    "title": "Facebook - Taiwan",
+    "url": "https://zh-tw.facebook.com",
+    "description": "The Traditional Chinese version of Facebook for users in Taiwan, providing full interface localization in Traditional Chinese characters for the Taiwanese market.",
+    "keywords": ["Facebook", "Taiwan", "ROC", "Traditional Chinese", "繁體中文", "Taipei", "Taiwanese", "Chinese", "East Asia", "regional"]
+  },
+  {
+    "title": "Facebook - Hong Kong (English)",
+    "url": "https://en-hk.facebook.com",
+    "description": "The English-language version of Facebook for users in Hong Kong, serving the bilingual population with English interface preferences.",
+    "keywords": ["Facebook", "Hong Kong", "HK", "Hong Kong English", "China", "SAR", "Cantonese", "British", "East Asia", "regional"]
+  },
+  {
+    "title": "Facebook - Hong Kong (Chinese)",
+    "url": "https://zh-hk.facebook.com",
+    "description": "The Traditional Chinese version of Facebook for users in Hong Kong, offering interface localization in Traditional Chinese characters as used in Hong Kong.",
+    "keywords": ["Facebook", "Hong Kong", "HK", "Traditional Chinese", "繁體中文", "Cantonese", "SAR", "China", "East Asia", "regional"]
+  },
+  {
+    "title": "Facebook - Macau (English)",
+    "url": "https://en-mo.facebook.com",
+    "description": "The English-language version of Facebook for users in Macau, serving the multilingual population with English interface options.",
+    "keywords": ["Facebook", "Macau", "Macao", "MO", "SAR", "China", "English", "Portuguese", "Cantonese", "regional"]
+  },
+  {
+    "title": "Facebook - Macau (Chinese)",
+    "url": "https://zh-mo.facebook.com",
+    "description": "The Traditional Chinese version of Facebook for users in Macau, providing interface localization in Traditional Chinese characters for the Macau market.",
+    "keywords": ["Facebook", "Macau", "Macao", "MO", "Traditional Chinese", "繁體中文", "SAR", "China", "Cantonese", "regional"]
+  },
+  {
+    "title": "Facebook - Macau (Portuguese)",
+    "url": "https://pt-mo.facebook.com",
+    "description": "The Portuguese-language version of Facebook for users in Macau, serving the Portuguese-speaking community in the former Portuguese colony.",
+    "keywords": ["Facebook", "Macau", "Macao", "MO", "Portuguese", "Português", "SAR", "China", "Lusophone", "regional"]
+  },
+  {
+    "title": "Facebook - Japan",
+    "url": "https://ja-jp.facebook.com",
+    "description": "The Japanese-language version of Facebook for users in Japan, providing full interface localization in Japanese script for the Japanese market.",
+    "keywords": ["Facebook", "Japan", "Japanese", "日本語", "Nihongo", "Tokyo", "East Asia", "social media", "regional", "Kanji"]
+  },
+  {
+    "title": "Facebook - South Korea",
+    "url": "https://ko-kr.facebook.com",
+    "description": "The Korean-language version of Facebook for users in South Korea, offering full interface localization in Hangul script for the Korean market.",
+    "keywords": ["Facebook", "South Korea", "Korea", "Korean", "한국어", "Hangul", "Seoul", "K-pop", "East Asia", "regional"]
+  },
+  {
+    "title": "Facebook - Singapore (English)",
+    "url": "https://en-sg.facebook.com",
+    "description": "The English-language version of Facebook for users in Singapore, serving the multilingual city-state with English as the primary interface language.",
+    "keywords": ["Facebook", "Singapore", "SG", "Singlish", "English", "Southeast Asia", "Lion City", "ASEAN", "regional", "Malay"]
+  },
+  {
+    "title": "Facebook - Singapore (Chinese)",
+    "url": "https://zh-sg.facebook.com",
+    "description": "The Simplified Chinese version of Facebook for users in Singapore, offering interface localization in Simplified Chinese for the Chinese-speaking Singaporean community.",
+    "keywords": ["Facebook", "Singapore", "SG", "Simplified Chinese", "简体中文", "Mandarin", "Southeast Asia", "ASEAN", "regional", "Chinese"]
+  },
+  {
+    "title": "Facebook - Singapore (Malay)",
+    "url": "https://ms-sg.facebook.com",
+    "description": "The Malay-language version of Facebook for users in Singapore, providing full interface localization in Malay (Rumi script) for the Malay Singaporean community.",
+    "keywords": ["Facebook", "Singapore", "SG", "Malay", "Bahasa Melayu", "Rumi", "Southeast Asia", "ASEAN", "Melayu", "regional"]
+  },
+  {
+    "title": "Facebook - Singapore (Tamil)",
+    "url": "https://ta-sg.facebook.com",
+    "description": "The Tamil-language version of Facebook for users in Singapore, offering interface localization in Tamil script for the Tamil Singaporean community.",
+    "keywords": ["Facebook", "Singapore", "SG", "Tamil", "தமிழ்", "Indian Singaporean", "Southeast Asia", "ASEAN", "Dravidian", "regional"]
+  },
+  {
+    "title": "Facebook - Malaysia (English)",
+    "url": "https://en-my.facebook.com",
+    "description": "The English-language version of Facebook for users in Malaysia, serving the multilingual Malaysian population with English interface options.",
+    "keywords": ["Facebook", "Malaysia", "MY", "Malaysian English", "Kuala Lumpur", "Southeast Asia", "ASEAN", "Borneo", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Malaysia (Malay)",
+    "url": "https://ms-my.facebook.com",
+    "description": "The Malay-language version of Facebook for users in Malaysia, offering full interface localization in Malay (Rumi script) for the Malay majority population.",
+    "keywords": ["Facebook", "Malaysia", "Malay", "Bahasa Melayu", "Bahasa Malaysia", "Rumi", "Kuala Lumpur", "Southeast Asia", "ASEAN", "regional"]
+  },
+  {
+    "title": "Facebook - Malaysia (Chinese)",
+    "url": "https://zh-my.facebook.com",
+    "description": "The Simplified Chinese version of Facebook for users in Malaysia, providing interface localization in Simplified Chinese for the Malaysian Chinese community.",
+    "keywords": ["Facebook", "Malaysia", "Chinese", "Simplified Chinese", "简体中文", "Mandarin", "Kuala Lumpur", "Southeast Asia", "ASEAN", "regional"]
+  },
+  {
+    "title": "Facebook - Malaysia (Tamil)",
+    "url": "https://ta-my.facebook.com",
+    "description": "The Tamil-language version of Facebook for users in Malaysia, offering interface localization in Tamil script for the Malaysian Indian community.",
+    "keywords": ["Facebook", "Malaysia", "Tamil", "தமிழ்", "Indian Malaysian", "Kuala Lumpur", "Penang", "Southeast Asia", "ASEAN", "regional"]
+  },
+  {
+    "title": "Facebook - Indonesia (English)",
+    "url": "https://en-id.facebook.com",
+    "description": "The English-language version of Facebook for users in Indonesia, serving the archipelago nation with English interface options.",
+    "keywords": ["Facebook", "Indonesia", "ID", "Jakarta", "English", "Southeast Asia", "ASEAN", "archipelago", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Indonesia (Indonesian)",
+    "url": "https://id-id.facebook.com",
+    "description": "The Indonesian-language version of Facebook for users in Indonesia, providing full interface localization in Bahasa Indonesia for the world's fourth most populous nation.",
+    "keywords": ["Facebook", "Indonesia", "Indonesian", "Bahasa Indonesia", "Jakarta", "Java", "Bali", "Southeast Asia", "ASEAN", "regional"]
+  },
+  {
+    "title": "Facebook - Philippines (English)",
+    "url": "https://en-ph.facebook.com",
+    "description": "The English-language version of Facebook for users in the Philippines, serving the archipelago where English is an official language and widely used on social media.",
+    "keywords": ["Facebook", "Philippines", "Filipino", "Pinoy", "Manila", "English", "Southeast Asia", "ASEAN", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Philippines (Filipino)",
+    "url": "https://tl-ph.facebook.com",
+    "description": "The Filipino (Tagalog) language version of Facebook for users in the Philippines, offering interface localization in Filipino for the Tagalog-speaking population.",
+    "keywords": ["Facebook", "Philippines", "Filipino", "Tagalog", "Manila", "Luzon", "Southeast Asia", "ASEAN", "regional", "Pinoy"]
+  },
+  {
+    "title": "Facebook - Thailand (English)",
+    "url": "https://en-th.facebook.com",
+    "description": "The English-language version of Facebook for users in Thailand, serving the Kingdom with English interface options for international users and expatriates.",
+    "keywords": ["Facebook", "Thailand", "Thai", "Bangkok", "English", "Southeast Asia", "ASEAN", "Siamese", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Thailand (Thai)",
+    "url": "https://th-th.facebook.com",
+    "description": "The Thai-language version of Facebook for users in Thailand, providing full interface localization in Thai script for the Thai population.",
+    "keywords": ["Facebook", "Thailand", "Thai", "ภาษาไทย", "Bangkok", "Southeast Asia", "ASEAN", "Siamese", "regional", "Buddhist"]
+  },
+  {
+    "title": "Facebook - Vietnam (English)",
+    "url": "https://en-vn.facebook.com",
+    "description": "The English-language version of Facebook for users in Vietnam, serving the rapidly growing digital market with English interface options.",
+    "keywords": ["Facebook", "Vietnam", "Vietnamese", "Hanoi", "Saigon", "English", "Southeast Asia", "ASEAN", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Vietnam (Vietnamese)",
+    "url": "https://vi-vn.facebook.com",
+    "description": "The Vietnamese-language version of Facebook for users in Vietnam, offering full interface localization in Vietnamese with tonal marks for the Vietnamese population.",
+    "keywords": ["Facebook", "Vietnam", "Vietnamese", "Tiếng Việt", "Hanoi", "Saigon", "Southeast Asia", "ASEAN", "regional", "communist"]
+  },
+  {
+    "title": "Facebook - Myanmar (English)",
+    "url": "https://en-mm.facebook.com",
+    "description": "The English-language version of Facebook for users in Myanmar (Burma), serving the Southeast Asian nation with English interface options.",
+    "keywords": ["Facebook", "Myanmar", "Burma", "MM", "Yangon", "English", "Southeast Asia", "ASEAN", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Myanmar (Burmese)",
+    "url": "https://my-mm.facebook.com",
+    "description": "The Burmese-language version of Facebook for users in Myanmar, providing full interface localization in Burmese script for the Burmese population.",
+    "keywords": ["Facebook", "Myanmar", "Burmese", "မြန်မာ", "Burma", "Yangon", "Southeast Asia", "ASEAN", "regional", "Buddhist"]
+  },
+  {
+    "title": "Facebook - Cambodia (English)",
+    "url": "https://en-kh.facebook.com",
+    "description": "The English-language version of Facebook for users in Cambodia, serving the Kingdom with English interface options.",
+    "keywords": ["Facebook", "Cambodia", "Khmer", "Phnom Penh", "English", "Southeast Asia", "ASEAN", "Angkor", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cambodia (Khmer)",
+    "url": "https://km-kh.facebook.com",
+    "description": "The Khmer-language version of Facebook for users in Cambodia, offering full interface localization in Khmer script for the Cambodian population.",
+    "keywords": ["Facebook", "Cambodia", "Khmer", "ភាសាខ្មែរ", "Phnom Penh", "Southeast Asia", "ASEAN", "Angkor", "regional", "Buddhist"]
+  },
+  {
+    "title": "Facebook - Laos (English)",
+    "url": "https://en-la.facebook.com",
+    "description": "The English-language version of Facebook for users in Laos, serving the landlocked Southeast Asian nation with English interface options.",
+    "keywords": ["Facebook", "Laos", "Lao", "Vientiane", "English", "Southeast Asia", "ASEAN", "Mekong", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Laos (Lao)",
+    "url": "https://lo-la.facebook.com",
+    "description": "The Lao-language version of Facebook for users in Laos, providing full interface localization in Lao script for the Lao population.",
+    "keywords": ["Facebook", "Laos", "Lao", "ພາສາລາວ", "Vientiane", "Southeast Asia", "ASEAN", "Mekong", "regional", "Buddhist"]
+  },
+  {
+    "title": "Facebook - Mongolia",
+    "url": "https://mn-mn.facebook.com",
+    "description": "The Mongolian-language version of Facebook for users in Mongolia, offering full interface localization in Cyrillic Mongolian script for the Mongolian population.",
+    "keywords": ["Facebook", "Mongolia", "Mongolian", "Монгол", "Ulaanbaatar", "East Asia", "Gobi", "nomadic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Kazakhstan (English)",
+    "url": "https://en-kz.facebook.com",
+    "description": "The English-language version of Facebook for users in Kazakhstan, serving the Central Asian nation with English interface options.",
+    "keywords": ["Facebook", "Kazakhstan", "Kazakh", "Astana", "Almaty", "English", "Central Asia", "CIS", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Kazakhstan (Kazakh)",
+    "url": "https://kk-kz.facebook.com",
+    "description": "The Kazakh-language version of Facebook for users in Kazakhstan, providing full interface localization in Kazakh (Cyrillic script) for the Kazakh population.",
+    "keywords": ["Facebook", "Kazakhstan", "Kazakh", "Қазақша", "Astana", "Almaty", "Central Asia", "CIS", "Turkic", "regional"]
+  },
+  {
+    "title": "Facebook - Kazakhstan (Russian)",
+    "url": "https://ru-kz.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Kazakhstan, offering interface localization in Russian for the Russian-speaking population of Kazakhstan.",
+    "keywords": ["Facebook", "Kazakhstan", "Russian", "Русский", "Astana", "Almaty", "Central Asia", "CIS", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Uzbekistan (English)",
+    "url": "https://en-uz.facebook.com",
+    "description": "The English-language version of Facebook for users in Uzbekistan, serving the Central Asian nation with English interface options.",
+    "keywords": ["Facebook", "Uzbekistan", "Uzbek", "Tashkent", "English", "Central Asia", "CIS", "Silk Road", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Uzbekistan (Uzbek)",
+    "url": "https://uz-uz.facebook.com",
+    "description": "The Uzbek-language version of Facebook for users in Uzbekistan, providing full interface localization in Uzbek (Latin script) for the Uzbek population.",
+    "keywords": ["Facebook", "Uzbekistan", "Uzbek", "O'zbek", "Tashkent", "Central Asia", "CIS", "Turkic", "regional", "Silk Road"]
+  },
+  {
+    "title": "Facebook - Uzbekistan (Russian)",
+    "url": "https://ru-uz.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Uzbekistan, offering interface localization in Russian for the Russian-speaking population of Uzbekistan.",
+    "keywords": ["Facebook", "Uzbekistan", "Russian", "Русский", "Tashkent", "Central Asia", "CIS", "social media", "regional", "Silk Road"]
+  },
+  {
+    "title": "Facebook - Tajikistan (English)",
+    "url": "https://en-tj.facebook.com",
+    "description": "The English-language version of Facebook for users in Tajikistan, serving the Central Asian nation with English interface options.",
+    "keywords": ["Facebook", "Tajikistan", "Tajik", "Dushanbe", "English", "Central Asia", "CIS", "Pamir", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tajikistan (Tajik)",
+    "url": "https://tg-tj.facebook.com",
+    "description": "The Tajik-language version of Facebook for users in Tajikistan, providing full interface localization in Tajik (Cyrillic script) for the Tajik population.",
+    "keywords": ["Facebook", "Tajikistan", "Tajik", "Тоҷикӣ", "Dushanbe", "Central Asia", "CIS", "Persian", "regional", "Pamir"]
+  },
+  {
+    "title": "Facebook - Tajikistan (Russian)",
+    "url": "https://ru-tj.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Tajikistan, offering interface localization in Russian for the Russian-speaking population of Tajikistan.",
+    "keywords": ["Facebook", "Tajikistan", "Russian", "Русский", "Dushanbe", "Central Asia", "CIS", "social media", "regional", "Pamir"]
+  },
+  {
+    "title": "Facebook - Kyrgyzstan (English)",
+    "url": "https://en-kg.facebook.com",
+    "description": "The English-language version of Facebook for users in Kyrgyzstan, serving the Central Asian nation with English interface options.",
+    "keywords": ["Facebook", "Kyrgyzstan", "Kyrgyz", "Bishkek", "English", "Central Asia", "CIS", "Tian Shan", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Kyrgyzstan (Kyrgyz)",
+    "url": "https://ky-kg.facebook.com",
+    "description": "The Kyrgyz-language version of Facebook for users in Kyrgyzstan, providing full interface localization in Kyrgyz (Cyrillic script) for the Kyrgyz population.",
+    "keywords": ["Facebook", "Kyrgyzstan", "Kyrgyz", "Кыргызча", "Bishkek", "Central Asia", "CIS", "Turkic", "regional", "Tian Shan"]
+  },
+  {
+    "title": "Facebook - Kyrgyzstan (Russian)",
+    "url": "https://ru-kg.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Kyrgyzstan, offering interface localization in Russian for the Russian-speaking population of Kyrgyzstan.",
+    "keywords": ["Facebook", "Kyrgyzstan", "Russian", "Русский", "Bishkek", "Central Asia", "CIS", "social media", "regional", "Tian Shan"]
+  },
+  {
+    "title": "Facebook - Turkmenistan (English)",
+    "url": "https://en-tm.facebook.com",
+    "description": "The English-language version of Facebook for users in Turkmenistan, serving the Central Asian nation with English interface options, though access may be restricted.",
+    "keywords": ["Facebook", "Turkmenistan", "Turkmen", "Ashgabat", "English", "Central Asia", "CIS", "Caspian", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Turkmenistan (Turkmen)",
+    "url": "https://tk-tm.facebook.com",
+    "description": "The Turkmen-language version of Facebook for users in Turkmenistan, providing full interface localization in Turkmen (Latin script) for the Turkmen population.",
+    "keywords": ["Facebook", "Turkmenistan", "Turkmen", "Türkmençe", "Ashgabat", "Central Asia", "CIS", "Caspian", "regional", "Turkic"]
+  },
+  {
+    "title": "Facebook - Turkmenistan (Russian)",
+    "url": "https://ru-tm.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Turkmenistan, offering interface localization in Russian for the Russian-speaking population of Turkmenistan.",
+    "keywords": ["Facebook", "Turkmenistan", "Russian", "Русский", "Ashgabat", "Central Asia", "CIS", "social media", "regional", "Caspian"]
+  },
+  {
+    "title": "Facebook - Germany",
+    "url": "https://de-de.facebook.com",
+    "description": "The German-language version of Facebook for users in Germany, providing full interface localization in German for the German market, Europe's largest economy.",
+    "keywords": ["Facebook", "Germany", "German", "Deutsch", "Deutschland", "Berlin", "Munich", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Austria",
+    "url": "https://de-at.facebook.com",
+    "description": "The German-language version of Facebook for users in Austria, offering interface localization in Austrian German with localized terminology for the Austrian market.",
+    "keywords": ["Facebook", "Austria", "Austrian", "Österreich", "German", "Deutsch", "Vienna", "Alps", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Switzerland (German)",
+    "url": "https://de-ch.facebook.com",
+    "description": "The German-language version of Facebook for users in Switzerland, serving the German-speaking cantons with interface in standard Swiss German conventions.",
+    "keywords": ["Facebook", "Switzerland", "Swiss", "Schweiz", "German", "Deutsch", "Zurich", "Bern", "Alps", "regional"]
+  },
+  {
+    "title": "Facebook - Switzerland (French)",
+    "url": "https://fr-ch.facebook.com",
+    "description": "The French-language version of Facebook for users in Switzerland, serving the French-speaking Romandy region with interface in Swiss French conventions.",
+    "keywords": ["Facebook", "Switzerland", "Swiss", "Suisse", "French", "Français", "Geneva", "Lausanne", "Alps", "regional"]
+  },
+  {
+    "title": "Facebook - Switzerland (Italian)",
+    "url": "https://it-ch.facebook.com",
+    "description": "The Italian-language version of Facebook for users in Switzerland, serving the Italian-speaking Ticino region with interface in Swiss Italian conventions.",
+    "keywords": ["Facebook", "Switzerland", "Swiss", "Svizzera", "Italian", "Italiano", "Ticino", "Lugano", "Alps", "regional"]
+  },
+  {
+    "title": "Facebook - France",
+    "url": "https://fr-fr.facebook.com",
+    "description": "The French-language version of Facebook for users in France, providing full interface localization in Metropolitan French for the French market.",
+    "keywords": ["Facebook", "France", "French", "Français", "Paris", "European", "EU", "social media", "regional", "Francophone"]
+  },
+  {
+    "title": "Facebook - Belgium (Dutch)",
+    "url": "https://nl-be.facebook.com",
+    "description": "The Dutch-language version of Facebook for users in Belgium, serving the Flemish community in Flanders with interface in Belgian Dutch (Flemish) conventions.",
+    "keywords": ["Facebook", "Belgium", "Belgian", "België", "Flemish", "Dutch", "Nederlands", "Brussels", "Antwerp", "regional"]
+  },
+  {
+    "title": "Facebook - Belgium (French)",
+    "url": "https://fr-be.facebook.com",
+    "description": "The French-language version of Facebook for users in Belgium, serving the Walloon and Brussels communities with interface in Belgian French conventions.",
+    "keywords": ["Facebook", "Belgium", "Belgian", "Belgique", "French", "Français", "Wallonia", "Brussels", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Belgium (German)",
+    "url": "https://de-be.facebook.com",
+    "description": "The German-language version of Facebook for users in Belgium, serving the small German-speaking community in eastern Belgium.",
+    "keywords": ["Facebook", "Belgium", "Belgian", "German", "Deutsch", "Eupen", "Malmedy", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Luxembourg (French)",
+    "url": "https://fr-lu.facebook.com",
+    "description": "The French-language version of Facebook for users in Luxembourg, serving the multilingual Grand Duchy with French interface options.",
+    "keywords": ["Facebook", "Luxembourg", "Luxembourgish", "French", "Français", "Luxemburg", "Europe", "Benelux", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Luxembourg (German)",
+    "url": "https://de-lu.facebook.com",
+    "description": "The German-language version of Facebook for users in Luxembourg, offering interface localization in German for the German-speaking population of Luxembourg.",
+    "keywords": ["Facebook", "Luxembourg", "Luxembourgish", "German", "Deutsch", "Luxemburg", "Europe", "Benelux", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Italy",
+    "url": "https://it-it.facebook.com",
+    "description": "The Italian-language version of Facebook for users in Italy, providing full interface localization in Italian for the Italian market.",
+    "keywords": ["Facebook", "Italy", "Italian", "Italiano", "Roma", "Milan", "Europe", "EU", "Mediterranean", "regional"]
+  },
+  {
+    "title": "Facebook - Spain",
+    "url": "https://es-es.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Spain, offering full interface localization in Castilian Spanish for the Spanish market.",
+    "keywords": ["Facebook", "Spain", "Spanish", "Español", "España", "Castilian", "Madrid", "Barcelona", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Portugal",
+    "url": "https://pt-pt.facebook.com",
+    "description": "The Portuguese-language version of Facebook for users in Portugal, providing full interface localization in European Portuguese for the Portuguese market.",
+    "keywords": ["Facebook", "Portugal", "Portuguese", "Português", "Lisbon", "Europe", "Iberian", "EU", "regional", "Lusophone"]
+  },
+  {
+    "title": "Facebook - Netherlands",
+    "url": "https://nl-nl.facebook.com",
+    "description": "The Dutch-language version of Facebook for users in the Netherlands, offering full interface localization in Dutch for the Dutch market.",
+    "keywords": ["Facebook", "Netherlands", "Dutch", "Nederlands", "Holland", "Amsterdam", "Europe", "Benelux", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Sweden",
+    "url": "https://sv-se.facebook.com",
+    "description": "The Swedish-language version of Facebook for users in Sweden, providing full interface localization in Swedish for the Swedish market.",
+    "keywords": ["Facebook", "Sweden", "Swedish", "Svenska", "Stockholm", "Scandinavia", "Nordic", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Denmark",
+    "url": "https://da-dk.facebook.com",
+    "description": "The Danish-language version of Facebook for users in Denmark, offering full interface localization in Danish for the Danish market.",
+    "keywords": ["Facebook", "Denmark", "Danish", "Dansk", "Copenhagen", "Scandinavia", "Nordic", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Norway",
+    "url": "https://nb-no.facebook.com",
+    "description": "The Norwegian-language version of Facebook for users in Norway, providing full interface localization in Norwegian Bokmål for the Norwegian market.",
+    "keywords": ["Facebook", "Norway", "Norwegian", "Norsk", "Bokmål", "Oslo", "Scandinavia", "Nordic", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Norway (Nynorsk)",
+    "url": "https://nn-no.facebook.com",
+    "description": "The Norwegian Nynorsk-language version of Facebook for users in Norway, offering interface localization in Nynorsk for users who prefer this written standard.",
+    "keywords": ["Facebook", "Norway", "Norwegian", "Nynorsk", "Norsk", "Oslo", "Scandinavia", "Nordic", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Finland (Finnish)",
+    "url": "https://fi-fi.facebook.com",
+    "description": "The Finnish-language version of Facebook for users in Finland, providing full interface localization in Finnish for the Finnish market.",
+    "keywords": ["Facebook", "Finland", "Finnish", "Suomi", "Helsinki", "Nordic", "Scandinavia", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Finland (Swedish)",
+    "url": "https://sv-fi.facebook.com",
+    "description": "The Swedish-language version of Facebook for users in Finland, serving the Swedish-speaking minority in coastal areas with interface in Finland Swedish.",
+    "keywords": ["Facebook", "Finland", "Finnish", "Swedish", "Svenska", "Helsinki", "Nordic", "Scandinavia", "Europe", "regional"]
+  },
+  {
+    "title": "Facebook - Iceland",
+    "url": "https://is-is.facebook.com",
+    "description": "The Icelandic-language version of Facebook for users in Iceland, providing full interface localization in Icelandic for the Icelandic market.",
+    "keywords": ["Facebook", "Iceland", "Icelandic", "Íslenska", "Reykjavik", "Nordic", "Scandinavia", "Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Poland",
+    "url": "https://pl-pl.facebook.com",
+    "description": "The Polish-language version of Facebook for users in Poland, offering full interface localization in Polish for the Polish market.",
+    "keywords": ["Facebook", "Poland", "Polish", "Polski", "Warsaw", "Central Europe", "EU", "Visegrad", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Czech Republic",
+    "url": "https://cs-cz.facebook.com",
+    "description": "The Czech-language version of Facebook for users in the Czech Republic, providing full interface localization in Czech for the Czech market.",
+    "keywords": ["Facebook", "Czech Republic", "Czech", "Čeština", "Prague", "Central Europe", "EU", "Visegrad", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Slovakia",
+    "url": "https://sk-sk.facebook.com",
+    "description": "The Slovak-language version of Facebook for users in Slovakia, offering full interface localization in Slovak for the Slovak market.",
+    "keywords": ["Facebook", "Slovakia", "Slovak", "Slovenčina", "Bratislava", "Central Europe", "EU", "Visegrad", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Hungary",
+    "url": "https://hu-hu.facebook.com",
+    "description": "The Hungarian-language version of Facebook for users in Hungary, providing full interface localization in Hungarian for the Hungarian market.",
+    "keywords": ["Facebook", "Hungary", "Hungarian", "Magyar", "Budapest", "Central Europe", "EU", "Visegrad", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Romania",
+    "url": "https://ro-ro.facebook.com",
+    "description": "The Romanian-language version of Facebook for users in Romania, offering full interface localization in Romanian for the Romanian market.",
+    "keywords": ["Facebook", "Romania", "Romanian", "Română", "Bucharest", "Eastern Europe", "EU", "Balkans", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bulgaria",
+    "url": "https://bg-bg.facebook.com",
+    "description": "The Bulgarian-language version of Facebook for users in Bulgaria, providing full interface localization in Bulgarian (Cyrillic script) for the Bulgarian market.",
+    "keywords": ["Facebook", "Bulgaria", "Bulgarian", "Български", "Sofia", "Balkans", "Eastern Europe", "EU", "Cyrillic", "regional"]
+  },
+  {
+    "title": "Facebook - Serbia",
+    "url": "https://sr-rs.facebook.com",
+    "description": "The Serbian-language version of Facebook for users in Serbia, offering full interface localization in Serbian (Cyrillic script) for the Serbian market.",
+    "keywords": ["Facebook", "Serbia", "Serbian", "Српски", "Belgrade", "Balkans", "Eastern Europe", "Cyrillic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Serbia (Latin)",
+    "url": "https://sr-latn-rs.facebook.com",
+    "description": "The Serbian-language version of Facebook for users in Serbia using Latin script, providing interface localization in Serbian with Latin alphabet for those who prefer it.",
+    "keywords": ["Facebook", "Serbia", "Serbian", "Srpski", "Latinica", "Belgrade", "Balkans", "Eastern Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Croatia",
+    "url": "https://hr-hr.facebook.com",
+    "description": "The Croatian-language version of Facebook for users in Croatia, providing full interface localization in Croatian for the Croatian market.",
+    "keywords": ["Facebook", "Croatia", "Croatian", "Hrvatski", "Zagreb", "Balkans", "EU", "Adriatic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Slovenia",
+    "url": "https://sl-si.facebook.com",
+    "description": "The Slovenian-language version of Facebook for users in Slovenia, offering full interface localization in Slovenian for the Slovenian market.",
+    "keywords": ["Facebook", "Slovenia", "Slovenian", "Slovenščina", "Ljubljana", "Central Europe", "EU", "Alps", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bosnia and Herzegovina (Bosnian)",
+    "url": "https://bs-ba.facebook.com",
+    "description": "The Bosnian-language version of Facebook for users in Bosnia and Herzegovina, providing full interface localization in Bosnian for the Bosnian community.",
+    "keywords": ["Facebook", "Bosnia", "Herzegovina", "Bosnian", "Bosanski", "Sarajevo", "Balkans", "social media", "regional", "Yugoslavia"]
+  },
+  {
+    "title": "Facebook - Bosnia and Herzegovina (Croatian)",
+    "url": "https://hr-ba.facebook.com",
+    "description": "The Croatian-language version of Facebook for users in Bosnia and Herzegovina, serving the Croatian community with interface in Croatian.",
+    "keywords": ["Facebook", "Bosnia", "Herzegovina", "Croatian", "Hrvatski", "Mostar", "Balkans", "social media", "regional", "Herceg-Bosna"]
+  },
+  {
+    "title": "Facebook - Bosnia and Herzegovina (Serbian)",
+    "url": "https://sr-ba.facebook.com",
+    "description": "The Serbian-language version of Facebook for users in Bosnia and Herzegovina, serving the Serbian community with interface in Serbian (Cyrillic script).",
+    "keywords": ["Facebook", "Bosnia", "Herzegovina", "Serbian", "Српски", "Banja Luka", "Republika Srpska", "Balkans", "regional", "Cyrillic"]
+  },
+  {
+    "title": "Facebook - Montenegro",
+    "url": "https://sr-me.facebook.com",
+    "description": "The Serbian-language version of Facebook for users in Montenegro, providing interface localization for the Montenegrin market where Serbian is widely used.",
+    "keywords": ["Facebook", "Montenegro", "Montenegrin", "Crna Gora", "Podgorica", "Balkans", "Adriatic", "social media", "regional", "Yugoslavia"]
+  },
+  {
+    "title": "Facebook - North Macedonia",
+    "url": "https://mk-mk.facebook.com",
+    "description": "The Macedonian-language version of Facebook for users in North Macedonia, providing full interface localization in Macedonian (Cyrillic script) for the Macedonian market.",
+    "keywords": ["Facebook", "North Macedonia", "Macedonian", "Македонски", "Skopje", "Balkans", "Cyrillic", "social media", "regional", "FYROM"]
+  },
+  {
+    "title": "Facebook - Albania",
+    "url": "https://sq-al.facebook.com",
+    "description": "The Albanian-language version of Facebook for users in Albania, offering full interface localization in Albanian for the Albanian market.",
+    "keywords": ["Facebook", "Albania", "Albanian", "Shqip", "Tirana", "Balkans", "Adriatic", "social media", "regional", "Illyrian"]
+  },
+  {
+    "title": "Facebook - Kosovo",
+    "url": "https://sq-xk.facebook.com",
+    "description": "The Albanian-language version of Facebook for users in Kosovo, serving the majority Albanian population with interface in Albanian.",
+    "keywords": ["Facebook", "Kosovo", "Kosovar", "Albanian", "Shqip", "Pristina", "Balkans", "social media", "regional", "Europe"]
+  },
+  {
+    "title": "Facebook - Kosovo (Serbian)",
+    "url": "https://sr-xk.facebook.com",
+    "description": "The Serbian-language version of Facebook for users in Kosovo, serving the Serbian minority with interface in Serbian (Cyrillic script).",
+    "keywords": ["Facebook", "Kosovo", "Serbian", "Српски", "Mitrovica", "Balkans", "Cyrillic", "social media", "regional", "Serb"]
+  },
+  {
+    "title": "Facebook - Greece",
+    "url": "https://el-gr.facebook.com",
+    "description": "The Greek-language version of Facebook for users in Greece, providing full interface localization in Greek script for the Greek market.",
+    "keywords": ["Facebook", "Greece", "Greek", "Ελληνικά", "Athens", "Balkans", "Mediterranean", "EU", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cyprus (Greek)",
+    "url": "https://el-cy.facebook.com",
+    "description": "The Greek-language version of Facebook for users in Cyprus, serving the Greek Cypriot community with interface in Greek.",
+    "keywords": ["Facebook", "Cyprus", "Greek", "Ελληνικά", "Nicosia", "Mediterranean", "EU", "island", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cyprus (Turkish)",
+    "url": "https://tr-cy.facebook.com",
+    "description": "The Turkish-language version of Facebook for users in Cyprus, serving the Turkish Cypriot community in Northern Cyprus with interface in Turkish.",
+    "keywords": ["Facebook", "Cyprus", "Turkish", "Türkçe", "North Cyprus", "Nicosia", "Mediterranean", "island", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Turkey",
+    "url": "https://tr-tr.facebook.com",
+    "description": "The Turkish-language version of Facebook for users in Turkey, providing full interface localization in Turkish for the Turkish market.",
+    "keywords": ["Facebook", "Turkey", "Turkish", "Türkçe", "Istanbul", "Ankara", "Middle East", "Eurasia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Russia",
+    "url": "https://ru-ru.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Russia, providing full interface localization in Russian (Cyrillic script) for the Russian market.",
+    "keywords": ["Facebook", "Russia", "Russian", "Русский", "Moscow", "St Petersburg", "Cyrillic", "Eastern Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Ukraine (Ukrainian)",
+    "url": "https://uk-ua.facebook.com",
+    "description": "The Ukrainian-language version of Facebook for users in Ukraine, providing full interface localization in Ukrainian (Cyrillic script) for the Ukrainian market.",
+    "keywords": ["Facebook", "Ukraine", "Ukrainian", "Українська", "Kyiv", "Kiev", "Eastern Europe", "Cyrillic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Ukraine (Russian)",
+    "url": "https://ru-ua.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Ukraine, serving the Russian-speaking population with interface in Russian.",
+    "keywords": ["Facebook", "Ukraine", "Russian", "Русский", "Kyiv", "Odessa", "Eastern Europe", "Cyrillic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Belarus (Belarusian)",
+    "url": "https://be-by.facebook.com",
+    "description": "The Belarusian-language version of Facebook for users in Belarus, providing full interface localization in Belarusian (Cyrillic script) for the Belarusian market.",
+    "keywords": ["Facebook", "Belarus", "Belarusian", "Беларуская", "Minsk", "Eastern Europe", "Cyrillic", "social media", "regional", "Byelorussia"]
+  },
+  {
+    "title": "Facebook - Belarus (Russian)",
+    "url": "https://ru-by.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Belarus, serving the majority Russian-speaking population with interface in Russian.",
+    "keywords": ["Facebook", "Belarus", "Russian", "Русский", "Minsk", "Eastern Europe", "Cyrillic", "social media", "regional", "Byelorussia"]
+  },
+  {
+    "title": "Facebook - Moldova (Romanian)",
+    "url": "https://ro-md.facebook.com",
+    "description": "The Romanian-language version of Facebook for users in Moldova, providing full interface localization in Romanian for the Moldovan market.",
+    "keywords": ["Facebook", "Moldova", "Moldovan", "Romanian", "Română", "Chișinău", "Eastern Europe", "social media", "regional", "Bessarabia"]
+  },
+  {
+    "title": "Facebook - Moldova (Russian)",
+    "url": "https://ru-md.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Moldova, serving the Russian-speaking population including Transnistria with interface in Russian.",
+    "keywords": ["Facebook", "Moldova", "Russian", "Русский", "Chișinău", "Transnistria", "Eastern Europe", "social media", "regional", "Cyrillic"]
+  },
+  {
+    "title": "Facebook - Georgia",
+    "url": "https://ka-ge.facebook.com",
+    "description": "The Georgian-language version of Facebook for users in Georgia, providing full interface localization in Georgian script (Mkhedruli) for the Georgian market.",
+    "keywords": ["Facebook", "Georgia", "Georgian", "ქართული", "Tbilisi", "Caucasus", "Eastern Europe", "social media", "regional", "Sakartvelo"]
+  },
+  {
+    "title": "Facebook - Armenia",
+    "url": "https://hy-am.facebook.com",
+    "description": "The Armenian-language version of Facebook for users in Armenia, providing full interface localization in Armenian script for the Armenian market.",
+    "keywords": ["Facebook", "Armenia", "Armenian", "Հայերեն", "Yerevan", "Caucasus", "social media", "regional", "Hayastan", "Diaspora"]
+  },
+  {
+    "title": "Facebook - Azerbaijan",
+    "url": "https://az-az.facebook.com",
+    "description": "The Azerbaijani-language version of Facebook for users in Azerbaijan, providing full interface localization in Azerbaijani (Latin script) for the Azerbaijani market.",
+    "keywords": ["Facebook", "Azerbaijan", "Azerbaijani", "Azərbaycanca", "Baku", "Caucasus", "Turkic", "social media", "regional", "Caspian"]
+  },
+  {
+    "title": "Facebook - Azerbaijan (Russian)",
+    "url": "https://ru-az.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Azerbaijan, serving the Russian-speaking population with interface in Russian.",
+    "keywords": ["Facebook", "Azerbaijan", "Russian", "Русский", "Baku", "Caucasus", "social media", "regional", "Caspian", "Cyrillic"]
+  },
+  {
+    "title": "Facebook - Estonia",
+    "url": "https://et-ee.facebook.com",
+    "description": "The Estonian-language version of Facebook for users in Estonia, providing full interface localization in Estonian for the Estonian market.",
+    "keywords": ["Facebook", "Estonia", "Estonian", "Eesti", "Tallinn", "Baltic", "Nordic", "Europe", "EU", "regional"]
+  },
+  {
+    "title": "Facebook - Estonia (Russian)",
+    "url": "https://ru-ee.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Estonia, serving the Russian-speaking minority with interface in Russian.",
+    "keywords": ["Facebook", "Estonia", "Russian", "Русский", "Tallinn", "Narva", "Baltic", "Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Latvia",
+    "url": "https://lv-lv.facebook.com",
+    "description": "The Latvian-language version of Facebook for users in Latvia, providing full interface localization in Latvian for the Latvian market.",
+    "keywords": ["Facebook", "Latvia", "Latvian", "Latviešu", "Riga", "Baltic", "Europe", "EU", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Latvia (Russian)",
+    "url": "https://ru-lv.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Latvia, serving the significant Russian-speaking minority with interface in Russian.",
+    "keywords": ["Facebook", "Latvia", "Russian", "Русский", "Riga", "Daugavpils", "Baltic", "Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Lithuania",
+    "url": "https://lt-lt.facebook.com",
+    "description": "The Lithuanian-language version of Facebook for users in Lithuania, providing full interface localization in Lithuanian for the Lithuanian market.",
+    "keywords": ["Facebook", "Lithuania", "Lithuanian", "Lietuvių", "Vilnius", "Baltic", "Europe", "EU", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Lithuania (Russian)",
+    "url": "https://ru-lt.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Lithuania, serving the Russian-speaking minority with interface in Russian.",
+    "keywords": ["Facebook", "Lithuania", "Russian", "Русский", "Vilnius", "Klaipeda", "Baltic", "Europe", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Mexico",
+    "url": "https://es-mx.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Mexico, providing full interface localization in Mexican Spanish for the Mexican market.",
+    "keywords": ["Facebook", "Mexico", "Spanish", "Español", "Mexican", "Mexico City", "North America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Argentina",
+    "url": "https://es-ar.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Argentina, offering full interface localization in Argentine Spanish for the Argentine market.",
+    "keywords": ["Facebook", "Argentina", "Spanish", "Español", "Argentine", "Buenos Aires", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Brazil",
+    "url": "https://pt-br.facebook.com",
+    "description": "The Portuguese-language version of Facebook for users in Brazil, providing full interface localization in Brazilian Portuguese for the Brazilian market.",
+    "keywords": ["Facebook", "Brazil", "Portuguese", "Português", "Brasil", "Brasileiro", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Chile",
+    "url": "https://es-cl.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Chile, offering full interface localization in Chilean Spanish for the Chilean market.",
+    "keywords": ["Facebook", "Chile", "Spanish", "Español", "Chilean", "Santiago", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Colombia",
+    "url": "https://es-co.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Colombia, providing full interface localization in Colombian Spanish for the Colombian market.",
+    "keywords": ["Facebook", "Colombia", "Spanish", "Español", "Colombian", "Bogota", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Peru",
+    "url": "https://es-pe.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Peru, offering full interface localization in Peruvian Spanish for the Peruvian market.",
+    "keywords": ["Facebook", "Peru", "Spanish", "Español", "Peruvian", "Lima", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Venezuela",
+    "url": "https://es-ve.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Venezuela, providing full interface localization in Venezuelan Spanish for the Venezuelan market.",
+    "keywords": ["Facebook", "Venezuela", "Spanish", "Español", "Venezuelan", "Caracas", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Ecuador",
+    "url": "https://es-ec.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Ecuador, offering full interface localization in Ecuadorian Spanish for the Ecuadorian market.",
+    "keywords": ["Facebook", "Ecuador", "Spanish", "Español", "Ecuadorian", "Quito", "Guayaquil", "South America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bolivia",
+    "url": "https://es-bo.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Bolivia, providing full interface localization in Bolivian Spanish for the Bolivian market.",
+    "keywords": ["Facebook", "Bolivia", "Spanish", "Español", "Bolivian", "La Paz", "Sucre", "South America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Paraguay",
+    "url": "https://es-py.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Paraguay, offering full interface localization in Paraguayan Spanish for the Paraguayan market.",
+    "keywords": ["Facebook", "Paraguay", "Spanish", "Español", "Paraguayan", "Asuncion", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Uruguay",
+    "url": "https://es-uy.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Uruguay, providing full interface localization in Uruguayan Spanish for the Uruguayan market.",
+    "keywords": ["Facebook", "Uruguay", "Spanish", "Español", "Uruguayan", "Montevideo", "South America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Costa Rica",
+    "url": "https://es-cr.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Costa Rica, offering full interface localization in Costa Rican Spanish for the Costa Rican market.",
+    "keywords": ["Facebook", "Costa Rica", "Spanish", "Español", "Tico", "San Jose", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - El Salvador",
+    "url": "https://es-sv.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in El Salvador, providing full interface localization in Salvadoran Spanish for the Salvadoran market.",
+    "keywords": ["Facebook", "El Salvador", "Spanish", "Español", "Salvadoran", "San Salvador", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Guatemala",
+    "url": "https://es-gt.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Guatemala, offering full interface localization in Guatemalan Spanish for the Guatemalan market.",
+    "keywords": ["Facebook", "Guatemala", "Spanish", "Español", "Guatemalan", "Guatemala City", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Honduras",
+    "url": "https://es-hn.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Honduras, providing full interface localization in Honduran Spanish for the Honduran market.",
+    "keywords": ["Facebook", "Honduras", "Spanish", "Español", "Honduran", "Tegucigalpa", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Nicaragua",
+    "url": "https://es-ni.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Nicaragua, offering full interface localization in Nicaraguan Spanish for the Nicaraguan market.",
+    "keywords": ["Facebook", "Nicaragua", "Spanish", "Español", "Nicaraguan", "Managua", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Panama",
+    "url": "https://es-pa.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Panama, providing full interface localization in Panamanian Spanish for the Panamanian market.",
+    "keywords": ["Facebook", "Panama", "Spanish", "Español", "Panamanian", "Panama City", "Central America", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Dominican Republic",
+    "url": "https://es-do.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in the Dominican Republic, offering full interface localization in Dominican Spanish for the Dominican market.",
+    "keywords": ["Facebook", "Dominican Republic", "Spanish", "Español", "Dominican", "Santo Domingo", "Caribbean", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Puerto Rico",
+    "url": "https://es-pr.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Puerto Rico, providing full interface localization in Puerto Rican Spanish for the Puerto Rican market.",
+    "keywords": ["Facebook", "Puerto Rico", "Spanish", "Español", "Boricua", "San Juan", "Caribbean", "US territory", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cuba",
+    "url": "https://es-cu.facebook.com",
+    "description": "The Spanish-language version of Facebook for users in Cuba, offering full interface localization in Cuban Spanish for the Cuban market, though access may be limited.",
+    "keywords": ["Facebook", "Cuba", "Spanish", "Español", "Cuban", "Havana", "Caribbean", "Latin America", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Jamaica",
+    "url": "https://en-jm.facebook.com",
+    "description": "The English-language version of Facebook for users in Jamaica, providing full interface localization in Jamaican English for the Jamaican market.",
+    "keywords": ["Facebook", "Jamaica", "Jamaican", "English", "Patois", "Kingston", "Caribbean", "West Indies", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Trinidad and Tobago",
+    "url": "https://en-tt.facebook.com",
+    "description": "The English-language version of Facebook for users in Trinidad and Tobago, offering full interface localization in Trinidadian English for the twin-island nation.",
+    "keywords": ["Facebook", "Trinidad", "Tobago", "Trinbagonian", "English", "Port of Spain", "Caribbean", "West Indies", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Barbados",
+    "url": "https://en-bb.facebook.com",
+    "description": "The English-language version of Facebook for users in Barbados, providing full interface localization in Bajan English for the Barbadian market.",
+    "keywords": ["Facebook", "Barbados", "Bajan", "English", "Bridgetown", "Caribbean", "West Indies", "island", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bahamas",
+    "url": "https://en-bs.facebook.com",
+    "description": "The English-language version of Facebook for users in the Bahamas, offering full interface localization in Bahamian English for the Bahamian market.",
+    "keywords": ["Facebook", "Bahamas", "Bahamian", "English", "Nassau", "Caribbean", "West Indies", "islands", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Haiti (French)",
+    "url": "https://fr-ht.facebook.com",
+    "description": "The French-language version of Facebook for users in Haiti, providing full interface localization in French for the Haitian market.",
+    "keywords": ["Facebook", "Haiti", "Haitian", "French", "Français", "Port-au-Prince", "Caribbean", "Hispaniola", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Haiti (Creole)",
+    "url": "https://ht-ht.facebook.com",
+    "description": "The Haitian Creole-language version of Facebook for users in Haiti, offering full interface localization in Kreyòl for the Haitian market.",
+    "keywords": ["Facebook", "Haiti", "Haitian Creole", "Kreyòl", "Ayiti", "Port-au-Prince", "Caribbean", "Hispaniola", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Egypt",
+    "url": "https://ar-eg.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Egypt, providing full interface localization in Egyptian Arabic for the Egyptian market.",
+    "keywords": ["Facebook", "Egypt", "Arabic", "العربية", "Egyptian", "Cairo", "Middle East", "North Africa", "Arab world", "regional"]
+  },
+  {
+    "title": "Facebook - Saudi Arabia",
+    "url": "https://ar-sa.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Saudi Arabia, offering full interface localization in Saudi Arabic for the Saudi market.",
+    "keywords": ["Facebook", "Saudi Arabia", "Arabic", "العربية", "Saudi", "Riyadh", "Jeddah", "Middle East", "Gulf", "regional"]
+  },
+  {
+    "title": "Facebook - UAE",
+    "url": "https://ar-ae.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in the United Arab Emirates, providing full interface localization in Emirati Arabic for the UAE market.",
+    "keywords": ["Facebook", "UAE", "Emirates", "Arabic", "العربية", "Dubai", "Abu Dhabi", "Middle East", "Gulf", "regional"]
+  },
+  {
+    "title": "Facebook - Kuwait",
+    "url": "https://ar-kw.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Kuwait, offering full interface localization in Kuwaiti Arabic for the Kuwaiti market.",
+    "keywords": ["Facebook", "Kuwait", "Arabic", "العربية", "Kuwaiti", "Kuwait City", "Middle East", "Gulf", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Qatar",
+    "url": "https://ar-qa.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Qatar, providing full interface localization in Qatari Arabic for the Qatari market.",
+    "keywords": ["Facebook", "Qatar", "Arabic", "العربية", "Qatari", "Doha", "Middle East", "Gulf", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Bahrain",
+    "url": "https://ar-bh.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Bahrain, offering full interface localization in Bahraini Arabic for the Bahraini market.",
+    "keywords": ["Facebook", "Bahrain", "Arabic", "العربية", "Bahraini", "Manama", "Middle East", "Gulf", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Oman",
+    "url": "https://ar-om.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Oman, providing full interface localization in Omani Arabic for the Omani market.",
+    "keywords": ["Facebook", "Oman", "Arabic", "العربية", "Omani", "Muscat", "Middle East", "Gulf", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Yemen",
+    "url": "https://ar-ye.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Yemen, offering full interface localization in Yemeni Arabic for the Yemeni market.",
+    "keywords": ["Facebook", "Yemen", "Arabic", "العربية", "Yemeni", "Sana'a", "Aden", "Middle East", "Arabia", "regional"]
+  },
+  {
+    "title": "Facebook - Jordan",
+    "url": "https://ar-jo.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Jordan, providing full interface localization in Jordanian Arabic for the Jordanian market.",
+    "keywords": ["Facebook", "Jordan", "Arabic", "العربية", "Jordanian", "Amman", "Middle East", "Levant", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Lebanon",
+    "url": "https://ar-lb.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Lebanon, offering full interface localization in Lebanese Arabic for the Lebanese market.",
+    "keywords": ["Facebook", "Lebanon", "Arabic", "العربية", "Lebanese", "Beirut", "Middle East", "Levant", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Syria",
+    "url": "https://ar-sy.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Syria, providing full interface localization in Syrian Arabic for the Syrian market.",
+    "keywords": ["Facebook", "Syria", "Arabic", "العربية", "Syrian", "Damascus", "Aleppo", "Middle East", "Levant", "regional"]
+  },
+  {
+    "title": "Facebook - Iraq",
+    "url": "https://ar-iq.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Iraq, offering full interface localization in Iraqi Arabic for the Iraqi market.",
+    "keywords": ["Facebook", "Iraq", "Arabic", "العربية", "Iraqi", "Baghdad", "Middle East", "Mesopotamia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Iraq (Kurdish)",
+    "url": "https://ku-iq.facebook.com",
+    "description": "The Kurdish-language version of Facebook for users in Iraq, providing full interface localization in Kurdish (Sorani script) for the Kurdish population in Iraqi Kurdistan.",
+    "keywords": ["Facebook", "Iraq", "Kurdish", "Kurdî", "Sorani", "Erbil", "Sulaymaniyah", "Kurdistan", "Middle East", "regional"]
+  },
+  {
+    "title": "Facebook - Palestine",
+    "url": "https://ar-ps.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Palestine, offering full interface localization in Palestinian Arabic for the Palestinian market.",
+    "keywords": ["Facebook", "Palestine", "Palestinian", "Arabic", "العربية", "West Bank", "Gaza", "Jerusalem", "Middle East", "regional"]
+  },
+  {
+    "title": "Facebook - Israel (Hebrew)",
+    "url": "https://he-il.facebook.com",
+    "description": "The Hebrew-language version of Facebook for users in Israel, providing full interface localization in Hebrew (right-to-left script) for the Israeli market.",
+    "keywords": ["Facebook", "Israel", "Hebrew", "עברית", "Israeli", "Jerusalem", "Tel Aviv", "Middle East", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Israel (Arabic)",
+    "url": "https://ar-il.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Israel, offering full interface localization in Arabic for the Arab citizens of Israel.",
+    "keywords": ["Facebook", "Israel", "Arabic", "العربية", "Israeli Arab", "Palestinian", "Jerusalem", "Middle East", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Israel (Russian)",
+    "url": "https://ru-il.facebook.com",
+    "description": "The Russian-language version of Facebook for users in Israel, serving the large Russian-speaking immigrant population with interface in Russian.",
+    "keywords": ["Facebook", "Israel", "Russian", "Русский", "Israeli Russian", "Tel Aviv", "Haifa", "Middle East", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Iran (Persian)",
+    "url": "https://fa-ir.facebook.com",
+    "description": "The Persian (Farsi) language version of Facebook for users in Iran, providing full interface localization in Persian script, though access is officially blocked in Iran.",
+    "keywords": ["Facebook", "Iran", "Persian", "Farsi", "فارسی", "Tehran", "Middle East", "blocked", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Iran (Azerbaijani)",
+    "url": "https://az-ir.facebook.com",
+    "description": "The Azerbaijani-language version of Facebook for users in Iran, serving the significant Azerbaijani population in northwestern Iran with interface in Azerbaijani.",
+    "keywords": ["Facebook", "Iran", "Azerbaijani", "Azərbaycanca", "Tabriz", "Persia", "Middle East", "Turkic", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Iran (Kurdish)",
+    "url": "https://ku-ir.facebook.com",
+    "description": "The Kurdish-language version of Facebook for users in Iran, providing full interface localization in Kurdish (Sorani script) for the Kurdish population in Iranian Kurdistan.",
+    "keywords": ["Facebook", "Iran", "Kurdish", "Kurdî", "Sorani", "Sanandaj", "Kermanshah", "Middle East", "Kurdistan", "regional"]
+  },
+  {
+    "title": "Facebook - Morocco",
+    "url": "https://ar-ma.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Morocco, offering full interface localization in Moroccan Arabic (Darija) for the Moroccan market.",
+    "keywords": ["Facebook", "Morocco", "Arabic", "العربية", "Darija", "Rabat", "Casablanca", "North Africa", "Maghreb", "regional"]
+  },
+  {
+    "title": "Facebook - Morocco (French)",
+    "url": "https://fr-ma.facebook.com",
+    "description": "The French-language version of Facebook for users in Morocco, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Morocco", "French", "Français", "Maghreb", "Rabat", "Casablanca", "North Africa", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Algeria",
+    "url": "https://ar-dz.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Algeria, providing full interface localization in Algerian Arabic for the Algerian market.",
+    "keywords": ["Facebook", "Algeria", "Arabic", "العربية", "Algerian", "Algiers", "North Africa", "Maghreb", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Algeria (French)",
+    "url": "https://fr-dz.facebook.com",
+    "description": "The French-language version of Facebook for users in Algeria, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Algeria", "French", "Français", "Algiers", "Oran", "North Africa", "Maghreb", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tunisia",
+    "url": "https://ar-tn.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Tunisia, offering full interface localization in Tunisian Arabic for the Tunisian market.",
+    "keywords": ["Facebook", "Tunisia", "Arabic", "العربية", "Tunisian", "Tunis", "North Africa", "Maghreb", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tunisia (French)",
+    "url": "https://fr-tn.facebook.com",
+    "description": "The French-language version of Facebook for users in Tunisia, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Tunisia", "French", "Français", "Tunis", "Carthage", "North Africa", "Maghreb", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Libya",
+    "url": "https://ar-ly.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Libya, providing full interface localization in Libyan Arabic for the Libyan market.",
+    "keywords": ["Facebook", "Libya", "Arabic", "العربية", "Libyan", "Tripoli", "Benghazi", "North Africa", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Sudan",
+    "url": "https://ar-sd.facebook.com",
+    "description": "The Arabic-language version of Facebook for users in Sudan, offering full interface localization in Sudanese Arabic for the Sudanese market.",
+    "keywords": ["Facebook", "Sudan", "Arabic", "العربية", "Sudanese", "Khartoum", "North Africa", "Nile", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Ethiopia (Amharic)",
+    "url": "https://am-et.facebook.com",
+    "description": "The Amharic-language version of Facebook for users in Ethiopia, providing full interface localization in Amharic (Ge'ez script) for the Ethiopian market.",
+    "keywords": ["Facebook", "Ethiopia", "Amharic", "አማርኛ", "Ethiopian", "Addis Ababa", "Horn of Africa", "East Africa", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Ethiopia (English)",
+    "url": "https://en-et.facebook.com",
+    "description": "The English-language version of Facebook for users in Ethiopia, serving the international community and English-speaking Ethiopians.",
+    "keywords": ["Facebook", "Ethiopia", "English", "Ethiopian", "Addis Ababa", "Horn of Africa", "East Africa", "social media", "regional", "Amharic"]
+  },
+  {
+    "title": "Facebook - Kenya",
+    "url": "https://en-ke.facebook.com",
+    "description": "The English-language version of Facebook for users in Kenya, providing full interface localization in Kenyan English for the Kenyan market.",
+    "keywords": ["Facebook", "Kenya", "English", "Kenyan", "Nairobi", "Mombasa", "East Africa", "Swahili", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Kenya (Swahili)",
+    "url": "https://sw-ke.facebook.com",
+    "description": "The Swahili-language version of Facebook for users in Kenya, offering full interface localization in Kiswahili for the Kenyan market.",
+    "keywords": ["Facebook", "Kenya", "Swahili", "Kiswahili", "Kenyan", "Nairobi", "East Africa", "social media", "regional", "Bantu"]
+  },
+  {
+    "title": "Facebook - Tanzania",
+    "url": "https://en-tz.facebook.com",
+    "description": "The English-language version of Facebook for users in Tanzania, providing full interface localization in Tanzanian English for the Tanzanian market.",
+    "keywords": ["Facebook", "Tanzania", "English", "Tanzanian", "Dar es Salaam", "East Africa", "Swahili", "Zanzibar", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tanzania (Swahili)",
+    "url": "https://sw-tz.facebook.com",
+    "description": "The Swahili-language version of Facebook for users in Tanzania, offering full interface localization in Kiswahili for the Tanzanian market where Swahili is the national language.",
+    "keywords": ["Facebook", "Tanzania", "Swahili", "Kiswahili", "Tanzanian", "Dar es Salaam", "East Africa", "Zanzibar", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Uganda",
+    "url": "https://en-ug.facebook.com",
+    "description": "The English-language version of Facebook for users in Uganda, providing full interface localization in Ugandan English for the Ugandan market.",
+    "keywords": ["Facebook", "Uganda", "English", "Ugandan", "Kampala", "East Africa", "social media", "regional", "Lake Victoria", "Pearl of Africa"]
+  },
+  {
+    "title": "Facebook - Rwanda",
+    "url": "https://en-rw.facebook.com",
+    "description": "The English-language version of Facebook for users in Rwanda, providing full interface localization in Rwandan English for the Rwandan market.",
+    "keywords": ["Facebook", "Rwanda", "English", "Rwandan", "Kigali", "East Africa", "social media", "regional", "Land of a Thousand Hills", "Kinyarwanda"]
+  },
+  {
+    "title": "Facebook - Rwanda (French)",
+    "url": "https://fr-rw.facebook.com",
+    "description": "The French-language version of Facebook for users in Rwanda, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Rwanda", "French", "Français", "Kigali", "East Africa", "Francophone", "social media", "regional", "Kinyarwanda"]
+  },
+  {
+    "title": "Facebook - Nigeria",
+    "url": "https://en-ng.facebook.com",
+    "description": "The English-language version of Facebook for users in Nigeria, providing full interface localization in Nigerian English for Africa's most populous nation.",
+    "keywords": ["Facebook", "Nigeria", "English", "Nigerian", "Lagos", "Abuja", "West Africa", "social media", "regional", "Naija"]
+  },
+  {
+    "title": "Facebook - Nigeria (Hausa)",
+    "url": "https://ha-ng.facebook.com",
+    "description": "The Hausa-language version of Facebook for users in Nigeria, offering full interface localization in Hausa (Latin script) for the Hausa-speaking population of northern Nigeria.",
+    "keywords": ["Facebook", "Nigeria", "Hausa", "Hausa", "Kano", "Kaduna", "West Africa", "Sahel", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Nigeria (Yoruba)",
+    "url": "https://yo-ng.facebook.com",
+    "description": "The Yoruba-language version of Facebook for users in Nigeria, providing full interface localization in Yoruba for the Yoruba-speaking population of southwestern Nigeria.",
+    "keywords": ["Facebook", "Nigeria", "Yoruba", "Yorùbá", "Lagos", "Ibadan", "West Africa", "social media", "regional", "Oduduwa"]
+  },
+  {
+    "title": "Facebook - Nigeria (Igbo)",
+    "url": "https://ig-ng.facebook.com",
+    "description": "The Igbo-language version of Facebook for users in Nigeria, offering full interface localization in Igbo for the Igbo-speaking population of southeastern Nigeria.",
+    "keywords": ["Facebook", "Nigeria", "Igbo", "Asụsụ Igbo", "Enugu", "Owerri", "West Africa", "social media", "regional", "Biafra"]
+  },
+  {
+    "title": "Facebook - Ghana",
+    "url": "https://en-gh.facebook.com",
+    "description": "The English-language version of Facebook for users in Ghana, providing full interface localization in Ghanaian English for the Ghanaian market.",
+    "keywords": ["Facebook", "Ghana", "English", "Ghanaian", "Accra", "Kumasi", "West Africa", "social media", "regional", "Gold Coast"]
+  },
+  {
+    "title": "Facebook - Ghana (Twi)",
+    "url": "https://tw-gh.facebook.com",
+    "description": "The Twi (Akan) language version of Facebook for users in Ghana, offering full interface localization in Twi for the Akan-speaking population of Ghana.",
+    "keywords": ["Facebook", "Ghana", "Twi", "Akan", "Asante", "Kumasi", "West Africa", "social media", "regional", "Gold Coast"]
+  },
+  {
+    "title": "Facebook - Senegal",
+    "url": "https://fr-sn.facebook.com",
+    "description": "The French-language version of Facebook for users in Senegal, providing full interface localization in French for the Senegalese market.",
+    "keywords": ["Facebook", "Senegal", "French", "Français", "Dakar", "West Africa", "Francophone", "social media", "regional", "Teranga"]
+  },
+  {
+    "title": "Facebook - Senegal (Wolof)",
+    "url": "https://wo-sn.facebook.com",
+    "description": "The Wolof-language version of Facebook for users in Senegal, offering full interface localization in Wolof for the Wolof-speaking majority population.",
+    "keywords": ["Facebook", "Senegal", "Wolof", "Wolof", "Dakar", "West Africa", "social media", "regional", "Teranga", "Francophone"]
+  },
+  {
+    "title": "Facebook - Côte d'Ivoire",
+    "url": "https://fr-ci.facebook.com",
+    "description": "The French-language version of Facebook for users in Côte d'Ivoire (Ivory Coast), providing full interface localization in French for the Ivorian market.",
+    "keywords": ["Facebook", "Ivory Coast", "Côte d'Ivoire", "French", "Français", "Abidjan", "West Africa", "Francophone", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cameroon",
+    "url": "https://fr-cm.facebook.com",
+    "description": "The French-language version of Facebook for users in Cameroon, providing full interface localization in French for the Francophone majority of Cameroon.",
+    "keywords": ["Facebook", "Cameroon", "French", "Français", "Yaoundé", "Douala", "Central Africa", "Francophone", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cameroon (English)",
+    "url": "https://en-cm.facebook.com",
+    "description": "The English-language version of Facebook for users in Cameroon, serving the Anglophone population of Cameroon's Northwest and Southwest regions.",
+    "keywords": ["Facebook", "Cameroon", "English", "Cameroonian", "Yaoundé", "Douala", "Central Africa", "Anglophone", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - DR Congo (French)",
+    "url": "https://fr-cd.facebook.com",
+    "description": "The French-language version of Facebook for users in the Democratic Republic of the Congo, providing full interface localization in French for the Congolese market.",
+    "keywords": ["Facebook", "DR Congo", "Congo", "French", "Français", "Kinshasa", "Central Africa", "Francophone", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - DR Congo (Lingala)",
+    "url": "https://ln-cd.facebook.com",
+    "description": "The Lingala-language version of Facebook for users in the Democratic Republic of the Congo, offering full interface localization in Lingala for the Congolese population.",
+    "keywords": ["Facebook", "DR Congo", "Lingala", "Lingála", "Kinshasa", "Central Africa", "Bantu", "social media", "regional", "Congo River"]
+  },
+  {
+    "title": "Facebook - DR Congo (Swahili)",
+    "url": "https://sw-cd.facebook.com",
+    "description": "The Swahili-language version of Facebook for users in the Democratic Republic of the Congo, serving the Swahili-speaking population in eastern Congo.",
+    "keywords": ["Facebook", "DR Congo", "Swahili", "Kiswahili", "Goma", "Bukavu", "Central Africa", "social media", "regional", "Great Lakes"]
+  },
+  {
+    "title": "Facebook - Angola",
+    "url": "https://pt-ao.facebook.com",
+    "description": "The Portuguese-language version of Facebook for users in Angola, providing full interface localization in Portuguese for the Angolan market.",
+    "keywords": ["Facebook", "Angola", "Portuguese", "Português", "Luanda", "Southern Africa", "Lusophone", "social media", "regional", "Lunda"]
+  },
+  {
+    "title": "Facebook - Mozambique",
+    "url": "https://pt-mz.facebook.com",
+    "description": "The Portuguese-language version of Facebook for users in Mozambique, providing full interface localization in Portuguese for the Mozambican market.",
+    "keywords": ["Facebook", "Mozambique", "Portuguese", "Português", "Maputo", "Southern Africa", "Lusophone", "social media", "regional", "Indian Ocean"]
+  },
+  {
+    "title": "Facebook - Zimbabwe",
+    "url": "https://en-zw.facebook.com",
+    "description": "The English-language version of Facebook for users in Zimbabwe, providing full interface localization in Zimbabwean English for the Zimbabwean market.",
+    "keywords": ["Facebook", "Zimbabwe", "English", "Zimbabwean", "Harare", "Bulawayo", "Southern Africa", "social media", "regional", "Victoria Falls"]
+  },
+  {
+    "title": "Facebook - Zambia",
+    "url": "https://en-zm.facebook.com",
+    "description": "The English-language version of Facebook for users in Zambia, providing full interface localization in Zambian English for the Zambian market.",
+    "keywords": ["Facebook", "Zambia", "English", "Zambian", "Lusaka", "Southern Africa", "social media", "regional", "Copperbelt", "Victoria Falls"]
+  },
+  {
+    "title": "Facebook - Malawi",
+    "url": "https://en-mw.facebook.com",
+    "description": "The English-language version of Facebook for users in Malawi, providing full interface localization in Malawian English for the Malawian market.",
+    "keywords": ["Facebook", "Malawi", "English", "Malawian", "Lilongwe", "Blantyre", "Southern Africa", "social media", "regional", "Lake Malawi"]
+  },
+  {
+    "title": "Facebook - Botswana",
+    "url": "https://en-bw.facebook.com",
+    "description": "The English-language version of Facebook for users in Botswana, providing full interface localization in Botswanan English for the Botswanan market.",
+    "keywords": ["Facebook", "Botswana", "English", "Motswana", "Gaborone", "Southern Africa", "Kalahari", "social media", "regional", "Tswana"]
+  },
+  {
+    "title": "Facebook - Namibia",
+    "url": "https://en-na.facebook.com",
+    "description": "The English-language version of Facebook for users in Namibia, providing full interface localization in Namibian English for the Namibian market.",
+    "keywords": ["Facebook", "Namibia", "English", "Namibian", "Windhoek", "Southern Africa", "social media", "regional", "Kalahari", "Skeleton Coast"]
+  },
+  {
+    "title": "Facebook - Lesotho",
+    "url": "https://en-ls.facebook.com",
+    "description": "The English-language version of Facebook for users in Lesotho, providing full interface localization in English for the Basotho nation.",
+    "keywords": ["Facebook", "Lesotho", "English", "Basotho", "Maseru", "Southern Africa", "mountain kingdom", "social media", "regional", "Sotho"]
+  },
+  {
+    "title": "Facebook - Eswatini",
+    "url": "https://en-sz.facebook.com",
+    "description": "The English-language version of Facebook for users in Eswatini (formerly Swaziland), providing full interface localization in English for the Swazi market.",
+    "keywords": ["Facebook", "Eswatini", "Swaziland", "English", "Swazi", "Mbabane", "Southern Africa", "social media", "regional", "Kingdom"]
+  },
+  {
+    "title": "Facebook - Mauritius",
+    "url": "https://en-mu.facebook.com",
+    "description": "The English-language version of Facebook for users in Mauritius, providing full interface localization in English for the Mauritian market.",
+    "keywords": ["Facebook", "Mauritius", "English", "Mauritian", "Port Louis", "Indian Ocean", "island nation", "social media", "regional", "Creole"]
+  },
+  {
+    "title": "Facebook - Mauritius (French)",
+    "url": "https://fr-mu.facebook.com",
+    "description": "The French-language version of Facebook for users in Mauritius, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Mauritius", "French", "Français", "Port Louis", "Indian Ocean", "island nation", "social media", "regional", "Creole"]
+  },
+  {
+    "title": "Facebook - Seychelles",
+    "url": "https://en-sc.facebook.com",
+    "description": "The English-language version of Facebook for users in Seychelles, providing full interface localization in English for the Seychellois market.",
+    "keywords": ["Facebook", "Seychelles", "English", "Seychellois", "Victoria", "Indian Ocean", "island nation", "social media", "regional", "Creole"]
+  },
+  {
+    "title": "Facebook - Seychelles (French)",
+    "url": "https://fr-sc.facebook.com",
+    "description": "The French-language version of Facebook for users in Seychelles, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Seychelles", "French", "Français", "Victoria", "Indian Ocean", "island nation", "social media", "regional", "Creole"]
+  },
+  {
+    "title": "Facebook - Madagascar",
+    "url": "https://mg-mg.facebook.com",
+    "description": "The Malagasy-language version of Facebook for users in Madagascar, providing full interface localization in Malagasy for the Madagascan market.",
+    "keywords": ["Facebook", "Madagascar", "Malagasy", "Antananarivo", "Indian Ocean", "Africa", "island nation", "social media", "regional", "Lemur"]
+  },
+  {
+    "title": "Facebook - Madagascar (French)",
+    "url": "https://fr-mg.facebook.com",
+    "description": "The French-language version of Facebook for users in Madagascar, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Madagascar", "French", "Français", "Antananarivo", "Indian Ocean", "Africa", "island nation", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Fiji",
+    "url": "https://en-fj.facebook.com",
+    "description": "The English-language version of Facebook for users in Fiji, providing full interface localization in Fijian English for the Fijian market.",
+    "keywords": ["Facebook", "Fiji", "English", "Fijian", "Suva", "Pacific Islands", "Oceania", "Melanesia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Fiji (Fijian)",
+    "url": "https://fj-fj.facebook.com",
+    "description": "The Fijian-language version of Facebook for users in Fiji, offering full interface localization in iTaukei (Fijian) for the indigenous Fijian population.",
+    "keywords": ["Facebook", "Fiji", "Fijian", "iTaukei", "Suva", "Pacific Islands", "Oceania", "Melanesia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Papua New Guinea",
+    "url": "https://en-pg.facebook.com",
+    "description": "The English-language version of Facebook for users in Papua New Guinea, providing full interface localization in English for the PNG market.",
+    "keywords": ["Facebook", "Papua New Guinea", "PNG", "English", "Port Moresby", "Pacific Islands", "Melanesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Papua New Guinea (Tok Pisin)",
+    "url": "https://tpi-pg.facebook.com",
+    "description": "The Tok Pisin (Pidgin) language version of Facebook for users in Papua New Guinea, offering full interface localization in Tok Pisin for the PNG market.",
+    "keywords": ["Facebook", "Papua New Guinea", "Tok Pisin", "Pidgin", "PNG", "Port Moresby", "Pacific Islands", "Melanesia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Solomon Islands",
+    "url": "https://en-sb.facebook.com",
+    "description": "The English-language version of Facebook for users in Solomon Islands, providing full interface localization in English for the Solomon Islands market.",
+    "keywords": ["Facebook", "Solomon Islands", "English", "Solomon Islander", "Honiara", "Pacific Islands", "Melanesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Vanuatu",
+    "url": "https://en-vu.facebook.com",
+    "description": "The English-language version of Facebook for users in Vanuatu, providing full interface localization in English for the Vanuatu market.",
+    "keywords": ["Facebook", "Vanuatu", "English", "Ni-Vanuatu", "Port Vila", "Pacific Islands", "Melanesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Vanuatu (French)",
+    "url": "https://fr-vu.facebook.com",
+    "description": "The French-language version of Facebook for users in Vanuatu, serving the Francophone population with interface in French.",
+    "keywords": ["Facebook", "Vanuatu", "French", "Français", "Port Vila", "Pacific Islands", "Melanesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - New Caledonia",
+    "url": "https://fr-nc.facebook.com",
+    "description": "The French-language version of Facebook for users in New Caledonia, a French territory in the Pacific, providing interface in French.",
+    "keywords": ["Facebook", "New Caledonia", "French", "Français", "Nouméa", "Pacific Islands", "Melanesia", "France", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - French Polynesia",
+    "url": "https://fr-pf.facebook.com",
+    "description": "The French-language version of Facebook for users in French Polynesia, providing interface in French for this Pacific territory.",
+    "keywords": ["Facebook", "French Polynesia", "Tahiti", "French", "Français", "Papeete", "Pacific Islands", "Polynesia", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Samoa",
+    "url": "https://en-ws.facebook.com",
+    "description": "The English-language version of Facebook for users in Samoa, providing full interface localization in English for the Samoan market.",
+    "keywords": ["Facebook", "Samoa", "English", "Samoan", "Apia", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Samoa (Samoan)",
+    "url": "https://sm-ws.facebook.com",
+    "description": "The Samoan-language version of Facebook for users in Samoa, offering full interface localization in Gagana Samoa for the Samoan population.",
+    "keywords": ["Facebook", "Samoa", "Samoan", "Gagana Samoa", "Apia", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tonga",
+    "url": "https://en-to.facebook.com",
+    "description": "The English-language version of Facebook for users in Tonga, providing full interface localization in English for the Tongan market.",
+    "keywords": ["Facebook", "Tonga", "English", "Tongan", "Nuku'alofa", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tonga (Tongan)",
+    "url": "https://to-to.facebook.com",
+    "description": "The Tongan-language version of Facebook for users in Tonga, offering full interface localization in Lea Faka-Tonga for the Tongan population.",
+    "keywords": ["Facebook", "Tonga", "Tongan", "Lea Faka-Tonga", "Nuku'alofa", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Kiribati",
+    "url": "https://en-ki.facebook.com",
+    "description": "The English-language version of Facebook for users in Kiribati, providing full interface localization in English for the I-Kiribati market.",
+    "keywords": ["Facebook", "Kiribati", "English", "I-Kiribati", "Tarawa", "Pacific Islands", "Micronesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Marshall Islands",
+    "url": "https://en-mh.facebook.com",
+    "description": "The English-language version of Facebook for users in the Marshall Islands, providing full interface localization in English for the Marshallese market.",
+    "keywords": ["Facebook", "Marshall Islands", "English", "Marshallese", "Majuro", "Pacific Islands", "Micronesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Palau",
+    "url": "https://en-pw.facebook.com",
+    "description": "The English-language version of Facebook for users in Palau, providing full interface localization in English for the Palauan market.",
+    "keywords": ["Facebook", "Palau", "English", "Palauan", "Ngerulmud", "Pacific Islands", "Micronesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Micronesia",
+    "url": "https://en-fm.facebook.com",
+    "description": "The English-language version of Facebook for users in the Federated States of Micronesia, providing full interface localization in English for the Micronesian market.",
+    "keywords": ["Facebook", "Micronesia", "FSM", "English", "Palikir", "Pacific Islands", "Micronesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Nauru",
+    "url": "https://en-nr.facebook.com",
+    "description": "The English-language version of Facebook for users in Nauru, providing full interface localization in English for the Nauruan market.",
+    "keywords": ["Facebook", "Nauru", "English", "Nauruan", "Yaren", "Pacific Islands", "Micronesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Tuvalu",
+    "url": "https://en-tv.facebook.com",
+    "description": "The English-language version of Facebook for users in Tuvalu, providing full interface localization in English for the Tuvaluan market.",
+    "keywords": ["Facebook", "Tuvalu", "English", "Tuvaluan", "Funafuti", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Cook Islands",
+    "url": "https://en-ck.facebook.com",
+    "description": "The English-language version of Facebook for users in the Cook Islands, providing full interface localization in English for this New Zealand territory.",
+    "keywords": ["Facebook", "Cook Islands", "English", "Cook Islander", "Rarotonga", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
+  },
+  {
+    "title": "Facebook - Niue",
+    "url": "https://en-nu.facebook.com",
+    "description": "The English-language version of Facebook for users in Niue, providing full interface localization in English for this Pacific island nation.",
+    "keywords": ["Facebook", "Niue", "English", "Niuean", "Alofi", "Pacific Islands", "Polynesia", "Oceania", "social media", "regional"]
   }
 ]
 
