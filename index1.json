@@ -7339,6 +7339,2204 @@
     "url": "https://dataforgood.fb.com/",
     "description": "Facebook Data for Good is an initiative that leverages aggregated and anonymized Facebook data to support humanitarian efforts, disaster response, disease prevention, and social good projects through partnerships with researchers and organizations.",
     "keywords": ["Facebook", "Data for Good", "humanitarian", "disaster response", "disease prevention", "social good", "research partnerships", "anonymized data", "crisis response", "public health"]
+  },
+  {
+    "title": "Meta for Developers - Official Site",
+    "url": "https://developers.facebook.com",
+    "description": "The official hub for all Facebook development resources, providing documentation, SDKs, APIs, and tools for building integrations with Facebook's platform including Facebook Login, Graph API, Marketing API, and business tools for web, mobile, and app development.",
+    "keywords": ["Facebook Developers", "Meta Developers", "official documentation", "SDK", "API", "developer tools", "integration", "platform", "app development", "Meta"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Documentation",
+    "url": "https://developers.facebook.com/docs/graph-api",
+    "description": "The Graph API is the primary way to read and write data to Facebook's social graph, providing developers with access to users, posts, photos, pages, groups, events, and other objects through a consistent, RESTful API for building powerful integrations with Facebook.",
+    "keywords": ["Graph API", "Facebook API", "REST API", "social graph", "data access", "API reference", "endpoints", "queries", "Facebook data", "integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Login Documentation",
+    "url": "https://developers.facebook.com/docs/facebook-login",
+    "description": "Facebook Login enables developers to implement secure authentication for websites and apps, allowing users to log in with Facebook credentials across web, iOS, Android, and desktop platforms with options for permissions, user data access, and integration with existing account systems.",
+    "keywords": ["Facebook Login", "authentication", "OAuth", "SSO", "user login", "permissions", "identity", "access token", "login flow", "developer guide"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Login for Web with JavaScript SDK",
+    "url": "https://developers.facebook.com/docs/facebook-login/web",
+    "description": "Comprehensive guide for implementing Facebook Login on websites using the Facebook SDK for JavaScript, covering SDK initialization, login status detection, login button integration, permission requests, logout functionality, and complete code examples for web authentication.",
+    "keywords": ["Facebook Login", "JavaScript SDK", "web login", "JS SDK", "browser authentication", "login button", "FB.init", "FB.login", "FB.getLoginStatus", "web development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Login for iOS",
+    "url": "https://developers.facebook.com/docs/facebook-login/ios",
+    "description": "Official documentation for implementing Facebook Login in iOS applications using Swift or Objective-C, covering SDK installation, login button configuration, permission handling, token management, and best practices for integrating Facebook authentication into iPhone and iPad apps.",
+    "keywords": ["Facebook Login", "iOS", "Swift", "Objective-C", "iPhone", "iPad", "mobile authentication", "FBSDKLoginKit", "iOS SDK", "Apple development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Login for Android",
+    "url": "https://developers.facebook.com/docs/facebook-login/android",
+    "description": "Complete guide for adding Facebook Login to Android applications using Java or Kotlin, including SDK setup, login button implementation, permission requests, callback handling, and integration with Android's activity lifecycle for seamless authentication experiences.",
+    "keywords": ["Facebook Login", "Android", "Java", "Kotlin", "mobile authentication", "Android SDK", "login button", "callback", "Google Play", "Android development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for JavaScript",
+    "url": "https://developers.facebook.com/docs/javascript",
+    "description": "The Facebook SDK for JavaScript enables developers to integrate Facebook functionality into websites, including Login, Sharing, Graph API calls, social plugins, and event tracking, with comprehensive documentation for loading the SDK, making API calls, and handling responses.",
+    "keywords": ["JavaScript SDK", "JS SDK", "Facebook SDK", "web development", "social plugins", "Graph API", "Facebook Login", "FB.api", "browser integration", "frontend"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for iOS",
+    "url": "https://developers.facebook.com/docs/ios",
+    "description": "The official Facebook SDK for iOS provides native libraries for integrating Facebook functionality into iPhone and iPad apps, including Login, Sharing, Graph API calls, App Events, and Analytics with support for Swift, Objective-C, and the latest iOS versions.",
+    "keywords": ["iOS SDK", "Facebook iOS", "Swift", "Objective-C", "iPhone", "iPad", "mobile SDK", "FBSDKCoreKit", "FBSDKLoginKit", "FBSDKShareKit"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for Android",
+    "url": "https://developers.facebook.com/docs/android",
+    "description": "The Facebook SDK for Android provides native libraries for integrating Facebook features into Android applications, including Login, Sharing, Graph API access, App Events, and Analytics with support for Java, Kotlin, and the latest Android development frameworks.",
+    "keywords": ["Android SDK", "Facebook Android", "Java", "Kotlin", "Android Studio", "mobile SDK", "Facebook Login", "App Events", "Android development", "Gradle"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for Unity",
+    "url": "https://developers.facebook.com/docs/unity",
+    "description": "The Facebook SDK for Unity enables game developers to integrate Facebook features into cross-platform games built with Unity, including Login, Sharing, App Events, Analytics, and Audience Network for iOS, Android, and web builds.",
+    "keywords": ["Unity SDK", "Facebook Unity", "game development", "cross-platform", "C#", "Unity3D", "mobile games", "social features", "App Events", "game analytics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Marketing API Documentation",
+    "url": "https://developers.facebook.com/docs/marketing-apis",
+    "description": "The Facebook Marketing API provides programmatic access to advertising features including campaign management, ad creation, audience targeting, reporting, and optimization, enabling businesses and developers to build custom advertising tools and automate marketing workflows.",
+    "keywords": ["Marketing API", "Facebook Ads", "advertising API", "campaign management", "audience targeting", "ad creation", "reporting", "automation", "marketing tools", "ad tech"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Business SDK for PHP",
+    "url": "https://github.com/facebook/php-business-sdk",
+    "description": "The official Facebook Business SDK for PHP provides a comprehensive library for integrating with Facebook's Marketing API, Pages API, Business Manager, and other business products, enabling PHP developers to build applications that manage ads, pages, and business assets programmatically.",
+    "keywords": ["PHP SDK", "Business SDK", "PHP", "Marketing API", "Facebook Ads", "Composer", "PHP library", "business integration", "ad management", "server-side"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for Python",
+    "url": "https://github.com/facebook/facebook-python-business-sdk",
+    "description": "The Facebook Business SDK for Python offers a complete library for interacting with Facebook's Marketing API and other business products, allowing Python developers to manage ad campaigns, audiences, pages, and business assets with clean, Pythonic code and comprehensive documentation.",
+    "keywords": ["Python SDK", "Business SDK", "Python", "Marketing API", "Facebook Ads", "PyPI", "Python library", "ad management", "automation", "data science"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for Java",
+    "url": "https://github.com/facebook/facebook-java-business-sdk",
+    "description": "The Facebook Business SDK for Java provides a robust library for integrating with Facebook's Marketing API and business products, enabling Java developers to build enterprise-scale applications for ad management, audience targeting, reporting, and business automation.",
+    "keywords": ["Java SDK", "Business SDK", "Java", "Marketing API", "Maven", "Gradle", "enterprise", "ad management", "Java library", "business integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for Node.js",
+    "url": "https://github.com/facebook/facebook-nodejs-business-sdk",
+    "description": "The Facebook Business SDK for Node.js enables JavaScript developers to integrate with Facebook's Marketing API using Node.js, providing async/await support, TypeScript definitions, and comprehensive tools for building server-side applications that manage ads, audiences, and business assets.",
+    "keywords": ["Node.js SDK", "JavaScript SDK", "Node.js", "Marketing API", "npm", "TypeScript", "server-side", "ad management", "async", "business automation"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for Ruby",
+    "url": "https://github.com/facebook/facebook-ruby-business-sdk",
+    "description": "The Facebook Business SDK for Ruby provides a Ruby gem for integrating with Facebook's Marketing API and business products, enabling Ruby developers to build applications for ad management, audience creation, reporting, and business automation with idiomatic Ruby syntax.",
+    "keywords": ["Ruby SDK", "Business SDK", "Ruby", "Ruby gem", "Marketing API", "Rails", "ad management", "business automation", "Ruby library", "server-side"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for Go",
+    "url": "https://github.com/facebook/facebook-go-business-sdk",
+    "description": "The Facebook Business SDK for Go provides a Go library for integrating with Facebook's Marketing API and business products, enabling Go developers to build high-performance applications for ad management, audience targeting, reporting, and business automation with strong typing and concurrency support.",
+    "keywords": ["Go SDK", "Business SDK", "Go", "Golang", "Marketing API", "Go library", "ad management", "concurrency", "high-performance", "business automation"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Business SDK for .NET",
+    "url": "https://github.com/facebook/facebook-csharp-business-sdk",
+    "description": "The Facebook Business SDK for .NET provides a C# library for integrating with Facebook's Marketing API and business products, enabling .NET developers to build applications for ad management, audience targeting, reporting, and business automation using C#, F#, or VB.NET.",
+    "keywords": [".NET SDK", "C# SDK", "Business SDK", "C#", ".NET", "Marketing API", "NuGet", "ad management", "business automation", "Windows development"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook Business SDK Overview",
+    "url": "https://github.com/jiajiagithub/php-business-sdk",
+    "description": "The Facebook Business SDK is a comprehensive one-stop shop bundling multiple Facebook APIs including Marketing API, Pages API, Business Manager, and Instagram APIs into a single SDK to ease implementation and upkeep, supporting PHP 5.6+ with features for creating, reading, updating and deleting custom audiences, images, campaigns, adsets, and ads.",
+    "keywords": ["Business SDK", "PHP SDK", "Marketing API", "Pages API", "Business Manager", "Instagram API", "ad management", "custom audiences", "campaigns", "adsets"],
+    "image": "https://packagist.org/img/logo.png"
+  },
+  {
+    "title": "Webhooks Documentation",
+    "url": "https://developers.facebook.com/docs/graph-api/webhooks",
+    "description": "Facebook Webhooks enable real-time notifications about changes to Facebook data, allowing applications to react instantly to events like new posts, comments, messages, page updates, and user activity without constant polling of the Graph API, with comprehensive setup guides and event reference.",
+    "keywords": ["Webhooks", "real-time", "notifications", "Graph API", "callbacks", "events", "subscriptions", "real-time updates", "push notifications", "event-driven"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Meta Webhooks Getting Started Guide",
+    "url": "https://developers.meta.com/horizon/documentation/native/ps-webhooks-getting-started",
+    "description": "Meta's comprehensive guide to setting up Webhooks for receiving real-time HTTP notifications about events like users joining game sessions or making in-app purchases, covering server requirements, callback URL configuration, verification tokens, field subscriptions, and detailed event payload structures.",
+    "keywords": ["Webhooks", "Meta Webhooks", "real-time notifications", "callback URL", "HTTPS", "TLS/SSL", "event subscriptions", "join_intent", "order_status", "subscription events"],
+    "image": "https://developers.meta.com/favicon.ico"
+  },
+  {
+    "title": "Webhook Fields Reference",
+    "url": "https://developers.facebook.com/docs/graph-api/webhooks/reference",
+    "description": "Complete reference documentation for all Facebook Webhook fields, detailing available fields for Pages, Users, Apps, Groups, and other objects, including field descriptions, payload structures, and examples for implementing real-time event handling in applications.",
+    "keywords": ["Webhooks", "fields reference", "payload", "events", "Graph API", "Page webhooks", "User webhooks", "App webhooks", "Group webhooks", "real-time"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "App Review Documentation",
+    "url": "https://developers.facebook.com/docs/app-review",
+    "description": "Facebook App Review is the process for getting apps approved to access sensitive permissions and features, covering submission requirements, testing guidelines, common approval issues, and best practices for successful app review completion before launching to all users.",
+    "keywords": ["App Review", "permissions", "approval", "submission", "testing", "guidelines", "review process", "app approval", "Facebook review", "platform compliance"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "App Review Introduction (Japanese)",
+    "url": "https://developers.facebook.com/docs/resp-plat-initiatives/app-review/introduction?locale=ja_JP",
+    "description": "Japanese-language introduction to Facebook App Review explaining how to request approval for permissions and features, with details on testing requirements, screen recordings for demonstrating functionality, developer notifications, and the review timeline typically taking less than one week for processing.",
+    "keywords": ["App Review", "Japanese", "permissions", "approval process", "screen recording", "testing", "developer notifications", "review timeline", "live apps", "test apps"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Build and Test - Development Guide",
+    "url": "https://developers.alpha.facebook.com/docs/development/build-and-test",
+    "description": "Official development guide covering the basic app development and testing process, including app use cases, app types (Development vs Live mode), app roles for team members, test user accounts, test pages, data deletion callback requirements, and the App Review process for publishing apps.",
+    "keywords": ["development", "testing", "app modes", "Development mode", "Live mode", "app roles", "test users", "test pages", "data deletion", "App Review"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Test Users Documentation",
+    "url": "https://developers.facebook.com/docs/apps/test-users",
+    "description": "Comprehensive guide for creating and managing test users in Facebook apps, allowing developers to simulate real Facebook users during development and testing without affecting real accounts, with options for creating multiple test users, setting permissions, and managing test content.",
+    "keywords": ["test users", "testing", "development", "simulation", "fake accounts", "test accounts", "permissions testing", "sandbox", "development tools", "app testing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Permissions Reference",
+    "url": "https://developers.facebook.com/docs/permissions/reference",
+    "description": "Complete reference documentation for all Facebook permissions, detailing which permissions require App Review, what data each permission provides, and examples of how to request and use permissions for accessing user data, pages, groups, and other Facebook resources.",
+    "keywords": ["permissions", "access tokens", "data access", "user data", "scope", "App Review", "public_profile", "email", "pages_manage", "ads_management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Access Token Guide",
+    "url": "https://developers.facebook.com/docs/facebook-login/access-tokens",
+    "description": "Detailed guide explaining Facebook access tokens, including user access tokens, page access tokens, app access tokens, and client tokens, with information about token generation, expiration, debugging, and best practices for secure token handling in applications.",
+    "keywords": ["access tokens", "authentication", "OAuth", "user tokens", "page tokens", "app tokens", "token expiration", "token debugging", "security", "API access"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Debug Access Token Tool",
+    "url": "https://developers.facebook.com/tools/debug/accesstoken",
+    "description": "The Facebook Access Token Debugger is a web tool that allows developers to inspect and validate access tokens, viewing information about token expiration, permissions granted, associated app, and user ID to help debug authentication issues in applications.",
+    "keywords": ["access token", "debugger", "validation", "token inspection", "developer tools", "authentication", "permissions", "token debug", "debugging tool", "Graph API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Explorer",
+    "url": "https://developers.facebook.com/tools/explorer",
+    "description": "The Graph API Explorer is an interactive tool for testing Graph API calls, allowing developers to construct requests, select permissions, view responses, and experiment with API endpoints before implementing them in applications, with support for different API versions and access tokens.",
+    "keywords": ["Graph API Explorer", "API testing", "interactive tool", "developer tools", "endpoint testing", "API calls", "permissions testing", "debugging", "prototyping", "Facebook tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Sharing SDK Documentation",
+    "url": "https://developers.facebook.com/docs/sharing",
+    "description": "The Facebook Sharing SDK provides tools for adding social sharing functionality to websites and apps, enabling users to share content, photos, videos, and links to Facebook with customizable share dialogs, deep linking, and integration across web, iOS, Android, and Unity platforms.",
+    "keywords": ["Sharing SDK", "social sharing", "share dialogs", "content sharing", "link sharing", "photo sharing", "video sharing", "open graph", "share button", "social integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Share Dialog for Web",
+    "url": "https://developers.facebook.com/docs/sharing/web",
+    "description": "Documentation for implementing Facebook Share Dialog on websites, allowing users to share content without requiring Facebook Login or additional permissions, with support for sharing links, photos, videos, and Open Graph stories through a simple JavaScript interface.",
+    "keywords": ["Share Dialog", "web sharing", "JavaScript", "share button", "link sharing", "Open Graph", "social sharing", "no login", "web integration", "sharing API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Share Dialog for iOS",
+    "url": "https://developers.facebook.com/docs/sharing/ios",
+    "description": "Guide for implementing Facebook Share Dialog in iOS applications using Swift or Objective-C, enabling users to share content from iPhone and iPad apps with native iOS share sheets, photos, videos, and Open Graph stories through the FBSDKShareKit framework.",
+    "keywords": ["Share Dialog", "iOS sharing", "Swift", "Objective-C", "FBSDKShareKit", "iPhone", "iPad", "native sharing", "photo sharing", "video sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Share Dialog for Android",
+    "url": "https://developers.facebook.com/docs/sharing/android",
+    "description": "Documentation for implementing Facebook Share Dialog in Android applications using Java or Kotlin, enabling users to share content with native Android share intents, photos, videos, and Open Graph stories through the Facebook Android SDK.",
+    "keywords": ["Share Dialog", "Android sharing", "Java", "Kotlin", "share intent", "photo sharing", "video sharing", "Open Graph", "Android SDK", "social sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Comments Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/comments",
+    "description": "The Facebook Comments Plugin allows developers to embed a commenting system on websites, enabling users to comment using their Facebook accounts with features for moderation, social integration, real-time updates, and synchronization with Facebook Pages for unified discussions.",
+    "keywords": ["Comments Plugin", "social comments", "Facebook comments", "embed", "website integration", "moderation", "real-time", "social plugin", "discussion", "user engagement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Like Button Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/like-button",
+    "description": "The Facebook Like Button plugin enables websites to add social proof and engagement through a customizable button that allows users to like and share content directly to Facebook, with options for layout, share functionality, and real-time count displays.",
+    "keywords": ["Like Button", "social plugin", "Facebook like", "engagement", "social proof", "share button", "website integration", "like count", "social signals", "user interaction"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Save Button Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/save-button",
+    "description": "The Facebook Save Button plugin allows users to bookmark content to their Facebook saved items for later viewing, helping increase return traffic and engagement with options for custom buttons and integration with Facebook's save feature across web and mobile.",
+    "keywords": ["Save Button", "bookmark", "save for later", "social plugin", "content saving", "Facebook save", "website integration", "user engagement", "return traffic", "bookmarking"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Share Button Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/share-button",
+    "description": "The Facebook Share Button plugin provides a simple way for website visitors to share content on Facebook, with customizable button styles, share count display, and support for sharing links, photos, videos, and custom Open Graph stories.",
+    "keywords": ["Share Button", "social sharing", "Facebook share", "share count", "social plugin", "website integration", "viral marketing", "content distribution", "Open Graph", "user sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Page Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/page-plugin",
+    "description": "The Facebook Page Plugin enables websites to embed and promote Facebook Pages, displaying a timeline, events, and call-to-action button, allowing visitors to like the page and see recent posts directly on external websites.",
+    "keywords": ["Page Plugin", "Facebook Page", "embed", "social plugin", "timeline embed", "like box", "page promotion", "website integration", "social media integration", "Facebook widget"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Video Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/video",
+    "description": "The Facebook Video plugin allows developers to embed Facebook videos on websites with customizable player controls, autoplay options, and full playback functionality, enabling seamless integration of video content across the web.",
+    "keywords": ["Video Plugin", "Facebook video", "video embed", "player", "video integration", "embed code", "video playback", "autoplay", "social video", "web video"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Quote Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/quote",
+    "description": "The Facebook Quote plugin allows websites to make text selectable for sharing as a quote on Facebook, enabling users to highlight and share specific passages with attribution, increasing engagement and social sharing of written content.",
+    "keywords": ["Quote Plugin", "text sharing", "quote sharing", "social sharing", "highlight", "attribution", "content sharing", "user engagement", "social plugin", "website integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Pages API Documentation",
+    "url": "https://developers.facebook.com/docs/pages",
+    "description": "The Facebook Pages API enables developers to programmatically manage Facebook Pages, including posting content, moderating comments, managing messages, accessing insights, and configuring page settings for businesses, brands, and public figures.",
+    "keywords": ["Pages API", "Facebook Pages", "page management", "content posting", "comment moderation", "page insights", "page settings", "business pages", "brand pages", "social media management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Basic Display API",
+    "url": "https://developers.facebook.com/docs/instagram-basic-display-api",
+    "description": "The Instagram Basic Display API allows users to access their own Instagram profile data including photos, videos, and basic profile information, enabling applications to display Instagram content with user permission for web and mobile apps.",
+    "keywords": ["Instagram API", "Basic Display", "Instagram integration", "photo access", "profile data", "user content", "OAuth", "Instagram photos", "social media API", "content display"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API",
+    "url": "https://developers.facebook.com/docs/instagram-api",
+    "description": "The Instagram Graph API provides programmatic access to Instagram Business and Creator accounts for managing content, moderating comments, accessing insights, and replying to messages, enabling developers to build professional Instagram management tools.",
+    "keywords": ["Instagram Graph API", "Instagram Business", "Creator accounts", "content management", "comment moderation", "insights", "messaging", "social media management", "Instagram tools", "Meta API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Basic Display API (Legacy)",
+    "url": "https://developers.facebook.com/docs/instagram-basic-display-api/changelog",
+    "description": "The changelog and migration guide for the Instagram Basic Display API, documenting version updates, deprecated features, and migration paths for developers maintaining applications that access Instagram user content through the official API.",
+    "keywords": ["Instagram API", "Basic Display", "changelog", "migration", "deprecated", "version updates", "API changes", "Instagram integration", "legacy support", "developer updates"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API",
+    "url": "https://developers.facebook.com/docs/whatsapp",
+    "description": "The WhatsApp Business API enables businesses to integrate WhatsApp messaging into their customer communication platforms, supporting automated messages, templates, notifications, and two-way conversations at scale for customer service and marketing.",
+    "keywords": ["WhatsApp API", "Business API", "messaging API", "customer communication", "message templates", "notifications", "two-way messaging", "business messaging", "WhatsApp integration", "Meta API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Cloud API",
+    "url": "https://developers.facebook.com/docs/whatsapp/cloud-api",
+    "description": "The WhatsApp Cloud API provides a hosted solution for integrating WhatsApp messaging into applications without managing infrastructure, offering simplified authentication, webhook handling, and message sending capabilities through Meta's cloud platform.",
+    "keywords": ["WhatsApp Cloud API", "cloud hosting", "messaging API", "webhooks", "message sending", "template management", "business messaging", "Meta cloud", "serverless", "WhatsApp integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform Documentation",
+    "url": "https://developers.facebook.com/docs/messenger-platform",
+    "description": "The Messenger Platform enables developers to build chatbots and messaging experiences on Facebook Messenger, supporting automated conversations, rich media, quick replies, webhooks, and integration with business systems for customer engagement.",
+    "keywords": ["Messenger Platform", "chatbots", "bot development", "messaging API", "conversational AI", "webhooks", "rich media", "quick replies", "customer engagement", "Facebook Messenger"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger webhooks reference",
+    "url": "https://developers.facebook.com/docs/messenger-platform/webhooks",
+    "description": "Complete reference for Messenger Platform webhooks, detailing the events that trigger notifications for messages, postbacks, message echoes, message reads, message deliveries, and other conversation events with payload structures and handling guidance.",
+    "keywords": ["Messenger webhooks", "chatbot events", "message notifications", "postbacks", "webhook reference", "real-time messaging", "conversation events", "message delivery", "read receipts", "Messenger Platform"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics for Apps",
+    "url": "https://developers.facebook.com/docs/analytics",
+    "description": "Facebook Analytics for Apps provides developers with insights about app usage, user behavior, and engagement metrics including retention analysis, funnel tracking, event monitoring, audience segmentation, and conversion optimization for mobile applications.",
+    "keywords": ["Facebook Analytics", "app analytics", "user behavior", "retention", "funnel analysis", "event tracking", "audience segmentation", "conversion tracking", "mobile analytics", "app insights"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "App Events API",
+    "url": "https://developers.facebook.com/docs/app-events",
+    "description": "The App Events API allows developers to track user actions within mobile and web applications, enabling measurement of conversions, optimization of ad campaigns, creation of custom audiences, and analysis of user behavior across platforms.",
+    "keywords": ["App Events", "event tracking", "conversion tracking", "user actions", "ad optimization", "custom audiences", "mobile analytics", "web analytics", "event logging", "performance measurement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pixel Documentation",
+    "url": "https://developers.facebook.com/docs/facebook-pixel",
+    "description": "The Facebook Pixel is a code snippet for websites that tracks visitor actions, enables conversion measurement, optimizes ad delivery, builds audiences for retargeting, and provides detailed analytics about how users interact with websites after seeing Facebook ads.",
+    "keywords": ["Facebook Pixel", "website tracking", "conversion tracking", "retargeting", "ad optimization", "pixel code", "event tracking", "web analytics", "audience building", "conversion measurement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Conversions API Documentation",
+    "url": "https://developers.facebook.com/docs/marketing-api/conversions-api",
+    "description": "The Conversions API enables server-side tracking of web events, providing a more reliable way to measure conversions, especially with increasing browser restrictions, enabling better campaign optimization and attribution through direct server integration.",
+    "keywords": ["Conversions API", "server-side tracking", "conversion measurement", "web events", "ad attribution", "campaign optimization", "browser restrictions", "server integration", "data reliability", "API tracking"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Catalog Manager API",
+    "url": "https://developers.facebook.com/docs/marketing-api/catalog",
+    "description": "The Catalog Manager API enables businesses to manage product catalogs programmatically for dynamic ads, shopping experiences, and Marketplace listings, including inventory updates, product feeds, and catalog organization across Facebook shops and Instagram.",
+    "keywords": ["Catalog API", "product catalogs", "dynamic ads", "shopping", "inventory management", "product feeds", "Facebook Shops", "Instagram Shopping", "e-commerce API", "merchant tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Dynamic Ads API",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads",
+    "description": "The Dynamic Ads API enables automated, personalized ad delivery based on user behavior and product catalogs, supporting retargeting, cross-selling, and personalized product recommendations at scale for e-commerce businesses.",
+    "keywords": ["Dynamic Ads", "personalized advertising", "retargeting", "product ads", "e-commerce", "catalog-based", "automated ads", "cross-selling", "product recommendations", "ad personalization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Business Manager API",
+    "url": "https://developers.facebook.com/docs/business-manager",
+    "description": "The Business Manager API enables programmatic management of business assets including ad accounts, pages, catalogs, pixels, and user permissions, providing tools for large organizations and agencies to manage their Facebook presence at scale.",
+    "keywords": ["Business Manager", "asset management", "ad accounts", "page management", "user permissions", "agency tools", "enterprise", "business assets", "organization management", "Meta Business"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API Documentation",
+    "url": "https://developers.facebook.com/docs/workplace",
+    "description": "The Workplace API enables developers to integrate with Workplace from Meta, Facebook's enterprise communication platform, supporting user management, content posting, group administration, and integration with enterprise systems.",
+    "keywords": ["Workplace API", "enterprise communication", "business collaboration", "Workplace from Meta", "user management", "group administration", "content posting", "enterprise integration", "business tools", "corporate social network"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Gaming Services Documentation",
+    "url": "https://developers.facebook.com/docs/games",
+    "description": "Facebook Gaming Services provide tools for game developers including Instant Games platform, leaderboards, achievements, friend invites, and social features for building engaging gaming experiences across Facebook and Messenger.",
+    "keywords": ["Facebook Gaming", "Instant Games", "game development", "leaderboards", "achievements", "social gaming", "friend invites", "HTML5 games", "Messenger games", "gaming API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instant Games Platform",
+    "url": "https://developers.facebook.com/docs/games/instant-games",
+    "description": "The Instant Games platform enables developers to build lightweight HTML5 games that run directly in Facebook and Messenger without downloads or installations, with features for leaderboards, multiplayer, monetization, and social sharing.",
+    "keywords": ["Instant Games", "HTML5 games", "Facebook games", "Messenger games", "game development", "leaderboards", "multiplayer", "game monetization", "social gaming", "browser games"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Game Services SDK",
+    "url": "https://developers.facebook.com/docs/games/games-services",
+    "description": "The Game Services SDK provides social features for mobile and web games including friend lists, invites, sharing, and leaderboards, enabling developers to add engaging social mechanics to their games with minimal integration effort.",
+    "keywords": ["Game Services", "social gaming", "friend lists", "invites", "leaderboards", "game SDK", "mobile games", "web games", "social features", "game engagement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Spark AR Studio",
+    "url": "https://sparkar.facebook.com/ar-studio",
+    "description": "Spark AR Studio is Facebook's platform for creating augmented reality effects for Facebook and Instagram, providing tools for designing, testing, and publishing AR experiences like face filters, world effects, and interactive animations for millions of users.",
+    "keywords": ["Spark AR", "augmented reality", "AR effects", "face filters", "AR creation", "Instagram filters", "Facebook camera", "AR development", "interactive effects", "AR studio"],
+    "image": "https://sparkar.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Spark AR Hub",
+    "url": "https://sparkar.facebook.com",
+    "description": "The Spark AR Hub is the central resource for AR creators, providing access to documentation, community forums, effect publishing tools, analytics for AR effects, and inspiration for creating engaging augmented reality experiences across Facebook and Instagram.",
+    "keywords": ["Spark AR", "AR Hub", "AR creators", "effect publishing", "AR analytics", "augmented reality", "creator community", "AR tools", "Instagram AR", "Facebook AR"],
+    "image": "https://sparkar.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook AI Research",
+    "url": "https://ai.meta.com",
+    "description": "Meta AI (formerly Facebook AI Research) is the company's artificial intelligence research division, showcasing advancements in computer vision, natural language processing, speech recognition, and embodied AI with publications, open-source tools, and research collaborations.",
+    "keywords": ["Facebook AI", "Meta AI", "FAIR", "AI research", "machine learning", "computer vision", "NLP", "deep learning", "AI publications", "research science"],
+    "image": "https://ai.meta.com/static/og-image.png"
+  },
+  {
+    "title": "PyTorch - Facebook's AI Framework",
+    "url": "https://pytorch.org",
+    "description": "PyTorch is an open-source machine learning framework developed by Facebook's AI Research lab, providing tensor computation with GPU acceleration and deep neural networks built on a tape-based autograd system, widely used for research and production AI applications.",
+    "keywords": ["PyTorch", "machine learning", "deep learning", "AI framework", "Facebook AI", "neural networks", "tensor computation", "GPU acceleration", "open source", "ML research"],
+    "image": "https://pytorch.org/assets/images/pytorch-logo.png"
+  },
+  {
+    "title": "React - Facebook's UI Library",
+    "url": "https://reactjs.org",
+    "description": "React is Facebook's open-source JavaScript library for building user interfaces, enabling developers to create reusable UI components with declarative syntax, virtual DOM for performance, and extensive ecosystem for web and mobile applications.",
+    "keywords": ["React", "JavaScript library", "UI framework", "Facebook open source", "frontend", "components", "virtual DOM", "JSX", "web development", "user interfaces"],
+    "image": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "title": "React Native",
+    "url": "https://reactnative.dev",
+    "description": "React Native is Facebook's framework for building native mobile applications using JavaScript and React, enabling cross-platform development for iOS and Android with native performance and access to platform-specific APIs.",
+    "keywords": ["React Native", "mobile development", "cross-platform", "iOS", "Android", "JavaScript", "native apps", "Facebook framework", "mobile framework", "app development"],
+    "image": "https://reactnative.dev/img/og-image.png"
+  },
+  {
+    "title": "React Native FBSDK Next",
+    "url": "https://www.npmjs.com/package/react-native-fbsdk-next",
+    "description": "React Native FBSDK Next is a community-maintained wrapper around the iOS and Android Facebook SDKs for React Native applications, providing access to Facebook Login, Sharing, App Events, and other Facebook functionality through documented JavaScript modules with support for the latest SDK versions.",
+    "keywords": ["React Native", "FBSDK", "Facebook SDK", "React Native module", "npm package", "mobile development", "Facebook Login", "social sharing", "App Events", "community maintained"],
+    "image": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+  },
+  {
+    "title": "Flutter Facebook SDK",
+    "url": "https://pub.dev/packages/flutter_facebook_sdk_new",
+    "description": "A Flutter plugin for integrating Facebook SDK features including deep links, deferred deep links, and app event logging, with support for iOS and Android, created to work with the latest Facebook SDK versions and xCode 16, maintained for Flutter 2.3.XX and above.",
+    "keywords": ["Flutter", "Facebook SDK", "Dart", "deep links", "app events", "mobile development", "cross-platform", "iOS", "Android", "Flutter plugin"],
+    "image": "https://pub.dev/static/img/pub-dev-icon-og-image.png"
+  },
+  {
+    "title": "Graph API - Load Facebook Groups Data in Python",
+    "url": "http://dlthub.com/context/source/facebook-groups",
+    "description": "A guide for building Facebook Graph data pipelines in Python using dltHub, showing how to set up complete data pipelines from API credentials to database loading in 10 minutes, with support for groups and members endpoints, automatic cursor support, and integration with Iceberg, DataFrames, and various databases.",
+    "keywords": ["Python", "data pipeline", "Graph API", "Facebook Groups", "dltHub", "ETL", "data loading", "REST API", "Python library", "data engineering"],
+    "image": "https://dlthub.com/img/dlt-logo.png"
+  },
+  {
+    "title": "fbRads - R Package for Facebook Marketing API",
+    "url": "https://cran.r-project.org/web/packages/fbRads/readme",
+    "description": "fbRads is an R package providing wrapper functions around the Facebook Marketing API for creating, reading, updating, and deleting custom audiences, images, campaigns, adsets, and ads, enabling data scientists and analysts to manage Facebook advertising programmatically from R.",
+    "keywords": ["R package", "fbRads", "Marketing API", "R programming", "data science", "ad management", "CRAN", "custom audiences", "campaigns", "adsets"],
+    "image": "https://www.r-project.org/logo/Rlogo.png"
+  },
+  {
+    "title": "Facebook Open Source",
+    "url": "https://opensource.fb.com",
+    "description": "Meta Open Source is the hub for Facebook's contributions to the open source community, featuring projects like React, PyTorch, GraphQL, Presto, and many others, with repositories on GitHub, documentation, success stories, and information about contributing to open source development.",
+    "keywords": ["Facebook Open Source", "Meta Open Source", "GitHub", "open source projects", "React", "PyTorch", "GraphQL", "Presto", "community", "code contributions"],
+    "image": "https://opensource.fb.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook Engineering Blog",
+    "url": "https://engineering.fb.com",
+    "description": "The official Facebook Engineering Blog provides technical insights, case studies, and behind-the-scenes stories from Facebook's engineering teams, covering topics like infrastructure scaling, system design, software architecture, new technologies, and challenges of building products used by billions.",
+    "keywords": ["Facebook Engineering", "engineering blog", "technical insights", "infrastructure", "scaling", "system design", "software architecture", "Meta engineering", "tech blog", "development stories"],
+    "image": "https://engineering.fb.com/wp-content/uploads/2021/02/engineering-opengraph.jpg"
+  },
+  {
+    "title": "Meta Research",
+    "url": "https://research.facebook.com",
+    "description": "Meta Research showcases the company's academic publications, scientific breakthroughs, and research initiatives across computer vision, natural language processing, machine learning, and social computing, highlighting collaborations with academic institutions and open-source releases.",
+    "keywords": ["Meta Research", "Facebook Research", "AI research", "academic publications", "computer science", "FAIR", "machine learning", "scientific research", "innovation", "research papers"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "GraphQL - Facebook's Query Language",
+    "url": "https://graphql.org",
+    "description": "GraphQL is a query language for APIs developed internally by Facebook before being open-sourced, enabling clients to request exactly the data they need, making APIs more flexible, efficient, and developer-friendly with strong typing and introspection capabilities.",
+    "keywords": ["GraphQL", "API query language", "Facebook GraphQL", "open source", "API design", "data fetching", "schema", "type system", "query language", "API development"],
+    "image": "https://graphql.org/img/og-image.png"
+  },
+  {
+    "title": "Presto - Facebook's SQL Query Engine",
+    "url": "https://prestodb.io",
+    "description": "Presto is an open-source distributed SQL query engine developed by Facebook for running interactive analytic queries against data sources of all sizes, supporting querying data in Hive, Cassandra, relational databases, and proprietary data stores.",
+    "keywords": ["Presto", "SQL query engine", "Facebook Presto", "big data", "analytics", "distributed queries", "open source", "data warehouse", "interactive queries", "query engine"],
+    "image": "https://prestodb.io/img/presto-logo.png"
+  },
+  {
+    "title": "RocksDB - Facebook's Embedded Database",
+    "url": "http://rocksdb.org",
+    "description": "RocksDB is an embedded persistent key-value store for fast storage developed by Facebook, based on LevelDB with optimizations for multi-core CPUs, flash storage, and server workloads, widely used for storage engines, caches, and high-performance applications.",
+    "keywords": ["RocksDB", "key-value store", "embedded database", "Facebook database", "LSM tree", "persistent storage", "flash storage", "high-performance", "C++ library", "storage engine"],
+    "image": "http://rocksdb.org/images/rocksdb-logo.png"
+  },
+  {
+    "title": "FB303 - Facebook's Thrift Service Framework",
+    "url": "https://github.com/facebook/fb303",
+    "description": "fb303 is a base Thrift service and related utilities developed at Facebook for building scalable services, providing common functionality for monitoring, statistics, and service management across Facebook's infrastructure, open-sourced as part of the Thrift ecosystem.",
+    "keywords": ["fb303", "Thrift", "Facebook infrastructure", "service framework", "RPC", "monitoring", "statistics", "service management", "open source", "C++"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Fizz - Facebook's TLS Library",
+    "url": "https://github.com/facebookincubator/fizz",
+    "description": "Fizz is a TLS 1.3 implementation developed by Facebook for performance and security, designed to be fast, secure, and easy to use, with support for modern cryptographic primitives and integration with Facebook's infrastructure.",
+    "keywords": ["Fizz", "TLS 1.3", "cryptography", "Facebook security", "SSL/TLS", "encryption", "network security", "C++ library", "open source", "secure communication"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Watchman - Facebook's File Watching Service",
+    "url": "https://facebook.github.io/watchman",
+    "description": "Watchman is an open-source file watching service developed by Facebook that monitors files and records changes, triggering actions and providing notifications for build systems, development tools, and applications that need to react to file system changes.",
+    "keywords": ["Watchman", "file watching", "file monitoring", "Facebook open source", "development tools", "build systems", "file system events", "trigger", "notifications", "developer tools"],
+    "image": "https://facebook.github.io/watchman/img/logo.png"
+  },
+  {
+    "title": "HHVM - HipHop Virtual Machine",
+    "url": "https://hhvm.com",
+    "description": "HHVM is an open-source virtual machine developed by Facebook for executing programs written in Hack and PHP, using just-in-time compilation to achieve high performance while maintaining compatibility with existing PHP codebases.",
+    "keywords": ["HHVM", "HipHop", "PHP runtime", "virtual machine", "JIT compilation", "Facebook PHP", "Hack language", "performance", "open source", "server-side"],
+    "image": "https://hhvm.com/img/hhvm-logo.png"
+  },
+  {
+    "title": "Hack Programming Language",
+    "url": "https://hacklang.org",
+    "description": "Hack is a programming language developed by Facebook that interoperates seamlessly with PHP, adding static typing, generics, and other modern language features while maintaining compatibility with existing PHP code and frameworks.",
+    "keywords": ["Hack", "programming language", "Facebook Hack", "static typing", "generics", "PHP compatibility", "type safety", "HHVM", "language design", "server-side"],
+    "image": "https://hacklang.org/img/hack-logo.png"
+  },
+  {
+    "title": "ReasonML - Facebook's OCaml Dialect",
+    "url": "https://reasonml.github.io",
+    "description": "ReasonML is a syntax extension and toolchain for OCaml developed by Facebook, providing a familiar syntax for JavaScript developers while leveraging the powerful type system and performance of OCaml for building reliable applications.",
+    "keywords": ["ReasonML", "OCaml", "functional programming", "Facebook language", "type system", "JavaScript interop", "BuckleScript", "compiler", "type-safe", "language design"],
+    "image": "https://reasonml.github.io/img/og-meta.png"
+  },
+  {
+    "title": "Flow - Facebook's Static Type Checker",
+    "url": "https://flow.org",
+    "description": "Flow is a static type checker for JavaScript developed by Facebook that adds type checking to JavaScript codebases, helping developers catch type-related errors early with gradual typing and support for modern JavaScript features.",
+    "keywords": ["Flow", "static type checker", "JavaScript", "type system", "Facebook tools", "gradual typing", "type safety", "error detection", "development tools", "type checking"],
+    "image": "https://flow.org/img/flow-og-image.png"
+  },
+  {
+    "title": "Jest - Facebook's Testing Framework",
+    "url": "https://jestjs.io",
+    "description": "Jest is a delightful JavaScript testing framework developed by Facebook with a focus on simplicity, supporting zero-config setup, snapshot testing, parallel test execution, and comprehensive mocking for testing React applications and other JavaScript projects.",
+    "keywords": ["Jest", "testing framework", "JavaScript testing", "Facebook Jest", "unit testing", "snapshot testing", "React testing", "test runner", "assertions", "mocking"],
+    "image": "https://jestjs.io/img/opengraph.png"
+  },
+  {
+    "title": "Enzyme - React Testing Utility",
+    "url": "https://enzymejs.github.io/enzyme",
+    "description": "Enzyme is a JavaScript testing utility for React developed by Airbnb that makes it easier to assert, manipulate, and traverse React component output, with a jQuery-like API for testing component behavior and rendering.",
+    "keywords": ["Enzyme", "React testing", "JavaScript testing", "Airbnb", "component testing", "shallow rendering", "DOM testing", "React components", "test utilities", "unit testing"],
+    "image": "https://enzymejs.github.io/enzyme/img/enzyme-logo.png"
+  },
+  {
+    "title": "Relay - Facebook's GraphQL Client",
+    "url": "https://relay.dev",
+    "description": "Relay is a JavaScript framework for building data-driven React applications with GraphQL, developed by Facebook to optimize data fetching, manage client-side data, and provide colocation between components and their data dependencies.",
+    "keywords": ["Relay", "GraphQL client", "React", "Facebook Relay", "data fetching", "state management", "GraphQL", "React components", "data colocation", "client-side"],
+    "image": "https://relay.dev/img/og-image.png"
+  },
+  {
+    "title": "Immutable.js - Persistent Data Collections",
+    "url": "https://immutable-js.com",
+    "description": "Immutable.js provides persistent immutable data structures for JavaScript, developed by Facebook to enable efficient immutable data handling with structural sharing, supporting Lists, Maps, Sets, and other collections for functional programming patterns.",
+    "keywords": ["Immutable.js", "persistent data", "immutable data", "JavaScript collections", "functional programming", "structural sharing", "data structures", "Facebook open source", "state management", "JavaScript library"],
+    "image": "https://immutable-js.com/img/logo.png"
+  },
+  {
+    "title": "Create React App",
+    "url": "https://create-react-app.dev",
+    "description": "Create React App is an officially supported tool for building React applications with no build configuration, developed by Facebook to provide a modern build setup with zero configuration for React projects, including testing, development server, and production builds.",
+    "keywords": ["Create React App", "React", "build tools", "Facebook tools", "zero configuration", "React starter", "webpack", "development environment", "React projects", "boilerplate"],
+    "image": "https://create-react-app.dev/img/og-image.png"
+  },
+  {
+    "title": "Metro - React Native Bundler",
+    "url": "https://facebook.github.io/metro",
+    "description": "Metro is a JavaScript bundler for React Native applications developed by Facebook, designed to handle the specific needs of mobile app development with fast rebuilds, lazy bundling, and efficient module resolution for React Native projects.",
+    "keywords": ["Metro", "JavaScript bundler", "React Native", "Facebook bundler", "mobile development", "module resolution", "fast refresh", "bundling", "React Native tools", "build system"],
+    "image": "https://facebook.github.io/metro/img/logo.png"
+  },
+  {
+    "title": "Hermes - React Native JavaScript Engine",
+    "url": "https://hermesengine.dev",
+    "description": "Hermes is a JavaScript engine optimized for React Native applications, developed by Facebook to improve app performance with faster startup, reduced memory usage, and precompiled bytecode for mobile environments.",
+    "keywords": ["Hermes", "JavaScript engine", "React Native", "Facebook Hermes", "mobile performance", "bytecode", "app startup", "memory optimization", "JavaScript runtime", "mobile development"],
+    "image": "https://hermesengine.dev/img/logo.png"
+  },
+  {
+    "title": "Flipper - Mobile Debugger",
+    "url": "https://fbflipper.com",
+    "description": "Flipper is a platform for debugging iOS, Android, and React Native applications developed by Facebook, providing plugins for inspecting network requests, databases, shared preferences, layout, and custom app-specific data.",
+    "keywords": ["Flipper", "mobile debugging", "React Native debugger", "iOS debugger", "Android debugger", "Facebook tools", "network inspector", "layout inspector", "database inspector", "developer tools"],
+    "image": "https://fbflipper.com/img/logo.png"
+  },
+  {
+    "title": "IDB - iOS Debug Bridge",
+    "url": "https://github.com/facebook/idb",
+    "description": "IDB is a flexible command-line interface for automating iOS simulators and devices developed by Facebook, enabling developers to install apps, run tests, capture video, and interact with iOS devices for continuous integration and testing.",
+    "keywords": ["IDB", "iOS debug bridge", "Facebook tools", "iOS automation", "simulator control", "device management", "CI/CD", "testing", "command-line tools", "iOS development"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Sonar - Desktop Debugging Platform",
+    "url": "https://github.com/facebook/sonar",
+    "description": "Sonar is an extensible desktop debugging platform developed by Facebook for inspecting and debugging mobile apps on iOS and Android, providing a plugin architecture for building custom debugging tools and visualizations.",
+    "keywords": ["Sonar", "mobile debugging", "desktop debugger", "Facebook tools", "plugin architecture", "iOS debugging", "Android debugging", "inspection tools", "developer tools", "debugging platform"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for PHP - Graph API",
+    "url": "https://github.com/facebookarchive/php-graph-sdk",
+    "description": "The Facebook PHP SDK (archived) provides a library for integrating with Facebook's Graph API in PHP applications, supporting Facebook Login, API calls, and file uploads for older PHP applications using Facebook features.",
+    "keywords": ["PHP SDK", "Graph API", "Facebook PHP", "PHP library", "Facebook Login", "API integration", "archived", "Composer", "PHP development", "social integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Account Kit Documentation",
+    "url": "https://developers.facebook.com/docs/accountkit",
+    "description": "Facebook Account Kit (deprecated) provided passwordless authentication using phone numbers or email addresses, simplifying user login flows for apps and websites while maintaining security and reducing friction in registration processes.",
+    "keywords": ["Account Kit", "passwordless authentication", "phone login", "email login", "Facebook auth", "deprecated", "legacy", "authentication", "user login", "identity"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Parse - Facebook's Mobile Backend",
+    "url": "https://parseplatform.org",
+    "description": "Parse is an open-source mobile backend platform originally developed by Facebook, providing push notifications, data storage, user authentication, and cloud code for mobile applications, now maintained by the open-source community.",
+    "keywords": ["Parse", "mobile backend", "BaaS", "Facebook Parse", "push notifications", "cloud code", "data storage", "user authentication", "open source", "mobile development"],
+    "image": "https://parseplatform.org/img/logo.png"
+  },
+  {
+    "title": "FBLoginView - iOS Login Component",
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBLoginView",
+    "description": "FBLoginView is a UIKit component from the Facebook iOS SDK that provides a standard login button with automatic handling of login state, permissions, and user profile display, simplifying Facebook Login integration in iOS applications.",
+    "keywords": ["FBLoginView", "iOS", "login button", "Facebook Login", "UIKit", "iOS SDK", "Swift", "Objective-C", "authentication", "UI component"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "FBSDKApplicationDelegate - iOS SDK",
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKApplicationDelegate",
+    "description": "FBSDKApplicationDelegate handles Facebook SDK initialization and URL opening in iOS applications, processing responses from Facebook Login, sharing dialogs, and deep links with automatic integration into app lifecycle methods.",
+    "keywords": ["FBSDKApplicationDelegate", "iOS SDK", "app delegate", "Facebook iOS", "SDK initialization", "URL handling", "deep links", "app lifecycle", "Swift", "Objective-C"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network",
+    "url": "https://developers.facebook.com/docs/audience-network",
+    "description": "Facebook Audience Network is an ad monetization platform for mobile apps, enabling developers to earn revenue by showing targeted ads from Facebook's advertisers with support for banner, interstitial, native, and rewarded video ad formats.",
+    "keywords": ["Audience Network", "ad monetization", "mobile ads", "app monetization", "Facebook ads", "rewarded video", "native ads", "banner ads", "interstitial ads", "ad revenue"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Meta Audience Network - Android Integration",
+    "url": "https://developers.facebook.com/docs/audience-network/android",
+    "description": "Comprehensive guide for integrating Facebook Audience Network into Android applications, covering SDK setup, ad placement configuration, ad format implementation, testing, and best practices for maximizing ad revenue in Android apps.",
+    "keywords": ["Audience Network", "Android", "ad integration", "mobile ads", "SDK setup", "banner ads", "interstitial", "native ads", "rewarded video", "Android development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Meta Audience Network - iOS Integration",
+    "url": "https://developers.facebook.com/docs/audience-network/ios",
+    "description": "Detailed documentation for integrating Facebook Audience Network into iOS applications, including SDK installation, ad format implementation, delegate methods, and optimization strategies for iPhone and iPad ad monetization.",
+    "keywords": ["Audience Network", "iOS", "ad integration", "iPhone ads", "iPad monetization", "SDK setup", "banner ads", "interstitial", "native ads", "rewarded video"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Migration Guides",
+    "url": "https://developers.facebook.com/docs/ios/migration",
+    "description": "Official migration guides for upgrading between major versions of the Facebook SDK for iOS, Android, and other platforms, detailing breaking changes, deprecated features, and step-by-step instructions for keeping applications up to date.",
+    "keywords": ["migration guide", "SDK upgrade", "version update", "breaking changes", "deprecated features", "iOS SDK", "Android SDK", "upgrade path", "compatibility", "developer guide"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Changelog",
+    "url": "https://developers.facebook.com/docs/ios/change-log-ios",
+    "description": "The official changelog for Facebook SDK releases, documenting new features, bug fixes, performance improvements, and API changes across versions for iOS, Android, JavaScript, and other platforms.",
+    "keywords": ["changelog", "release notes", "SDK updates", "version history", "new features", "bug fixes", "iOS SDK", "Android SDK", "JavaScript SDK", "release documentation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Community",
+    "url": "https://developers.facebook.com/community",
+    "description": "The official Facebook Developer Community provides forums, discussion groups, and support channels where developers can ask questions, share knowledge, and connect with other developers building on Facebook's platforms.",
+    "keywords": ["developer community", "forums", "discussion", "support", "Q&A", "developer help", "peer support", "Facebook developers", "community forums", "technical discussion"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Stack Overflow - Facebook SDK Tag",
+    "url": "https://stackoverflow.com/questions/tagged/facebook-sdk",
+    "description": "Stack Overflow's Facebook SDK tag is a community-driven Q&A resource where developers can find answers to technical questions, troubleshooting help, and code examples for integrating Facebook SDKs across platforms.",
+    "keywords": ["Stack Overflow", "Q&A", "developer help", "troubleshooting", "code examples", "Facebook SDK", "community support", "programming questions", "technical solutions", "developer forum"],
+    "image": "https://stackoverflow.com/opengraph-icon-200x200.png"
+  },
+  {
+    "title": "Facebook Bug Reporting",
+    "url": "https://developers.facebook.com/bugs",
+    "description": "Facebook's official bug reporting tool for developers to submit, track, and monitor issues related to Facebook APIs, SDKs, and developer tools, with public bug database and status updates on reported issues.",
+    "keywords": ["bug reporting", "issue tracking", "bug database", "Facebook bugs", "API issues", "SDK bugs", "developer support", "bug tracker", "issue submission", "bug status"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Blog",
+    "url": "https://developers.facebook.com/blog",
+    "description": "The official Facebook Developer Blog announces new features, platform updates, API changes, developer resources, and success stories, keeping developers informed about the latest developments in Facebook's developer ecosystem.",
+    "keywords": ["developer blog", "platform updates", "API changes", "new features", "announcements", "developer news", "Facebook platform", "product updates", "SDK releases", "developer resources"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Newsletter",
+    "url": "https://developers.facebook.com/newsletter",
+    "description": "The Facebook Developer Newsletter delivers regular updates, product announcements, technical articles, and upcoming events directly to developers' inboxes, helping them stay current with the evolving Facebook platform.",
+    "keywords": ["newsletter", "developer updates", "email subscription", "platform news", "announcements", "developer resources", "product updates", "technical articles", "events", "Facebook developers"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "F8 Developer Conference",
+    "url": "https://developers.facebook.com/f8",
+    "description": "F8 is Meta's annual developer conference where the company announces new products, platform updates, and developer tools, with session recordings, keynote videos, and technical workshops available for developers worldwide.",
+    "keywords": ["F8", "developer conference", "Meta F8", "keynote", "sessions", "workshops", "product announcements", "platform updates", "developer event", "conference recordings"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Circles",
+    "url": "https://developers.facebook.com/developercircles",
+    "description": "Facebook Developer Circles are community-led groups for local developers to learn, share, and collaborate on building with Facebook technologies, offering meetups, hackathons, and networking opportunities worldwide.",
+    "keywords": ["Developer Circles", "local communities", "meetups", "hackathons", "networking", "developer groups", "community events", "Facebook developers", "local meetups", "tech community"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Meta for Developers - Products",
+    "url": "https://developers.facebook.com/products",
+    "description": "Overview of all Facebook developer products and platforms including Login, Graph API, Marketing API, Pages API, Instagram APIs, WhatsApp Business API, Messenger Platform, Audience Network, and Gaming Services with links to documentation.",
+    "keywords": ["developer products", "Facebook APIs", "platforms", "developer tools", "product overview", "Facebook Login", "Graph API", "Marketing API", "WhatsApp API", "Instagram API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Versioning",
+    "url": "https://developers.facebook.com/docs/graph-api/versioning",
+    "description": "Documentation explaining Facebook Graph API versioning policies, including release schedule, version lifecycle, deprecation timelines, and best practices for maintaining applications across API version updates.",
+    "keywords": ["Graph API", "versioning", "API versions", "deprecation", "release schedule", "version lifecycle", "API updates", "migration", "backward compatibility", "API management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Batch Requests",
+    "url": "https://developers.facebook.com/docs/graph-api/making-multiple-requests",
+    "description": "Guide to making batch requests with the Graph API, allowing developers to combine multiple API calls into a single HTTP request for improved efficiency, reduced latency, and atomic operations across related requests.",
+    "keywords": ["batch requests", "Graph API", "multiple calls", "API optimization", "performance", "atomic operations", "HTTP requests", "efficiency", "API batching", "request grouping"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Pagination",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api/paging",
+    "description": "Documentation on pagination techniques for the Graph API, explaining how to handle large result sets using cursors, limits, and pagination links to efficiently navigate through collections of data like posts, comments, and users.",
+    "keywords": ["pagination", "cursors", "Graph API", "data navigation", "limits", "paging", "API results", "large datasets", "after", "before"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Field Expansion",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api#fieldexpansion",
+    "description": "Guide to field expansion in the Graph API, enabling developers to request nested data and related objects in a single API call using dot notation and field expansion syntax to reduce the number of API requests needed.",
+    "keywords": ["field expansion", "Graph API", "nested data", "related objects", "dot notation", "API efficiency", "data fetching", "single request", "nested fields", "API optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Error Handling",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api#errors",
+    "description": "Comprehensive guide to Graph API error codes, error types, and error handling strategies, helping developers understand and respond appropriately to authentication errors, rate limiting, permission issues, and server errors.",
+    "keywords": ["error handling", "Graph API", "error codes", "error types", "rate limiting", "authentication errors", "permission errors", "API errors", "error responses", "debugging"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Rate Limiting",
+    "url": "https://developers.facebook.com/docs/graph-api/overview/rate-limiting",
+    "description": "Documentation on Facebook Graph API rate limits, explaining usage caps, throttling policies, and best practices for managing API call volumes to avoid hitting rate limits and ensure application stability.",
+    "keywords": ["rate limiting", "Graph API", "API limits", "throttling", "usage caps", "call volume", "API quotas", "application limits", "rate limit headers", "API management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Graph API Debugging Tools",
+    "url": "https://developers.facebook.com/tools/debug",
+    "description": "Collection of Graph API debugging tools including Access Token Debugger, Graph API Explorer, and webhook testing tools to help developers troubleshoot API calls, validate tokens, and test integrations.",
+    "keywords": ["debugging tools", "Graph API Explorer", "token debugger", "webhook tester", "developer tools", "API testing", "troubleshooting", "Facebook tools", "validation", "debugging"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Business Login Documentation",
+    "url": "https://developers.facebook.com/docs/business-login",
+    "description": "Business Login enables businesses to authenticate with Facebook using their business accounts, providing access to business assets like pages, ad accounts, and catalogs with appropriate permissions for business integrations.",
+    "keywords": ["Business Login", "business authentication", "business accounts", "business assets", "page access", "ad account access", "catalog access", "business integration", "Meta Business", "authentication"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for React Native - Getting Started",
+    "url": "https://github.com/thebergamo/react-native-fbsdk-next",
+    "description": "React Native FBSDK Next is a community-maintained SDK providing Facebook integration for React Native apps, with support for Login, Sharing, App Events, and Graph API calls through documented JavaScript modules, maintained as Facebook dropped official support.",
+    "keywords": ["React Native", "FBSDK", "community SDK", "Facebook Login", "React Native module", "mobile development", "cross-platform", "iOS", "Android", "JavaScript"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook Instant Articles",
+    "url": "https://developers.facebook.com/docs/instant-articles",
+    "description": "Facebook Instant Articles is a publishing format that enables publishers to create fast, interactive articles that load instantly on Facebook mobile apps, with tools for formatting, analytics, and monetization of content.",
+    "keywords": ["Instant Articles", "publishing", "fast loading", "mobile articles", "content publishing", "news publishers", "interactive content", "Facebook publishing", "article format", "media tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics for Websites",
+    "url": "https://developers.facebook.com/docs/analytics-for-websites",
+    "description": "Facebook Analytics for Websites provides insights about website traffic, user behavior, and conversion tracking, helping businesses understand how users interact with their websites and optimize marketing performance.",
+    "keywords": ["website analytics", "Facebook Analytics", "user behavior", "conversion tracking", "web insights", "traffic analysis", "marketing analytics", "website metrics", "audience insights", "web tracking"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Live Video API",
+    "url": "https://developers.facebook.com/docs/videos/live-video",
+    "description": "The Live Video API enables developers to integrate Facebook Live streaming into applications, supporting video ingestion, stream management, viewer interaction, and real-time analytics for live broadcasts.",
+    "keywords": ["Live Video", "Facebook Live", "video streaming", "live API", "broadcast", "video ingestion", "stream management", "real-time video", "live interactions", "video API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Video Upload API",
+    "url": "https://developers.facebook.com/docs/videos",
+    "description": "The Video Upload API provides programmatic access for uploading, managing, and distributing videos on Facebook, supporting various video formats, metadata configuration, and publishing options for video content.",
+    "keywords": ["Video API", "video upload", "video management", "video publishing", "Facebook video", "video formats", "metadata", "video distribution", "content management", "video integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Photo Upload API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/photo",
+    "description": "The Photo Upload API enables developers to upload, manage, and retrieve photos through the Graph API, supporting photo creation, album management, tags, and metadata for image content on Facebook.",
+    "keywords": ["Photo API", "image upload", "photo management", "albums", "Graph API", "image hosting", "photo tags", "metadata", "Facebook photos", "image integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Events API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/event",
+    "description": "The Events API provides programmatic access to Facebook Events, enabling developers to create, manage, and retrieve event information, guest lists, and event interactions through the Graph API.",
+    "keywords": ["Events API", "Facebook events", "event management", "guest lists", "event creation", "event data", "calendar integration", "social events", "Graph API", "event planning"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Groups API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/group",
+    "description": "The Groups API enables developers to interact with Facebook Groups programmatically, supporting group management, post creation, member administration, and content moderation for group-based communities.",
+    "keywords": ["Groups API", "Facebook groups", "community management", "group posts", "member management", "group moderation", "social communities", "Graph API", "group integration", "community tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Places API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/place",
+    "description": "The Places API provides access to Facebook's location database, enabling developers to search for places, get location details, and integrate location-based features into applications using Facebook's place data.",
+    "keywords": ["Places API", "location data", "place search", "geolocation", "Facebook places", "location-based", "place details", "check-ins", "venue data", "mapping integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for PHP - Business SDK",
+    "url": "https://packagist.org/packages/jiajiagithub/php-business-sdk",
+    "description": "A PHP Business SDK package for integrating with Facebook's Marketing API and business products, providing comprehensive tools for managing ad campaigns, custom audiences, images, and related content through the Facebook Ads API.",
+    "keywords": ["PHP SDK", "Business SDK", "Marketing API", "PHP package", "Composer", "ad management", "custom audiences", "campaigns", "adsets", "PHP library"],
+    "image": "https://packagist.org/img/logo.png"
+  },
+  {
+    "title": "Facebook C# SDK",
+    "url": "https://github.com/facebook-csharp-sdk/facebook-csharp-sdk",
+    "description": "The Facebook C# SDK is a community-maintained library for integrating Facebook functionality into .NET applications, supporting Graph API calls, Facebook Login, and social features for C#, F#, and VB.NET developers.",
+    "keywords": ["C# SDK", ".NET", "C# library", "Graph API", "Facebook Login", "NuGet", "Windows development", ".NET Core", "ASP.NET", "C# integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Python (Social Auth)",
+    "url": "https://github.com/omab/python-social-auth",
+    "description": "Python Social Auth is a comprehensive authentication library supporting Facebook OAuth2 integration for Django, Flask, and other Python frameworks, providing seamless Facebook Login integration with existing user models.",
+    "keywords": ["Python", "social auth", "Django", "Flask", "OAuth2", "Facebook Login", "authentication", "Python library", "web framework", "user authentication"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Ruby (Koala)",
+    "url": "https://github.com/arsduo/koala",
+    "description": "Koala is a Ruby gem for working with Facebook's Graph API, providing a lightweight, flexible interface for API calls, file uploads, and real-time updates with support for all Facebook API features in Ruby applications.",
+    "keywords": ["Ruby", "Koala", "Ruby gem", "Graph API", "Facebook Ruby", "Rails", "API integration", "Ruby library", "social features", "web development"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Node.js (fbgraph)",
+    "url": "https://github.com/criso/fbgraph",
+    "description": "fbgraph is a Node.js module for Facebook's Graph API, providing a simple interface for making API calls, handling authentication, and managing Facebook data in server-side JavaScript applications.",
+    "keywords": ["Node.js", "fbgraph", "JavaScript", "Graph API", "npm", "Node module", "server-side", "Facebook API", "Express.js", "Node integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Go (facebookgo)",
+    "url": "https://github.com/huandu/facebook",
+    "description": "A comprehensive Go package for Facebook Graph API integration, supporting all API endpoints, OAuth2 authentication, file uploads, and batch requests with strong typing and concurrency support for Go applications.",
+    "keywords": ["Go", "Golang", "Facebook Go", "Graph API", "Go package", "OAuth2", "API client", "concurrency", "Go library", "social integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook Login with Passport.js",
+    "url": "https://www.passportjs.org/packages/passport-facebook",
+    "description": "Passport-Facebook is an authentication strategy for Passport.js, enabling Node.js applications to implement Facebook OAuth2 authentication with minimal configuration and integration with Express-based applications.",
+    "keywords": ["Passport.js", "Node.js", "OAuth2", "authentication", "Express.js", "Facebook Login", "Passport strategy", "web authentication", "Node auth", "login integration"],
+    "image": "https://www.passportjs.org/images/logo.png"
+  },
+  {
+    "title": "Firebase Authentication with Facebook",
+    "url": "https://firebase.google.com/docs/auth/ios/facebook-login",
+    "description": "Firebase documentation for integrating Facebook Login with Firebase Authentication, enabling iOS, Android, and web apps to use Facebook credentials alongside Firebase's comprehensive authentication and user management system.",
+    "keywords": ["Firebase", "Google Firebase", "authentication", "Facebook Login", "iOS", "Android", "web", "Firebase Auth", "OAuth", "user management"],
+    "image": "https://firebase.google.com/images/social.png"
+  },
+  {
+    "title": "Auth0 Facebook Connection",
+    "url": "https://auth0.com/docs/connections/social/facebook",
+    "description": "Auth0 documentation for adding Facebook Login as a social connection, enabling enterprise-grade authentication with Facebook alongside Auth0's identity platform for web, mobile, and native applications.",
+    "keywords": ["Auth0", "identity platform", "social login", "Facebook Login", "authentication", "SSO", "OAuth2", "enterprise auth", "user identity", "login integration"],
+    "image": "https://auth0.com/logo.png"
+  },
+  {
+    "title": "AWS Amplify Facebook Integration",
+    "url": "https://docs.amplify.aws/lib/auth/social-signin/q/platform/js",
+    "description": "AWS Amplify documentation for integrating Facebook Login into applications using Amazon Web Services, providing serverless authentication with Facebook alongside other AWS services for scalable applications.",
+    "keywords": ["AWS Amplify", "Amazon Web Services", "authentication", "Facebook Login", "serverless", "cloud computing", "social sign-in", "AWS", "cloud authentication", "Amplify"],
+    "image": "https://docs.amplify.aws/images/og-image.jpg"
+  },
+  {
+    "title": "Facebook CDN - SDK Delivery",
+    "url": "https://connect.facebook.net/en_US/sdk.js",
+    "description": "The Facebook CDN endpoint for delivering the JavaScript SDK, providing globally distributed, fast-loading SDK access for web applications integrating Facebook Login, sharing, and social plugins.",
+    "keywords": ["CDN", "JavaScript SDK", "content delivery", "SDK loading", "Facebook JS", "web integration", "script delivery", "CDN endpoint", "static resources", "SDK hosting"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Platform Status",
+    "url": "https://developers.facebook.com/status",
+    "description": "Real-time status dashboard for Facebook developer platforms and APIs, providing incident reports, maintenance schedules, and historical uptime data for Graph API, Login, Marketing API, and other developer services.",
+    "keywords": ["platform status", "API status", "uptime", "incident reports", "maintenance", "service health", "Graph API status", "developer tools", "system status", "reliability"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer App Dashboard",
+    "url": "https://developers.facebook.com/apps",
+    "description": "The Facebook Developer App Dashboard is the central console for managing applications, configuring settings, monitoring usage, accessing analytics, and controlling app permissions for Facebook-integrated applications.",
+    "keywords": ["App Dashboard", "developer console", "app management", "configuration", "app settings", "usage analytics", "permissions", "app monitoring", "Facebook apps", "developer portal"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics Events Configuration",
+    "url": "https://developers.facebook.com/docs/analytics/events",
+    "description": "Documentation for configuring and tracking custom events in Facebook Analytics, enabling developers to measure specific user actions, funnel conversions, and engagement metrics across web and mobile applications.",
+    "keywords": ["analytics events", "event tracking", "custom events", "Facebook Analytics", "user actions", "conversion tracking", "funnel analysis", "engagement metrics", "event configuration", "analytics setup"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK for iOS - Swift Package Manager",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "description": "The official Facebook iOS SDK repository on GitHub, supporting Swift Package Manager, CocoaPods, and Carthage for integrating Facebook Login, Sharing, Analytics, and Audience Network into iOS applications built with Swift or Objective-C.",
+    "keywords": ["iOS SDK", "Swift", "Swift Package Manager", "CocoaPods", "Carthage", "GitHub", "Facebook iOS", "iPhone development", "mobile SDK", "iOS library"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Android - Gradle",
+    "url": "https://github.com/facebook/facebook-android-sdk",
+    "description": "The official Facebook Android SDK repository, providing Gradle integration for adding Facebook Login, Sharing, Analytics, and Audience Network to Android applications built with Java or Kotlin in Android Studio.",
+    "keywords": ["Android SDK", "Gradle", "Android Studio", "Java", "Kotlin", "GitHub", "Facebook Android", "mobile development", "Android library", "Facebook integration"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK for Unity - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/integration/facebook-sdk-172279",
+    "description": "The Facebook SDK for Unity on the Unity Asset Store provides game developers with tools for integrating Facebook Login, Sharing, Analytics, and Audience Network into cross-platform games built with Unity.",
+    "keywords": ["Unity SDK", "Unity Asset Store", "game development", "C#", "Unity3D", "Facebook games", "mobile games", "social features", "game integration", "Unity tools"],
+    "image": "https://assetstore.unity.com/images/og-image.jpg"
+  },
+  {
+    "title": "Facebook Gameroom",
+    "url": "https://developers.facebook.com/docs/gameroom",
+    "description": "Facebook Gameroom is a PC gaming platform for playing Facebook games on Windows, providing developers with tools for distributing games, managing payments, and integrating social features for desktop game experiences.",
+    "keywords": ["Gameroom", "PC gaming", "Windows games", "game distribution", "Facebook games", "desktop gaming", "game platform", "social gaming", "game payments", "game development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook AR Studio - Download",
+    "url": "https://sparkar.facebook.com/ar-studio/download",
+    "description": "Download page for Spark AR Studio, Facebook's desktop application for creating augmented reality effects for Facebook and Instagram, with versions available for Windows and macOS.",
+    "keywords": ["Spark AR", "AR Studio", "download", "Windows", "macOS", "AR creation", "effect design", "augmented reality", "Facebook AR", "Instagram filters"],
+    "image": "https://sparkar.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics API",
+    "url": "https://developers.facebook.com/docs/analytics-api",
+    "description": "The Facebook Analytics API enables programmatic access to analytics data, allowing developers to export metrics, build custom dashboards, and integrate Facebook analytics with other business intelligence tools.",
+    "keywords": ["Analytics API", "data export", "metrics API", "custom dashboards", "business intelligence", "Facebook analytics", "API access", "data integration", "reporting API", "analytics data"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Lead Ads API",
+    "url": "https://developers.facebook.com/docs/marketing-api/leads-ads",
+    "description": "The Lead Ads API enables businesses to access and manage leads generated from Facebook Lead Ads, providing programmatic lead retrieval, webhook integration, and CRM synchronization for advertising campaigns.",
+    "keywords": ["Lead Ads", "leads API", "lead generation", "CRM integration", "advertising leads", "Facebook ads", "webhook leads", "lead management", "marketing automation", "customer acquisition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Dynamic Product Ads",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-product-ads",
+    "description": "Documentation for Dynamic Product Ads, enabling automated, personalized product advertisements based on user behavior and catalog data, with support for retargeting, cross-selling, and personalized recommendations.",
+    "keywords": ["Dynamic Product Ads", "DPA", "product advertising", "retargeting", "e-commerce", "catalog ads", "personalized ads", "product recommendations", "Facebook ads", "shopping ads"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Ad Creative API",
+    "url": "https://developers.facebook.com/docs/marketing-api/creative",
+    "description": "The Ad Creative API provides tools for programmatically creating and managing ad creatives, supporting image, video, carousel, and collection ad formats with dynamic creative optimization and testing capabilities.",
+    "keywords": ["Ad Creative", "creative API", "ad formats", "image ads", "video ads", "carousel ads", "collection ads", "dynamic creative", "ad testing", "creative optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Ad Insights API",
+    "url": "https://developers.facebook.com/docs/marketing-api/insights",
+    "description": "The Ad Insights API provides programmatic access to advertising performance data, enabling detailed reporting on impressions, clicks, conversions, and ROI metrics for campaign analysis and optimization.",
+    "keywords": ["Ad Insights", "performance reporting", "campaign analytics", "ad metrics", "impressions", "clicks", "conversions", "ROI", "ad reporting", "Facebook analytics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Targeting API",
+    "url": "https://developers.facebook.com/docs/marketing-api/audiences",
+    "description": "The Audience Targeting API enables programmatic management of custom audiences, lookalike audiences, and saved audiences for precise ad targeting based on customer lists, website traffic, and engagement data.",
+    "keywords": ["Audience API", "custom audiences", "lookalike audiences", "targeting", "ad audiences", "customer lists", "website traffic", "engagement data", "audience management", "Facebook targeting"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Getting Started",
+    "url": "https://developers.facebook.com/docs/marketing-apis/get-started",
+    "description": "Getting started guide for the Facebook Marketing API, covering app creation, access token generation, API versioning, and basic ad account management for developers new to Facebook advertising automation.",
+    "keywords": ["Marketing API", "getting started", "API setup", "access tokens", "ad account", "Facebook ads", "API integration", "developer guide", "beginner tutorial", "ad automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Ad Account Structure",
+    "url": "https://developers.facebook.com/docs/marketing-api/guides/ad-account",
+    "description": "Documentation explaining the hierarchical structure of Facebook advertising accounts, including campaigns, ad sets, and ads, with API endpoints and best practices for organizing advertising campaigns programmatically.",
+    "keywords": ["ad account", "campaign structure", "ad sets", "ads", "hierarchy", "Marketing API", "campaign organization", "ad management", "Facebook ads", "account structure"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Campaign Management",
+    "url": "https://developers.facebook.com/docs/marketing-api/campaign-structure",
+    "description": "Complete guide to managing Facebook advertising campaigns through the Marketing API, including campaign creation, budget optimization, scheduling, and performance tracking for automated advertising workflows.",
+    "keywords": ["campaign management", "campaign API", "budget optimization", "scheduling", "performance tracking", "ad campaigns", "Marketing API", "Facebook ads", "campaign creation", "ad automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Changelog - iOS",
+    "url": "https://github.com/facebook/facebook-ios-sdk/blob/main/CHANGELOG.md",
+    "description": "Detailed changelog for the Facebook iOS SDK, documenting version releases, new features, bug fixes, deprecations, and migration notes for developers maintaining iOS applications with Facebook integration.",
+    "keywords": ["iOS SDK", "changelog", "release notes", "version history", "Facebook iOS", "Swift", "Objective-C", "SDK updates", "bug fixes", "deprecations"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK Changelog - Android",
+    "url": "https://github.com/facebook/facebook-android-sdk/blob/main/CHANGELOG.md",
+    "description": "Comprehensive changelog for the Facebook Android SDK, tracking version changes, feature additions, API updates, and bug fixes for Android applications integrating Facebook functionality.",
+    "keywords": ["Android SDK", "changelog", "release notes", "version history", "Facebook Android", "Java", "Kotlin", "SDK updates", "API changes", "Android development"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Facebook SDK Changelog - JavaScript",
+    "url": "https://developers.facebook.com/docs/javascript/changelog",
+    "description": "Official changelog for the Facebook JavaScript SDK, documenting version updates, new features, and changes to the browser-based SDK for web applications using Facebook Login and social plugins.",
+    "keywords": ["JavaScript SDK", "changelog", "release notes", "web SDK", "Facebook JS", "browser SDK", "version updates", "social plugins", "Facebook Login", "web development"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Migration - v5 to v6",
+    "url": "https://developers.facebook.com/docs/ios/upgrading-5.x-to-6.x",
+    "description": "Migration guide for upgrading Facebook iOS SDK from version 5.x to 6.x, detailing breaking changes, API modifications, and step-by-step instructions for updating applications to the latest SDK version.",
+    "keywords": ["migration guide", "SDK upgrade", "v5 to v6", "iOS SDK", "breaking changes", "API changes", "upgrade steps", "Facebook iOS", "version migration", "SDK update"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Migration - v4 to v5",
+    "url": "https://developers.facebook.com/docs/ios/upgrading-4.x-to-5.x",
+    "description": "Migration documentation for upgrading Facebook iOS SDK from version 4.x to 5.x, providing comprehensive guidance on adapting applications to API changes and new SDK architecture.",
+    "keywords": ["migration guide", "SDK upgrade", "v4 to v5", "iOS SDK", "API changes", "upgrade steps", "Facebook iOS", "legacy migration", "SDK update", "version transition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Android SDK - ProGuard Configuration",
+    "url": "https://developers.facebook.com/docs/android/proguard",
+    "description": "Guide for configuring ProGuard rules when using the Facebook Android SDK, ensuring proper code obfuscation while maintaining SDK functionality in release builds of Android applications.",
+    "keywords": ["ProGuard", "Android", "code obfuscation", "R8", "SDK configuration", "Android build", "release builds", "Facebook Android", "minification", "build optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook iOS SDK - Info.plist Configuration",
+    "url": "https://developers.facebook.com/docs/ios/getting-started#configure-info.plist",
+    "description": "Documentation for configuring iOS app Info.plist file for Facebook SDK integration, including required keys for Facebook App ID, display name, URL schemes, and App Transport Security settings.",
+    "keywords": ["Info.plist", "iOS configuration", "Facebook iOS", "plist settings", "app configuration", "Facebook App ID", "URL schemes", "ATS", "iOS setup", "SDK configuration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Android SDK - Manifest Configuration",
+    "url": "https://developers.facebook.com/docs/android/getting-started#manifest",
+    "description": "Guide for configuring AndroidManifest.xml for Facebook SDK integration, including required permissions, activity declarations, and metadata tags for proper SDK functionality in Android apps.",
+    "keywords": ["AndroidManifest", "Android configuration", "Facebook Android", "manifest settings", "permissions", "activity declarations", "metadata", "SDK setup", "Android integration", "app manifest"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK - Handling Deep Links",
+    "url": "https://developers.facebook.com/docs/applinks",
+    "description": "Documentation for App Links, Facebook's deep linking protocol that enables seamless content sharing and navigation between apps, with support for handling incoming links and directing users to app content.",
+    "keywords": ["deep links", "App Links", "mobile deep linking", "app navigation", "content sharing", "universal links", "intent handling", "Facebook App Links", "link handling", "mobile integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Deferred Deep Links",
+    "url": "https://developers.facebook.com/docs/app-ads/deep-linking",
+    "description": "Guide for implementing deferred deep links that work even if the app isn't installed, enabling personalized user experiences when new users install apps after clicking Facebook ads or shared links.",
+    "keywords": ["deferred deep links", "app install ads", "post-install", "user onboarding", "Facebook ads", "deep linking", "app attribution", "install tracking", "mobile marketing", "user acquisition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Cohorts",
+    "url": "https://developers.facebook.com/docs/analytics/cohorts",
+    "description": "Documentation for cohort analysis in Facebook Analytics, enabling developers to track user retention, engagement patterns, and behavior over time by grouping users based on shared characteristics or actions.",
+    "keywords": ["cohort analysis", "user retention", "engagement patterns", "Facebook Analytics", "user behavior", "retention tracking", "analytics cohorts", "user groups", "behavior analysis", "app analytics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Funnels",
+    "url": "https://developers.facebook.com/docs/analytics/funnels",
+    "description": "Guide to creating and analyzing conversion funnels in Facebook Analytics, tracking user progress through defined sequences of events to identify drop-off points and optimize user flows.",
+    "keywords": ["funnels", "conversion tracking", "user flow", "drop-off analysis", "Facebook Analytics", "event sequences", "conversion optimization", "user journey", "analytics funnels", "performance measurement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Segments",
+    "url": "https://developers.facebook.com/docs/analytics/segmentation",
+    "description": "Documentation for user segmentation in Facebook Analytics, enabling developers to create custom user groups based on demographics, behavior, and events for targeted analysis and engagement strategies.",
+    "keywords": ["user segmentation", "audience segments", "Facebook Analytics", "user groups", "demographic analysis", "behavioral segments", "targeted analysis", "analytics segments", "user insights", "audience insights"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - User Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/user",
+    "description": "Complete reference documentation for the User object in Graph API, covering all available fields, edges, and permissions for accessing and managing Facebook user data in applications.",
+    "keywords": ["User object", "Graph API", "user data", "profile fields", "user edges", "permissions", "Facebook user", "API reference", "user information", "social graph"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Page Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/page",
+    "description": "Comprehensive reference for the Page object in Graph API, detailing available fields, connections, and permissions for managing Facebook Pages programmatically in applications.",
+    "keywords": ["Page object", "Graph API", "Facebook Pages", "page management", "page fields", "page connections", "API reference", "business pages", "page data", "page integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Post Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/post",
+    "description": "Reference documentation for the Post object in Graph API, covering fields, edges, and operations for creating, reading, and managing Facebook posts, comments, and reactions.",
+    "keywords": ["Post object", "Graph API", "Facebook posts", "post creation", "comments", "reactions", "API reference", "social posts", "content management", "post fields"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Comment Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/comment",
+    "description": "Documentation for the Comment object in Graph API, providing fields, edges, and methods for reading, creating, and moderating comments on Facebook posts, photos, and other content.",
+    "keywords": ["Comment object", "Graph API", "comments", "comment moderation", "replies", "comment fields", "social engagement", "content interaction", "API reference", "comment management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Photo Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/photo",
+    "description": "Complete reference for the Photo object in Graph API, covering photo uploads, metadata, albums, tags, and operations for managing image content on Facebook.",
+    "keywords": ["Photo object", "Graph API", "photo upload", "albums", "image metadata", "photo tags", "Facebook photos", "image management", "API reference", "photo fields"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Video Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/video",
+    "description": "Reference documentation for the Video object in Graph API, detailing video upload, processing, metadata, captions, and operations for managing video content across Facebook.",
+    "keywords": ["Video object", "Graph API", "video upload", "video metadata", "captions", "video processing", "Facebook video", "video management", "API reference", "video fields"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Event Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/event",
+    "description": "Documentation for the Event object in Graph API, covering event creation, management, guest lists, and event data for integrating Facebook Events into applications.",
+    "keywords": ["Event object", "Graph API", "Facebook events", "event creation", "guest lists", "event management", "event data", "API reference", "event fields", "calendar integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Group Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/group",
+    "description": "Reference for the Group object in Graph API, providing fields and edges for managing Facebook Groups, group posts, members, and settings in community-focused applications.",
+    "keywords": ["Group object", "Graph API", "Facebook groups", "group management", "group posts", "membership", "community management", "API reference", "group fields", "social communities"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Album Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/album",
+    "description": "Documentation for the Album object in Graph API, covering photo album creation, management, and metadata for organizing images on Facebook profiles and pages.",
+    "keywords": ["Album object", "Graph API", "photo albums", "album management", "photo organization", "Facebook albums", "album fields", "API reference", "image collections", "album creation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Place Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/place",
+    "description": "Reference for the Place object in Graph API, providing location data, check-ins, and place information for integrating Facebook's location database into applications.",
+    "keywords": ["Place object", "Graph API", "location data", "check-ins", "place information", "geolocation", "Facebook places", "venue data", "API reference", "location-based"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Ad Account Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/ad-account",
+    "description": "Comprehensive reference for the Ad Account object in Graph API, covering ad account settings, campaigns, ad sets, ads, and reporting for programmatic advertising management.",
+    "keywords": ["Ad Account", "Graph API", "Facebook ads", "campaign management", "ad sets", "ad reporting", "API reference", "ad account fields", "advertising API", "ad management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Campaign Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/campaign",
+    "description": "Documentation for the Campaign object in Graph API, providing fields and edges for managing advertising campaigns, including budget, schedule, targeting, and performance metrics.",
+    "keywords": ["Campaign object", "Graph API", "ad campaigns", "campaign management", "budget", "scheduling", "targeting", "advertising API", "campaign fields", "ad optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Ad Set Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/ad-set",
+    "description": "Reference for the Ad Set object in Graph API, covering ad set creation, targeting, bidding, scheduling, and optimization settings for Facebook advertising campaigns.",
+    "keywords": ["Ad Set", "Graph API", "targeting", "bidding", "ad scheduling", "optimization", "ad set fields", "Facebook ads", "API reference", "ad management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Ad Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/ad",
+    "description": "Documentation for the Ad object in Graph API, providing fields and methods for creating, managing, and monitoring individual advertisements including creative, status, and performance data.",
+    "keywords": ["Ad object", "Graph API", "ad creative", "ad status", "ad performance", "Facebook ads", "API reference", "ad fields", "individual ads", "ad management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Custom Audience Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/custom-audience",
+    "description": "Reference for the Custom Audience object in Graph API, covering audience creation, management, and targeting using customer lists, website traffic, and engagement data for precision advertising.",
+    "keywords": ["Custom Audience", "Graph API", "audience targeting", "customer lists", "retargeting", "lookalike audiences", "Facebook ads", "API reference", "audience fields", "ad targeting"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Lead Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/lead",
+    "description": "Documentation for the Lead object in Graph API, providing access to lead data generated from Facebook Lead Ads, including form responses, contact information, and lead management features.",
+    "keywords": ["Lead object", "Graph API", "lead data", "Lead Ads", "form responses", "contact information", "lead management", "Facebook leads", "API reference", "customer acquisition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Product Catalog Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/product-catalog",
+    "description": "Reference for the Product Catalog object in Graph API, covering catalog management, product feeds, inventory, and integration with dynamic ads and Facebook Shops for e-commerce applications.",
+    "keywords": ["Product Catalog", "Graph API", "catalog management", "product feeds", "inventory", "dynamic ads", "Facebook Shops", "e-commerce API", "API reference", "product data"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Page Post Object",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/page-post",
+    "description": "Documentation for the Page Post object in Graph API, providing fields and edges for managing posts on Facebook Pages, including creation, scheduling, insights, and engagement tracking.",
+    "keywords": ["Page Post", "Graph API", "page posts", "post scheduling", "insights", "engagement", "Facebook Pages", "content management", "API reference", "post fields"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Instagram Business Account",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/instagram-business-account",
+    "description": "Reference for the Instagram Business Account object in Graph API, covering media management, insights, comments, and messaging for professional Instagram accounts integrated with Facebook.",
+    "keywords": ["Instagram Business", "Graph API", "Instagram API", "media management", "insights", "comments", "messaging", "social media API", "API reference", "Instagram integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - WhatsApp Business Account",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/whats-app-business-account",
+    "description": "Documentation for the WhatsApp Business Account object in Graph API, providing fields and methods for managing WhatsApp Business profiles, message templates, and phone numbers for business messaging.",
+    "keywords": ["WhatsApp Business", "Graph API", "WhatsApp API", "message templates", "phone numbers", "business messaging", "API reference", "WhatsApp integration", "business profiles", "messaging API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Webhook Subscriptions",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/app/subscriptions",
+    "description": "Reference for managing webhook subscriptions through the Graph API, enabling developers to programmatically subscribe to real-time updates for Pages, Users, Apps, and other objects.",
+    "keywords": ["webhook subscriptions", "Graph API", "real-time updates", "subscription management", "webhook fields", "event subscriptions", "API reference", "push notifications", "webhook configuration", "app subscriptions"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Achievements",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/achievement",
+    "description": "Documentation for the Achievements API in Graph API, enabling game developers to create, manage, and award achievements to players for gamification and engagement features.",
+    "keywords": ["achievements", "gamification", "game API", "player achievements", "Graph API", "Facebook games", "engagement", "social gaming", "API reference", "game features"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Scores API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/scores",
+    "description": "Reference for the Scores API in Graph Graph API, enabling game developers to create, update, and manage player leaderboards with friend comparisons and global rankings for competitive gaming.",
+    "keywords": ["Scores API", "leaderboards", "player scores", "game rankings", "Graph API", "Facebook games", "competition", "friend comparisons", "API reference", "gaming features"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Payments",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/payments",
+    "description": "Documentation for the Payments API in Graph API, enabling developers to process, manage, and track in-app purchases, subscriptions, and payment transactions for Facebook-integrated applications and games.",
+    "keywords": ["Payments API", "in-app purchases", "subscriptions", "payment processing", "transactions", "Facebook payments", "monetization", "API reference", "payment fields", "revenue"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Subscriptions",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/subscription",
+    "description": "Reference for managing subscription products through the Graph API, enabling developers to create, manage, and track recurring payment subscriptions for digital content and services.",
+    "keywords": ["subscriptions", "recurring payments", "subscription management", "Payments API", "Graph API", "monetization", "subscription products", "API reference", "revenue", "digital content"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Developer Tools",
+    "url": "https://developers.facebook.com/tools",
+    "description": "Collection of developer tools for Facebook platform integration, including Graph API Explorer, Access Token Debugger, Webhooks Tester, and App Dashboard for building and testing Facebook applications.",
+    "keywords": ["developer tools", "Graph API Explorer", "token debugger", "webhooks tester", "App Dashboard", "Facebook tools", "API testing", "debugging", "development tools", "Meta tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Share Dialog - Web",
+    "url": "https://developers.facebook.com/docs/sharing/web",
+    "description": "Documentation for implementing Facebook Share Dialog on websites, allowing users to share content without requiring Facebook Login, with support for links, photos, videos, and Open Graph stories.",
+    "keywords": ["Share Dialog", "web sharing", "Facebook share", "social sharing", "Open Graph", "no login", "web integration", "sharing API", "content sharing", "viral features"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Share Dialog - iOS",
+    "url": "https://developers.facebook.com/docs/sharing/ios",
+    "description": "Guide for implementing native Facebook Share Dialog in iOS applications, enabling users to share photos, videos, and links with the familiar iOS share sheet interface and Facebook integration.",
+    "keywords": ["Share Dialog", "iOS", "native sharing", "share sheet", "Swift", "Objective-C", "photo sharing", "video sharing", "Facebook iOS", "mobile sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Share Dialog - Android",
+    "url": "https://developers.facebook.com/docs/sharing/android",
+    "description": "Documentation for implementing Facebook Share Dialog in Android applications, providing native sharing capabilities with intent integration and support for photos, videos, and links.",
+    "keywords": ["Share Dialog", "Android", "intent sharing", "Java", "Kotlin", "photo sharing", "video sharing", "Facebook Android", "native sharing", "mobile sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Live Video API",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/live-video",
+    "description": "Reference for Live Video API in Graph API, enabling developers to create, manage, and broadcast live video streams with real-time viewer interaction, comments, and analytics.",
+    "keywords": ["Live Video", "live streaming", "broadcast API", "video API", "Graph API", "real-time video", "viewer interaction", "live comments", "stream management", "video broadcasting"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API - Video Polls",
+    "url": "https://developers.facebook.com/docs/graph-api/reference/video-poll",
+    "description": "Documentation for Video Polls in Graph API, enabling interactive polling during live and uploaded videos to increase viewer engagement and collect audience feedback.",
+    "keywords": ["Video Polls", "interactive video", "audience engagement", "live polling", "video API", "Graph API", "viewer interaction", "feedback", "engagement features", "video interactivity"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Gaming - Tournament API",
+    "url": "https://developers.facebook.com/docs/gaming-services/tournaments",
+    "description": "Documentation for the Tournament API in Facebook Gaming, enabling game developers to create and manage competitive gaming tournaments with brackets, leaderboards, and prizes.",
+    "keywords": ["Tournament API", "gaming tournaments", "competitive gaming", "esports", "leaderboards", "brackets", "Facebook Gaming", "game development", "social gaming", "competition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Gaming - Friend Finder",
+    "url": "https://developers.facebook.com/docs/gaming-services/friend-finder",
+    "description": "Guide for implementing Friend Finder in Facebook games, allowing players to discover and connect with friends who also play the game, enhancing social gameplay and retention.",
+    "keywords": ["Friend Finder", "social gaming", "friend discovery", "game friends", "Facebook Gaming", "player connections", "social features", "game retention", "player engagement", "social mechanics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Gaming - Game Requests",
+    "url": "https://developers.facebook.com/docs/games/game-requests",
+    "description": "Documentation for Game Requests API, enabling players to send invitations, challenges, and gifts to friends, driving viral growth and social engagement in Facebook games.",
+    "keywords": ["Game Requests", "friend invites", "social invites", "viral growth", "game challenges", "gifts", "Facebook Gaming", "player acquisition", "social engagement", "game virality"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Business Manager - API Access",
+    "url": "https://developers.facebook.com/docs/business-manager/guides/api-access",
+    "description": "Guide for programmatically accessing and managing Business Manager assets through the API, including permissions, authentication, and asset management for enterprise-scale operations.",
+    "keywords": ["Business Manager", "API access", "asset management", "permissions", "enterprise API", "business assets", "ad accounts", "pages", "catalogs", "business integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Business Manager - System Users",
+    "url": "https://developers.facebook.com/docs/business-manager/guides/system-users",
+    "description": "Documentation for creating and managing system users in Business Manager for server-to-server API access, enabling automated asset management without human user accounts.",
+    "keywords": ["system users", "server-to-server", "API access", "automation", "Business Manager", "enterprise", "asset management", "service accounts", "programmatic access", "business automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Business Manager - Asset Management",
+    "url": "https://developers.facebook.com/docs/business-manager/guides/manage-assets",
+    "description": "Guide for managing business assets including pages, ad accounts, catalogs, and pixels through Business Manager API, with detailed documentation on asset assignment and permissions.",
+    "keywords": ["asset management", "Business Manager", "pages", "ad accounts", "catalogs", "pixels", "asset assignment", "permissions", "enterprise tools", "business assets"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Asynchronous Reporting",
+    "url": "https://developers.facebook.com/docs/marketing-api/insights/best-practices#asynchronous",
+    "description": "Documentation for asynchronous reporting in Marketing API, enabling large-scale data retrieval through job submission and result polling for comprehensive advertising analytics.",
+    "keywords": ["asynchronous reporting", "Marketing API", "large-scale data", "job submission", "polling", "ad insights", "reporting API", "data retrieval", "analytics", "performance reporting"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Batch Operations",
+    "url": "https://developers.facebook.com/docs/marketing-api/guides/batch",
+    "description": "Guide for performing batch operations with the Marketing API, allowing multiple ad creation or management tasks in a single request for improved efficiency and reduced API calls.",
+    "keywords": ["batch operations", "Marketing API", "bulk operations", "ad creation", "efficiency", "multiple requests", "API optimization", "batch processing", "ad management", "scalability"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Ad Creative Templates",
+    "url": "https://developers.facebook.com/docs/marketing-api/creative/template",
+    "description": "Documentation for using ad creative templates with Marketing API, enabling dynamic ad generation with reusable templates for efficient creative management at scale.",
+    "keywords": ["ad creative", "templates", "dynamic ads", "creative management", "Marketing API", "ad generation", "reusable templates", "ad formats", "scalable creative", "ad automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API - Dynamic Creative",
+    "url": "https://developers.facebook.com/docs/marketing-api/creative/dynamic-creative",
+    "description": "Reference for dynamic creative optimization in Marketing API, automatically testing combinations of images, headlines, and descriptions to find the best-performing ad variations.",
+    "keywords": ["dynamic creative", "creative optimization", "A/B testing", "ad variations", "Marketing API", "performance optimization", "ad testing", "creative combinations", "machine learning", "ad automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Publishing",
+    "url": "https://developers.facebook.com/docs/pages/publishing",
+    "description": "Guide for programmatically publishing content to Facebook Pages through the Pages API, including text posts, photos, videos, and scheduled posts with moderation features.",
+    "keywords": ["Pages API", "content publishing", "page posts", "scheduled posts", "photo publishing", "video publishing", "social media management", "content automation", "page management", "Facebook Pages"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Insights",
+    "url": "https://developers.facebook.com/docs/pages/insights",
+    "description": "Documentation for retrieving Page Insights through the API, providing metrics on page engagement, reach, follower growth, and content performance for analytics and reporting.",
+    "keywords": ["Page Insights", "page analytics", "engagement metrics", "reach", "follower growth", "content performance", "Pages API", "social media analytics", "reporting", "Facebook Pages"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Conversations",
+    "url": "https://developers.facebook.com/docs/pages/conversations",
+    "description": "Guide for managing conversations on Facebook Pages through the API, enabling programmatic handling of private messages, comments, and customer interactions at scale.",
+    "keywords": ["conversations", "private messages", "comment management", "customer interactions", "Pages API", "social customer service", "message handling", "engagement automation", "Facebook Pages", "community management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Messaging",
+    "url": "https://developers.facebook.com/docs/pages/messaging",
+    "description": "Documentation for implementing messaging capabilities with Facebook Pages, including automated responses, message tags, and webhook integration for customer communication.",
+    "keywords": ["messaging", "automated responses", "message tags", "webhooks", "customer communication", "Pages API", "Page messaging", "chat automation", "customer service", "Facebook Pages"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Call-to-Action",
+    "url": "https://developers.facebook.com/docs/pages/call-to-action",
+    "description": "Reference for managing call-to-action buttons on Facebook Pages through the API, enabling programmatic updates of CTA types, links, and configurations for business pages.",
+    "keywords": ["call-to-action", "CTA", "page buttons", "action buttons", "Pages API", "page configuration", "business pages", "Facebook Pages", "conversion optimization", "page management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Tabs",
+    "url": "https://developers.facebook.com/docs/pages/tabs",
+    "description": "Documentation for managing custom tabs on Facebook Pages through the API, enabling developers to add, remove, and configure app tabs for enhanced page functionality.",
+    "keywords": ["page tabs", "custom tabs", "app tabs", "Pages API", "page configuration", "tab management", "Facebook Pages", "page customization", "page apps", "Facebook integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Pages API - Settings",
+    "url": "https://developers.facebook.com/docs/pages/settings",
+    "description": "Guide for managing Facebook Page settings through the API, including page information, privacy settings, notifications, and page-level configurations for automated page administration.",
+    "keywords": ["page settings", "configuration", "page information", "privacy settings", "Pages API", "page administration", "automated management", "Facebook Pages", "settings API", "page configuration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Media Management",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/media",
+    "description": "Documentation for managing Instagram media through the Graph API, including publishing photos and videos, retrieving media insights, and managing content for business and creator accounts.",
+    "keywords": ["Instagram media", "media publishing", "photo posting", "video posting", "Instagram API", "content management", "media insights", "business accounts", "creator accounts", "Instagram integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Comment Management",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/comment-management",
+    "description": "Guide for programmatically managing comments on Instagram through the Graph API, including reading, replying, hiding, and deleting comments for business and creator accounts.",
+    "keywords": ["Instagram comments", "comment management", "comment moderation", "reply automation", "Instagram API", "social media management", "engagement", "business accounts", "creator tools", "community management"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Hashtag Search",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/hashtag-search",
+    "description": "Documentation for hashtag search and tracking through the Instagram Graph API, enabling businesses to discover content, track campaign performance, and analyze hashtag trends.",
+    "keywords": ["hashtag search", "hashtag tracking", "Instagram API", "content discovery", "trend analysis", "campaign tracking", "social listening", "Instagram insights", "marketing analytics", "social media monitoring"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Mentions",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/mentions",
+    "description": "Guide for tracking and managing mentions on Instagram through the Graph API, allowing businesses to monitor brand mentions and engage with users mentioning their accounts.",
+    "keywords": ["mentions", "brand monitoring", "Instagram API", "mention tracking", "social listening", "engagement", "brand awareness", "Instagram mentions", "social media monitoring", "brand reputation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Insights",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/insights",
+    "description": "Documentation for retrieving Instagram insights through the Graph API, providing metrics on account performance, content engagement, audience demographics, and reach for business accounts.",
+    "keywords": ["Instagram insights", "account metrics", "content engagement", "audience demographics", "reach", "Instagram API", "business analytics", "social media metrics", "performance tracking", "Instagram analytics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Stories",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/stories",
+    "description": "Guide for managing Instagram Stories through the Graph API, including publishing stories, retrieving story insights, and accessing story engagement data for business accounts.",
+    "keywords": ["Instagram Stories", "story publishing", "story insights", "ephemeral content", "Instagram API", "content management", "story engagement", "business accounts", "visual content", "story metrics"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Reels",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/reels",
+    "description": "Documentation for managing Instagram Reels through the Graph API, enabling businesses to publish, track, and analyze Reels performance for short-form video content.",
+    "keywords": ["Instagram Reels", "short-form video", "Reels publishing", "video metrics", "Instagram API", "content management", "Reels insights", "business accounts", "viral content", "video engagement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Shopping",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/shopping",
+    "description": "Guide for implementing Instagram Shopping through the Graph API, enabling businesses to tag products, manage shopping content, and track commerce performance on Instagram.",
+    "keywords": ["Instagram Shopping", "product tagging", "social commerce", "e-commerce", "Instagram API", "shopping content", "commerce metrics", "product catalog", "Instagram store", "social selling"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram Graph API - Messaging",
+    "url": "https://developers.facebook.com/docs/instagram-api/guides/messaging",
+    "description": "Documentation for implementing Instagram messaging through the Graph API, enabling businesses to send and receive messages, manage conversations, and automate customer communication.",
+    "keywords": ["Instagram messaging", "direct messages", "conversation management", "customer communication", "Instagram API", "message automation", "business messaging", "DM management", "social customer service", "Instagram DMs"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Message Templates",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/messages/message-templates",
+    "description": "Documentation for creating and managing message templates in WhatsApp Business API, enabling businesses to send pre-approved, formatted messages for notifications and customer communication.",
+    "keywords": ["WhatsApp templates", "message templates", "notification messages", "template management", "WhatsApp API", "business messaging", "template approval", "formatted messages", "WhatsApp Business", "customer notifications"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Interactive Messages",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/messages/interactive",
+    "description": "Guide for sending interactive messages through WhatsApp Business API, including buttons, lists, and quick replies for engaging customer conversations and automated workflows.",
+    "keywords": ["interactive messages", "buttons", "lists", "quick replies", "WhatsApp API", "conversational UI", "customer engagement", "interactive content", "WhatsApp Business", "rich messaging"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Media Messages",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/messages/media",
+    "description": "Documentation for sending media messages through WhatsApp Business API, including images, videos, documents, and audio files for rich business communication.",
+    "keywords": ["media messages", "image sending", "video sharing", "document sharing", "audio messages", "WhatsApp API", "rich media", "file transfer", "WhatsApp Business", "multimedia messaging"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Location Messages",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/messages/location",
+    "description": "Guide for sending location messages through WhatsApp Business API, enabling businesses to share addresses, map locations, and coordinate with customers for logistics and services.",
+    "keywords": ["location sharing", "map integration", "address sharing", "WhatsApp API", "location messages", "business coordinates", "logistics", "customer location", "WhatsApp Business", "geolocation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Webhooks",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/webhooks",
+    "description": "Documentation for implementing WhatsApp Business webhooks to receive real-time notifications about message status, incoming messages, and conversation events for automated responses.",
+    "keywords": ["WhatsApp webhooks", "real-time notifications", "message status", "incoming messages", "conversation events", "WhatsApp API", "automated responses", "webhook integration", "event handling", "message delivery"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Phone Numbers",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/phone-numbers",
+    "description": "Guide for registering, verifying, and managing phone numbers with WhatsApp Business API, including number configuration, quality ratings, and migration between providers.",
+    "keywords": ["phone numbers", "number registration", "number verification", "quality ratings", "WhatsApp API", "business numbers", "number management", "phone configuration", "WhatsApp Business", "number migration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Business Profiles",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/profiles",
+    "description": "Documentation for managing WhatsApp Business profiles through the API, including business information, profile pictures, description, and contact details for professional presence.",
+    "keywords": ["business profiles", "profile management", "business information", "profile picture", "business description", "WhatsApp API", "professional presence", "profile configuration", "WhatsApp Business", "contact details"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "WhatsApp Business API - Two-Step Verification",
+    "url": "https://developers.facebook.com/docs/whatsapp/api/settings/two-step-verification",
+    "description": "Guide for setting up and managing two-step verification for WhatsApp Business API accounts, enhancing security for business phone numbers and preventing unauthorized access.",
+    "keywords": ["two-step verification", "2FA", "account security", "phone verification", "WhatsApp API", "security settings", "authentication", "business security", "WhatsApp Business", "access protection"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Send API",
+    "url": "https://developers.facebook.com/docs/messenger-platform/send-api",
+    "description": "Documentation for the Messenger Send API, enabling chatbots and applications to send messages, attachments, and interactive content to users through Facebook Messenger.",
+    "keywords": ["Send API", "messaging API", "chatbot", "message sending", "attachments", "interactive content", "Messenger Platform", "bot development", "conversational AI", "message delivery"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Webhooks",
+    "url": "https://developers.facebook.com/docs/messenger-platform/webhooks",
+    "description": "Reference for Messenger webhooks, detailing events for messages, postbacks, message echoes, reads, deliveries, and other conversation events for real-time chatbot interactions.",
+    "keywords": ["Messenger webhooks", "real-time events", "message events", "postbacks", "delivery receipts", "read receipts", "chatbot", "event handling", "Messenger Platform", "conversation events"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Quick Replies",
+    "url": "https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies",
+    "description": "Guide for implementing quick replies in Messenger chatbots, providing users with predefined response options for streamlined conversations and guided interactions.",
+    "keywords": ["quick replies", "response options", "guided conversation", "chatbot UI", "user input", "Messenger Platform", "interactive messages", "conversation design", "button options", "user engagement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Templates",
+    "url": "https://developers.facebook.com/docs/messenger-platform/send-messages/templates",
+    "description": "Documentation for message templates in Messenger Platform, including generic templates, button templates, media templates, and receipt templates for rich conversational experiences.",
+    "keywords": ["message templates", "generic template", "button template", "media template", "receipt template", "rich messages", "Messenger Platform", "chatbot UI", "structured content", "conversational design"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Persistent Menu",
+    "url": "https://developers.facebook.com/docs/messenger-platform/send-messages/persistent-menu",
+    "description": "Guide for configuring persistent menus in Messenger chatbots, providing users with constant access to key features and navigation options throughout conversations.",
+    "keywords": ["persistent menu", "chatbot navigation", "menu configuration", "user interface", "Messenger Platform", "bot features", "conversation flow", "user experience", "menu options", "chatbot design"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Handover Protocol",
+    "url": "https://developers.facebook.com/docs/messenger-platform/handover-protocol",
+    "description": "Documentation for the Handover Protocol in Messenger Platform, enabling multiple apps and pages to manage conversations and seamlessly transfer control between bots and human agents.",
+    "keywords": ["handover protocol", "conversation handoff", "bot to human", "multi-app", "page management", "Messenger Platform", "customer service", "agent transfer", "conversation control", "human takeover"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Page Messaging",
+    "url": "https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/page-messaging",
+    "description": "Guide for configuring page messaging settings in Messenger Platform, controlling who can message the page and how messages are routed for business pages.",
+    "keywords": ["page messaging", "messaging settings", "message routing", "privacy settings", "Messenger Platform", "business pages", "message control", "page configuration", "incoming messages", "messaging preferences"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Greeting Text",
+    "url": "https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/greeting",
+    "description": "Documentation for configuring greeting text in Messenger chatbots, setting the initial message users see when starting a conversation with a page or bot.",
+    "keywords": ["greeting text", "welcome message", "initial interaction", "chatbot greeting", "Messenger Platform", "conversation start", "user onboarding", "first impression", "welcome screen", "message configuration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Get Started Button",
+    "url": "https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/get-started-button",
+    "description": "Guide for configuring the Get Started button in Messenger chatbots, providing users with a clear entry point to begin interacting with the bot's functionality.",
+    "keywords": ["Get Started", "entry button", "conversation start", "chatbot onboarding", "Messenger Platform", "user activation", "first interaction", "bot discovery", "start button", "conversation initiation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Ice Breakers",
+    "url": "https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/ice-breakers",
+    "description": "Documentation for ice breakers in Messenger Platform, providing suggested conversation starters to help users begin interacting with chatbots more easily.",
+    "keywords": ["ice breakers", "conversation starters", "suggested prompts", "user guidance", "Messenger Platform", "chatbot engagement", "initial questions", "user assistance", "conversation help", "bot discovery"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Whitelisted Domains",
+    "url": "https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/domain-whitelisting",
+    "description": "Guide for whitelisting domains in Messenger Platform, enabling chatbots to open webviews and display content from specified domains within Messenger conversations.",
+    "keywords": ["whitelisted domains", "domain security", "webviews", "content security", "Messenger Platform", "chatbot webviews", "external content", "domain authorization", "secure browsing", "chatbot integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - Account Linking",
+    "url": "https://developers.facebook.com/docs/messenger-platform/identity/account-linking",
+    "description": "Documentation for account linking in Messenger Platform, enabling users to connect their external accounts with Messenger for personalized experiences and authenticated interactions.",
+    "keywords": ["account linking", "user authentication", "external accounts", "identity", "Messenger Platform", "personalization", "login integration", "account connection", "authenticated users", "user identity"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - User Profile",
+    "url": "https://developers.facebook.com/docs/messenger-platform/identity/user-profile",
+    "description": "Guide for accessing user profile information in Messenger Platform, retrieving basic user data like name, profile picture, and locale for personalized chatbot experiences.",
+    "keywords": ["user profile", "profile data", "user name", "profile picture", "locale", "Messenger Platform", "personalization", "user information", "chatbot context", "user identity"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Messenger Platform - ID Matching",
+    "url": "https://developers.facebook.com/docs/messenger-platform/identity/id-matching",
+    "description": "Documentation for ID matching across Facebook products, enabling developers to identify users consistently across Messenger, Instagram, and Facebook for unified experiences.",
+    "keywords": ["ID matching", "cross-platform identity", "user identification", "Messenger Platform", "Instagram", "Facebook", "unified profile", "consistent identity", "cross-app", "user matching"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API - Groups",
+    "url": "https://developers.facebook.com/docs/workplace/api/groups",
+    "description": "Documentation for managing groups in Workplace through the API, enabling programmatic group creation, membership management, and content moderation for enterprise collaboration.",
+    "keywords": ["Workplace API", "groups", "group management", "membership", "enterprise collaboration", "Workplace from Meta", "content moderation", "team collaboration", "group administration", "business communication"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API - Posts",
+    "url": "https://developers.facebook.com/docs/workplace/api/posts",
+    "description": "Guide for creating and managing posts in Workplace through the API, enabling automated announcements, content distribution, and engagement tracking for enterprise communication.",
+    "keywords": ["Workplace posts", "content creation", "announcements", "automated posting", "Workplace API", "enterprise communication", "content distribution", "engagement tracking", "company news", "business updates"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API - People",
+    "url": "https://developers.facebook.com/docs/workplace/api/people",
+    "description": "Documentation for managing people and user accounts in Workplace through the API, enabling user provisioning, directory management, and profile synchronization with HR systems.",
+    "keywords": ["Workplace people", "user management", "user provisioning", "directory", "HR integration", "Workplace API", "employee accounts", "profile management", "user synchronization", "enterprise users"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API - Integrations",
+    "url": "https://developers.facebook.com/docs/workplace/api/integrations",
+    "description": "Guide for building custom integrations with Workplace using the API, connecting enterprise systems like SharePoint, Google Drive, and internal tools with Workplace collaboration features.",
+    "keywords": ["Workplace integrations", "custom apps", "enterprise systems", "SharePoint", "Google Drive", "Workplace API", "business tools", "collaboration integration", "third-party integration", "enterprise software"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Workplace API - Webhooks",
+    "url": "https://developers.facebook.com/docs/workplace/api/webhooks",
+    "description": "Documentation for Workplace webhooks, enabling real-time notifications for events like new posts, comments, group changes, and user activity for enterprise monitoring and automation.",
+    "keywords": ["Workplace webhooks", "real-time notifications", "event alerts", "enterprise monitoring", "Workplace API", "activity tracking", "automation triggers", "business events", "collaboration updates", "workplace events"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Export API",
+    "url": "https://developers.facebook.com/docs/analytics/export",
+    "description": "Guide for exporting analytics data through the Export API, enabling developers to programmatically retrieve large datasets for custom reporting and business intelligence integration.",
+    "keywords": ["analytics export", "data export", "Export API", "Facebook Analytics", "custom reporting", "business intelligence", "data integration", "large datasets", "analytics data", "reporting automation"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Raw Data Export",
+    "url": "https://developers.facebook.com/docs/analytics/raw-data-export",
+    "description": "Documentation for raw data export from Facebook Analytics, providing access to granular event data for advanced analysis, data warehousing, and custom data science applications.",
+    "keywords": ["raw data", "data export", "event data", "granular data", "Facebook Analytics", "data warehousing", "data science", "advanced analytics", "raw exports", "custom analysis"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - API Reference",
+    "url": "https://developers.facebook.com/docs/analytics-api/reference",
+    "description": "Complete API reference for Facebook Analytics, detailing all available endpoints, parameters, and response formats for programmatic access to analytics data across applications.",
+    "keywords": ["analytics API", "API reference", "Facebook Analytics", "endpoints", "parameters", "data access", "analytics integration", "programmatic access", "metrics API", "analytics endpoints"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics - Insights API",
+    "url": "https://developers.facebook.com/docs/analytics-api/insights",
+    "description": "Documentation for the Insights API in Facebook Analytics, enabling developers to retrieve aggregated metrics, trends, and performance data for comprehensive business reporting.",
+    "keywords": ["Insights API", "aggregated metrics", "performance data", "trend analysis", "Facebook Analytics", "business reporting", "analytics insights", "data aggregation", "metrics retrieval", "analytics API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Rewarded Video",
+    "url": "https://developers.facebook.com/docs/audience-network/rewarded-video",
+    "description": "Guide for implementing rewarded video ads with Facebook Audience Network, enabling users to opt-in to watch video ads in exchange for in-app rewards like currency or power-ups.",
+    "keywords": ["rewarded video", "video ads", "in-app rewards", "ad monetization", "Audience Network", "user incentives", "app engagement", "ad format", "mobile advertising", "user opt-in"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Native Ads",
+    "url": "https://developers.facebook.com/docs/audience-network/native-ads",
+    "description": "Documentation for implementing native ads with Facebook Audience Network, providing seamlessly integrated advertising experiences that match the look and feel of your app.",
+    "keywords": ["native ads", "native advertising", "seamless integration", "app monetization", "Audience Network", "ad formats", "custom ad design", "user experience", "native placements", "mobile advertising"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Interstitial Ads",
+    "url": "https://developers.facebook.com/docs/audience-network/interstitial-ads",
+    "description": "Guide for implementing interstitial ads with Facebook Audience Network, providing full-screen ad placements at natural transition points in mobile apps for maximum revenue.",
+    "keywords": ["interstitial ads", "full-screen ads", "app transitions", "ad placements", "Audience Network", "mobile ads", "ad monetization", "full-screen advertising", "transition ads", "app revenue"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Banner Ads",
+    "url": "https://developers.facebook.com/docs/audience-network/banner-ads",
+    "description": "Documentation for implementing banner ads with Facebook Audience Network, providing standard rectangular ad placements that maintain presence while users interact with apps.",
+    "keywords": ["banner ads", "rectangular ads", "persistent ads", "ad placements", "Audience Network", "mobile ads", "standard banners", "app advertising", "ad formats", "mobile monetization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - In-stream Video",
+    "url": "https://developers.facebook.com/docs/audience-network/in-stream-video",
+    "description": "Guide for implementing in-stream video ads with Facebook Audience Network, placing video advertisements within video content for engaging, non-intrusive ad experiences.",
+    "keywords": ["in-stream video", "video ads", "content advertising", "video placements", "Audience Network", "ad monetization", "video content", "ad experience", "mobile video", "ad formats"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Testing",
+    "url": "https://developers.facebook.com/docs/audience-network/testing",
+    "description": "Documentation for testing Audience Network ad implementations, including test mode configuration, test device setup, and debugging tools for validating ad integration before launch.",
+    "keywords": ["testing", "test mode", "test devices", "ad testing", "Audience Network", "debugging", "ad validation", "integration testing", "pre-launch testing", "quality assurance"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Mediation",
+    "url": "https://developers.facebook.com/docs/audience-network/mediation",
+    "description": "Guide for using Audience Network with ad mediation platforms, enabling developers to maximize fill rates and revenue by integrating Facebook ads alongside other ad networks.",
+    "keywords": ["mediation", "ad mediation", "multiple ad networks", "fill rates", "revenue optimization", "Audience Network", "ad integration", "mediation platforms", "ad stacking", "monetization strategy"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Audience Network - Bidding",
+    "url": "https://developers.facebook.com/docs/audience-network/bidding",
+    "description": "Documentation for real-time bidding with Audience Network, enabling competitive ad auctions for optimal pricing and revenue generation from Facebook's demand partners.",
+    "keywords": ["bidding", "real-time bidding", "ad auctions", "programmatic", "revenue optimization", "Audience Network", "demand partners", "ad pricing", "competitive auctions", "monetization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Newsletter - Archive",
+    "url": "https://developers.facebook.com/blog/newsletter",
+    "description": "Archive of past Facebook Developer Newsletter editions, providing historical updates, feature announcements, and technical articles for developers building on Facebook platforms.",
+    "keywords": ["newsletter archive", "developer updates", "historical announcements", "feature releases", "Facebook developers", "technical articles", "platform news", "archive", "developer communications", "past editions"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Blog - Archive",
+    "url": "https://developers.facebook.com/blog/archive",
+    "description": "Complete archive of Facebook Developer Blog posts, offering historical documentation, product announcements, and technical insights from Facebook's engineering and developer relations teams.",
+    "keywords": ["blog archive", "developer blog", "historical posts", "product announcements", "Facebook developers", "technical insights", "engineering blog", "archive", "developer articles", "platform history"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook for Developers - Events",
+    "url": "https://developers.facebook.com/events",
+    "description": "Calendar of upcoming Facebook Developer events including webinars, workshops, hackathons, and conferences for developers building on Facebook platforms around the world.",
+    "keywords": ["developer events", "webinars", "workshops", "hackathons", "conferences", "Facebook developers", "tech events", "developer calendar", "training events", "community events"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Circles - Find Local",
+    "url": "https://developers.facebook.com/developercircles/find",
+    "description": "Tool for finding local Facebook Developer Circles communities worldwide, enabling developers to connect with nearby peers, attend local meetups, and participate in regional events.",
+    "keywords": ["Developer Circles", "local communities", "nearby developers", "local meetups", "Facebook developers", "community finder", "regional events", "peer networking", "local tech", "community connection"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Circles - Resources",
+    "url": "https://developers.facebook.com/developercircles/resources",
+    "description": "Resources for Facebook Developer Circles community leaders and members, including presentation materials, workshop guides, and event planning tools for local developer communities.",
+    "keywords": ["Developer Circles", "community resources", "presentation materials", "workshop guides", "event planning", "Facebook developers", "community tools", "leader resources", "meetup materials", "local communities"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Certifications",
+    "url": "https://developers.facebook.com/certification",
+    "description": "Information about Facebook's professional certification programs for developers, including exam details, study materials, and credentials for demonstrating expertise in Facebook platforms.",
+    "keywords": ["certification", "professional credentials", "developer certification", "Facebook certification", "exam details", "study materials", "professional development", "credentials", "expert validation", "Facebook skills"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook for Developers - Terms and Policies",
+    "url": "https://developers.facebook.com/policies",
+    "description": "Complete terms and policies for Facebook developers, including platform policies, data use restrictions, compliance requirements, and legal guidelines for building on Facebook.",
+    "keywords": ["developer policies", "terms", "legal guidelines", "platform policies", "data use", "compliance", "Facebook policies", "developer terms", "legal requirements", "platform rules"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Platform Policy",
+    "url": "https://developers.facebook.com/policy",
+    "description": "Detailed Facebook Platform Policy governing how developers can build applications, access user data, and integrate with Facebook's features while maintaining user trust and privacy.",
+    "keywords": ["platform policy", "developer rules", "data access", "user privacy", "Facebook policy", "integration guidelines", "app compliance", "platform rules", "developer guidelines", "legal terms"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Data Use Policy",
+    "url": "https://developers.facebook.com/policy/data-use",
+    "description": "Policy governing how developers must handle user data obtained through Facebook platforms, including data storage, sharing restrictions, security requirements, and user consent.",
+    "keywords": ["data use", "user data", "data handling", "privacy policy", "data security", "Facebook data", "developer compliance", "data restrictions", "user consent", "privacy requirements"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Brand Resources",
+    "url": "https://developers.facebook.com/brand/resources",
+    "description": "Official Facebook brand guidelines and resources for developers, including logo usage, app icons, screenshots, and brand asset requirements for applications integrating Facebook.",
+    "keywords": ["brand resources", "logo usage", "brand guidelines", "app icons", "Facebook branding", "brand assets", "design guidelines", "visual identity", "brand compliance", "Facebook logos"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Bug Bounty Program",
+    "url": "https://www.facebook.com/whitehat",
+    "description": "Facebook's Bug Bounty Program rewarding security researchers who responsibly report vulnerabilities in Facebook's products and infrastructure, with guidelines, reward amounts, and recognition for contributions.",
+    "keywords": ["bug bounty", "security research", "vulnerability reporting", "white hat", "Facebook security", "rewards", "responsible disclosure", "security testing", "vulnerability rewards", "security researchers"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Data for Good",
+    "url": "https://dataforgood.fb.com",
+    "description": "Facebook Data for Good initiative providing aggregated, anonymized data to support humanitarian efforts, disaster response, disease prevention, and social good projects through research partnerships.",
+    "keywords": ["Data for Good", "humanitarian data", "disaster response", "disease prevention", "social good", "anonymized data", "research partnerships", "crisis response", "public health", "social impact"],
+    "image": "https://dataforgood.fb.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Research - Publications",
+    "url": "https://research.facebook.com/publications",
+    "description": "Complete archive of research publications from Meta's research teams, including papers on artificial intelligence, computer vision, natural language processing, and social computing.",
+    "keywords": ["research publications", "academic papers", "AI research", "computer vision", "NLP", "Meta research", "Facebook research", "scientific papers", "research archive", "technical publications"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Research - People",
+    "url": "https://research.facebook.com/people",
+    "description": "Directory of researchers at Meta, featuring profiles of scientists and engineers working on AI, machine learning, and computer science research across Facebook's research labs.",
+    "keywords": ["researchers", "scientists", "AI researchers", "Meta research", "Facebook research", "research team", "scientist profiles", "research staff", "machine learning", "computer science"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Research - Areas",
+    "url": "https://research.facebook.com/research-areas",
+    "description": "Overview of research areas at Meta, including artificial intelligence, computer vision, natural language processing, augmented reality, virtual reality, and computational social science.",
+    "keywords": ["research areas", "AI research", "computer vision", "NLP", "AR research", "VR research", "Meta research", "Facebook research", "research domains", "technology research"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "PyTorch Documentation",
+    "url": "https://pytorch.org/docs/stable/index.html",
+    "description": "Complete documentation for PyTorch, Facebook's open-source machine learning framework, including tutorials, API reference, and guides for deep learning model development.",
+    "keywords": ["PyTorch", "machine learning", "deep learning", "documentation", "API reference", "tutorials", "neural networks", "tensor computation", "GPU acceleration", "Facebook AI"],
+    "image": "https://pytorch.org/assets/images/pytorch-logo.png"
+  },
+  {
+    "title": "PyTorch Tutorials",
+    "url": "https://pytorch.org/tutorials",
+    "description": "Comprehensive tutorials for learning PyTorch, covering basics to advanced topics including neural networks, computer vision, natural language processing, and deployment for production.",
+    "keywords": ["PyTorch tutorials", "deep learning tutorials", "neural networks", "computer vision", "NLP", "machine learning training", "PyTorch learning", "ML tutorials", "deep learning guides", "PyTorch examples"],
+    "image": "https://pytorch.org/assets/images/pytorch-logo.png"
+  },
+  {
+    "title": "PyTorch Forums",
+    "url": "https://discuss.pytorch.org",
+    "description": "Community forums for PyTorch developers and researchers, providing Q&A, discussions, and support for machine learning projects built with Facebook's PyTorch framework.",
+    "keywords": ["PyTorch", "forums", "community", "discussions", "Q&A", "machine learning", "deep learning", "developer support", "PyTorch community", "ML help"],
+    "image": "https://discuss.pytorch.org/uploads/default/original/1X/7d6e3c9a5b8d3b9f1e7a3f8d1e3b9c7d8e1f2a3b.png"
+  },
+  {
+    "title": "React Documentation",
+    "url": "https://reactjs.org/docs/getting-started.html",
+    "description": "Official React documentation from Facebook, providing comprehensive guides, API reference, and tutorials for building user interfaces with the popular JavaScript library.",
+    "keywords": ["React", "JavaScript library", "UI development", "documentation", "React docs", "Facebook React", "frontend development", "component library", "React API", "web development"],
+    "image": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "title": "React Tutorial",
+    "url": "https://reactjs.org/tutorial/tutorial.html",
+    "description": "Interactive React tutorial for beginners, teaching core concepts through hands-on examples and practical exercises for building React applications from scratch.",
+    "keywords": ["React tutorial", "beginner guide", "interactive learning", "React examples", "React basics", "hands-on tutorial", "React learning", "JavaScript tutorial", "UI development", "React practice"],
+    "image": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "title": "React Native Documentation",
+    "url": "https://reactnative.dev/docs/getting-started",
+    "description": "Official React Native documentation for building native mobile applications with JavaScript and React, covering setup, components, APIs, and deployment for iOS and Android.",
+    "keywords": ["React Native", "mobile development", "iOS", "Android", "JavaScript", "cross-platform", "React Native docs", "mobile framework", "native apps", "Facebook React Native"],
+    "image": "https://reactnative.dev/img/og-image.png"
+  },
+  {
+    "title": "React Native Tutorial",
+    "url": "https://reactnative.dev/docs/tutorial",
+    "description": "Step-by-step tutorial for getting started with React Native, building your first mobile application with hands-on examples and practical mobile development concepts.",
+    "keywords": ["React Native tutorial", "mobile development", "iOS tutorial", "Android tutorial", "cross-platform apps", "React Native basics", "mobile app tutorial", "React Native learning", "JavaScript mobile", "native app development"],
+    "image": "https://reactnative.dev/img/og-image.png"
+  },
+  {
+    "title": "GraphQL Documentation",
+    "url": "https://graphql.org/learn",
+    "description": "Complete documentation for GraphQL, the query language developed by Facebook, covering schema definition, queries, mutations, subscriptions, and best practices for API development.",
+    "keywords": ["GraphQL", "query language", "API development", "GraphQL docs", "schema", "queries", "mutations", "subscriptions", "Facebook GraphQL", "API design"],
+    "image": "https://graphql.org/img/og-image.png"
+  },
+  {
+    "title": "GraphQL Specification",
+    "url": "https://spec.graphql.org",
+    "description": "Official GraphQL specification document, defining the syntax, type system, and execution model of the GraphQL language for API implementations and tooling development.",
+    "keywords": ["GraphQL specification", "specification", "language spec", "type system", "execution model", "GraphQL syntax", "API standard", "Facebook GraphQL", "spec docs", "GraphQL reference"],
+    "image": "https://graphql.org/img/og-image.png"
+  },
+  {
+    "title": "Relay Documentation",
+    "url": "https://relay.dev/docs",
+    "description": "Official documentation for Relay, Facebook's GraphQL client for React applications, covering setup, queries, mutations, pagination, and advanced data management patterns.",
+    "keywords": ["Relay", "GraphQL client", "React", "data fetching", "Facebook Relay", "GraphQL queries", "mutations", "pagination", "state management", "Relay docs"],
+    "image": "https://relay.dev/img/og-image.png"
+  },
+  {
+    "title": "Jest Documentation",
+    "url": "https://jestjs.io/docs/getting-started",
+    "description": "Complete documentation for Jest, Facebook's JavaScript testing framework, covering setup, assertions, mocking, snapshot testing, and configuration for testing JavaScript applications.",
+    "keywords": ["Jest", "testing framework", "JavaScript testing", "unit testing", "snapshot testing", "mocking", "Facebook Jest", "test runner", "assertions", "Jest docs"],
+    "image": "https://jestjs.io/img/opengraph.png"
+  },
+  {
+    "title": "Flow Documentation",
+    "url": "https://flow.org/en/docs",
+    "description": "Official documentation for Flow, Facebook's static type checker for JavaScript, covering installation, type annotations, type checking, and integration with development tools.",
+    "keywords": ["Flow", "static typing", "JavaScript", "type checker", "type annotations", "Facebook Flow", "type safety", "JavaScript tools", "Flow docs", "type checking"],
+    "image": "https://flow.org/img/flow-og-image.png"
+  },
+  {
+    "title": "Hermes Documentation",
+    "url": "https://hermesengine.dev/docs",
+    "description": "Documentation for Hermes, Facebook's JavaScript engine optimized for React Native, covering engine features, bytecode compilation, performance optimization, and debugging.",
+    "keywords": ["Hermes", "JavaScript engine", "React Native", "mobile performance", "bytecode", "Facebook Hermes", "JavaScript runtime", "engine optimization", "app performance", "Hermes docs"],
+    "image": "https://hermesengine.dev/img/logo.png"
+  },
+  {
+    "title": "Metro Documentation",
+    "url": "https://facebook.github.io/metro/docs/getting-started",
+    "description": "Official documentation for Metro, Facebook's JavaScript bundler for React Native, covering configuration, bundling, optimization, and integration with React Native projects.",
+    "keywords": ["Metro", "JavaScript bundler", "React Native", "module bundling", "Facebook Metro", "build tools", "bundler configuration", "mobile bundling", "asset management", "Metro docs"],
+    "image": "https://facebook.github.io/metro/img/logo.png"
+  },
+  {
+    "title": "Flipper Documentation",
+    "url": "https://fbflipper.com/docs/features/index",
+    "description": "Documentation for Flipper, Facebook's mobile debugging platform for iOS and Android, covering plugin development, network inspection, layout debugging, and database browsing.",
+    "keywords": ["Flipper", "mobile debugging", "iOS debugger", "Android debugger", "React Native debugger", "Facebook Flipper", "network inspector", "layout inspector", "debugging tools", "mobile development"],
+    "image": "https://fbflipper.com/img/logo.png"
+  },
+  {
+    "title": "IDB Documentation",
+    "url": "https://github.com/facebook/idb/blob/main/README.md",
+    "description": "Documentation for IDB (iOS Debug Bridge), Facebook's command-line tool for automating iOS simulators and devices, supporting app installation, testing, and continuous integration workflows.",
+    "keywords": ["IDB", "iOS Debug Bridge", "iOS automation", "simulator control", "device management", "Facebook tools", "iOS testing", "CI/CD", "command-line tools", "iOS development"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "RocksDB Documentation",
+    "url": "https://github.com/facebook/rocksdb/wiki",
+    "description": "Wiki documentation for RocksDB, Facebook's embedded key-value store, covering architecture, configuration, performance tuning, and usage patterns for high-performance storage applications.",
+    "keywords": ["RocksDB", "key-value store", "embedded database", "Facebook RocksDB", "LSM tree", "storage engine", "database wiki", "performance tuning", "C++ library", "persistent storage"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "HHVM Documentation",
+    "url": "https://docs.hhvm.com",
+    "description": "Official documentation for HHVM, Facebook's virtual machine for Hack and PHP, covering installation, configuration, performance optimization, and language features.",
+    "keywords": ["HHVM", "HipHop", "PHP runtime", "Hack language", "virtual machine", "JIT compilation", "Facebook HHVM", "server-side", "PHP optimization", "HHVM docs"],
+    "image": "https://docs.hhvm.com/img/hhvm-logo.png"
+  },
+  {
+    "title": "Hack Language Documentation",
+    "url": "https://docs.hhvm.com/hack",
+    "description": "Documentation for the Hack programming language developed by Facebook, covering type system, collections, asynchronous programming, and integration with PHP and HHVM.",
+    "keywords": ["Hack", "programming language", "static typing", "async programming", "HHVM", "Facebook Hack", "type system", "Hack language", "PHP compatible", "language docs"],
+    "image": "https://docs.hhvm.com/img/hack-logo.png"
+  },
+  {
+    "title": "ReasonML Documentation",
+    "url": "https://reasonml.github.io/docs/en/what-and-why",
+    "description": "Documentation for ReasonML, Facebook's syntax extension for OCaml, covering language features, tooling, React integration, and compilation to JavaScript for web development.",
+    "keywords": ["ReasonML", "OCaml", "functional programming", "JavaScript compile", "Facebook Reason", "language syntax", "React binding", "type-safe", "Reason docs", "web development"],
+    "image": "https://reasonml.github.io/img/og-meta.png"
+  },
+  {
+    "title": "Immutable.js Documentation",
+    "url": "https://immutable-js.com/docs",
+    "description": "Documentation for Immutable.js, Facebook's library for persistent immutable data structures in JavaScript, covering Lists, Maps, Sets, and functional programming patterns.",
+    "keywords": ["Immutable.js", "persistent data", "immutable data", "JavaScript collections", "functional programming", "Facebook Immutable", "data structures", "state management", "structural sharing", "Immutable docs"],
+    "image": "https://immutable-js.com/img/logo.png"
+  },
+  {
+    "title": "Create React App Documentation",
+    "url": "https://create-react-app.dev/docs/getting-started",
+    "description": "Official documentation for Create React App, Facebook's zero-configuration build tool for React applications, covering project creation, development server, testing, and production builds.",
+    "keywords": ["Create React App", "React boilerplate", "zero configuration", "build tools", "Facebook React", "React setup", "development environment", "webpack config", "CRA docs", "React starter"],
+    "image": "https://create-react-app.dev/img/og-image.png"
+  },
+  {
+    "title": "React DevTools",
+    "url": "https://reactjs.org/blog/2019/08/15/new-react-devtools.html",
+    "description": "Information about React DevTools, Facebook's browser extension for debugging React applications, featuring component inspection, profiling, and performance analysis tools.",
+    "keywords": ["React DevTools", "browser extension", "React debugging", "component inspector", "performance profiler", "Facebook tools", "React tools", "Chrome extension", "Firefox addon", "debugging tools"],
+    "image": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "title": "React Native Debugger",
+    "url": "https://github.com/jhen0409/react-native-debugger",
+    "description": "React Native Debugger is a standalone debugging tool for React Native applications, integrating Redux DevTools, React DevTools, and network inspection for mobile development.",
+    "keywords": ["React Native Debugger", "debugging tools", "mobile debugging", "Redux DevTools", "React DevTools", "network inspector", "React Native tools", "debugger app", "mobile development", "debugging utility"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Expo with Facebook Authentication",
+    "url": "https://docs.expo.dev/versions/latest/sdk/facebook",
+    "description": "Documentation for integrating Facebook authentication in Expo React Native applications, covering Facebook Login setup, configuration, and implementation in Expo-managed projects.",
+    "keywords": ["Expo", "React Native", "Facebook Login", "Expo SDK", "mobile authentication", "Expo Facebook", "managed workflow", "Expo config", "React Native auth", "Expo docs"],
+    "image": "https://docs.expo.dev/static/images/og-image.png"
+  },
+  {
+    "title": "Cordova Facebook Plugin",
+    "url": "https://github.com/jeduan/cordova-plugin-facebook4",
+    "description": "Cordova plugin for Facebook integration in hybrid mobile apps, providing Facebook Login, sharing, and Graph API access for iOS and Android applications built with Cordova/PhoneGap.",
+    "keywords": ["Cordova", "PhoneGap", "Facebook plugin", "hybrid apps", "mobile development", "Facebook Login", "Cordova plugin", "iOS hybrid", "Android hybrid", "cross-platform"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Ionic Facebook Integration",
+    "url": "https://ionicframework.com/docs/native/facebook",
+    "description": "Documentation for integrating Facebook Login and sharing in Ionic applications using Capacitor or Cordova, providing native Facebook functionality for hybrid mobile apps.",
+    "keywords": ["Ionic", "Capacitor", "Cordova", "Facebook Login", "hybrid apps", "mobile development", "Ionic framework", "native plugins", "Facebook integration", "Ionic docs"],
+    "image": "https://ionicframework.com/img/meta/logo.png"
+  },
+  {
+    "title": "NativeScript Facebook Plugin",
+    "url": "https://github.com/NativeScript/nativescript-facebook",
+    "description": "NativeScript plugin for Facebook integration in native mobile applications, enabling Facebook Login, sharing, and API access for iOS and Android apps built with NativeScript.",
+    "keywords": ["NativeScript", "Facebook plugin", "native mobile", "iOS", "Android", "Facebook Login", "NativeScript plugin", "cross-platform", "native apps", "JavaScript mobile"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Xamarin Facebook SDK",
+    "url": "https://github.com/xamarin/Xamarin.Facebook",
+    "description": "Xamarin bindings for the Facebook SDK, enabling C# developers to integrate Facebook Login, sharing, and Graph API access in iOS and Android apps built with Xamarin.",
+    "keywords": ["Xamarin", "C#", ".NET", "Facebook SDK", "Xamarin.Forms", "iOS", "Android", "mobile development", "Facebook bindings", "Xamarin Facebook"],
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Capacitor Facebook Login",
+    "url": "https://capacitorjs.com/docs/apis/facebook-login",
+    "description": "Documentation for Facebook Login plugin in Capacitor, enabling native Facebook authentication in Ionic and Capacitor-based web applications for iOS and Android platforms.",
+    "keywords": ["Capacitor", "Facebook Login", "Ionic", "native authentication", "iOS", "Android", "Capacitor plugin", "mobile web", "hybrid apps", "Facebook integration"],
+    "image": "https://capacitorjs.com/img/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Version Compatibility",
+    "url": "https://developers.facebook.com/docs/android/versioning",
+    "description": "Documentation on Facebook SDK version compatibility, detailing supported platform versions, minimum requirements, and upgrade recommendations for Android and iOS SDKs.",
+    "keywords": ["version compatibility", "SDK versions", "platform requirements", "Android SDK", "iOS SDK", "minimum versions", "upgrade guide", "Facebook SDK", "compatibility matrix", "SDK support"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook SDK Deprecation Policy",
+    "url": "https://developers.facebook.com/docs/ios/deprecation-policy",
+    "description": "Facebook SDK deprecation policy explaining how and when SDK versions are deprecated, sunset timelines, and migration requirements for maintaining applications with up-to-date SDKs.",
+    "keywords": ["deprecation policy", "SDK sunset", "version deprecation", "migration timeline", "Facebook SDK", "iOS SDK", "Android SDK", "version support", "SDK lifecycle", "upgrade requirements"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Support",
+    "url": "https://developers.facebook.com/support",
+    "description": "Facebook Developer Support portal providing help resources, contact options, and support channels for developers building on Facebook platforms, including bug reporting and technical assistance.",
+    "keywords": ["developer support", "technical assistance", "help resources", "bug reporting", "contact support", "Facebook developers", "support portal", "developer help", "technical support", "platform assistance"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer Community Groups",
+    "url": "https://www.facebook.com/groups/developers",
+    "description": "Official Facebook Developer Community group on Facebook, providing a space for developers to connect, share knowledge, ask questions, and discuss Facebook platform development.",
+    "keywords": ["developer community", "Facebook group", "developer discussion", "peer support", "community forum", "Facebook developers", "developer network", "community help", "developer conversation", "tech community"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
   }
 ]
 
