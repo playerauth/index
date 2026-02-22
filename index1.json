@@ -1,7 +1,6 @@
 
 [
-
-  {
+ {
     "title": "Facebook - Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Facebook",
     "description": "Wikipedia article covering the history, features, and impact of Facebook.",
@@ -33,11 +32,6 @@
     "keywords": ["Facebook", "login", "homepage", "social media", "connect", "friends", "profile", "news feed", "sign up", "account"],
     "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
   },
-  {
-    "title": "Facebook Newsroom",
-    "url": "https://about.fb.com/news/",
-    "description": "Official news and announcements from Facebook.",
-  
   {
     "title": "How to Create a Facebook Page for Business",
     "url": "https://www.facebook.com/business/help/461775097570076",
