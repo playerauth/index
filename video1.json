@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Facebook F8 2019 Keynote",
+    "url": "https://www.youtube.com/watch?v=abc123",
+    "thumbnail": "https://img.youtube.com/vi/abc123/hqdefault.jpg",
+    "keywords": ["Facebook","Meta","F8","conference","Mark Zuckerberg","social media","keynote","platform","updates","technology"]
+  },
+  {
+    "title": "Introduction to Facebook Messenger",
+    "url": "https://www.youtube.com/watch?v=def456",
+    "thumbnail": "https://img.youtube.com/vi/def456/hqdefault.jpg",
+    "keywords": ["Messenger","Facebook","chat app","messaging","communication","Meta","social media","platform","app","tutorial"]
+  },
+  {
+    "title": "Instagram Features Overview",
+    "url": "https://www.youtube.com/watch?v=ghi789",
+    "thumbnail": "https://img.youtube.com/vi/ghi789/hqdefault.jpg",
+    "keywords": ["Instagram","Meta","social media","photo sharing","video sharing","stories","platform","app","network","updates"]
+  },
+  {
+    "title": "WhatsApp Tips & Tricks",
+    "url": "https://www.youtube.com/watch?v=jkl012",
+    "thumbnail": "https://img.youtube.com/vi/jkl012/hqdefault.jpg",
+    "keywords": ["WhatsApp","Meta","messaging","chat","communication","tips","app","social media","platform","features"]
+  },
+  {
+    "title": "Meta Platforms Company Overview",
+    "url": "https://www.youtube.com/watch?v=mno345",
+    "thumbnail": "https://img.youtube.com/vi/mno345/hqdefault.jpg",
+    "keywords": ["Meta","Facebook","Instagram","WhatsApp","technology","company","CEO","Mark Zuckerberg","platform","social media"]
+  },
+  {
+    "title": "How to Create a Facebook Page",
+    "url": "https://www.youtube.com/watch?v=pqr678",
+    "thumbnail": "https://img.youtube.com/vi/pqr678/hqdefault.jpg",
+    "keywords": ["Facebook","page","create","business","tutorial","social media","Meta","platform","guide","profile"]
+  },
+  {
+    "title": "Facebook Ads Tutorial 2026",
+    "url": "https://www.youtube.com/watch?v=stu901",
+    "thumbnail": "https://img.youtube.com/vi/stu901/hqdefault.jpg",
+    "keywords": ["Facebook","ads","marketing","Meta","social media","tutorial","platform","business","campaign","guide"]
+  },
+  {
+    "title": "Facebook Privacy Settings Explained",
+    "url": "https://www.youtube.com/watch?v=vwx234",
+    "thumbnail": "https://img.youtube.com/vi/vwx234/hqdefault.jpg",
+    "keywords": ["Facebook","privacy","settings","security","account","Meta","social media","platform","guide","tutorial"]
+  },
+  {
+    "title": "Facebook Groups: Tips & Best Practices",
+    "url": "https://www.youtube.com/watch?v=yzb567",
+    "thumbnail": "https://img.youtube.com/vi/yzb567/hqdefault.jpg",
+    "keywords": ["Facebook","groups","community","Meta","social media","tips","platform","engagement","members","tutorial"]
+  },
+  {
+    "title": "History of Facebook",
+    "url": "https://www.youtube.com/watch?v=klm890",
+    "thumbnail": "https://img.youtube.com/vi/klm890/hqdefault.jpg",
+    "keywords": ["Facebook","history","Meta","platform","social media","founder","Mark Zuckerberg","timeline","evolution","company"]
+  }
+]
