@@ -527,5 +527,815 @@
       "who is the ceo of wikipedia","richest person","historical events","scientists","countries","wikipedia articles","wikipedia biography","wikipedia science","wikipedia technology"
     ],
     "image": "https://www.wikipedia.org/static/favicon/wikipedia.ico"
+  },
+  {
+    "title": "Current Local Time",
+    "url": "https://time.is",
+    "description": "Time.is displays accurate, atomic clock time for any time zone in the world. It shows the current time, time zone information, daylight saving status, and time difference from your location. The site is widely used to answer 'what time is it' questions with precision down to the second.",
+    "keywords": [
+      "what time is it", "current time", "local time", "what time is it in", "time now", "exact time", "world clock", "time zone converter", "what's the time", "time right now"
+    ],
+    "image": "https://time.is/img/timeis-logo.png"
+  },
+  {
+    "title": "What is My IP Address",
+    "url": "https://whatismyipaddress.com",
+    "description": "This tool instantly displays your public IP address, location, ISP, and browser information. It helps users answer questions about their own network identity, troubleshoot connection issues, check VPN functionality, and understand what information websites can see about them.",
+    "keywords": [
+      "what is my ip", "what is my ip address", "my ip address", "ip address lookup", "find my ip", "public ip", "whats my ip", "check my ip", "ip location", "ip address"
+    ],
+    "image": "https://whatismyipaddress.com/images/logo.png"
+  },
+  {
+    "title": "Time and Date Countdown",
+    "url": "https://www.timeanddate.com/countdown",
+    "description": "Timeanddate provides precise countdowns to major events, holidays, and personal occasions. It answers questions like 'how many days until Christmas' with customizable timers, showing days, hours, minutes, and seconds remaining. The site also offers calendars, date calculators, and world clocks.",
+    "keywords": [
+      "how many days until christmas", "how many days till christmas", "countdown to christmas", "days until christmas", "christmas countdown", "days till christmas", "how many days until", "countdown timer", "days until", "how long until"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "Mother's Day Date Finder",
+    "url": "https://www.timeanddate.com/holidays/common/mothers-day",
+    "description": "This page provides the exact date for Mother's Day in various countries, as the holiday falls on different days worldwide. It explains the history, traditions, and why the date changes each year. Essential for planning celebrations and understanding international observance dates.",
+    "keywords": [
+      "when is mother's day", "when is mother's day 2025", "mother's day date", "mother's day 2025", "mother's day", "mother day", "dia de la madre", "mothers day date", "mothers day 2025", "mothers day when"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "Easter Sunday Date Calculator",
+    "url": "https://www.timeanddate.com/holidays/common/easter-sunday",
+    "description": "This resource explains the complex calculation behind Easter's floating date and provides future dates through 2030. It covers the ecclesiastical rules, differences between Western and Orthodox Easter, and cultural traditions associated with the holiday.",
+    "keywords": [
+      "when is easter", "when is easter 2025", "easter date", "easter 2025", "easter sunday", "easter holiday", "when is easter this year", "easter calendar", "orthodox easter", "easter dates"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "Father's Day Information",
+    "url": "https://www.timeanddate.com/holidays/common/fathers-day",
+    "description": "This page provides comprehensive information about Father's Day, including its origins, global observance dates, and cultural significance. It helps users find when to celebrate Father's Day in their country and offers gift ideas and celebration tips.",
+    "keywords": [
+      "when is father's day", "when is father's day 2025", "father's day date", "father's day 2025", "fathers day", "father day", "father's day when", "fathers day 2025", "dia del padre", "father day date"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "What Day Is It Today",
+    "url": "https://www.whatdayisittoday.com",
+    "description": "A simple, straightforward website that displays today's date, day of the week, and notable holidays or observances. It answers the basic question of what day it is for users who need quick reference without distractions.",
+    "keywords": [
+      "what day is it", "what day is it today", "today's date", "what is today's date", "what day", "today date", "day of week", "current date", "today's day", "what is today"
+    ],
+    "image": "https://www.whatdayisittoday.com/logo.png"
+  },
+  {
+    "title": "Super Bowl Information",
+    "url": "https://www.nfl.com/super-bowl",
+    "description": "The official NFL Super Bowl page provides everything about the biggest game in American football: date, time, location, halftime show performers, commercials, and past winners. It answers all Super Bowl-related questions as the event approaches.",
+    "keywords": [
+      "when is the super bowl", "when is the super bowl 2025", "super bowl date", "super bowl 2025", "what time is the super bowl", "super bowl start time", "who won the super bowl", "who won the super bowl 2025", "super bowl winners", "super bowl"
+    ],
+    "image": "https://static.www.nfl.com/image/upload/t_q-best/league/nfl-logo.svg"
+  },
+  {
+    "title": "Elon Musk Biography",
+    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "description": "This comprehensive Wikipedia article covers Elon Musk's life, career, and business ventures including Tesla, SpaceX, Neuralink, and The Boring Company. It details his current status as the world's richest person with a net worth of approximately $342 billion according to recent Forbes estimates.",
+    "keywords": [
+      "who is the richest person in the world", "richest person in the world", "richest man in the world", "who is the richest man", "richest person", "elon musk net worth", "elon musk", "richest person 2025", "world's richest", "billionaires"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+  },
+  {
+    "title": "Bernard Arnault Profile",
+    "url": "https://en.wikipedia.org/wiki/Bernard_Arnault",
+    "description": "This Wikipedia article details Bernard Arnault, chairman and CEO of LVMH, the world's largest luxury goods company. It covers his rise to becoming one of the wealthiest individuals globally, frequently trading places with Elon Musk for the top spot on billionaire rankings.",
+    "keywords": [
+      "who is the richest person", "bernard arnault", "richest man", "lvmh ceo", "french billionaire", "luxury goods billionaire", "arnault net worth", "richest person in europe", "world billionaires", "alternate richest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg"
+  },
+  {
+    "title": "Forbes Real-Time Billionaires List",
+    "url": "https://www.forbes.com/real-time-billionaires",
+    "description": "Forbes provides the definitive real-time ranking of the world's wealthiest individuals, updated every few minutes based on stock market fluctuations. It shows current net worth, daily changes, and detailed profiles of each billionaire, making it the go-to source for wealth comparison.",
+    "keywords": [
+      "richest person in the world", "forbes billionaires", "real time billionaires", "billionaire list", "richest people", "who is the richest", "top billionaires", "billionaire rankings", "world's richest", "net worth rankings"
+    ],
+    "image": "https://www.forbes.com/favicon.ico"
+  },
+  {
+    "title": "Bloomberg Billionaires Index",
+    "url": "https://www.bloomberg.com/billionaires",
+    "description": "Bloomberg's daily ranking of the world's richest people offers detailed analysis of wealth changes, including interactive charts and profiles. It's considered one of the most authoritative sources for tracking billionaire net worth with real-time data integration.",
+    "keywords": [
+      "who is the richest", "bloomberg billionaires", "billionaire index", "daily billionaire ranking", "wealth tracker", "richest person today", "net worth changes", "stock market billionaires", "real time wealth", "billionaire watch"
+    ],
+    "image": "https://www.bloomberg.com/favicon.ico"
+  },
+  {
+    "title": "Elon Musk Forbes Profile",
+    "url": "https://www.forbes.com/profile/elon-musk",
+    "description": "Elon Musk's detailed Forbes profile provides his complete net worth breakdown, including his stakes in Tesla, SpaceX, X (formerly Twitter), and other ventures. It includes historical wealth charts, biography, and his position on both the Forbes 400 and World's Billionaires lists.",
+    "keywords": [
+      "elon musk net worth", "elon musk forbes", "musk billionaire profile", "tesla ceo wealth", "spacex founder net worth", "richest person profile", "musk forbes 400", "elon musk bio", "musk wealth breakdown", "ceo net worth"
+    ],
+    "image": "https://www.forbes.com/favicon.ico"
+  },
+  {
+    "title": "Jeff Bezos Biography",
+    "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+    "description": "This Wikipedia article chronicles Jeff Bezos, founder of Amazon and Blue Origin, who has repeatedly held the title of world's richest person. It covers his business empire, space exploration ambitions, philanthropic efforts, and his ongoing position among the global wealth elite.",
+    "keywords": [
+      "who is the richest person", "jeff bezos", "amazon founder", "bezos net worth", "former richest man", "amazon ceo", "blue origin", "bezos wealth", "billionaire amazon", "top billionaire"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg"
+  },
+  {
+    "title": "Jerry Seinfeld Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jerry_Seinfeld",
+    "description": "Jerry Seinfeld's Wikipedia page details his career as a comedian, actor, and writer, with extensive coverage of his massive net worth from the Seinfeld sitcom syndication and Netflix deals. It explains how he became one of the wealthiest entertainers globally.",
+    "keywords": [
+      "who is the richest actor", "richest actor", "jerry seinfeld", "seinfeld net worth", "actor net worth", "richest comedian", "seinfeld wealth", "tv actor richest", "celebrity net worth actor", "highest paid actor"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jerry_Seinfeld_2016_%28cropped%29.jpg"
+  },
+  {
+    "title": "Oprah Winfrey Biography",
+    "url": "https://en.wikipedia.org/wiki/Oprah_Winfrey",
+    "description": "This comprehensive article covers Oprah Winfrey's journey from talk show host to media mogul and billionaire. It details her net worth, business empire including OWN network, investments, and philanthropic work, explaining her status as the richest African American woman.",
+    "keywords": [
+      "who is the richest actress", "richest actress", "oprah winfrey", "oprah net worth", "actress net worth", "richest female entertainer", "oprah wealth", "media billionaire", "talk show host net worth", "highest paid actress"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Oprah_in_2014.jpg"
+  },
+  {
+    "title": "Jay-Z Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jay-Z",
+    "description": "Jay-Z's Wikipedia article covers his career as a rapper, producer, and business mogul who became hip-hop's first billionaire. It details his music catalog, entertainment companies, liquor brands (D'Ussé, Armand de Brignac), and extensive investment portfolio.",
+    "keywords": [
+      "who is the richest musician", "richest musician", "jay-z", "jay z net worth", "musician net worth", "hip hop billionaire", "richest rapper", "jay z wealth", "music industry richest", "billionaire musician"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_2011_Frameline_Film_Festival_%28cropped%29.jpg"
+  },
+  {
+    "title": "Taylor Swift Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "description": "Taylor Swift's Wikipedia page details her unprecedented success as a singer-songwriter and her rise to billionaire status, largely driven by the record-breaking 'Eras Tour' and her re-recorded album sales. It provides complete career chronology and financial achievements.",
+    "keywords": [
+      "who is the richest singer", "richest singer", "taylor swift", "taylor swift net worth", "singer net worth", "pop star billionaire", "taylor swift wealth", "highest paid singer", "female singer richest", "music billionaire"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Taylor_Swift_%28cropped%29_2.jpg"
+  },
+  {
+    "title": "Tim Cook Biography",
+    "url": "https://en.wikipedia.org/wiki/Tim_Cook",
+    "description": "This Wikipedia article profiles Tim Cook, CEO of Apple Inc. since 2011. It covers his leadership, career history at Apple under Steve Jobs, operational expertise, and his significant net worth as one of the world's most recognizable corporate leaders.",
+    "keywords": [
+      "who is the ceo of apple", "tim cook", "apple ceo", "ceo of apple", "apple leadership", "tim cook apple", "apple executive", "who runs apple", "apple head", "apple chief executive"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tim_Cook_2024.jpg/440px-Tim_Cook_2024.jpg"
+  },
+  {
+    "title": "Sundar Pichai Profile",
+    "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+    "description": "Sundar Pichai's Wikipedia entry details his role as CEO of Alphabet Inc. and Google. It covers his background, education, rise through Google's product teams, and his leadership of both Google and its parent company, making him one of tech's most influential figures.",
+    "keywords": [
+      "who is the ceo of google", "sundar pichai", "google ceo", "ceo of google", "alphabet ceo", "google leadership", "pichai google", "who runs google", "google head", "alphabet leadership"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sundar_Pichai_%28cropped%29.jpg/440px-Sundar_Pichai_%28cropped%29.jpg"
+  },
+  {
+    "title": "Satya Nadella Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+    "description": "This article covers Satya Nadella, Chairman and CEO of Microsoft. It details his tenure since 2014, during which he transformed Microsoft's culture, expanded cloud computing (Azure), and significantly increased the company's market value. It includes his background and leadership philosophy.",
+    "keywords": [
+      "who is the ceo of microsoft", "satya nadella", "microsoft ceo", "ceo of microsoft", "microsoft leadership", "nadella microsoft", "who runs microsoft", "microsoft head", "azure leader", "microsoft chief executive"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Satya_Nadella_Crop.jpg/440px-Satya_Nadella_Crop.jpg"
+  },
+  {
+    "title": "Andy Jassy Biography",
+    "url": "https://en.wikipedia.org/wiki/Andy_Jassy",
+    "description": "Andy Jassy's Wikipedia page profiles the CEO of Amazon, who succeeded Jeff Bezos in 2021. It covers his long tenure at Amazon, particularly his founding and leadership of Amazon Web Services (AWS), his promotion to CEO, and his business philosophy.",
+    "keywords": [
+      "who is the ceo of amazon", "andy jassy", "amazon ceo", "ceo of amazon", "amazon leadership", "jassy amazon", "aws founder", "who runs amazon", "amazon head", "amazon chief executive"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Andy_Jassy_%28cropped%29.jpg/440px-Andy_Jassy_%28cropped%29.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg Profile",
+    "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "description": "This comprehensive Wikipedia article details Mark Zuckerberg, co-founder and CEO of Meta Platforms (formerly Facebook). It covers Facebook's creation, company evolution, acquisitions (Instagram, WhatsApp), metaverse focus, and his personal wealth and philanthropy.",
+    "keywords": [
+      "who is the ceo of facebook", "mark zuckerberg", "meta ceo", "facebook ceo", "ceo of meta", "zuckerberg net worth", "facebook founder", "who runs facebook", "meta leadership", "instagram owner"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark_Zuckerberg%2C_June_2024_%28cropped%29.jpg/440px-Mark_Zuckerberg%2C_June_2024_%28cropped%29.jpg"
+  },
+  {
+    "title": "Elon Musk Tesla Leadership",
+    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "description": "While already listed for his wealth, this entry specifically highlights Elon Musk's role as CEO of Tesla and SpaceX. It details his product leadership, controversial management style, and his influence on the electric vehicle and aerospace industries.",
+    "keywords": [
+      "who is the ceo of tesla", "elon musk", "tesla ceo", "ceo of tesla", "spacex ceo", "musk tesla", "tesla leadership", "who runs tesla", "electric vehicle ceo", "tesla head"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+  },
+  {
+    "title": "Sam Altman Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sam_Altman",
+    "description": "This Wikipedia article covers Sam Altman, CEO of OpenAI and prominent figure in artificial intelligence development. It details his background as president of Y Combinator, his role in leading ChatGPT development, and his advocacy for AI safety and regulation.",
+    "keywords": [
+      "who is the ceo of openai", "sam altman", "openai ceo", "ceo of openai", "chatgpt ceo", "altman openai", "ai leader", "who runs openai", "openai leadership", "artificial intelligence ceo"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sam_Altman_Crop_Crop.JPG/440px-Sam_Altman_Crop_Crop.JPG"
+  },
+  {
+    "title": "Jensen Huang Profile",
+    "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+    "description": "Jensen Huang's Wikipedia page profiles the co-founder and CEO of NVIDIA, a company that became central to the AI revolution through its graphics processors. It covers his leadership, NVIDIA's rise to trillion-dollar valuation, and his distinctive management style.",
+    "keywords": [
+      "who is the ceo of nvidia", "jensen huang", "nvidia ceo", "ceo of nvidia", "nvidia leadership", "huang nvidia", "who runs nvidia", "ai chip ceo", "graphics card ceo", "nvidia founder"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jensen_Huang_2023.jpg/440px-Jensen_Huang_2023.jpg"
+  },
+  {
+    "title": "Tim Cook Apple Profile",
+    "url": "https://www.apple.com/leadership/tim-cook",
+    "description": "Apple's official leadership page for Tim Cook provides his biography, role as CEO, and vision for the company. It includes his statements on privacy, environment, and product philosophy, offering an official perspective on Apple's leadership.",
+    "keywords": [
+      "tim cook apple", "apple ceo official", "apple leadership", "tim cook bio", "ceo of apple official", "apple executive", "cook apple", "apple management", "tim cook profile", "apple chief executive"
+    ],
+    "image": "https://www.apple.com/favicon.ico"
+  },
+  {
+    "title": "Sundar Pichai Google Profile",
+    "url": "https://about.google/intl/ALL_us/leadership/sundar-pichai",
+    "description": "Google's official leadership page presents Sundar Pichai's biography, his role as CEO, and his vision for Google's products and Alphabet's future. It provides an authoritative source on his leadership and Google's corporate direction.",
+    "keywords": [
+      "sundar pichai google", "google ceo official", "alphabet leadership", "sundar pichai bio", "ceo of google official", "google executive", "pichai google", "google management", "sundar profile", "google chief executive"
+    ],
+    "image": "https://www.google.com/favicon.ico"
+  },
+  {
+    "title": "Satya Nadella Microsoft Profile",
+    "url": "https://www.microsoft.com/en-us/leaders/satya-nadella",
+    "description": "Microsoft's official leaders page for Satya Nadella provides his biography, leadership philosophy, and key achievements since becoming CEO. It includes his thoughts on AI, cloud computing, and Microsoft's mission to empower every person and organization.",
+    "keywords": [
+      "satya nadella microsoft", "microsoft ceo official", "microsoft leadership", "nadella bio", "ceo of microsoft official", "microsoft executive", "nadella microsoft", "microsoft management", "satya profile", "microsoft chief executive"
+    ],
+    "image": "https://www.microsoft.com/favicon.ico"
+  },
+  {
+    "title": "How to Screenshot on Mac",
+    "url": "https://support.apple.com/en-us/HT201361",
+    "description": "Apple's official support article provides comprehensive instructions for taking screenshots on Mac computers. It covers all methods: keyboard shortcuts, Screenshot app, Touch Bar options, and how to customize screenshot settings. Includes tips for editing and saving screenshots.",
+    "keywords": [
+      "how to screenshot on mac", "screenshot mac", "mac screenshot shortcut", "take screenshot mac", "how to take a screenshot on mac", "mac screen capture", "apple screenshot", "mac os screenshot", "command shift 4", "mac screenshot keys"
+    ],
+    "image": "https://support.apple.com/favicon.ico"
+  },
+  {
+    "title": "How to Screenshot on Windows",
+    "url": "https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot",
+    "description": "Microsoft's official guide for taking screenshots in Windows using the Snipping Tool and other methods. It explains keyboard shortcuts (Windows key + Shift + S), Print Screen options, and how to annotate, save, and share screenshots across Windows 10 and 11.",
+    "keywords": [
+      "how to screenshot on windows", "screenshot windows", "windows screenshot shortcut", "take screenshot windows", "snipping tool", "windows screen capture", "print screen", "windows key shift s", "how to take a screenshot on windows", "microsoft screenshot"
+    ],
+    "image": "https://support.microsoft.com/favicon.ico"
+  },
+  {
+    "title": "How to Tie a Tie",
+    "url": "https://www.tie-a-tie.net",
+    "description": "This dedicated website provides step-by-step instructions, diagrams, and videos for tying various necktie knots including the Windsor, Half-Windsor, Four-in-Hand, and Pratt. It's the definitive resource for learning this essential skill with clear visual guides.",
+    "keywords": [
+      "how to tie a tie", "tie knot", "tie a tie", "how to tie necktie", "windsor knot", "half windsor", "four in hand", "necktie instructions", "tie tutorial", "how to make a tie knot"
+    ],
+    "image": "https://www.tie-a-tie.net/logo.png"
+  },
+  {
+    "title": "How to Write a Check",
+    "url": "https://www.moneyinstructor.com/writecheck.asp",
+    "description": "This educational resource provides detailed, step-by-step instructions for properly writing a personal check. It covers each field: date, payee, amount in numbers and words, memo line, and signature. Includes examples and common mistakes to avoid.",
+    "keywords": [
+      "how to write a check", "writing a check", "write check", "how to fill out a check", "check writing guide", "personal check instructions", "how to write check amount", "check writing steps", "fill in check", "check writing tutorial"
+    ],
+    "image": "https://www.moneyinstructor.com/favicon.ico"
+  },
+  {
+    "title": "How Many Ounces in a Gallon",
+    "url": "https://www.thecalculatorsite.com/conversions/common/gallons-ounces.php",
+    "description": "This conversion tool and reference page explains the relationship between gallons and ounces, including both US customary and imperial measurements. It provides quick answers to common measurement questions with conversion tables and calculators.",
+    "keywords": [
+      "how many ounces in a gallon", "ounces to gallons", "gallon to oz", "gallon ounces", "oz per gallon", "how many oz in a gallon", "gallon conversion", "liquid measurement", "us gallon ounces", "imperial gallon ounces"
+    ],
+    "image": "https://www.thecalculatorsite.com/favicon.ico"
+  },
+  {
+    "title": "How Many Ounces in a Cup",
+    "url": "https://www.thecalculatorsite.com/cooking/cups-ounces.php",
+    "description": "This cooking conversion guide explains the relationship between cups and fluid ounces for US customary, imperial, and metric measurements. It includes dry ingredient conversions by weight and a handy reference table for common cooking measurements.",
+    "keywords": [
+      "how many ounces in a cup", "cups to ounces", "oz in a cup", "cup to oz conversion", "how many oz in a cup", "liquid measurement cup", "cooking conversion", "fluid ounces per cup", "dry cup measurement", "baking conversion"
+    ],
+    "image": "https://www.thecalculatorsite.com/favicon.ico"
+  },
+  {
+    "title": "How Many Grams in an Ounce",
+    "url": "https://www.metric-conversions.org/weight/ounces-to-grams.htm",
+    "description": "This precise conversion tool provides the exact relationship between ounces and grams (1 oz = 28.3495 grams). It offers bidirectional conversion calculators, reference tables, and explanations of the avoirdupois system used for most weight measurements.",
+    "keywords": [
+      "how many grams in an ounce", "ounces to grams", "oz to g", "gram ounce conversion", "grams per ounce", "how many g in an oz", "weight conversion", "ounce gram calculator", "avoirdupois ounce", "metric conversion"
+    ],
+    "image": "https://www.metric-conversions.org/favicon.ico"
+  },
+  {
+    "title": "How Many Cups in a Quart",
+    "url": "https://www.thecalculatorsite.com/cooking/quarts-cups.php",
+    "description": "This kitchen measurement guide explains that 1 quart equals 4 cups in US customary measurement. It provides conversion calculators, printable charts, and explanations of quart, cup, pint, and gallon relationships for cooking and baking accuracy.",
+    "keywords": [
+      "how many cups in a quart", "quarts to cups", "cups per quart", "quart cup conversion", "how many cups are in a quart", "quart measurement", "kitchen conversion", "liquid quart cups", "dry quart cups", "cooking measurements"
+    ],
+    "image": "https://www.thecalculatorsite.com/favicon.ico"
+  },
+  {
+    "title": "How Many Seconds in a Day",
+    "url": "https://www.timeanddate.com/date/duration.html",
+    "description": "This page explains that there are 86,400 seconds in a day (24 hours × 60 minutes × 60 seconds). It provides date duration calculators, time converters, and explanations of leap seconds and astronomical variations in day length.",
+    "keywords": [
+      "how many seconds in a day", "seconds per day", "day in seconds", "86400 seconds", "seconds calculator", "time conversion", "seconds in 24 hours", "how many seconds are in a day", "day duration", "time measurement"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "How Many Weeks in a Year",
+    "url": "https://www.timeanddate.com/date/week-number.html",
+    "description": "This resource explains that there are 52 weeks plus 1 day in a common year (or 2 days in a leap year), resulting in 52.143 weeks on average. It includes week number calendars, ISO week date system, and calculations for any given year.",
+    "keywords": [
+      "how many weeks in a year", "weeks per year", "year weeks count", "52 weeks", "week number", "calendar weeks", "how many weeks are in a year", "annual weeks", "year week calculation", "iso week"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "How Many People in the World",
+    "url": "https://www.worldometers.info/world-population",
+    "description": "Worldometers provides real-time population estimates updated continuously based on UN data. It shows current world population, growth rates, births and deaths today, and historical projections. Essential for understanding global demographics and trends.",
+    "keywords": [
+      "how many people are in the world", "world population", "global population", "how many people on earth", "world population counter", "current population", "earth population", "how many humans", "world population 2025", "population clock"
+    ],
+    "image": "https://www.worldometers.info/favicon.ico"
+  },
+  {
+    "title": "How Many Countries in the World",
+    "url": "https://www.worldometers.info/geography/how-many-countries-are-there-in-the-world",
+    "description": "This page explains the varying counts of countries (193 UN member states, plus observer states, disputed territories) and why different organizations report different numbers. It provides complete lists by recognition status and geographical distribution.",
+    "keywords": [
+      "how many countries are there", "number of countries", "world countries count", "how many countries in the world", "un member states", "list of countries", "sovereign states", "recognized countries", "country count", "world nations"
+    ],
+    "image": "https://www.worldometers.info/favicon.ico"
+  },
+  {
+    "title": "How to Delete Instagram Account",
+    "url": "https://help.instagram.com/370452623149242",
+    "description": "Instagram's official help center provides step-by-step instructions for temporarily disabling or permanently deleting your Instagram account. It explains the differences, consequences, and how to access the account deletion page with clear screenshots.",
+    "keywords": [
+      "how to delete instagram account", "delete instagram", "instagram account deletion", "remove instagram", "instagram delete", "how to delete insta", "permanently delete instagram", "instagram help delete", "cancel instagram", "instagram remove account"
+    ],
+    "image": "https://help.instagram.com/favicon.ico"
+  },
+  {
+    "title": "How to Delete Facebook Account",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "Facebook's official help page guides users through the process of permanently deleting their Facebook accounts. It covers the difference between deactivation and deletion, how to download your data first, and the 30-day grace period before permanent removal.",
+    "keywords": [
+      "how to delete facebook account", "delete facebook", "facebook account deletion", "remove facebook", "facebook delete", "how to delete fb", "permanently delete facebook", "facebook help delete", "cancel facebook", "facebook remove account"
+    ],
+    "image": "https://www.facebook.com/favicon.ico"
+  },
+  {
+    "title": "What is My IP - Instant Display",
+    "url": "https://whatismyip.com",
+    "description": "This tool instantly shows your public IP address, along with location, ISP, browser, and device information. It's the most direct answer to 'what is my ip' questions, used by millions for VPN testing, network troubleshooting, and privacy checks.",
+    "keywords": [
+      "what is my ip", "my ip", "ip address", "whats my ip", "check my ip", "find ip", "public ip", "ip location", "ip address lookup", "my public ip"
+    ],
+    "image": "https://whatismyip.com/favicon.ico"
+  },
+  {
+    "title": "What to Watch Streaming Guide",
+    "url": "https://www.whattowatch.com",
+    "description": "This entertainment site helps users decide what to watch across streaming platforms like Netflix, Hulu, Disney+, and Amazon Prime. It provides recommendations, new release alerts, reviews, and curated lists based on genres and moods.",
+    "keywords": [
+      "what to watch", "what to watch on netflix", "streaming recommendations", "movies to watch", "tv shows to watch", "best movies", "what should I watch", "streaming guide", "new releases", "top shows"
+    ],
+    "image": "https://www.whattowatch.com/favicon.ico"
+  },
+  {
+    "title": "How to Start a Blog Guide",
+    "url": "https://www.wpbeginner.com/start-a-wordpress-blog",
+    "description": "This comprehensive guide walks beginners through starting a blog, from choosing a niche and domain name to setting up WordPress, writing content, and monetization. It's one of the most referenced resources for aspiring bloggers.",
+    "keywords": [
+      "how to start a blog", "start a blog", "blogging for beginners", "create a blog", "wordpress blog", "blog setup", "how to create a blog", "blogging tips", "start blogging", "blog guide"
+    ],
+    "image": "https://www.wpbeginner.com/favicon.ico"
+  },
+  {
+    "title": "How to Make a Budget",
+    "url": "https://www.nerdwallet.com/article/finance/how-to-make-a-budget",
+    "description": "NerdWallet's budgeting guide provides practical steps for creating and maintaining a personal budget. It covers the 50/30/20 rule, tracking expenses, setting financial goals, and choosing budgeting apps. Includes free budget templates and calculators.",
+    "keywords": [
+      "how to make a budget", "create a budget", "budgeting tips", "personal budget", "monthly budget", "budget planner", "money management", "financial planning", "budgeting for beginners", "household budget"
+    ],
+    "image": "https://www.nerdwallet.com/favicon.ico"
+  },
+  {
+    "title": "How to Learn JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+    "description": "MDN Web Docs provides the authoritative resource for learning JavaScript, from basics to advanced concepts. It includes tutorials, interactive examples, and comprehensive documentation maintained by Mozilla and community contributors. Essential for web developers.",
+    "keywords": [
+      "how to learn javascript", "learn javascript", "javascript tutorial", "javascript for beginners", "js learning", "javascript guide", "coding javascript", "web development javascript", "javascript basics", "javascript course"
+    ],
+    "image": "https://developer.mozilla.org/favicon.ico"
+  },
+  {
+    "title": "How to Change a Tire",
+    "url": "https://www.dmv.org/how-to-guides/change-tire.php",
+    "description": "This step-by-step guide explains how to safely change a flat tire, including tools needed (jack, lug wrench, spare tire), safety precautions, and proper procedures from loosening lugs to tightening after lowering. Includes diagrams and safety tips.",
+    "keywords": [
+      "how to change a tire", "change tire", "flat tire fix", "tire replacement", "how to fix a flat", "changing a tire", "spare tire installation", "tire changing steps", "car maintenance", "roadside tire change"
+    ],
+    "image": "https://www.dmv.org/favicon.ico"
+  },
+  {
+    "title": "How to Find IP Address",
+    "url": "https://www.howtogeek.com/117371/how-to-find-your-ip-address",
+    "description": "This detailed guide explains multiple methods to find IP addresses on all devices: Windows, Mac, Linux, iPhone, Android, and routers. It covers both local (private) and public IP addresses with screenshots and command-line instructions.",
+    "keywords": [
+      "how to find ip address", "find ip address", "ip address lookup", "locate ip", "check ip", "find my ip", "ip address on computer", "ip address on phone", "network ip", "private ip"
+    ],
+    "image": "https://www.howtogeek.com/favicon.ico"
+  },
+  {
+    "title": "Who Called Me Lookup",
+    "url": "https://www.whocalledme.com",
+    "description": "This reverse phone lookup service helps identify unknown callers by searching community-reported data. Users can enter a phone number to see if others have reported it as spam, telemarketing, or legitimate. It answers 'who called me from this phone number' questions.",
+    "keywords": [
+      "who called me", "who called me from this phone number", "reverse phone lookup", "phone number lookup", "unknown caller", "spam call lookup", "identify caller", "caller id lookup", "phone number search", "who called"
+    ],
+    "image": "https://www.whocalledme.com/favicon.ico"
+  },
+  {
+    "title": "Who is Running for President 2024",
+    "url": "https://ballotpedia.org/Presidential_election,_2024",
+    "description": "Ballotpedia provides comprehensive, non-partisan information about the 2024 presidential election, including declared candidates from major and third parties, primary schedules, debate information, and campaign news. It's the authoritative source for election questions.",
+    "keywords": [
+      "who is running for president in 2024", "2024 presidential candidates", "presidential election 2024", "2024 candidates", "who is running for president", "presidential race 2024", "election 2024", "candidates for president", "democratic candidates 2024", "republican candidates 2024"
+    ],
+    "image": "https://ballotpedia.org/favicon.ico"
+  },
+  {
+    "title": "What is Juneteenth",
+    "url": "https://en.wikipedia.org/wiki/Juneteenth",
+    "description": "This Wikipedia article explains Juneteenth, the holiday commemorating the emancipation of enslaved African Americans in the United States. It covers its history, origin in Galveston, Texas (June 19, 1865), modern celebrations, and its recognition as a federal holiday.",
+    "keywords": [
+      "what is juneteenth", "juneteenth meaning", "juneteenth holiday", "juneteenth history", "juneteenth explained", "emancipation day", "freedom day", "juneteenth federal holiday", "juneteenth celebration", "june 19th"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Juneteenth_celebration_in_Austin_Texas%2C_1900_%28cropped%29.jpg/440px-Juneteenth_celebration_in_Austin_Texas%2C_1900_%28cropped%29.jpg"
+  },
+  {
+    "title": "What is DEI",
+    "url": "https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion",
+    "description": "This Wikipedia article defines Diversity, Equity, and Inclusion (DEI), explaining each component and their importance in organizational contexts. It covers DEI initiatives in workplaces, education, and society, including criticisms and debates surrounding these programs.",
+    "keywords": [
+      "what is dei", "dei meaning", "diversity equity inclusion", "dei definition", "dei explained", "what does dei stand for", "diversity and inclusion", "equity vs equality", "workplace dei", "dei initiatives"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Diversity%2C_Equity_and_Inclusion_training_in_NYC.jpg/440px-Diversity%2C_Equity_and_Inclusion_training_in_NYC.jpg"
+  },
+  {
+    "title": "How to Lower Blood Pressure",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+    "description": "The American Heart Association provides evidence-based guidance for lowering blood pressure through lifestyle changes: diet (DASH diet), exercise, sodium reduction, stress management, and medication adherence. It's the authoritative source for heart health information.",
+    "keywords": [
+      "how to lower blood pressure", "lower blood pressure", "reduce blood pressure", "blood pressure tips", "hypertension help", "high blood pressure remedies", "blood pressure naturally", "dash diet", "bp reduction", "heart health"
+    ],
+    "image": "https://www.heart.org/favicon.ico"
+  },
+  {
+    "title": "How to Get Rid of Hiccups",
+    "url": "https://www.medicalnewstoday.com/articles/9141",
+    "description": "Medical News Today provides a comprehensive guide to hiccup remedies, from breathing techniques and physical maneuvers to medical treatments for persistent cases. It explains what causes hiccups and which remedies have scientific backing.",
+    "keywords": [
+      "how to get rid of hiccups", "stop hiccups", "hiccup remedies", "hiccup cure", "hiccup treatment", "how to stop hiccups", "hiccups relief", "what stops hiccups", "hiccup home remedies", "get rid of hiccups fast"
+    ],
+    "image": "https://www.medicalnewstoday.com/favicon.ico"
+  },
+  {
+    "title": "What Song is This (Shazam)",
+    "url": "https://www.shazam.com",
+    "description": "Shazam is the world's most popular music identification service. It listens to any song playing and instantly identifies it, providing song title, artist, lyrics, and links to streaming platforms. Available as website, app, and integrated into iOS and Android.",
+    "keywords": [
+      "what song is this", "identify song", "name that tune", "find song by sound", "song identifier", "music recognition", "shazam", "listen and find song", "what's playing", "song finder"
+    ],
+    "image": "https://www.shazam.com/favicon.ico"
+  },
+  {
+    "title": "How to Pronounce Words",
+    "url": "https://forvo.com",
+    "description": "Forvo is the largest pronunciation guide in the world, with millions of words pronounced by native speakers in hundreds of languages. Users can search any word and hear authentic pronunciations from multiple dialects and regions.",
+    "keywords": [
+      "how to pronounce", "pronunciation guide", "word pronunciation", "how to say", "pronounce words", "audio pronunciation", "language pronunciation", "native speaker pronunciation", "correct pronunciation", "pronunciation dictionary"
+    ],
+    "image": "https://forvo.com/favicon.ico"
+  },
+  {
+    "title": "What is a Verb",
+    "url": "https://www.grammarly.com/blog/parts-of-speech/verbs",
+    "description": "Grammarly's comprehensive guide explains what verbs are, their types (action, linking, helping), tenses, forms, and usage in sentences. It includes examples and common verb mistakes, serving as an essential grammar reference for writers and students.",
+    "keywords": [
+      "what is a verb", "verbs definition", "verb examples", "verb types", "action verbs", "linking verbs", "helping verbs", "verb tenses", "english grammar verbs", "parts of speech verb"
+    ],
+    "image": "https://www.grammarly.com/favicon.ico"
+  },
+  {
+    "title": "How to Lose Weight Healthily",
+    "url": "https://www.cdc.gov/healthyweight/index.html",
+    "description": "The CDC provides science-based information on healthy weight loss, including balanced diet, physical activity recommendations, weight management strategies, and preventing weight regain. It's the authoritative government source for weight health guidance.",
+    "keywords": [
+      "how to lose weight", "weight loss", "healthy weight loss", "lose weight safely", "weight management", "diet for weight loss", "exercise for weight loss", "weight loss tips", "healthy diet", "calorie control"
+    ],
+    "image": "https://www.cdc.gov/favicon.ico"
+  },
+  {
+    "title": "When is Daylight Savings",
+    "url": "https://www.timeanddate.com/time/dst",
+    "description": "This comprehensive resource explains Daylight Saving Time (DST) dates, rules, and history worldwide. It provides current and future DST dates, time zone changes, and information on which countries observe DST and which do not.",
+    "keywords": [
+      "when is daylight savings", "daylight saving time", "dst dates", "spring forward", "fall back", "clock change", "when does daylight savings start", "when does daylight savings end", "daylight savings 2025", "time change"
+    ],
+    "image": "https://www.timeanddate.com/scripts/tandd_logo_2020.svg"
+  },
+  {
+    "title": "How to Clear Cache",
+    "url": "https://www.pcmag.com/how-to/how-to-clear-your-cache-on-any-browser",
+    "description": "PC Magazine provides step-by-step instructions for clearing browser cache and cookies on all major browsers (Chrome, Firefox, Safari, Edge) and devices. It explains what cache is, why clearing it helps, and how to do it without losing important data.",
+    "keywords": [
+      "how to clear cache", "clear browser cache", "delete cache", "clear cookies", "browser history clear", "clear temporary files", "cache clearing", "how to clear cookies", "clear cache chrome", "clear cache safari"
+    ],
+    "image": "https://www.pcmag.com/favicon.ico"
+  },
+  {
+    "title": "How Much House Can I Afford",
+    "url": "https://www.zillow.com/mortgage-calculator/house-affordability",
+    "description": "Zillow's affordability calculator helps users determine how much house they can afford based on income, debts, down payment, and current interest rates. It follows the 28/36 rule and provides realistic price ranges for home shopping.",
+    "keywords": [
+      "how much house can i afford", "home affordability calculator", "mortgage affordability", "house buying budget", "how much home can i afford", "affordability calculator", "home purchase price", "mortgage qualification", "home budget calculator", "house price range"
+    ],
+    "image": "https://www.zillow.com/favicon.ico"
+  },
+  {
+    "title": "How to Change Oil",
+    "url": "https://www.popularmechanics.com/cars/how-to/a3536/how-to-change-your-oil-4258204",
+    "description": "Popular Mechanics provides a detailed guide for changing your car's oil, including tools needed, step-by-step instructions with photos, and disposal tips. It covers frequency recommendations and how to choose the right oil for your vehicle.",
+    "keywords": [
+      "how to change oil", "oil change", "change car oil", "diy oil change", "engine oil change", "motor oil replacement", "oil change steps", "car maintenance oil", "how often to change oil", "oil filter change"
+    ],
+    "image": "https://www.popularmechanics.com/favicon.ico"
+  },
+  {
+    "title": "How to Relax",
+    "url": "https://www.mindful.org/how-to-relocate-your-relaxation-response",
+    "description": "Mindful.org provides evidence-based techniques for relaxation, including deep breathing, mindfulness meditation, progressive muscle relaxation, and stress reduction strategies. It explains the science of the relaxation response and how to activate it.",
+    "keywords": [
+      "how to relax", "relaxation techniques", "stress relief", "calm down", "relax your mind", "reduce stress", "relaxation methods", "mindfulness relaxation", "deep breathing", "anxiety relief"
+    ],
+    "image": "https://www.mindful.org/favicon.ico"
+  },
+  {
+    "title": "How Long to Boil Eggs",
+    "url": "https://www.incredibleegg.org/recipes/how-to-boil-eggs",
+    "description": "The American Egg Board provides precise timing for boiled eggs: soft-boiled (3-5 minutes), medium (6-8 minutes), hard-boiled (9-12 minutes). Includes tips for easy peeling, storage, and troubleshooting green rings or cracked shells.",
+    "keywords": [
+      "how long to boil eggs", "boil eggs time", "egg boiling guide", "hard boiled eggs", "soft boiled eggs", "perfect boiled eggs", "cooking eggs", "boiled eggs time chart", "how to boil eggs", "egg cooking time"
+    ],
+    "image": "https://www.incredibleegg.org/favicon.ico"
+  },
+  {
+    "title": "What is Artificial Intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "description": "This comprehensive Wikipedia article defines artificial intelligence, its history, subfields (machine learning, deep learning, NLP), applications, and ethical considerations. It provides a thorough overview of AI concepts suitable for beginners and experts alike.",
+    "keywords": [
+      "what is ai", "artificial intelligence", "ai definition", "what is artificial intelligence", "ai explained", "machine learning", "deep learning", "ai applications", "artificial intelligence definition", "ai basics"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Artificial_intelligence_%28AI%29_icons.jpg/440px-Artificial_intelligence_%28AI%29_icons.jpg"
+  },
+  {
+    "title": "What is Love",
+    "url": "https://www.psychologytoday.com/us/basics/love",
+    "description": "Psychology Today's comprehensive overview explores love from psychological, biological, and social perspectives. It covers types of love (romantic, familial, platonic), attachment theory, the science of attraction, and maintaining healthy relationships.",
+    "keywords": [
+      "what is love", "love definition", "meaning of love", "love psychology", "romantic love", "what does love mean", "love explained", "science of love", "types of love", "love relationships"
+    ],
+    "image": "https://www.psychologytoday.com/favicon.ico"
+  },
+  {
+    "title": "Where Am I Location",
+    "url": "https://www.where-am-i.net",
+    "description": "This simple website uses browser geolocation to show users their current address, coordinates, and location on a map. It answers the basic question 'where am I' with instant visual feedback and shareable location links.",
+    "keywords": [
+      "where am i", "my location", "current location", "where am i located", "my current location", "what is my location", "gps location", "address finder", "locate me", "where am i right now"
+    ],
+    "image": "https://www.where-am-i.net/favicon.ico"
+  },
+  {
+    "title": "What Dinosaur Has 500 Teeth",
+    "url": "https://en.wikipedia.org/wiki/Nigersaurus",
+    "description": "This Wikipedia article explains that Nigersaurus, a sauropod dinosaur from the Cretaceous period, had over 500 teeth. The question became an internet meme, and this page provides scientific details about this unique dinosaur's dental structure and feeding habits.",
+    "keywords": [
+      "what dinosaur has 500 teeth", "500 teeth dinosaur", "nigersaurus", "dinosaur with 500 teeth", "nigersaurus teeth", "how many teeth did nigersaurus have", "dinosaur teeth count", "nigersaurus facts", "sauropod dinosaur", "creataceous dinosaur"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nigersaurus_taqueti_skull_%28fossil%29_1.jpg/440px-Nigersaurus_taqueti_skull_%28fossil%29_1.jpg"
+  },
+  {
+    "title": "When is Black Friday",
+    "url": "https://www.theblackfriday.com/when-is-black-friday.php",
+    "description": "This site provides the confirmed dates for Black Friday each year (the day after Thanksgiving). It includes shopping tips, historical context, and predictions for future dates. Essential for holiday shopping planning and deal hunting.",
+    "keywords": [
+      "when is black friday", "black friday date", "black friday 2025", "black friday shopping", "day after thanksgiving", "black friday deals", "black friday sale dates", "thanksgiving friday", "holiday shopping", "black friday when"
+    ],
+    "image": "https://www.theblackfriday.com/favicon.ico"
+  },
+  {
+    "title": "When is Halloween",
+    "url": "https://www.halloween.com/when-is-halloween",
+    "description": "Halloween.com confirms that Halloween is always October 31st and provides future dates through 2030. It includes holiday history, traditions, costume ideas, and celebration planning resources for the popular holiday.",
+    "keywords": [
+      "when is halloween", "halloween date", "october 31", "halloween 2025", "halloween when", "halloween day", "halloween calendar", "trick or treat date", "halloween celebration", "halloween night"
+    ],
+    "image": "https://www.halloween.com/favicon.ico"
+  },
+  {
+    "title": "When is Valentine's Day",
+    "url": "https://www.history.com/topics/valentines-day/history-of-valentines-day",
+    "description": "The History Channel provides the date for Valentine's Day (February 14) along with comprehensive historical background, traditions, and cultural celebrations worldwide. It explains the holiday's origins from ancient Roman festivals to modern customs.",
+    "keywords": [
+      "when is valentines day", "valentine's day date", "february 14", "valentine's day 2025", "valentines day when", "saint valentine's day", "valentine's day history", "romance holiday", "valentine's day traditions", "love day"
+    ],
+    "image": "https://www.history.com/favicon.ico"
+  },
+  {
+    "title": "When is Memorial Day",
+    "url": "https://www.memorialday.org/when-is-memorial-day",
+    "description": "This site provides the date for Memorial Day (last Monday in May) and its history honoring fallen military personnel. It includes future dates, observance traditions, and the difference between Memorial Day and Veterans Day.",
+    "keywords": [
+      "when is memorial day", "memorial day date", "memorial day 2025", "last monday in may", "memorial day when", "fallen soldiers day", "memorial day weekend", "military remembrance", "decorations day", "national holiday"
+    ],
+    "image": "https://www.memorialday.org/favicon.ico"
+  },
+  {
+    "title": "When is Labor Day",
+    "url": "https://www.dol.gov/general/laborday/history",
+    "description": "The U.S. Department of Labor provides the official date for Labor Day (first Monday in September) and its history honoring American workers. It explains the holiday's origins in the labor movement and its significance as a federal holiday.",
+    "keywords": [
+      "when is labor day", "labor day date", "labor day 2025", "first monday in september", "labor day when", "workers day", "labor day history", "american labor movement", "federal holiday", "end of summer"
+    ],
+    "image": "https://www.dol.gov/favicon.ico"
+  },
+  {
+    "title": "When is Thanksgiving",
+    "url": "https://www.history.com/topics/thanksgiving/history-of-thanksgiving",
+    "description": "The History Channel provides the date for Thanksgiving (fourth Thursday in November) along with comprehensive historical background, from the Pilgrims and Wampanoag to modern traditions. It explains the holiday's evolution and cultural significance.",
+    "keywords": [
+      "when is thanksgiving", "thanksgiving date", "thanksgiving 2024", "fourth thursday in november", "thanksgiving when", "thanksgiving history", "turkey day", "pilgrims and indians", "thanksgiving traditions", "american holiday"
+    ],
+    "image": "https://www.history.com/favicon.ico"
+  },
+  {
+    "title": "When is Christmas",
+    "url": "https://www.whychristmas.com/when_is_christmas",
+    "description": "This site confirms Christmas is always December 25th and explains why this date was chosen, its historical development, and how it's celebrated worldwide. Includes future dates and the distinction between Christmas Eve and Christmas Day.",
+    "keywords": [
+      "when is christmas", "christmas date", "december 25", "christmas 2025", "christmas when", "xmas date", "christmas day", "christmas eve", "holiday calendar", "christmas celebration"
+    ],
+    "image": "https://www.whychristmas.com/favicon.ico"
+  },
+  {
+    "title": "When Does Fall Start",
+    "url": "https://www.almanac.com/content/first-day-fall-autumnal-equinox",
+    "description": "The Old Farmer's Almanac provides the exact dates for the autumnal equinox (first day of fall) in both Northern and Southern Hemispheres. It explains the astronomical and meteorological definitions of seasons and fall folklore.",
+    "keywords": [
+      "when does fall start", "first day of fall", "autumnal equinox", "fall equinox date", "start of autumn", "fall begins", "seasons change", "equinox date", "autumn start 2025", "fall calendar"
+    ],
+    "image": "https://www.almanac.com/favicon.ico"
+  },
+  {
+    "title": "McDonald's Breakfast Hours",
+    "url": "https://www.mcdonalds.com/us/en-us/mcdonalds-breakfast-hours.html",
+    "description": "McDonald's official website provides accurate breakfast hours (typically ending at 10:30 AM or 11 AM depending on location) and the full breakfast menu. It includes a restaurant locator to find specific local hours.",
+    "keywords": [
+      "what time does mcdonald's stop serving breakfast", "mcdonald's breakfast hours", "mcdonald's breakfast time", "when does mcdonald's stop breakfast", "mcdonald's breakfast menu", "mcdonald's breakfast end time", "mcdonald's morning hours", "breakfast at mcdonald's", "mcdonald's breakfast serving times", "when is breakfast over at mcdonald's"
+    ],
+    "image": "https://www.mcdonalds.com/favicon.ico"
+  },
+  {
+    "title": "Who is the New Pope",
+    "url": "https://www.vatican.va/content/vatican/en.html",
+    "description": "The official Vatican website provides authoritative information about the current Pope. As of 2025, it details Pope Francis's biography, teachings, and activities. For papal transitions, it would announce any new Pope with official documentation.",
+    "keywords": [
+      "who is the new pope", "current pope", "pope francis", "vatican pope", "pope 2025", "who is pope now", "pope biography", "catholic church leader", "holy father", "pontiff"
+    ],
+    "image": "https://www.vatican.va/favicon.ico"
+  },
+  {
+    "title": "How to Draw Tutorials",
+    "url": "https://www.artistsnetwork.com/how-to-draw",
+    "description": "Artists Network provides professional drawing tutorials for all skill levels, covering fundamentals like perspective, shading, proportion, and specific subjects (portraits, animals, landscapes). Includes video demonstrations and printable practice sheets.",
+    "keywords": [
+      "how to draw", "drawing tutorials", "learn to draw", "drawing for beginners", "art lessons", "sketching guide", "pencil drawing", "how to sketch", "drawing techniques", "art instruction"
+    ],
+    "image": "https://www.artistsnetwork.com/favicon.ico"
+  },
+  {
+    "title": "How to Create Invoices",
+    "url": "https://www.invoicehome.com",
+    "description": "This free tool helps users create professional invoices instantly with customizable templates. It answers 'how to create invoices' by providing a step-by-step invoice generator, including line items, taxes, payment terms, and professional formatting.",
+    "keywords": [
+      "how to create invoices", "create invoice", "invoice generator", "make invoice", "invoice template", "free invoice", "billing invoice", "professional invoice", "invoice maker", "send invoice"
+    ],
+    "image": "https://www.invoicehome.com/favicon.ico"
+  },
+  {
+    "title": "How to Register to Vote",
+    "url": "https://www.usa.gov/register-to-vote",
+    "description": "USA.gov, the official U.S. government website, provides comprehensive voting registration information. It explains how to register, check registration status, update voter information, and find state-specific deadlines and requirements.",
+    "keywords": [
+      "how to register to vote", "voter registration", "register to vote", "voting registration", "how do I register to vote", "voter sign up", "election registration", "check voter registration", "vote registration deadline", "register for voting"
+    ],
+    "image": "https://www.usa.gov/favicon.ico"
+  },
+  {
+    "title": "How to Train Your Dragon Information",
+    "url": "https://www.howtotrainyourdragon.com",
+    "description": "The official website for the How to Train Your Dragon franchise provides information about the movies, TV series, characters (Hiccup, Toothless), and upcoming releases. It answers fan questions about the beloved DreamWorks animation series.",
+    "keywords": [
+      "how to train your dragon", "httyd", "how to train your dragon movie", "hiccup and toothless", "dreamworks dragons", "how to train your dragon characters", "how to train your dragon 2025", "dragon franchise", "toothless dragon", "httyd information"
+    ],
+    "image": "https://www.howtotrainyourdragon.com/favicon.ico"
+  },
+  {
+    "title": "Who Shot Charlie Kirk",
+    "url": "https://www.snopes.com/fact-check/charlie-kirk-shot",
+    "description": "Snopes, the authoritative fact-checking site, addresses the viral rumor about Charlie Kirk being shot. It debunks the hoax and explains how such misinformation spreads online, providing accurate information about the conservative activist's status.",
+    "keywords": [
+      "who shot charlie kirk", "charlie kirk shot", "charlie kirk rumor", "charlie kirk fact check", "was charlie kirk shot", "charlie kirk shooting", "charlie kirk hoax", "charlie kirk news", "charlie kirk status", "turning point usa"
+    ],
+    "image": "https://www.snopes.com/favicon.ico"
+  },
+  {
+    "title": "How Did Bob Saget Die",
+    "url": "https://en.wikipedia.org/wiki/Bob_Saget#Death",
+    "description": "The Wikipedia article on Bob Saget includes a detailed section on his death in January 2022, including official autopsy findings (head trauma from accidental fall) and tributes. It provides factual, sourced information about the beloved comedian's passing.",
+    "keywords": [
+      "how did bob saget die", "bob saget death", "bob saget cause of death", "bob saget passed away", "bob saget died", "bob saget autopsy", "bob saget accident", "bob saget full house", "bob saget comedian", "bob saget tributes"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bob_Saget_%2846221321925%29_%28cropped%29.jpg/440px-Bob_Saget_%2846221321925%29_%28cropped%29.jpg"
+  },
+  {
+    "title": "Cindy Lou Who Character",
+    "url": "https://seuss.fandom.com/wiki/Cindy_Lou_Who",
+    "description": "The Fandom wiki page details Cindy Lou Who, the adorable character from Dr. Seuss's 'How the Grinch Stole Christmas!' It covers her role in the original book, animated special, and live-action film adaptations, answering fan questions about the character.",
+    "keywords": [
+      "cindy lou who", "cindy lou who character", "who is cindy lou who", "grinch character", "cindy lou grinch", "dr seuss character", "how the grinch stole christmas", "cindy lou who actress", "cindy lou who age", "cindy lou who quotes"
+    ],
+    "image": "https://static.wikia.nocookie.net/seuss/images/6/68/Cindy_Lou_Who.jpg"
+  },
+  {
+    "title": "What Does 6 7 Mean",
+    "url": "https://www.urbandictionary.com/define.php?term=6%207",
+    "description": "Urban Dictionary explains internet slang and numerical codes. The term '6 7' has multiple meanings depending on context, often related to social media trends or numerical codes. This page crowdsources definitions from users.",
+    "keywords": [
+      "what does 6 7 mean", "6 7 meaning", "67 meaning", "what does 67 mean", "number slang", "internet numbers", "67 definition", "meaning of 67", "67 code", "6 7 slang"
+    ],
+    "image": "https://www.urbandictionary.com/favicon.ico"
+  },
+  {
+    "title": "When is TikTok Getting Banned",
+    "url": "https://www.reuters.com/technology/tiktok-ban",
+    "description": "Reuters provides current, fact-based news on TikTok ban discussions, legislation, and court decisions worldwide. As the situation evolves, Reuters offers authoritative coverage of government actions, legal challenges, and potential deadlines affecting TikTok's availability.",
+    "keywords": [
+      "when is tiktok getting banned", "tiktok ban", "tiktok ban date", "tiktok banned when", "tiktok legislation", "tiktok news", "tiktok ban update", "tiktok us ban", "tiktok restriction", "tiktok government action"
+    ],
+    "image": "https://www.reuters.com/favicon.ico"
+  },
+  {
+    "title": "What Did Jimmy Kimmel Say About Charlie Kirk",
+    "url": "https://www.youtube.com/watch?v=JI9T0fKBPMk",
+    "description": "This YouTube link leads to Jimmy Kimmel's monologue discussing Charlie Kirk and Turning Point USA. Kimmel frequently comments on political figures, and this specific segment addresses Kirk's statements or controversies, providing direct access to the original content.",
+    "keywords": [
+      "what did jimmy kimmel say about charlie kirk", "jimmy kimmel charlie kirk", "kimmel on kirk", "jimmy kimmel monologue", "charlie kirk kimmel", "jimmy kimmel political commentary", "kimmel turning point usa", "jimmy kimmel charlie kirk segment", "late night charlie kirk", "kimmel kirk controversy"
+    ],
+    "image": "https://www.youtube.com/favicon.ico"
   }
 ]
