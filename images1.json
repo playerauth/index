@@ -1,22 +1,7 @@
 [
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Facebook_f_logo_(2021).svg",
-    "keywords": ["Facebook", "logo", "social network", "Meta", "icon", "social media", "brand", "app", "platform", "symbol"]
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mark_Zuckerberg_F8_2019_Keynote_%28cropped%29.jpg",
-    "keywords": ["Facebook", "Mark Zuckerberg", "CEO", "Meta", "founder", "social media", "conference", "keynote", "portrait", "leader"]
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Messenger_logo_2018.png",
-    "keywords": ["Facebook", "Messenger", "logo", "chat app", "social media", "message", "Meta", "app", "communication", "icon"]
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Instagram_logo_2022.svg",
-    "keywords": ["Instagram", "Meta", "logo", "social media", "app", "photo sharing", "icon", "platform", "network", "brand"]
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
-    "keywords": ["WhatsApp", "Meta", "messaging", "logo", "chat app", "icon", "social media", "communication", "app", "platform"]
-  }
+  { "url": "https://www.facebook.com/images/fb_icon_325x325.png", "keywords": ["Facebook","logo"] },
+  { "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mark_Zuckerberg_F8_2019_Keynote_%28cropped%29.jpg", "keywords": ["Mark Zuckerberg","portrait"] },
+  { "url": "https://www.facebook.com/images/fb_icon_325x325.png", "keywords": ["Messenger","logo"] },
+  { "url": "https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff6.png", "keywords": ["Instagram","logo"] },
+  { "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg", "keywords": ["WhatsApp","logo"] }
 ]
