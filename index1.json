@@ -455,5 +455,77 @@
       "medium writers", "medium write", "medium publish", "medium become writer", "medium partner program", "medium earn money", "medium writer tools", "medium stats", "medium followers", "medium claps"
     ],
     "image": "https://miro.medium.com/v2/resize:fit:1200/1*I_fuv3B0R4B9WYD1k8g5Zg.png"
+  },
+  {
+    "title": "Forbes",
+    "url": "https://www.forbes.com",
+    "description": "Forbes is a global media company focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+    "keywords": [
+      "who is the richest person","who is the ceo of apple","who is the ceo of google","who is the ceo of amazon","forbes billionaires","forbes rich list","forbes ceo list","net worth of billionaires","wealthiest person"
+    ],
+    "image": "https://www.forbes.com/favicon.ico"
+  },
+  {
+    "title": "IMDb",
+    "url": "https://www.imdb.com",
+    "description": "IMDb is the world's most comprehensive source for movies, TV shows, and entertainment personalities.",
+    "keywords": [
+      "who starred in titanic","who directed inception","highest paid actor","highest paid actress","imdb top 250","imdb ratings","celebrity net worth","imdb trivia","famous actors"
+    ],
+    "image": "https://www.imdb.com/favicon.ico"
+  },
+  {
+    "title": "Wolfram Alpha",
+    "url": "https://www.wolframalpha.com",
+    "description": "Wolfram Alpha is a computational knowledge engine providing structured answers to factual queries.",
+    "keywords": [
+      "who is the ceo of microsoft","who is the ceo of tesla","what is pi","calculate integral","richest person in the world","stock price of apple","wolfram math solver","wolfram alpha queries","who invented telephone"
+    ],
+    "image": "https://www.wolframalpha.com/_next/static/favicon/favicon-32x32.png"
+  },
+  {
+    "title": "DuckDuckGo",
+    "url": "https://www.duckduckgo.com",
+    "description": "DuckDuckGo is a privacy-focused search engine that does not track users or personalize search results.",
+    "keywords": [
+      "who is the ceo of amazon","who is the ceo of google","privacy search engine","duckduckgo anonymous search","top billionaires","duckduckgo instant answer","duckduckgo bangs","duckduckgo !g","duckduckgo search tips"
+    ],
+    "image": "https://duckduckgo.com/assets/logo_header.v109.svg"
+  },
+  {
+    "title": "Encyclopedia Britannica",
+    "url": "https://www.britannica.com",
+    "description": "Britannica is a trusted general knowledge encyclopedia providing articles on history, science, biography, arts, and more.",
+    "keywords": [
+      "who is the ceo of","richest person in the world","historical figures","scientists","politicians","britannica biographies","britannica articles","britannica history","britannica science"
+    ],
+    "image": "https://www.britannica.com/favicon.ico"
+  },
+  {
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "description": "Stack Overflow is the largest online community for programmers to ask and answer technical questions.",
+    "keywords": [
+      "who is the ceo of stack overflow","programming questions","coding help","tech company ceo","highest paid programmer","stackoverflow python","stackoverflow javascript","stackoverflow career","stackoverflow survey"
+    ],
+    "image": "https://stackoverflow.com/favicon.ico"
+  },
+  {
+    "title": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Quora is a Q&A platform where users ask questions and get answers from experts and the community.",
+    "keywords": [
+      "who is the ceo of quora","what is quora","quora login","quora questions","quora answers","top quora users","quora business","quora finance","quora technology"
+    ],
+    "image": "https://www.quora.com/favicon.ico"
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://www.wikipedia.org",
+    "description": "Wikipedia is a free online encyclopedia with articles written and maintained by volunteers worldwide.",
+    "keywords": [
+      "who is the ceo of wikipedia","richest person","historical events","scientists","countries","wikipedia articles","wikipedia biography","wikipedia science","wikipedia technology"
+    ],
+    "image": "https://www.wikipedia.org/static/favicon/wikipedia.ico"
   }
 ]
