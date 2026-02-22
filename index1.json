@@ -10,6 +10,42 @@
     "image": "https://play-lh.googleusercontent.com/KSIdyQ7WwDkPIFo5lJ-KkOwPML5vBsIegdeE1tPLzRTyq1HZ9mPpSqgZT16RkZPm8w=w480-h960"
   },
   {
+    "title": "Facebook Messenger",
+    "url": "https://www.messenger.com",
+    "description": "Facebook Messenger allows you to chat instantly with your Facebook friends, send photos, videos, and make video calls.",
+    "keywords": ["Facebook", "Messenger", "chat", "video", "photos"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Messenger_logo_2018.svg"
+  },
+  {
+    "title": "Facebook Ads Manager",
+    "url": "https://www.facebook.com/adsmanager",
+    "description": "Manage your Facebook ad campaigns, track performance, and optimize your marketing strategies.",
+    "keywords": ["Facebook", "ads", "marketing", "manager", "campaign"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Facebook_Ads_logo.png"
+  },
+  {
+    "title": "Facebook Business Suite",
+    "url": "https://www.facebook.com/business/overview",
+    "description": "Facebook Business Suite helps you manage your Facebook and Instagram business accounts in one place.",
+    "keywords": ["Facebook", "business", "suite", "Instagram", "management"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Facebook_Business_Suite_logo.png"
+  },
+  {
+    "title": "Facebook Creator Studio",
+    "url": "https://www.facebook.com/creatorstudio",
+    "description": "Tool for content creators to manage posts, insights, and monetize videos across Facebook and Instagram.",
+    "keywords": ["Facebook", "creator", "studio", "content", "video", "insights"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Facebook_Creator_Studio_logo.png"
+  },
+  {
+    "title": "Facebook Marketplace",
+    "url": "https://www.facebook.com/marketplace",
+    "description": "Buy and sell items locally with Facebook Marketplace. Browse products, chat with sellers, and discover deals nearby.",
+    "keywords": ["Facebook", "Marketplace", "buy", "sell", "local"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Facebook_Marketplace_icon.png"
+  
+  },
+  {
     "title": "How to Create a Facebook Page for Business",
     "url": "https://www.facebook.com/business/help/461775097570076",
     "description": "Official step-by-step guide to creating a Facebook Page for your business.",
