@@ -1,4 +1,581 @@
+
 [
+{
+"title": "Facebook - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Facebook",
+"description": "Wikipedia article covering the history, features, and impact of Facebook.",
+"keywords": ["Facebook", "social network", "history", "features", "platform"]
+},
+{
+"title": "Facebook - Official Site",
+"url": "https://www.facebook.com",
+"description": "The main Facebook website where users can log in, connect, and share.",
+"keywords": ["Facebook", "login", "social media", "homepage"]
+},
+{
+"title": "Facebook Newsroom",
+"url": "https://about.fb.com/news/",
+"description": "Official news and announcements from Facebook.",
+"keywords": ["Facebook", "news", "updates", "press releases"]
+},
+{
+"title": "Facebook Help Center",
+"url": "https://www.facebook.com/help/",
+"description": "Official support and help resources for Facebook users.",
+"keywords": ["Facebook", "help", "support", "FAQ"]
+},
+{
+"title": "Facebook Community Standards",
+"url": "https://transparency.fb.com/policies/community-standards/",
+"description": "Facebook's policies on what is and isn't allowed on the platform.",
+"keywords": ["Facebook", "community standards", "rules", "moderation"]
+},
+{
+"title": "Facebook for Business",
+"url": "https://www.facebook.com/business/",
+"description": "Tools and resources for businesses to use Facebook for marketing.",
+"keywords": ["Facebook", "business", "marketing", "ads", "pages"]
+},
+{
+"title": "Facebook Developers",
+"url": "https://developers.facebook.com/",
+"description": "Documentation and tools for developers building on Facebook.",
+"keywords": ["Facebook", "developers", "API", "integration"]
+},
+{
+"title": "Facebook Research",
+"url": "https://research.facebook.com/",
+"description": "Academic research publications and projects from Facebook.",
+"keywords": ["Facebook", "research", "AI", "machine learning"]
+},
+{
+"title": "Facebook Engineering Blog",
+"url": "https://engineering.fb.com/",
+"description": "Technical insights and stories from Facebook's engineering teams.",
+"keywords": ["Facebook", "engineering", "technology", "blog"]
+},
+{
+"title": "Facebook on the App Store",
+"url": "https://apps.apple.com/app/facebook/id284882215",
+"description": "Download the Facebook app for iOS from the Apple App Store.",
+"keywords": ["Facebook", "app", "iOS", "download"]
+},
+{
+"title": "Mark Zuckerberg - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+"description": "Biography of Mark Zuckerberg, co-founder and CEO of Facebook.",
+"keywords": ["Mark Zuckerberg", "founder", "CEO", "biography"]
+},
+{
+"title": "Mark Zuckerberg's Facebook Profile",
+"url": "https://www.facebook.com/markzuckerberg",
+"description": "Official Facebook profile of Mark Zuckerberg.",
+"keywords": ["Mark Zuckerberg", "Facebook", "profile", "official"]
+},
+{
+"title": "Mark Zuckerberg - Forbes Profile",
+"url": "https://www.forbes.com/profile/mark-zuckerberg/",
+"description": "Forbes profile, net worth, and biography of Mark Zuckerberg.",
+"keywords": ["Mark Zuckerberg", "Forbes", "net worth", "billionaire"]
+},
+{
+"title": "Mark Zuckerberg Testifies Before Congress (C-SPAN)",
+"url": "https://www.c-span.org/video/?443625-1/mark-zuckerberg-testifies-house-commerce-committee",
+"description": "Video of Mark Zuckerberg's congressional testimony on Facebook's data practices.",
+"keywords": ["Mark Zuckerberg", "testimony", "Congress", "privacy"]
+},
+{
+"title": "Mark Zuckerberg: The Recode Interview",
+"url": "https://www.vox.com/recode/2019/10/1/20895458/mark-zuckerberg-full-transcript-leaked-audio-facebook",
+"description": "Transcript and analysis of Mark Zuckerberg's interview at Recode.",
+"keywords": ["Mark Zuckerberg", "interview", "Recode", "Facebook"]
+},
+{
+"title": "Mark Zuckerberg's Harvard Commencement Speech",
+"url": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-commencement-address-as-prepared-for-delivery/",
+"description": "Full text of Mark Zuckerberg's 2017 Harvard commencement address.",
+"keywords": ["Mark Zuckerberg", "Harvard", "commencement", "speech"]
+},
+{
+"title": "Mark Zuckerberg - Time 100",
+"url": "https://time.com/collection/100-most-influential-people-2021/",
+"description": "Time magazine's profile of Mark Zuckerberg as one of the most influential people.",
+"keywords": ["Mark Zuckerberg", "Time 100", "influential", "profile"]
+},
+{
+"title": "Mark Zuckerberg's Philanthropy (Chan Zuckerberg Initiative)",
+"url": "https://chanzuckerberg.com/",
+"description": "Official website of the Chan Zuckerberg Initiative, founded by Mark Zuckerberg and Priscilla Chan.",
+"keywords": ["Mark Zuckerberg", "philanthropy", "Chan Zuckerberg Initiative", "charity"]
+},
+{
+"title": "Mark Zuckerberg on 60 Minutes",
+"url": "https://www.cbsnews.com/news/mark-zuckerberg-60-minutes-interview-facebook-privacy-2019/",
+"description": "Mark Zuckerberg's interview with 60 Minutes discussing Facebook's privacy challenges.",
+"keywords": ["Mark Zuckerberg", "60 Minutes", "interview", "privacy"]
+},
+{
+"title": "Mark Zuckerberg's Early Life and Education",
+"url": "https://www.biography.com/business-figure/mark-zuckerberg",
+"description": "Biography.com article on Mark Zuckerberg's childhood, education, and founding of Facebook.",
+"keywords": ["Mark Zuckerberg", "early life", "education", "biography"]
+},
+{
+"title": "Instagram - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Instagram",
+"description": "Wikipedia article on Instagram, its features, history, and impact.",
+"keywords": ["Instagram", "social media", "photo sharing", "app"]
+},
+{
+"title": "Instagram Official Site",
+"url": "https://www.instagram.com",
+"description": "Main website for Instagram, where users can sign in and browse photos and videos.",
+"keywords": ["Instagram", "login", "homepage", "social network"]
+},
+{
+"title": "Instagram Help Center",
+"url": "https://help.instagram.com/",
+"description": "Official support and help resources for Instagram users.",
+"keywords": ["Instagram", "help", "support", "FAQ"]
+},
+{
+"title": "Instagram for Business",
+"url": "https://business.instagram.com/",
+"description": "Tools and tips for businesses to market on Instagram.",
+"keywords": ["Instagram", "business", "marketing", "ads"]
+},
+{
+"title": "Instagram Developers",
+"url": "https://developers.facebook.com/products/instagram/",
+"description": "Developer documentation for integrating with Instagram APIs.",
+"keywords": ["Instagram", "developers", "API", "integration"]
+},
+{
+"title": "Instagram on the App Store",
+"url": "https://apps.apple.com/app/instagram/id389801252",
+"description": "Download the Instagram app for iOS from the Apple App Store.",
+"keywords": ["Instagram", "app", "iOS", "download"]
+},
+{
+"title": "Instagram on Google Play",
+"url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+"description": "Download the Instagram app for Android from Google Play.",
+"keywords": ["Instagram", "app", "Android", "download"]
+},
+{
+"title": "Instagram Blog",
+"url": "https://about.instagram.com/blog/",
+"description": "Official blog with news and updates from Instagram.",
+"keywords": ["Instagram", "blog", "news", "updates"]
+},
+{
+"title": "Instagram Press",
+"url": "https://about.instagram.com/press",
+"description": "Press resources and media kit for Instagram.",
+"keywords": ["Instagram", "press", "media", "resources"]
+},
+{
+"title": "Instagram Safety and Privacy",
+"url": "https://help.instagram.com/196883487377501",
+"description": "Official safety tips and privacy settings for Instagram.",
+"keywords": ["Instagram", "safety", "privacy", "security"]
+},
+{
+"title": "WhatsApp - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/WhatsApp",
+"description": "Wikipedia article on WhatsApp, its features, history, and acquisition by Facebook.",
+"keywords": ["WhatsApp", "messaging", "app", "Meta"]
+},
+{
+"title": "WhatsApp Official Site",
+"url": "https://www.whatsapp.com",
+"description": "Official website for WhatsApp, where you can download the app and learn about features.",
+"keywords": ["WhatsApp", "download", "messaging", "homepage"]
+},
+{
+"title": "WhatsApp Help Center",
+"url": "https://faq.whatsapp.com/",
+"description": "Official support and help resources for WhatsApp users.",
+"keywords": ["WhatsApp", "help", "support", "FAQ"]
+},
+{
+"title": "WhatsApp Blog",
+"url": "https://blog.whatsapp.com/",
+"description": "Official blog with news and updates from WhatsApp.",
+"keywords": ["WhatsApp", "blog", "news", "updates"]
+},
+{
+"title": "WhatsApp Security",
+"url": "https://www.whatsapp.com/security/",
+"description": "Information about WhatsApp's end-to-end encryption and security features.",
+"keywords": ["WhatsApp", "security", "encryption", "privacy"]
+},
+{
+"title": "WhatsApp Business",
+"url": "https://business.whatsapp.com/",
+"description": "Official site for WhatsApp Business, a tool for businesses to communicate with customers.",
+"keywords": ["WhatsApp", "business", "communication", "API"]
+},
+{
+"title": "WhatsApp on the App Store",
+"url": "https://apps.apple.com/app/whatsapp-messenger/id310633997",
+"description": "Download the WhatsApp app for iOS from the Apple App Store.",
+"keywords": ["WhatsApp", "app", "iOS", "download"]
+},
+{
+"title": "WhatsApp on Google Play",
+"url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+"description": "Download the WhatsApp app for Android from Google Play.",
+"keywords": ["WhatsApp", "app", "Android", "download"]
+},
+{
+"title": "WhatsApp Web",
+"url": "https://web.whatsapp.com/",
+"description": "Use WhatsApp on your computer via the web interface.",
+"keywords": ["WhatsApp", "web", "desktop", "messaging"]
+},
+{
+"title": "WhatsApp Privacy Policy",
+"url": "https://www.whatsapp.com/legal/privacy-policy",
+"description": "WhatsApp's privacy policy and terms of service.",
+"keywords": ["WhatsApp", "privacy", "policy", "terms"]
+},
+{
+"title": "Facebook Messenger - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Facebook_Messenger",
+"description": "Wikipedia article on Facebook Messenger, its features and development.",
+"keywords": ["Facebook Messenger", "messaging", "app", "Meta"]
+},
+{
+"title": "Messenger Official Site",
+"url": "https://www.messenger.com",
+"description": "Main website for Facebook Messenger, where you can log in and chat.",
+"keywords": ["Messenger", "login", "chat", "homepage"]
+},
+{
+"title": "Messenger Help Center",
+"url": "https://www.facebook.com/help/messenger-app/",
+"description": "Official help resources for Messenger users.",
+"keywords": ["Messenger", "help", "support", "FAQ"]
+},
+{
+"title": "Messenger Features",
+"url": "https://www.messenger.com/features",
+"description": "Overview of Messenger's features like chat, video calls, and games.",
+"keywords": ["Messenger", "features", "chat", "video calls"]
+},
+{
+"title": "Messenger Kids",
+"url": "https://www.messenger.com/kids",
+"description": "Information about Messenger Kids, a messaging app for children.",
+"keywords": ["Messenger Kids", "children", "safe messaging", "parental control"]
+},
+{
+"title": "Messenger Rooms",
+"url": "https://www.messenger.com/rooms",
+"description": "Information about Messenger Rooms, a video conferencing feature.",
+"keywords": ["Messenger", "Rooms", "video chat", "group calls"]
+},
+{
+"title": "Messenger on the App Store",
+"url": "https://apps.apple.com/app/messenger/id454638411",
+"description": "Download the Messenger app for iOS from the Apple App Store.",
+"keywords": ["Messenger", "app", "iOS", "download"]
+},
+{
+"title": "Messenger on Google Play",
+"url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+"description": "Download the Messenger app for Android from Google Play.",
+"keywords": ["Messenger", "app", "Android", "download"]
+},
+{
+"title": "Messenger Desktop App",
+"url": "https://www.messenger.com/desktop",
+"description": "Download the Messenger desktop app for Windows and Mac.",
+"keywords": ["Messenger", "desktop", "app", "download"]
+},
+{
+"title": "Messenger Privacy and Safety",
+"url": "https://www.facebook.com/help/messenger-app/171319509  (Note: This URL is truncated; actual would be longer)",
+"description": "Tips and settings to keep your Messenger account safe and private.",
+"keywords": ["Messenger", "privacy", "safety", "security"]
+},
+{
+"title": "Facebook Privacy Settings Guide",
+"url": "https://www.facebook.com/help/325807937506242/",
+"description": "Official guide to adjusting your privacy settings on Facebook.",
+"keywords": ["Facebook", "privacy", "settings", "guide"]
+},
+{
+"title": "How to Control Who Sees Your Facebook Posts",
+"url": "https://www.facebook.com/help/120939471321735",
+"description": "Step-by-step instructions for managing audience for your posts.",
+"keywords": ["Facebook", "privacy", "posts", "audience"]
+},
+{
+"title": "Facebook Privacy Checkup Tool",
+"url": "https://www.facebook.com/privacy/checkup/",
+"description": "Interactive tool to review and adjust your privacy settings.",
+"keywords": ["Facebook", "privacy", "checkup", "settings"]
+},
+{
+"title": "How to Block Someone on Facebook",
+"url": "https://www.facebook.com/help/1680093822602877",
+"description": "Instructions for blocking and unblocking users on Facebook.",
+"keywords": ["Facebook", "block", "privacy", "harassment"]
+},
+{
+"title": "Facebook Privacy Shortcuts",
+"url": "https://www.facebook.com/help/379220725465162",
+"description": "Quick access to key privacy and security settings.",
+"keywords": ["Facebook", "privacy", "shortcuts", "security"]
+},
+{
+"title": "How to Make Facebook Profile Private",
+"url": "https://www.facebook.com/help/135679402519713",
+"description": "Steps to lock your profile and limit visibility to friends only.",
+"keywords": ["Facebook", "profile", "private", "lock"]
+},
+{
+"title": "Facebook Data Policy",
+"url": "https://www.facebook.com/policy.php",
+"description": "Full text of Facebook's data policy explaining how they collect and use information.",
+"keywords": ["Facebook", "data policy", "privacy", "terms"]
+},
+{
+"title": "How to Download Your Facebook Data",
+"url": "https://www.facebook.com/help/212802592074644",
+"description": "Instructions for downloading a copy of your Facebook information.",
+"keywords": ["Facebook", "data", "download", "GDPR"]
+},
+{
+"title": "Facebook Privacy Settings for Apps and Websites",
+"url": "https://www.facebook.com/help/220336891328465",
+"description": "Manage the data you share with third-party apps and websites.",
+"keywords": ["Facebook", "privacy", "apps", "third-party"]
+},
+{
+"title": "Facebook Ads Manager",
+"url": "https://www.facebook.com/business/tools/ads-manager",
+"description": "Official tool for creating and managing Facebook ad campaigns.",
+"keywords": ["Facebook", "ads", "manager", "advertising"]
+},
+{
+"title": "How to Create Facebook Ads",
+"url": "https://www.facebook.com/business/help/200000840044954",
+"description": "Step-by-step guide to creating your first Facebook ad.",
+"keywords": ["Facebook", "ads", "create", "guide"]
+},
+{
+"title": "Facebook Ad Formats",
+"url": "https://www.facebook.com/business/ads/ad-formats",
+"description": "Overview of different ad formats available on Facebook.",
+"keywords": ["Facebook", "ads", "formats", "image", "video"]
+},
+{
+"title": "Facebook Ad Targeting Options",
+"url": "https://www.facebook.com/business/help/447434751626249",
+"description": "Explanation of how to target specific audiences with Facebook ads.",
+"keywords": ["Facebook", "ads", "targeting", "audience"]
+},
+{
+"title": "Facebook Ad Policies",
+"url": "https://www.facebook.com/policies/ads/",
+"description": "Official policies governing what can be advertised on Facebook.",
+"keywords": ["Facebook", "ads", "policies", "guidelines"]
+},
+{
+"title": "Facebook Pixel",
+"url": "https://www.facebook.com/business/help/742478679120153",
+"description": "Guide to installing and using the Facebook pixel for tracking conversions.",
+"keywords": ["Facebook", "pixel", "tracking", "ads"]
+},
+{
+"title": "Facebook Ads Billing",
+"url": "https://www.facebook.com/business/help/175979293445917",
+"description": "Information about billing and payment methods for Facebook ads.",
+"keywords": ["Facebook", "ads", "billing", "payment"]
+},
+{
+"title": "Facebook Ads Reporting",
+"url": "https://www.facebook.com/business/help/108101531299619",
+"description": "How to measure and report on the performance of your ads.",
+"keywords": ["Facebook", "ads", "reporting", "analytics"]
+},
+{
+"title": "Facebook Dynamic Ads",
+"url": "https://www.facebook.com/business/ads/dynamic-ads",
+"description": "Explanation of dynamic ads that automatically show relevant products to users.",
+"keywords": ["Facebook", "ads", "dynamic", "retargeting"]
+},
+{
+"title": "Facebook Marketplace - Official Site",
+"url": "https://www.facebook.com/marketplace",
+"description": "Browse and sell items locally on Facebook Marketplace.",
+"keywords": ["Facebook", "marketplace", "buy", "sell"]
+},
+{
+"title": "How to Use Facebook Marketplace",
+"url": "https://www.facebook.com/help/164263585272737",
+"description": "Official help article on using Marketplace to buy and sell.",
+"keywords": ["Facebook", "marketplace", "how-to", "guide"]
+},
+{
+"title": "Facebook Marketplace Safety Tips",
+"url": "https://www.facebook.com/help/1603162147511196",
+"description": "Tips for staying safe when buying and selling on Marketplace.",
+"keywords": ["Facebook", "marketplace", "safety", "scams"]
+},
+{
+"title": "How to List an Item on Facebook Marketplace",
+"url": "https://www.facebook.com/help/1542134047865540",
+"description": "Step-by-step instructions for creating a Marketplace listing.",
+"keywords": ["Facebook", "marketplace", "list", "sell"]
+},
+{
+"title": "Facebook Marketplace Shipping",
+"url": "https://www.facebook.com/help/233462261674315",
+"description": "Information about shipping options for Marketplace items.",
+"keywords": ["Facebook", "marketplace", "shipping", "delivery"]
+},
+{
+"title": "Facebook Marketplace Payments",
+"url": "https://www.facebook.com/help/984056084169539",
+"description": "How payments work for items sold on Marketplace.",
+"keywords": ["Facebook", "marketplace", "payments", "checkout"]
+},
+{
+"title": "Facebook Marketplace Categories",
+"url": "https://www.facebook.com/marketplace/categories",
+"description": "Browse Marketplace by categories like vehicles, property, and electronics.",
+"keywords": ["Facebook", "marketplace", "categories", "browse"]
+},
+{
+"title": "Facebook Marketplace Scams to Avoid",
+"url": "https://www.consumer.ftc.gov/blog/2021/03/facebook-marketplace-scams",
+"description": "FTC article on common scams on Facebook Marketplace and how to avoid them.",
+"keywords": ["Facebook", "marketplace", "scams", "FTC"]
+},
+{
+"title": "Facebook Marketplace Community Standards",
+"url": "https://transparency.fb.com/policies/community-standards/marketplace/",
+"description": "Specific rules for listings and transactions on Marketplace.",
+"keywords": ["Facebook", "marketplace", "rules", "standards"]
+},
+{
+"title": "How to Report a Problem on Facebook Marketplace",
+"url": "https://www.facebook.com/help/127398102198389",
+"description": "Instructions for reporting issues with a listing or user on Marketplace.",
+"keywords": ["Facebook", "marketplace", "report", "problem"]
+},
+{
+"title": "Criticism of Facebook - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Criticism_of_Facebook",
+"description": "Comprehensive Wikipedia article on controversies and criticisms faced by Facebook.",
+"keywords": ["Facebook", "criticism", "controversy", "privacy"]
+},
+{
+"title": "The Cambridge Analytica Scandal Explained",
+"url": "https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html",
+"description": "New York Times article detailing the Cambridge Analytica data scandal.",
+"keywords": ["Facebook", "Cambridge Analytica", "scandal", "data privacy"]
+},
+{
+"title": "Facebook's Role in the 2016 Election",
+"url": "https://www.washingtonpost.com/technology/2021/10/25/facebook-2016-election-influence/",
+"description": "Washington Post analysis of Facebook's impact on the 2016 US election.",
+"keywords": ["Facebook", "election", "misinformation", "2016"]
+},
+{
+"title": "Facebook Whistleblower Frances Haugen Testimony",
+"url": "https://www.cbsnews.com/news/frances-haugen-facebook-whistleblower-testimony-senate/",
+"description": "CBS News coverage of Frances Haugen's Senate testimony.",
+"keywords": ["Facebook", "whistleblower", "Frances Haugen", "testimony"]
+},
+{
+"title": "Facebook Antitrust Lawsuits",
+"url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/facebook-ftc-v",
+"description": "FTC page on the antitrust lawsuit against Facebook.",
+"keywords": ["Facebook", "antitrust", "FTC", "lawsuit"]
+},
+{
+"title": "Facebook Data Breach 2021",
+"url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4",
+"description": "Business Insider article on the 2021 data breach affecting 533 million users.",
+"keywords": ["Facebook", "data breach", "2021", "security"]
+},
+{
+"title": "Facebook's Mental Health Impact",
+"url": "https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739",
+"description": "Wall Street Journal report on Facebook's internal research about Instagram's effect on teens.",
+"keywords": ["Facebook", "mental health", "Instagram", "teens"]
+},
+{
+"title": "Facebook and Misinformation",
+"url": "https://www.poynter.org/fact-checking/2020/how-facebook-has-handled-misinformation-during-the-pandemic/",
+"description": "Poynter article on Facebook's efforts to combat misinformation.",
+"keywords": ["Facebook", "misinformation", "fact-checking", "COVID-19"]
+},
+{
+"title": "Facebook's Algorithm and Polarization",
+"url": "https://www.vox.com/recode/2021/10/26/22747066/facebook-algorithm-polarization-frances-haugen",
+"description": "Vox analysis of how Facebook's algorithm may contribute to political polarization.",
+"keywords": ["Facebook", "algorithm", "polarization", "politics"]
+},
+{
+"title": "History of Facebook - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+"description": "Detailed timeline of Facebook's development from 2004 to present.",
+"keywords": ["Facebook", "history", "timeline", "founding"]
+},
+{
+"title": "The Founding of Facebook: The Harvard Crimson",
+"url": "https://www.thecrimson.com/article/2004/2/9/facebook-a-web-of-intriga/",
+"description": "Original Harvard Crimson article from 2004 covering Facebook's launch.",
+"keywords": ["Facebook", "founding", "Harvard", "2004"]
+},
+{
+"title": "The Social Network (Film) - IMDb",
+"url": "https://www.imdb.com/title/tt1285016/",
+"description": "IMDb page for the movie 'The Social Network' about Facebook's early days.",
+"keywords": ["Facebook", "movie", "The Social Network", "film"]
+},
+{
+"title": "Facebook's IPO: A Look Back",
+"url": "https://www.cnbc.com/2022/05/18/facebooks-ipo-10-years-later-a-look-back-at-the-rocky-debut.html",
+"description": "CNBC retrospective on Facebook's 2012 initial public offering.",
+"keywords": ["Facebook", "IPO", "2012", "stock"]
+},
+{
+"title": "Facebook Acquires Instagram",
+"url": "https://www.theverge.com/2012/4/9/2937280/facebook-instagram-acquisition",
+"description": "The Verge article on Facebook's acquisition of Instagram in 2012.",
+"keywords": ["Facebook", "Instagram", "acquisition", "2012"]
+},
+{
+"title": "Facebook Acquires WhatsApp",
+"url": "https://www.wsj.com/articles/facebook-to-buy-whatsapp-for-16-billion-1392844405",
+"description": "Wall Street Journal article on Facebook's $19 billion WhatsApp acquisition.",
+"keywords": ["Facebook", "WhatsApp", "acquisition", "2014"]
+},
+{
+"title": "The Evolution of Facebook's Logo",
+"url": "https://www.brandwatch.com/blog/facebook-logo-history/",
+"description": "Brandwatch article tracing the changes in Facebook's logo over the years.",
+"keywords": ["Facebook", "logo", "history", "design"]
+},
+{
+"title": "Facebook Reaches 3 Billion Users",
+"url": "https://about.fb.com/news/2023/02/facebook-3-billion-users/",
+"description": "Facebook Newsroom announcement about reaching 3 billion monthly active users.",
+"keywords": ["Facebook", "users", "milestone", "3 billion"]
+},
+{
+"title": "The Rise of Facebook Groups",
+"url": "https://www.theverge.com/2017/6/22/15852094/facebook-groups-new-features-mark-zuckerberg",
+"description": "The Verge article on Facebook's renewed focus on Groups in 2017.",
+"keywords": ["Facebook", "groups", "community", "features"]
+},
   {
     "title": "Facebook",
     "url": "https://www.facebook.com",
