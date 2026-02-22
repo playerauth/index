@@ -1,5 +1,43 @@
 
 [
+
+  {
+    "title": "Facebook - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Facebook",
+    "description": "Wikipedia article covering the history, features, and impact of Facebook.",
+    "keywords": ["Facebook", "social network", "history", "features", "platform", "Meta", "Mark Zuckerberg", "founding", "2004", "Harvard"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png"
+  },
+  {
+    "title": "Facebook - Official Site",
+    "url": "https://www.facebook.com",
+    "description": "The main Facebook website where users can log in, connect, and share.",
+    "keywords": ["Facebook", "login", "homepage", "social media", "connect", "friends", "profile", "news feed", "sign up", "account"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Newsroom",
+    "url": "https://about.fb.com/news/",
+    "description": "Official news and announcements from Facebook.",
+  {
+    "title": "Facebook - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Facebook",
+    "description": "Wikipedia article covering the history, features, and impact of Facebook.",
+    "keywords": ["Facebook", "social network", "history", "features", "platform", "Meta", "Mark Zuckerberg", "founding", "2004", "Harvard"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png"
+  },
+  {
+    "title": "Facebook - Official Site",
+    "url": "https://www.facebook.com",
+    "description": "The main Facebook website where users can log in, connect, and share.",
+    "keywords": ["Facebook", "login", "homepage", "social media", "connect", "friends", "profile", "news feed", "sign up", "account"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Newsroom",
+    "url": "https://about.fb.com/news/",
+    "description": "Official news and announcements from Facebook.",
+  
   {
     "title": "How to Create a Facebook Page for Business",
     "url": "https://www.facebook.com/business/help/461775097570076",
