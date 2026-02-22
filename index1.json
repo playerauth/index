@@ -2,19 +2,111 @@
   {
     "title": "Facebook",
     "url": "https://www.facebook.com",
-    "description": "Social networking website",
-    "keywords": ["facebook", "social", "networking", "search", "media"]
+    "description": "Social networking website connecting friends and family",
+    "keywords": [
+      "what is facebook", "who invented facebook", "facebook login", "facebook app", 
+      "facebook download", "facebook messenger", "facebook social network", 
+      "facebook news", "facebook photos", "facebook events"
+    ],
+    "image": "https://www.facebook.com/images/fb_icon_325x325.png"
   },
   {
     "title": "Instagram",
     "url": "https://www.instagram.com",
     "description": "Photo and video sharing social network",
-    "keywords": ["instagram", "photo", "video", "social", "search"]
+    "keywords": [
+      "what is instagram", "who invented instagram", "instagram login", 
+      "instagram download", "instagram reels", "instagram stories", 
+      "instagram explore", "instagram business", "instagram posts", "instagram photos"
+    ],
+    "image": "https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff6.png"
   },
   {
     "title": "Google",
     "url": "https://www.google.com",
     "description": "Search engine and technology company",
-    "keywords": ["google", "search", "technology", "engine"]
+    "keywords": [
+      "what is google", "who founded google", "google search", "google maps", 
+      "google drive", "google docs", "google photos", "google translate", 
+      "google news", "google gmail"
+    ],
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Video sharing platform",
+    "keywords": [
+      "what is youtube", "who founded youtube", "youtube login", "youtube music", 
+      "youtube download", "youtube videos", "youtube channels", "youtube trending", 
+      "youtube shorts", "youtube live"
+    ],
+    "image": "https://www.youtube.com/s/desktop/8c5b2075/img/favicon_144.png"
+  },
+  {
+    "title": "Twitter",
+    "url": "https://www.twitter.com",
+    "description": "Social networking service for news and microblogging",
+    "keywords": [
+      "what is twitter", "who founded twitter", "twitter login", "twitter trending", 
+      "twitter hashtags", "twitter tweets", "twitter followers", "twitter spaces", 
+      "twitter news", "twitter profile"
+    ],
+    "image": "https://abs.twimg.com/favicons/twitter.ico"
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "description": "Professional networking platform",
+    "keywords": [
+      "what is linkedin", "linkedin login", "who founded linkedin", "linkedin jobs", 
+      "linkedin profile", "linkedin network", "linkedin connections", 
+      "linkedin learning", "linkedin resume", "linkedin companies"
+    ],
+    "image": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"
+  },
+  {
+    "title": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Social news aggregation and discussion platform",
+    "keywords": [
+      "what is reddit", "reddit login", "who founded reddit", "reddit news", 
+      "reddit memes", "reddit forums", "reddit communities", "reddit posts", 
+      "reddit discussions", "reddit subreddits"
+    ],
+    "image": "https://www.redditinc.com/assets/images/site/reddit-logo.png"
+  },
+  {
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "description": "Image sharing and social media service",
+    "keywords": [
+      "what is pinterest", "pinterest login", "who founded pinterest", "pinterest boards", 
+      "pinterest pins", "pinterest images", "pinterest ideas", "pinterest trends", 
+      "pinterest inspiration", "pinterest marketing"
+    ],
+    "image": "https://s.pinimg.com/webapp/logo.png"
+  },
+  {
+    "title": "Snapchat",
+    "url": "https://www.snapchat.com",
+    "description": "Multimedia messaging app",
+    "keywords": [
+      "what is snapchat", "snapchat login", "who founded snapchat", "snapchat stories", 
+      "snapchat filters", "snapchat friends", "snapchat streaks", "snapchat camera", 
+      "snapchat lens", "snapchat chat"
+    ],
+    "image": "https://www.snapchat.com/global/static/images/favicon.ico"
+  },
+  {
+    "title": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "Short-form video platform",
+    "keywords": [
+      "what is tiktok", "tiktok login", "who founded tiktok", "tiktok videos", 
+      "tiktok trends", "tiktok followers", "tiktok music", "tiktok creator", 
+      "tiktok challenges", "tiktok reels"
+    ],
+    "image": "https://sf16-va.tiktokcdn.com/obj/tiktok-web/tiktok-icon.png"
   }
 ]
