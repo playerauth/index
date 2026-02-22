@@ -9537,6 +9537,223 @@
     "description": "Official Facebook Developer Community group on Facebook, providing a space for developers to connect, share knowledge, ask questions, and discuss Facebook platform development.",
     "keywords": ["developer community", "Facebook group", "developer discussion", "peer support", "community forum", "Facebook developers", "developer network", "community help", "developer conversation", "tech community"],
     "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Developer - Graph API Batch Requests",
+    "url": "https://developers.facebook.com/docs/graph-api/making-multiple-requests",
+    "description": "Official documentation explaining how to use batch requests with Facebook's Graph API to combine multiple operations into a single HTTP request, improving efficiency and reducing latency for applications that need to perform several API calls at once.",
+    "keywords": ["Graph API", "batch requests", "API optimization", "multiple calls", "HTTP requests", "performance", "efficiency", "Facebook API", "batch processing", "API calls"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Pagination",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api/paging",
+    "description": "Comprehensive guide to pagination in Facebook's Graph API, teaching developers how to navigate through large result sets using cursors, limits, and pagination links to efficiently retrieve data from endpoints like feeds, comments, and search results.",
+    "keywords": ["Graph API", "pagination", "cursors", "data navigation", "limits", "API results", "paging", "large datasets", "next", "previous"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Error Handling",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api/#errors",
+    "description": "Detailed reference for handling errors in Facebook's Graph API, covering error codes, error types, rate limiting responses, authentication failures, and best practices for building resilient applications that gracefully handle API errors.",
+    "keywords": ["Graph API", "error handling", "error codes", "rate limiting", "authentication errors", "API errors", "exception handling", "error responses", "debugging", "API resilience"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Field Expansion",
+    "url": "https://developers.facebook.com/docs/graph-api/using-graph-api/#fieldexpansion",
+    "description": "Guide to field expansion in Facebook's Graph API, teaching developers how to request nested data and related objects in a single API call using dot notation, reducing the number of requests needed and improving application performance.",
+    "keywords": ["Graph API", "field expansion", "nested data", "related objects", "dot notation", "API efficiency", "data fetching", "single request", "nested fields", "API optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Rate Limiting",
+    "url": "https://developers.facebook.com/docs/graph-api/overview/rate-limiting",
+    "description": "Documentation explaining Facebook Graph API rate limits, including usage caps, throttling policies, rate limit headers, and best practices for managing API call volumes to ensure application stability and avoid hitting rate limits.",
+    "keywords": ["Graph API", "rate limiting", "API limits", "throttling", "usage caps", "call volume", "API quotas", "rate limit headers", "API management", "throttling policies"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Debugging Tools",
+    "url": "https://developers.facebook.com/tools/debug",
+    "description": "Collection of official Facebook debugging tools for Graph API development, including the Access Token Debugger for validating tokens, Graph API Explorer for testing endpoints, and webhook testing tools for real-time event debugging.",
+    "keywords": ["Graph API", "debugging tools", "token debugger", "Graph API Explorer", "webhook tester", "developer tools", "API testing", "troubleshooting", "Facebook tools", "validation tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Access Token Debugger",
+    "url": "https://developers.facebook.com/tools/debug/accesstoken",
+    "description": "Facebook's Access Token Debugger tool allows developers to inspect and validate access tokens, viewing information about token expiration, permissions granted, associated app ID, and user ID to help debug authentication issues in applications.",
+    "keywords": ["access token", "debugger", "token validation", "token inspection", "developer tools", "authentication", "permissions", "token debug", "debugging tool", "Graph API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Graph API Explorer Tool",
+    "url": "https://developers.facebook.com/tools/explorer",
+    "description": "Interactive Graph API Explorer tool that allows developers to construct and test API requests, select permissions, view JSON responses, and experiment with different endpoints before implementing them in production applications.",
+    "keywords": ["Graph API Explorer", "API testing", "interactive tool", "developer tools", "endpoint testing", "API calls", "permissions testing", "debugging", "prototyping", "Facebook tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Webhooks Tester",
+    "url": "https://developers.facebook.com/tools/debug/webhooks",
+    "description": "Facebook's Webhooks Tester tool enables developers to simulate and debug webhook events, sending test notifications and inspecting payloads to ensure proper handling of real-time events from Facebook's platforms.",
+    "keywords": ["webhooks", "tester", "webhook testing", "real-time events", "developer tools", "event simulation", "payload inspection", "debugging", "webhook debug", "Facebook tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Open Graph Protocol",
+    "url": "https://developers.facebook.com/docs/sharing/webmasters",
+    "description": "Documentation for the Open Graph protocol, enabling websites to become rich objects in Facebook's social graph by adding meta tags that control how content appears when shared, including title, description, image, and custom properties.",
+    "keywords": ["Open Graph", "meta tags", "social sharing", "rich previews", "Facebook sharing", "webmasters", "OG tags", "content preview", "social media integration", "link sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Open Graph Debugger",
+    "url": "https://developers.facebook.com/tools/debug/og/object",
+    "description": "Facebook's Open Graph Debugger tool allows developers to inspect how their web pages are interpreted by Facebook's crawler, preview shared content, refresh cached information, and troubleshoot Open Graph meta tag implementation issues.",
+    "keywords": ["Open Graph", "debugger", "OG debugger", "meta tags", "Facebook crawler", "content preview", "cache refresh", "sharing debug", "link preview", "Facebook tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Sharing Best Practices",
+    "url": "https://developers.facebook.com/docs/sharing/best-practices",
+    "description": "Comprehensive guide to best practices for implementing Facebook sharing features, covering optimal image sizes, meta tag configuration, share dialog integration, and strategies to maximize engagement when users share content from websites and apps.",
+    "keywords": ["sharing", "best practices", "social sharing", "image optimization", "meta tags", "share dialogs", "engagement", "Facebook sharing", "content sharing", "viral features"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Social Plugins",
+    "url": "https://developers.facebook.com/docs/plugins",
+    "description": "Overview of Facebook's social plugins including Like Button, Share Button, Comments Plugin, Page Plugin, and Save Button, with documentation for adding these interactive elements to websites with minimal code.",
+    "keywords": ["social plugins", "Like Button", "Share Button", "Comments Plugin", "Page Plugin", "Save Button", "website integration", "Facebook plugins", "social features", "embed"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Comments Plugin Moderation",
+    "url": "https://developers.facebook.com/docs/plugins/comments#moderation",
+    "description": "Guide to moderation tools for the Facebook Comments Plugin, teaching developers how to manage comments, block users, approve or remove content, and integrate moderation with Facebook Page admin tools for community management.",
+    "keywords": ["Comments Plugin", "moderation", "comment management", "block users", "approve comments", "remove comments", "community management", "Facebook comments", "moderation tools", "admin tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Page Plugin Configuration",
+    "url": "https://developers.facebook.com/docs/plugins/page-plugin",
+    "description": "Documentation for configuring the Facebook Page Plugin, enabling websites to embed and customize Page timelines, event listings, and call-to-action buttons with options for width, height, tabs, and cover photo display.",
+    "keywords": ["Page Plugin", "Facebook Page", "embed", "timeline embed", "page configuration", "social plugin", "website integration", "page tabs", "cover photo", "Facebook widget"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Like Button Configuration",
+    "url": "https://developers.facebook.com/docs/plugins/like-button#configurator",
+    "description": "Interactive configuration guide for the Facebook Like Button plugin, allowing developers to customize button layout, action type, share functionality, and size while generating the necessary embed code for website implementation.",
+    "keywords": ["Like Button", "configuration", "button layout", "action type", "share button", "embed code", "social plugin", "Facebook like", "website integration", "button generator"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Save Button Configuration",
+    "url": "https://developers.facebook.com/docs/plugins/save-button#configurator",
+    "description": "Configuration tool for the Facebook Save Button plugin, enabling developers to customize the button appearance, generate embed code, and implement bookmarking functionality that allows users to save content to Facebook for later viewing.",
+    "keywords": ["Save Button", "configuration", "bookmark", "save for later", "embed code", "social plugin", "Facebook save", "website integration", "button generator", "content saving"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Quote Plugin Configuration",
+    "url": "https://developers.facebook.com/docs/plugins/quote#configurator",
+    "description": "Documentation and configuration tool for the Facebook Quote Plugin, enabling websites to make text selectable for sharing as quotes on Facebook, with customization options for button appearance and sharing behavior.",
+    "keywords": ["Quote Plugin", "configuration", "text sharing", "quote sharing", "social sharing", "highlight", "embed code", "Facebook quote", "website integration", "content sharing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Video Plugin Configuration",
+    "url": "https://developers.facebook.com/docs/plugins/video#configurator",
+    "description": "Configuration tool for the Facebook Video Plugin, allowing developers to embed Facebook videos on websites with customizable player controls, autoplay settings, fullscreen options, and responsive sizing for optimal video playback.",
+    "keywords": ["Video Plugin", "configuration", "video embed", "player", "autoplay", "fullscreen", "responsive video", "embed code", "Facebook video", "video integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Analytics for Apps Setup",
+    "url": "https://developers.facebook.com/docs/analytics/setup",
+    "description": "Step-by-step guide for setting up Facebook Analytics for mobile apps, covering SDK installation, event logging, user property tracking, and configuration of analytics dashboards for iOS and Android applications.",
+    "keywords": ["Facebook Analytics", "app analytics", "setup guide", "SDK installation", "event logging", "user tracking", "mobile analytics", "iOS analytics", "Android analytics", "analytics configuration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - App Events Best Practices",
+    "url": "https://developers.facebook.com/docs/app-events/best-practices",
+    "description": "Guide to best practices for implementing App Events in Facebook Analytics, covering event naming conventions, parameter logging, standard event types, and strategies for accurate conversion tracking and audience building.",
+    "keywords": ["App Events", "best practices", "event tracking", "naming conventions", "parameters", "standard events", "conversion tracking", "audience building", "Facebook Analytics", "event logging"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Standard Events Reference",
+    "url": "https://developers.facebook.com/docs/app-events/reference",
+    "description": "Complete reference documentation for standard App Events in Facebook Analytics, listing predefined event types like Purchase, AddToCart, CompleteRegistration, and their recommended parameters for consistent tracking across applications.",
+    "keywords": ["App Events", "standard events", "event reference", "purchase", "AddToCart", "CompleteRegistration", "Facebook Analytics", "event types", "predefined events", "event parameters"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Custom Audiences from App Events",
+    "url": "https://developers.facebook.com/docs/marketing-api/audiences/creating-audiences-from-app-events",
+    "description": "Documentation for creating custom audiences based on App Events, enabling advertisers to target users who performed specific actions in their mobile apps with personalized ads and retargeting campaigns.",
+    "keywords": ["custom audiences", "App Events", "audience creation", "retargeting", "mobile ads", "user targeting", "Facebook ads", "app users", "event-based audiences", "marketing API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Lookalike Audiences from App Events",
+    "url": "https://developers.facebook.com/docs/marketing-api/audiences/lookalike-audiences",
+    "description": "Guide to creating lookalike audiences based on App Events data, enabling advertisers to find new users similar to their best customers by analyzing patterns from source audiences derived from app activity.",
+    "keywords": ["lookalike audiences", "App Events", "audience expansion", "similar users", "customer acquisition", "Facebook ads", "targeting", "audience modeling", "machine learning", "marketing API"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Conversion Tracking with Pixel",
+    "url": "https://developers.facebook.com/docs/facebook-pixel/implementation/conversion-tracking",
+    "description": "Guide to implementing conversion tracking with the Facebook Pixel, teaching developers how to track purchases, registrations, and other valuable actions on websites for campaign optimization and ROI measurement.",
+    "keywords": ["Facebook Pixel", "conversion tracking", "pixel implementation", "website conversions", "campaign optimization", "ROI measurement", "event tracking", "purchase tracking", "registration tracking", "ad performance"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Retail",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/retail",
+    "description": "Documentation for implementing Dynamic Ads specifically for retail businesses, enabling automated product advertising based on user behavior, catalog data, and personalized recommendations to drive e-commerce sales.",
+    "keywords": ["Dynamic Ads", "retail advertising", "e-commerce", "product ads", "catalog-based", "personalized ads", "retargeting", "product recommendations", "Facebook ads", "shopping ads"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Travel",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/travel",
+    "description": "Guide to Dynamic Ads for the travel industry, enabling airlines, hotels, and travel platforms to show personalized travel deals based on user browsing behavior, destination interests, and booking history.",
+    "keywords": ["Dynamic Ads", "travel advertising", "hotel ads", "flight ads", "destination marketing", "personalized travel", "travel retargeting", "booking ads", "Facebook ads", "travel industry"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Automotive",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/automotive",
+    "description": "Documentation for Dynamic Ads in the automotive industry, enabling car manufacturers and dealerships to showcase vehicle inventory, promote specific models, and retarget users based on their vehicle browsing and configuration interests.",
+    "keywords": ["Dynamic Ads", "automotive advertising", "car ads", "vehicle inventory", "dealership marketing", "model promotion", "automotive retargeting", "Facebook ads", "car shopping", "vehicle personalization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Real Estate",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/real-estate",
+    "description": "Guide to Dynamic Ads for real estate, enabling property listings, real estate agencies, and developers to showcase properties to interested buyers based on location preferences, price range, and browsing behavior.",
+    "keywords": ["Dynamic Ads", "real estate advertising", "property listings", "real estate marketing", "home ads", "property retargeting", "location-based", "Facebook ads", "real estate agents", "property promotion"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Jobs",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/jobs",
+    "description": "Documentation for Dynamic Ads in recruitment, enabling employers and job platforms to show personalized job recommendations to potential candidates based on their skills, interests, and job search behavior across Facebook.",
+    "keywords": ["Dynamic Ads", "job advertising", "recruitment", "job recommendations", "candidate targeting", "employment ads", "job search", "Facebook jobs", "hiring", "talent acquisition"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Developer - Dynamic Ads for Hotels",
+    "url": "https://developers.facebook.com/docs/marketing-api/dynamic-ads/hotels",
+    "description": "Specialized guide for hotel Dynamic Ads, enabling hotel chains and booking platforms to showcase room availability, special rates, and personalized offers to travelers based on destination searches and booking history.",
+    "keywords": ["Dynamic Ads", "hotel advertising", "travel booking", "room promotions", "hotel rates", "accommodation ads", "travel retargeting", "Facebook ads", "hotel marketing", "booking conversion"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
   }
 ]
 
