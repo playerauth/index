@@ -1,5 +1,623 @@
 
 [
+  {
+    "title": "How to Create a Facebook Page for Business",
+    "url": "https://www.facebook.com/business/help/461775097570076",
+    "description": "Official step-by-step guide to creating a Facebook Page for your business.",
+    "keywords": ["Facebook", "page", "business", "create", "guide"]
+  },
+  {
+    "title": "Facebook Page Setup and Optimization",
+    "url": "https://www.facebook.com/business/help/1278940904810854",
+    "description": "Best practices for setting up and optimizing your Facebook Page.",
+    "keywords": ["Facebook", "page", "optimization", "business", "tips"]
+  },
+  {
+    "title": "Facebook Page Roles and Permissions",
+    "url": "https://www.facebook.com/help/187316341316631",
+    "description": "Information about different admin roles and permissions for Facebook Pages.",
+    "keywords": ["Facebook", "page", "roles", "admin", "permissions"]
+  },
+  {
+    "title": "How to Delete a Facebook Page",
+    "url": "https://www.facebook.com/help/250563911097368",
+    "description": "Instructions for permanently deleting or unpublishing a Facebook Page.",
+    "keywords": ["Facebook", "page", "delete", "unpublish", "remove"]
+  },
+  {
+    "title": "Facebook Page vs Group: What's the Difference?",
+    "url": "https://www.facebook.com/help/162866443247094",
+    "description": "Explanation of the key differences between Facebook Pages and Groups.",
+    "keywords": ["Facebook", "page", "group", "difference", "comparison"]
+  },
+  {
+    "title": "Facebook Page Insights and Analytics",
+    "url": "https://www.facebook.com/business/help/651294705016616",
+    "description": "Guide to understanding and using Facebook Page Insights to track performance.",
+    "keywords": ["Facebook", "page", "insights", "analytics", "metrics"]
+  },
+  {
+    "title": "How to Promote Your Facebook Page",
+    "url": "https://www.facebook.com/business/help/1691735858164770",
+    "description": "Tips and strategies for promoting your Facebook Page and gaining followers.",
+    "keywords": ["Facebook", "page", "promote", "growth", "followers"]
+  },
+  {
+    "title": "Facebook Page Templates",
+    "url": "https://www.facebook.com/business/help/314654045852103",
+    "description": "Overview of different page templates available for various business categories.",
+    "keywords": ["Facebook", "page", "templates", "business", "layout"]
+  },
+  {
+    "title": "How to Add Admins to Facebook Page",
+    "url": "https://www.facebook.com/help/244800081001192",
+    "description": "Step-by-step instructions for adding and managing admins on your Facebook Page.",
+    "keywords": ["Facebook", "page", "admins", "add", "manage"]
+  },
+  {
+    "title": "Facebook Page Publishing Tools",
+    "url": "https://www.facebook.com/business/help/169157292851510",
+    "description": "Guide to using publishing tools to schedule posts and manage content on your Page.",
+    "keywords": ["Facebook", "page", "publishing", "schedule", "content"]
+  },
+  {
+    "title": "How to Create a Facebook Group",
+    "url": "https://www.facebook.com/help/167970719931212",
+    "description": "Official guide to creating and setting up a Facebook Group.",
+    "keywords": ["Facebook", "group", "create", "community", "setup"]
+  },
+  {
+    "title": "Facebook Group Settings and Privacy",
+    "url": "https://www.facebook.com/help/220336891328465",
+    "description": "How to manage privacy settings for your Facebook Group (public, private, hidden).",
+    "keywords": ["Facebook", "group", "privacy", "settings", "manage"]
+  },
+  {
+    "title": "How to Manage Facebook Group Members",
+    "url": "https://www.facebook.com/help/933133811535630",
+    "description": "Instructions for approving, removing, and managing members in your Facebook Group.",
+    "keywords": ["Facebook", "group", "members", "manage", "admin"]
+  },
+  {
+    "title": "Facebook Group Features for Admins",
+    "url": "https://www.facebook.com/community/what-are-facebook-groups/",
+    "description": "Overview of admin features including announcements, units, and moderation tools.",
+    "keywords": ["Facebook", "group", "admin", "features", "moderation"]
+  },
+  {
+    "title": "How to Promote a Facebook Group",
+    "url": "https://www.facebook.com/business/help/226212187643074",
+    "description": "Tips for growing your Facebook Group and engaging members.",
+    "keywords": ["Facebook", "group", "promote", "growth", "engagement"]
+  },
+  {
+    "title": "Facebook Group Rules and Guidelines",
+    "url": "https://www.facebook.com/help/838046775716296",
+    "description": "How to create and manage rules for your Facebook Group to maintain community standards.",
+    "keywords": ["Facebook", "group", "rules", "guidelines", "community"]
+  },
+  {
+    "title": "How to Join a Facebook Group",
+    "url": "https://www.facebook.com/help/183186625993675",
+    "description": "Instructions for finding and joining Facebook Groups based on your interests.",
+    "keywords": ["Facebook", "group", "join", "find", "community"]
+  },
+  {
+    "title": "Facebook Group Insights",
+    "url": "https://www.facebook.com/business/help/461775097570076",
+    "description": "Understanding group insights to track engagement and growth metrics.",
+    "keywords": ["Facebook", "group", "insights", "analytics", "metrics"]
+  },
+  {
+    "title": "How to Leave or Delete a Facebook Group",
+    "url": "https://www.facebook.com/help/216985290038524",
+    "description": "Steps for leaving a group or deleting a group you created.",
+    "keywords": ["Facebook", "group", "leave", "delete", "exit"]
+  },
+  {
+    "title": "Facebook Group vs Page for Business",
+    "url": "https://www.facebook.com/business/help/214754458331113",
+    "description": "Comparison to help businesses decide whether to create a Group or a Page.",
+    "keywords": ["Facebook", "group", "page", "business", "choice"]
+  },
+  {
+    "title": "How to Deactivate Facebook Account Temporarily",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "Official instructions for temporarily deactivating your Facebook account.",
+    "keywords": ["Facebook", "deactivate", "temporary", "account", "settings"]
+  },
+  {
+    "title": "How to Delete Facebook Account Permanently",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "Official instructions for permanently deleting your Facebook account.",
+    "keywords": ["Facebook", "delete", "permanent", "account", "remove"]
+  },
+  {
+    "title": "How to Reactivate Facebook Account",
+    "url": "https://www.facebook.com/help/185747581723698",
+    "description": "Steps to reactivate your Facebook account after deactivation.",
+    "keywords": ["Facebook", "reactivate", "account", "login", "restore"]
+  },
+  {
+    "title": "How to Download Facebook Data",
+    "url": "https://www.facebook.com/help/212802592074644",
+    "description": "Instructions for downloading a copy of your Facebook information.",
+    "keywords": ["Facebook", "download", "data", "privacy", "archive"]
+  },
+  {
+    "title": "How to Change Facebook Password",
+    "url": "https://www.facebook.com/help/203305661673479",
+    "description": "Steps to change or reset your Facebook password.",
+    "keywords": ["Facebook", "password", "change", "security", "reset"]
+  },
+  {
+    "title": "How to Recover Facebook Account",
+    "url": "https://www.facebook.com/help/460197197789572",
+    "description": "Official account recovery process for locked or hacked accounts.",
+    "keywords": ["Facebook", "recover", "account", "hacked", "locked"]
+  },
+  {
+    "title": "How to Enable Two-Factor Authentication on Facebook",
+    "url": "https://www.facebook.com/help/148233965508152",
+    "description": "Guide to setting up two-factor authentication for added security.",
+    "keywords": ["Facebook", "2FA", "two-factor", "security", "authentication"]
+  },
+  {
+    "title": "How to Report a Fake Account on Facebook",
+    "url": "https://www.facebook.com/help/174210519303259",
+    "description": "Instructions for reporting impersonation or fake accounts.",
+    "keywords": ["Facebook", "report", "fake", "impersonation", "account"]
+  },
+  {
+    "title": "How to Block Someone on Facebook",
+    "url": "https://www.facebook.com/help/1680093822602877",
+    "description": "How to block and unblock users on Facebook.",
+    "keywords": ["Facebook", "block", "user", "privacy", "harassment"]
+  },
+  {
+    "title": "How to Unfriend Someone on Facebook",
+    "url": "https://www.facebook.com/help/183486608789080",
+    "description": "Steps to remove someone from your friends list without blocking.",
+    "keywords": ["Facebook", "unfriend", "remove", "friend", "connections"]
+  },
+  {
+    "title": "How to Create a Facebook Event",
+    "url": "https://www.facebook.com/help/1040029837982352",
+    "description": "Official guide to creating and managing events on Facebook.",
+    "keywords": ["Facebook", "event", "create", "invite", "planning"]
+  },
+  {
+    "title": "How to Invite People to Facebook Event",
+    "url": "https://www.facebook.com/help/172724942932815",
+    "description": "Instructions for sending invites and managing guest lists for events.",
+    "keywords": ["Facebook", "event", "invite", "guests", "manage"]
+  },
+  {
+    "title": "Facebook Event Privacy Settings",
+    "url": "https://www.facebook.com/help/206682838358457",
+    "description": "How to set your event as public, private, or invite-only.",
+    "keywords": ["Facebook", "event", "privacy", "settings", "visibility"]
+  },
+  {
+    "title": "How to Sell on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/1542134047865540",
+    "description": "Step-by-step guide to listing items for sale on Marketplace.",
+    "keywords": ["Facebook", "marketplace", "sell", "listing", "items"]
+  },
+  {
+    "title": "How to Buy on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/164263585272737",
+    "description": "Guide to finding and purchasing items on Facebook Marketplace.",
+    "keywords": ["Facebook", "marketplace", "buy", "shop", "purchase"]
+  },
+  {
+    "title": "Facebook Marketplace Safety Tips",
+    "url": "https://www.facebook.com/help/1603162147511196",
+    "description": "Official safety guidelines for buying and selling on Marketplace.",
+    "keywords": ["Facebook", "marketplace", "safety", "scams", "tips"]
+  },
+  {
+    "title": "Facebook Marketplace Shipping",
+    "url": "https://www.facebook.com/help/233462261674315",
+    "description": "Information about shipping options and processes on Marketplace.",
+    "keywords": ["Facebook", "marketplace", "shipping", "delivery", "items"]
+  },
+  {
+    "title": "Facebook Marketplace Payments",
+    "url": "https://www.facebook.com/help/984056084169539",
+    "description": "How payments work for items sold on Marketplace, including checkout.",
+    "keywords": ["Facebook", "marketplace", "payments", "checkout", "transactions"]
+  },
+  {
+    "title": "How to Report a Problem on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/127398102198389",
+    "description": "Instructions for reporting issues with listings, buyers, or sellers on Marketplace.",
+    "keywords": ["Facebook", "marketplace", "report", "problem", "issue"]
+  },
+  {
+    "title": "Facebook Stories: How to Create and Share",
+    "url": "https://www.facebook.com/help/1746740879373985",
+    "description": "Guide to creating and sharing photos and videos as Facebook Stories.",
+    "keywords": ["Facebook", "stories", "create", "share", "photos"]
+  },
+  {
+    "title": "Facebook Reels: How to Make and Share",
+    "url": "https://www.facebook.com/help/1489148881726303",
+    "description": "Instructions for creating and sharing short-form video Reels on Facebook.",
+    "keywords": ["Facebook", "reels", "video", "create", "share"]
+  },
+  {
+    "title": "Facebook Watch: How to Find and Watch Videos",
+    "url": "https://www.facebook.com/help/221270402669930",
+    "description": "Guide to using Facebook Watch to discover and watch video content.",
+    "keywords": ["Facebook", "watch", "video", "discover", "stream"]
+  },
+  {
+    "title": "How to Go Live on Facebook",
+    "url": "https://www.facebook.com/help/164576361261777",
+    "description": "Step-by-step guide to starting a live video broadcast on Facebook.",
+    "keywords": ["Facebook", "live", "video", "stream", "broadcast"]
+  },
+  {
+    "title": "Facebook Gaming: How to Stream and Watch Games",
+    "url": "https://www.facebook.com/gaming/help",
+    "description": "Information about Facebook Gaming for streamers and viewers.",
+    "keywords": ["Facebook", "gaming", "stream", "games", "watch"]
+  },
+  {
+    "title": "Facebook Dating: How to Set Up and Use",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "Guide to setting up and using Facebook Dating feature.",
+    "keywords": ["Facebook", "dating", "profile", "match", "relationships"]
+  },
+  {
+    "title": "Facebook News Feed: How It Works",
+    "url": "https://www.facebook.com/help/1155510281178725",
+    "description": "Explanation of how Facebook's News Feed algorithm determines what posts you see.",
+    "keywords": ["Facebook", "news feed", "algorithm", "ranking", "posts"]
+  },
+  {
+    "title": "Facebook F8 Developer Conference",
+    "url": "https://developers.facebook.com/blog/post/2023/06/15/f8-2023-recap/",
+    "description": "Recap and highlights from Facebook's annual F8 developer conference.",
+    "keywords": ["Facebook", "F8", "developer", "conference", "announcements"]
+  },
+  {
+    "title": "Facebook AI Research",
+    "url": "https://ai.facebook.com/",
+    "description": "Official site for Facebook AI Research (FAIR) and artificial intelligence initiatives.",
+    "keywords": ["Facebook", "AI", "research", "machine learning", "FAIR"]
+  },
+  {
+    "title": "Facebook Connectivity (Internet.org)",
+    "url": "https://connectivity.fb.com/",
+    "description": "Facebook's initiatives to expand internet access globally.",
+    "keywords": ["Facebook", "connectivity", "internet.org", "access", "global"]
+  },
+  {
+    "title": "Facebook App Events and Product Launches",
+    "url": "https://about.fb.com/news/category/facebook/",
+    "description": "Official news category covering Facebook app updates and product launches.",
+    "keywords": ["Facebook", "news", "updates", "launches", "features"]
+  },
+  {
+    "title": "Facebook Journalism Project",
+    "url": "https://www.facebook.com/journalismproject",
+    "description": "Facebook's initiative to support journalism and news organizations.",
+    "keywords": ["Facebook", "journalism", "news", "media", "support"]
+  },
+  {
+    "title": "Facebook Safety and Well-Being",
+    "url": "https://about.fb.com/actions/safety-and-well-being/",
+    "description": "Resources and tools for staying safe and managing well-being on Facebook.",
+    "keywords": ["Facebook", "safety", "well-being", "mental health", "resources"]
+  },
+  {
+    "title": "Facebook Transparency Reports",
+    "url": "https://transparency.fb.com/",
+    "description": "Official transparency reports on content moderation, government requests, and more.",
+    "keywords": ["Facebook", "transparency", "reports", "moderation", "data"]
+  },
+  {
+    "title": "Facebook Civil Rights Audit",
+    "url": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
+    "description": "Full report and updates on Facebook's civil rights audit.",
+    "keywords": ["Facebook", "civil rights", "audit", "diversity", "inclusion"]
+  },
+  {
+    "title": "Facebook Oversight Board",
+    "url": "https://www.oversightboard.com/",
+    "description": "Official site of the independent Facebook Oversight Board for content decisions.",
+    "keywords": ["Facebook", "oversight board", "content", "decisions", "appeals"]
+  },
+  {
+    "title": "Facebook Open Source",
+    "url": "https://opensource.fb.com/",
+    "description": "Facebook's open source projects and contributions to the developer community.",
+    "keywords": ["Facebook", "open source", "developer", "projects", "GitHub"]
+  },
+  {
+    "title": "Facebook Careers and Jobs",
+    "url": "https://www.metacareers.com/",
+    "description": "Official careers site for job opportunities at Facebook and Meta.",
+    "keywords": ["Facebook", "careers", "jobs", "employment", "Meta"]
+  },
+  {
+    "title": "Facebook Diversity Report",
+    "url": "https://about.fb.com/news/2021/07/2021-diversity-report/",
+    "description": "Annual diversity report on Facebook's workforce demographics.",
+    "keywords": ["Facebook", "diversity", "report", "workforce", "inclusion"]
+  },
+  {
+    "title": "Facebook Climate Change Initiative",
+    "url": "https://sustainability.fb.com/",
+    "description": "Facebook's sustainability efforts and climate change commitments.",
+    "keywords": ["Facebook", "climate", "sustainability", "environment", "green"]
+  },
+  {
+    "title": "Facebook Content Moderation Guidelines",
+    "url": "https://transparency.fb.com/policies/community-standards/",
+    "description": "Detailed community standards and content moderation policies.",
+    "keywords": ["Facebook", "moderation", "guidelines", "community standards", "content"]
+  },
+  {
+    "title": "Facebook for Education",
+    "url": "https://education.fb.com/",
+    "description": "Facebook's resources and tools for educators and students.",
+    "keywords": ["Facebook", "education", "learning", "students", "teachers"]
+  },
+  {
+    "title": "Facebook Small Business Grants",
+    "url": "https://www.facebook.com/business/boost/grants",
+    "description": "Information about grant programs for small businesses from Facebook.",
+    "keywords": ["Facebook", "small business", "grants", "funding", "support"]
+  },
+  {
+    "title": "Facebook Creator Studio",
+    "url": "https://business.facebook.com/creatorstudio",
+    "description": "Tool for creators to manage content, insights, and monetization across Facebook and Instagram.",
+    "keywords": ["Facebook", "creator", "studio", "content", "monetization"]
+  },
+  {
+    "title": "Facebook Blueprint Certification",
+    "url": "https://www.facebook.com/business/learn/certification",
+    "description": "Professional certification program for Facebook marketing and advertising.",
+    "keywords": ["Facebook", "blueprint", "certification", "marketing", "training"]
+  },
+  {
+    "title": "Facebook IQ: Insights and Research",
+    "url": "https://www.facebook.com/business/marketing/facebook-iq",
+    "description": "Market research and consumer insights from Facebook IQ.",
+    "keywords": ["Facebook", "IQ", "research", "insights", "marketing"]
+  },
+  {
+    "title": "Facebook Success Stories for Business",
+    "url": "https://www.facebook.com/business/success",
+    "description": "Case studies and success stories of businesses using Facebook.",
+    "keywords": ["Facebook", "success", "stories", "business", "case studies"]
+  },
+  {
+    "title": "Facebook Audience Network",
+    "url": "https://www.facebook.com/business/marketing/audience-network",
+    "description": "Facebook's ad network for extending campaigns beyond Facebook.",
+    "keywords": ["Facebook", "audience network", "ads", "monetization", "publishers"]
+  },
+  {
+    "title": "Facebook Analytics for Apps",
+    "url": "https://developers.facebook.com/docs/analytics",
+    "description": "Analytics tool for understanding app usage and user behavior.",
+    "keywords": ["Facebook", "analytics", "apps", "developer", "insights"]
+  },
+  {
+    "title": "Facebook Shops",
+    "url": "https://www.facebook.com/business/shops",
+    "description": "Information about setting up an online shop on Facebook and Instagram.",
+    "keywords": ["Facebook", "shops", "ecommerce", "sell", "products"]
+  },
+  {
+    "title": "Facebook Pay",
+    "url": "https://www.facebook.com/pay",
+    "description": "Information about Facebook's payment system for transactions across apps.",
+    "keywords": ["Facebook", "pay", "payments", "transactions", "money"]
+  },
+  {
+    "title": "Facebook Crisis Response",
+    "url": "https://www.facebook.com/crisisresponse/",
+    "description": "Tools and resources for safety during crises and emergencies.",
+    "keywords": ["Facebook", "crisis", "response", "safety", "emergency"]
+  },
+  {
+    "title": "Facebook Bullying Prevention Hub",
+    "url": "https://www.facebook.com/safety/bullying",
+    "description": "Resources for preventing and addressing bullying on Facebook.",
+    "keywords": ["Facebook", "bullying", "prevention", "safety", "teens"]
+  },
+  {
+    "title": "Facebook Suicide Prevention",
+    "url": "https://www.facebook.com/help/594991777257921",
+    "description": "Tools and resources for suicide prevention and mental health support.",
+    "keywords": ["Facebook", "suicide prevention", "mental health", "support", "safety"]
+  },
+  {
+    "title": "Facebook Privacy Basics",
+    "url": "https://www.facebook.com/privacy/basics/",
+    "description": "Interactive guide to understanding and controlling your Facebook privacy.",
+    "keywords": ["Facebook", "privacy", "basics", "guide", "settings"]
+  },
+  {
+    "title": "Facebook Data Policy Explained",
+    "url": "https://www.facebook.com/about/privacy/",
+    "description": "Plain language explanation of Facebook's data policy and practices.",
+    "keywords": ["Facebook", "data policy", "privacy", "information", "explained"]
+  },
+  {
+    "title": "Facebook Terms of Service",
+    "url": "https://www.facebook.com/legal/terms",
+    "description": "Official terms and conditions for using Facebook.",
+    "keywords": ["Facebook", "terms", "conditions", "legal", "agreement"]
+  },
+  {
+    "title": "Facebook Cookies Policy",
+    "url": "https://www.facebook.com/policies/cookies/",
+    "description": "Information about how Facebook uses cookies and similar technologies.",
+    "keywords": ["Facebook", "cookies", "policy", "tracking", "data"]
+  },
+  {
+    "title": "Facebook Copyright and Intellectual Property",
+    "url": "https://www.facebook.com/help/contact/1758255661104383",
+    "description": "Resources for reporting copyright infringement on Facebook.",
+    "keywords": ["Facebook", "copyright", "IP", "intellectual property", "report"]
+  },
+  {
+    "title": "Facebook and the EU General Data Protection Regulation (GDPR)",
+    "url": "https://www.facebook.com/business/gdpr",
+    "description": "Information about Facebook's compliance with GDPR and data protection.",
+    "keywords": ["Facebook", "GDPR", "privacy", "EU", "data protection"]
+  },
+  {
+    "title": "Facebook and Children's Privacy (COPPA)",
+    "url": "https://www.facebook.com/help/1560521643982909",
+    "description": "Information about Facebook's policies regarding children under 13.",
+    "keywords": ["Facebook", "children", "COPPA", "privacy", "safety"]
+  },
+  {
+    "title": "Facebook for Nonprofits",
+    "url": "https://nonprofits.fb.com/",
+    "description": "Tools and resources for nonprofit organizations using Facebook.",
+    "keywords": ["Facebook", "nonprofit", "charity", "fundraising", "donations"]
+  },
+  {
+    "title": "Facebook Fundraising Tools",
+    "url": "https://www.facebook.com/fundraisers/",
+    "description": "Information about creating and managing fundraisers on Facebook.",
+    "keywords": ["Facebook", "fundraising", "donations", "charity", "cause"]
+  },
+  {
+    "title": "Facebook Birthday Fundraisers",
+    "url": "https://www.facebook.com/help/1418845136052311",
+    "description": "How to set up a birthday fundraiser for a nonprofit on Facebook.",
+    "keywords": ["Facebook", "birthday", "fundraiser", "charity", "donations"]
+  },
+  {
+    "title": "Facebook for Developers: Graph API",
+    "url": "https://developers.facebook.com/docs/graph-api/",
+    "description": "Documentation for Facebook's Graph API for developers.",
+    "keywords": ["Facebook", "developers", "Graph API", "integration", "documentation"]
+  },
+  {
+    "title": "Facebook Login for Developers",
+    "url": "https://developers.facebook.com/docs/facebook-login/",
+    "description": "Guide to implementing Facebook Login on websites and apps.",
+    "keywords": ["Facebook", "login", "developers", "authentication", "integration"]
+  },
+  {
+    "title": "Facebook Sharing for Developers",
+    "url": "https://developers.facebook.com/docs/sharing/",
+    "description": "Documentation for adding Facebook sharing functionality to websites.",
+    "keywords": ["Facebook", "sharing", "developers", "social plugins", "integration"]
+  },
+  {
+    "title": "Facebook Comments Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/comments/",
+    "description": "Guide to embedding Facebook Comments on websites.",
+    "keywords": ["Facebook", "comments", "plugin", "developers", "embed"]
+  },
+  {
+    "title": "Facebook Like Button",
+    "url": "https://developers.facebook.com/docs/plugins/like-button/",
+    "description": "Documentation for adding Facebook Like button to websites.",
+    "keywords": ["Facebook", "like", "button", "developers", "social plugin"]
+  },
+  {
+    "title": "Facebook Pixel for Developers",
+    "url": "https://developers.facebook.com/docs/facebook-pixel/",
+    "description": "Guide to implementing Facebook Pixel for conversion tracking.",
+    "keywords": ["Facebook", "pixel", "developers", "tracking", "conversions"]
+  },
+  {
+    "title": "Facebook Conversions API",
+    "url": "https://developers.facebook.com/docs/marketing-api/conversions-api/",
+    "description": "Documentation for Facebook's Conversions API for server-side tracking.",
+    "keywords": ["Facebook", "conversions API", "tracking", "marketing", "developers"]
+  },
+  {
+    "title": "Facebook Instant Games",
+    "url": "https://developers.facebook.com/docs/games/instant-games/",
+    "description": "Platform for building and publishing instant games on Facebook.",
+    "keywords": ["Facebook", "instant games", "developers", "gaming", "HTML5"]
+  },
+  {
+    "title": "Facebook Spark AR Studio",
+    "url": "https://sparkar.facebook.com/ar-studio/",
+    "description": "Tool for creating augmented reality effects for Facebook and Instagram.",
+    "keywords": ["Facebook", "Spark AR", "augmented reality", "effects", "creators"]
+  },
+  {
+    "title": "Facebook Business Suite",
+    "url": "https://business.facebook.com/",
+    "description": "Unified tool for managing Facebook and Instagram business presence.",
+    "keywords": ["Facebook", "business suite", "manage", "Instagram", "tools"]
+  },
+  {
+    "title": "Facebook Ads Library",
+    "url": "https://www.facebook.com/ads/library/",
+    "description": "Searchable library of active ads running across Facebook products.",
+    "keywords": ["Facebook", "ads library", "transparency", "search", "advertisements"]
+  },
+  {
+    "title": "Facebook Political Ads Archive",
+    "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads",
+    "description": "Archive of political and issue ads on Facebook for transparency.",
+    "keywords": ["Facebook", "political ads", "archive", "transparency", "elections"]
+  },
+  {
+    "title": "Facebook IQ: Topics to Watch",
+    "url": "https://www.facebook.com/business/insights/tools/topics-to-watch",
+    "description": "Trending topics and cultural insights for marketers.",
+    "keywords": ["Facebook", "trends", "insights", "marketing", "culture"]
+  },
+  {
+    "title": "Facebook for Creators",
+    "url": "https://www.facebook.com/creators/",
+    "description": "Resources and tools for content creators on Facebook.",
+    "keywords": ["Facebook", "creators", "content", "monetization", "tools"]
+  },
+  {
+    "title": "Facebook Stars: Supporting Creators",
+    "url": "https://www.facebook.com/creators/stars",
+    "description": "Information about Facebook Stars, a way to support creators during live streams.",
+    "keywords": ["Facebook", "stars", "creators", "support", "monetization"]
+  },
+  {
+    "title": "Facebook Bonuses for Creators",
+    "url": "https://www.facebook.com/creators/bonuses",
+    "description": "Information about bonus programs for eligible Facebook creators.",
+    "keywords": ["Facebook", "bonuses", "creators", "monetization", "programs"]
+  },
+  {
+    "title": "Facebook Content Library",
+    "url": "https://www.facebook.com/ContentLibrary",
+    "description": "Research tool for accessing public content from Facebook for academic study.",
+    "keywords": ["Facebook", "content library", "research", "academic", "data"]
+  },
+  {
+    "title": "Meta Content Library and API",
+    "url": "https://developers.facebook.com/docs/content-library-and-api",
+    "description": "Documentation for researchers accessing public Facebook and Instagram content.",
+    "keywords": ["Facebook", "content library", "API", "research", "academic"]
+  },
+  {
+    "title": "Facebook Research: Hard Questions",
+    "url": "https://about.fb.com/news/category/hard-questions/",
+    "description": "Facebook's blog series addressing challenging questions about the platform.",
+    "keywords": ["Facebook", "hard questions", "blog", "ethics", "challenges"]
+  },
+  {
+    "title": "Facebook Research: The Facebook Files",
+    "url": "https://www.wsj.com/articles/the-facebook-files-11631713039",
+    "description": "Wall Street Journal's investigative series based on internal Facebook documents.",
+    "keywords": ["Facebook", "Facebook Files", "investigation", "WSJ", "documents"]
+  },
 {
 "title": "Facebook - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Facebook",
