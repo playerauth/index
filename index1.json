@@ -9,6 +9,1519 @@
     ],
     "image": "https://play-lh.googleusercontent.com/KSIdyQ7WwDkPIFo5lJ-KkOwPML5vBsIegdeE1tPLzRTyq1HZ9mPpSqgZT16RkZPm8w=w480-h960"
   },
+  
+  {
+    "title": "Facebook - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Facebook",
+    "description": "Wikipedia provides a comprehensive encyclopedia article about Facebook, covering its founding by Mark Zuckerberg in 2004 at Harvard University, its growth into a global social networking platform, key features like the News Feed and Timeline, major acquisitions including Instagram and WhatsApp, controversies around privacy and data security, and its evolution under parent company Meta Platforms.",
+    "keywords": ["Facebook", "social network", "history", "features", "platform", "Meta", "Mark Zuckerberg", "founding", "2004", "Harvard"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png"
+  },
+  {
+    "title": "Facebook - Official Site",
+    "url": "https://www.facebook.com",
+    "description": "The official Facebook website serves as the primary platform where users can create personal profiles, connect with friends and family, share photos and videos, post updates, join groups, follow pages, and access various features like Marketplace, Watch, and Gaming all from a single integrated social networking experience.",
+    "keywords": ["Facebook", "login", "homepage", "social media", "connect", "friends", "profile", "news feed", "sign up", "account"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Newsroom",
+    "url": "https://about.fb.com/news/",
+    "description": "The Facebook Newsroom is the official source for press releases, company announcements, product updates, and corporate news from Meta, providing journalists, investors, and the public with timely information about new features, policy changes, company initiatives, and important milestones in Facebook's evolution.",
+    "keywords": ["Facebook", "news", "updates", "press releases", "announcements", "blog", "media", "statements", "official", "Meta"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Facebook Help Center",
+    "url": "https://www.facebook.com/help/",
+    "description": "The Facebook Help Center offers comprehensive support resources including step-by-step guides, troubleshooting articles, video tutorials, and community forums to assist users with account issues, privacy settings, feature usage, reporting problems, and understanding Facebook's policies and tools.",
+    "keywords": ["Facebook", "help", "support", "FAQ", "troubleshooting", "guide", "assistance", "customer service", "resources", "help center"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Community Standards",
+    "url": "https://transparency.fb.com/policies/community-standards/",
+    "description": "Facebook's Community Standards outline the detailed rules and guidelines governing what content is allowed on the platform, covering areas like hate speech, violence, harassment, misinformation, adult content, and intellectual property, with explanations of how these policies are enforced through moderation systems.",
+    "keywords": ["Facebook", "community standards", "rules", "moderation", "guidelines", "policies", "content", "safety", "enforcement", "transparency"],
+    "image": "https://transparency.fb.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook for Business",
+    "url": "https://www.facebook.com/business/",
+    "description": "Facebook for Business provides businesses of all sizes with marketing tools, advertising solutions, analytics, and educational resources to reach customers, build brand awareness, drive sales, and measure campaign performance across Facebook, Instagram, Messenger, and WhatsApp.",
+    "keywords": ["Facebook", "business", "marketing", "ads", "advertising", "promotion", "brand", "customers", "audience", "campaign"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Developers",
+    "url": "https://developers.facebook.com/",
+    "description": "Facebook for Developers offers technical documentation, APIs, SDKs, and tools for building integrations with Facebook's platform, enabling developers to implement features like Facebook Login, sharing functionality, analytics, advertising APIs, and augmented reality effects across web and mobile applications.",
+    "keywords": ["Facebook", "developers", "API", "integration", "SDK", "documentation", "coding", "platform", "apps", "tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Research",
+    "url": "https://research.facebook.com/",
+    "description": "Facebook Research showcases the company's academic publications, AI research initiatives, and scientific contributions across fields like computer vision, natural language processing, machine learning, and social computing, highlighting collaborations with the broader research community and open-source releases.",
+    "keywords": ["Facebook", "research", "AI", "machine learning", "science", "publications", "academic", "computer science", "innovation", "FAIR"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook Engineering Blog",
+    "url": "https://engineering.fb.com/",
+    "description": "The Facebook Engineering Blog provides technical insights, case studies, and behind-the-scenes stories from Facebook's engineering teams, covering topics like infrastructure scaling, system design, software architecture, new technologies, and the challenges of building products used by billions of people worldwide.",
+    "keywords": ["Facebook", "engineering", "technology", "blog", "technical", "infrastructure", "scaling", "systems", "architecture", "development"],
+    "image": "https://engineering.fb.com/wp-content/uploads/2021/02/engineering-opengraph.jpg"
+  },
+  {
+    "title": "Facebook on the App Store",
+    "url": "https://apps.apple.com/app/facebook/id284882215",
+    "description": "The Facebook app on the Apple App Store allows iPhone and iPad users to download the official Facebook application, featuring access to News Feed, notifications, messaging, photo sharing, live video, and all core Facebook functionality optimized for mobile devices.",
+    "keywords": ["Facebook", "app", "iOS", "iPhone", "iPad", "download", "mobile", "Apple", "App Store", "installation"],
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/11/32/731132d8-5cef-8c2b-2ce9-5e5e3c4a0c34/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "description": "Wikipedia's biography of Mark Zuckerberg details the life of Facebook's co-founder and CEO, from his childhood in New York and education at Harvard to the founding of Facebook, the company's growth into a global tech giant, his philanthropic efforts through the Chan Zuckerberg Initiative, and his public persona and controversies.",
+    "keywords": ["Mark Zuckerberg", "founder", "CEO", "biography", "Facebook", "Meta", "entrepreneur", "billionaire", "philanthropy", "Harvard"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg/440px-Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg's Facebook Profile",
+    "url": "https://www.facebook.com/markzuckerberg",
+    "description": "Mark Zuckerberg's official Facebook profile serves as his personal presence on the platform where he shares updates about his life, family, philanthropic work, product announcements, company news, and occasional personal reflections, engaging with millions of followers who comment on and react to his posts.",
+    "keywords": ["Mark Zuckerberg", "Facebook", "profile", "official", "personal", "updates", "posts", "founder", "CEO", "Meta"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.30808-1/327759001_904474833623742_6563053773455125683_n.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg - Forbes Profile",
+    "url": "https://www.forbes.com/profile/mark-zuckerberg/",
+    "description": "Forbes provides a detailed profile of Mark Zuckerberg including his real-time net worth ranking among global billionaires, biography, career trajectory, major investments, philanthropic giving, and annual updates on his wealth fluctuations based on Meta's stock performance and business ventures.",
+    "keywords": ["Mark Zuckerberg", "Forbes", "net worth", "billionaire", "profile", "wealth", "ranking", "finance", "richest", "Meta"],
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg Testifies Before Congress (C-SPAN)",
+    "url": "https://www.c-span.org/video/?443625-1/mark-zuckerberg-testifies-house-commerce-committee",
+    "description": "C-SPAN's video archive captures Mark Zuckerberg's testimony before the House Energy and Commerce Committee in 2018, where he answered questions from lawmakers about the Cambridge Analytica scandal, Facebook's data privacy practices, election interference, and potential regulation of social media platforms.",
+    "keywords": ["Mark Zuckerberg", "testimony", "Congress", "privacy", "Cambridge Analytica", "hearing", "government", "lawmakers", "data", "regulation"],
+    "image": "https://www.c-span.org/assets/img/cspan-logo-og.png"
+  },
+  {
+    "title": "Mark Zuckerberg: The Recode Interview",
+    "url": "https://www.vox.com/recode/2019/10/1/20895458/mark-zuckerberg-full-transcript-leaked-audio-facebook",
+    "description": "Vox Recode presents the full transcript and analysis of Mark Zuckerberg's internal company meetings where leaked audio revealed his candid thoughts on competitors, content moderation challenges, political pressures, and strategic decisions facing Facebook, providing rare insight into his leadership perspective.",
+    "keywords": ["Mark Zuckerberg", "interview", "Recode", "transcript", "leaked audio", "internal meetings", "leadership", "strategy", "content moderation", "politics"],
+    "image": "https://cdn.vox-cdn.com/thumbor/R1nJhJq3wYqQnSxGK4ZkW7YjP4U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/65369366/GettyImages_1061897012.0.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg's Harvard Commencement Speech",
+    "url": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-commencement-address-as-prepared-for-delivery/",
+    "description": "Harvard Gazette publishes the full text of Mark Zuckerberg's 2017 commencement address where he returned to his alma mater to speak about purpose, creating meaningful projects, rebuilding society, and the importance of giving everyone the freedom to pursue their dreams while reflecting on his own journey from dorm room founder to tech CEO.",
+    "keywords": ["Mark Zuckerberg", "Harvard", "commencement", "speech", "graduation", "address", "2017", "purpose", "inspiration", "alumni"],
+    "image": "https://news.harvard.edu/gazette/wp-content/uploads/2017/05/2520_Zuckerberg-Commencement_605.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg - Time 100",
+    "url": "https://time.com/collection/100-most-influential-people-2021/",
+    "description": "Time magazine's annual list of the 100 most influential people includes Mark Zuckerberg with a profile written by a notable figure explaining his impact on technology, business, and society, recognizing his role in shaping how billions of people communicate and consume information through Facebook and Meta.",
+    "keywords": ["Mark Zuckerberg", "Time 100", "influential", "profile", "recognition", "award", "impact", "leadership", "technology", "society"],
+    "image": "https://api.time.com/wp-content/uploads/2021/09/time100-2021-mark-zuckerberg.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg's Philanthropy (Chan Zuckerberg Initiative)",
+    "url": "https://chanzuckerberg.com/",
+    "description": "The Chan Zuckerberg Initiative is the philanthropic organization founded by Mark Zuckerberg and his wife Priscilla Chan, focused on advancing human potential and promoting equality through investments in science, education, and justice initiatives, including ambitious goals to cure, prevent, or manage all diseases by 2100.",
+    "keywords": ["Mark Zuckerberg", "philanthropy", "Chan Zuckerberg Initiative", "charity", "Priscilla Chan", "donation", "science", "education", "health", "foundation"],
+    "image": "https://chanzuckerberg.com/static/og-image.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg on 60 Minutes",
+    "url": "https://www.cbsnews.com/news/mark-zuckerberg-60-minutes-interview-facebook-privacy-2019/",
+    "description": "CBS News 60 Minutes features an interview with Mark Zuckerberg discussing Facebook's privacy challenges, his vision for a privacy-focused future, the company's handling of user data, and his personal responsibility in addressing the platform's impact on democracy and society in this televised conversation.",
+    "keywords": ["Mark Zuckerberg", "60 Minutes", "interview", "privacy", "CBS", "television", "broadcast", "conversation", "data", "vision"],
+    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/04/07/8f3d3f8b-3d8f-4f3f-9e0a-5b3d3f0e0b3a/thumbnail/1200x630/5c3d3f0e0b3a8f3d3f8b-3d8f-4f3f-9e0a-5b3d3f0e0b3a.jpg"
+  },
+  {
+    "title": "Mark Zuckerberg's Early Life and Education",
+    "url": "https://www.biography.com/business-figure/mark-zuckerberg",
+    "description": "Biography.com provides a comprehensive overview of Mark Zuckerberg's early life including his childhood in Dobbs Ferry, New York, his development of early software programs like Synapse, his education at Phillips Exeter Academy, his time at Harvard University studying psychology and computer science, and the founding of Facebook from his dorm room in 2004.",
+    "keywords": ["Mark Zuckerberg", "early life", "education", "biography", "childhood", "Harvard", "founding", "software", "programmer", "origins"],
+    "image": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQ5MjAz/mark-zuckerberg-507282-1-402.jpg"
+  },
+  {
+    "title": "Instagram - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Instagram",
+    "description": "Wikipedia's article on Instagram details the photo and video sharing platform founded by Kevin Systrom and Mike Krieger in 2010, its acquisition by Facebook for $1 billion in 2012, its explosive growth to over one billion users, key features like Stories, Reels, and IGTV, and its cultural impact on photography, influencer marketing, and visual communication.",
+    "keywords": ["Instagram", "social media", "photo sharing", "app", "Meta", "Kevin Systrom", "acquisition", "Stories", "Reels", "influencers"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/512px-Instagram_logo_2016.svg.png"
+  },
+  {
+    "title": "Instagram Official Site",
+    "url": "https://www.instagram.com",
+    "description": "The official Instagram website allows users to access the platform through desktop browsers, view photos and videos, interact with content through likes and comments, browse profiles, and discover new accounts while maintaining the core visual experience of the mobile app in a web-optimized format.",
+    "keywords": ["Instagram", "login", "homepage", "photos", "videos", "social network", "profile", "feed", "explore", "discover"],
+    "image": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"
+  },
+  {
+    "title": "Instagram Help Center",
+    "url": "https://help.instagram.com/",
+    "description": "The Instagram Help Center provides comprehensive support resources including troubleshooting guides, account management assistance, privacy and safety tips, feature explanations, and reporting tools to help users resolve issues and better understand how to use all aspects of the Instagram platform effectively.",
+    "keywords": ["Instagram", "help", "support", "FAQ", "guide", "assistance", "troubleshooting", "account", "privacy", "safety"],
+    "image": "https://help.instagram.com/static/ig-help-center-og.png"
+  },
+  {
+    "title": "Instagram for Business",
+    "url": "https://business.instagram.com/",
+    "description": "Instagram for Business offers marketing solutions, advertising tools, analytics, and best practices for brands and businesses to reach their target audiences, create engaging visual content, run effective ad campaigns, and measure performance across the Instagram platform to drive real business results.",
+    "keywords": ["Instagram", "business", "marketing", "ads", "advertising", "brands", "promotion", "analytics", "insights", "campaign"],
+    "image": "https://business.instagram.com/static/og-image.jpg"
+  },
+  {
+    "title": "Instagram Developers",
+    "url": "https://developers.facebook.com/products/instagram/",
+    "description": "Instagram for Developers provides technical documentation, APIs, and tools for building applications that integrate with Instagram's platform, enabling features like basic display, content publishing, hashtag searching, and messaging capabilities for businesses and creators to enhance their Instagram presence programmatically.",
+    "keywords": ["Instagram", "developers", "API", "integration", "SDK", "documentation", "coding", "platform", "apps", "tools"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Instagram on the App Store",
+    "url": "https://apps.apple.com/app/instagram/id389801252",
+    "description": "The Instagram app on the Apple App Store enables iPhone and iPad users to download the official application for sharing photos and videos, applying filters and editing tools, posting Stories, browsing the feed, sending direct messages, and discovering content from creators and brands worldwide.",
+    "keywords": ["Instagram", "app", "iOS", "iPhone", "iPad", "download", "mobile", "Apple", "App Store", "installation"],
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/6a/7a/7e6a7a8a-8a8a-8a8a-8a8a-8a8a8a8a8a8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  {
+    "title": "Instagram on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "description": "The Instagram app on Google Play allows Android users to download the official application from the Play Store, giving them access to all features including photo and video sharing, Stories, Reels, direct messaging, live broadcasting, and the Explore page for discovering new content and creators.",
+    "keywords": ["Instagram", "app", "Android", "download", "Google Play", "mobile", "installation", "smartphone", "tablet", "APK"],
+    "image": "https://play-lh.googleusercontent.com/7Gp5iK4Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8=s180"
+  },
+  {
+    "title": "Instagram Blog",
+    "url": "https://about.instagram.com/blog/",
+    "description": "The official Instagram Blog shares news about product updates, new feature launches, company announcements, creator spotlights, safety initiatives, and behind-the-scenes stories from the team building the platform, keeping users informed about the latest developments in the Instagram ecosystem.",
+    "keywords": ["Instagram", "blog", "news", "updates", "announcements", "features", "product", "company", "creators", "safety"],
+    "image": "https://about.instagram.com/static/ig-blog-og.png"
+  },
+  {
+    "title": "Instagram Press",
+    "url": "https://about.instagram.com/press",
+    "description": "Instagram's press section provides media resources including press releases, company facts, executive bios, brand assets, logos, screenshots, and contact information for journalists seeking official information and materials about Instagram for news coverage and media inquiries.",
+    "keywords": ["Instagram", "press", "media", "resources", "releases", "brand", "assets", "logos", "journalists", "coverage"],
+    "image": "https://about.instagram.com/static/ig-press-og.png"
+  },
+  {
+    "title": "Instagram Safety and Privacy",
+    "url": "https://help.instagram.com/196883487377501",
+    "description": "Instagram's Safety and Privacy hub offers comprehensive information about protecting your account, controlling who sees your content, managing comments and interactions, reporting inappropriate behavior, understanding data collection practices, and using privacy settings to create a safer experience on the platform.",
+    "keywords": ["Instagram", "safety", "privacy", "security", "protection", "settings", "control", "report", "harassment", "data"],
+    "image": "https://help.instagram.com/static/ig-safety-og.png"
+  },
+  {
+    "title": "WhatsApp - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WhatsApp",
+    "description": "Wikipedia's comprehensive article on WhatsApp covers the messaging application founded by Jan Koum and Brian Acton in 2009, its acquisition by Facebook for $19 billion in 2014, its end-to-end encryption technology, global adoption with over two billion users, features like voice and video calling, status updates, and WhatsApp Business, along with privacy controversies.",
+    "keywords": ["WhatsApp", "messaging", "app", "Meta", "Jan Koum", "encryption", "acquisition", "calls", "business", "privacy"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png"
+  },
+  {
+    "title": "WhatsApp Official Site",
+    "url": "https://www.whatsapp.com",
+    "description": "The official WhatsApp website provides information about the messaging service, download links for mobile and desktop applications, explanations of features like end-to-end encryption and group chats, details about WhatsApp Business, and resources for users to learn how to get started with the world's most popular messaging platform.",
+    "keywords": ["WhatsApp", "download", "messaging", "homepage", "official", "app", "calls", "encryption", "business", "desktop"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "WhatsApp Help Center",
+    "url": "https://faq.whatsapp.com/",
+    "description": "The WhatsApp Help Center offers extensive support documentation including troubleshooting guides, account management instructions, feature explanations, privacy and security tips, and answers to frequently asked questions to help users resolve issues and make the most of WhatsApp's messaging capabilities.",
+    "keywords": ["WhatsApp", "help", "support", "FAQ", "guide", "assistance", "troubleshooting", "account", "privacy", "security"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "WhatsApp Blog",
+    "url": "https://blog.whatsapp.com/",
+    "description": "The official WhatsApp Blog shares announcements about new features, product updates, company news, safety initiatives, and behind-the-scenes insights from the WhatsApp team, keeping users informed about the latest developments in the world's leading private messaging platform.",
+    "keywords": ["WhatsApp", "blog", "news", "updates", "announcements", "features", "product", "company", "safety", "privacy"],
+    "image": "https://blog.whatsapp.com/static/og-image.png"
+  },
+  {
+    "title": "WhatsApp Security",
+    "url": "https://www.whatsapp.com/security/",
+    "description": "WhatsApp's Security page explains the platform's end-to-end encryption technology, which ensures that only the sender and recipient can read messages, view media, or listen to calls, with detailed information about how encryption works, security best practices, and WhatsApp's commitment to protecting user privacy.",
+    "keywords": ["WhatsApp", "security", "encryption", "privacy", "end-to-end", "protection", "messages", "calls", "data", "safety"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "WhatsApp Business",
+    "url": "https://business.whatsapp.com/",
+    "description": "WhatsApp Business is a free-to-download app designed for small business owners to communicate with customers, featuring business profiles with essential information, messaging tools, automated responses, labels to organize chats, and statistics to help businesses grow their customer relationships through WhatsApp.",
+    "keywords": ["WhatsApp", "business", "small business", "communication", "customers", "profile", "automation", "labels", "statistics", "growth"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "WhatsApp on the App Store",
+    "url": "https://apps.apple.com/app/whatsapp-messenger/id310633997",
+    "description": "The WhatsApp Messenger app on the Apple App Store enables iPhone users to download the official application for secure messaging, voice and video calls, group chats, media sharing, and status updates, all protected by end-to-end encryption and synced across multiple devices.",
+    "keywords": ["WhatsApp", "app", "iOS", "iPhone", "download", "mobile", "Apple", "App Store", "messaging", "calls"],
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/8a/8a/8a8a8a8a-8a8a-8a8a-8a8a-8a8a8a8a8a8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  {
+    "title": "WhatsApp on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "description": "The WhatsApp Messenger app on Google Play allows Android users to download the official application from the Play Store, providing access to secure text messaging, voice and video calling, group conversations, document sharing, and status updates with end-to-end encryption across all communications.",
+    "keywords": ["WhatsApp", "app", "Android", "download", "Google Play", "mobile", "installation", "smartphone", "tablet", "messaging"],
+    "image": "https://play-lh.googleusercontent.com/7Gp5iK4Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q=s180"
+  },
+  {
+    "title": "WhatsApp Web",
+    "url": "https://web.whatsapp.com/",
+    "description": "WhatsApp Web is a browser-based extension of the WhatsApp mobile app that allows users to send and receive messages, share media, and participate in group chats directly from their computer desktop by scanning a QR code to sync with their phone's WhatsApp account.",
+    "keywords": ["WhatsApp", "web", "desktop", "browser", "computer", "QR code", "sync", "messages", "chats", "online"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "WhatsApp Privacy Policy",
+    "url": "https://www.whatsapp.com/legal/privacy-policy",
+    "description": "WhatsApp's Privacy Policy outlines how the service collects, uses, and shares user data, including information about account registration, communications, transactions, and device details, with explanations of data processing practices and user rights under applicable privacy laws.",
+    "keywords": ["WhatsApp", "privacy", "policy", "terms", "data", "collection", "usage", "sharing", "rights", "legal"],
+    "image": "https://static.whatsapp.net/rsrc.php/v3/y7/r/DSDqT2v6dJ6.png"
+  },
+  {
+    "title": "Facebook Messenger - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Facebook_Messenger",
+    "description": "Wikipedia's article on Facebook Messenger covers the instant messaging application developed by Facebook, its separation from the main Facebook app in 2011, features like text messaging, voice and video calls, group chats, games, payments, and its integration with other Meta platforms, reaching over one billion users worldwide.",
+    "keywords": ["Facebook Messenger", "messaging", "app", "Meta", "chat", "calls", "video", "groups", "integration", "platform"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/512px-Facebook_Messenger_logo_2020.svg.png"
+  },
+  {
+    "title": "Messenger Official Site",
+    "url": "https://www.messenger.com",
+    "description": "The official Messenger website provides a dedicated platform for users to access their Facebook messages through a desktop browser, offering chat functionality, video calling, group conversations, and message management without needing to open the main Facebook website or mobile app.",
+    "keywords": ["Messenger", "login", "chat", "homepage", "messages", "desktop", "web", "conversations", "calls", "Facebook"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger Help Center",
+    "url": "https://www.facebook.com/help/messenger-app/",
+    "description": "The Messenger Help Center provides comprehensive support resources for users of Facebook's messaging platform, including troubleshooting guides, feature explanations, privacy and security tips, account management assistance, and reporting tools to resolve issues with the Messenger app.",
+    "keywords": ["Messenger", "help", "support", "FAQ", "guide", "assistance", "troubleshooting", "account", "privacy", "security"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger Features",
+    "url": "https://www.messenger.com/features",
+    "description": "Messenger's features page showcases the platform's capabilities including text messaging, high-quality voice and video calls, group chats with hundreds of participants, customizable chat themes and reactions, games, payment options, and cross-app communication with Instagram users through Meta's unified messaging system.",
+    "keywords": ["Messenger", "features", "chat", "video calls", "voice calls", "groups", "themes", "games", "payments", "Instagram"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger Kids",
+    "url": "https://www.messenger.com/kids",
+    "description": "Messenger Kids is a video chat and messaging app designed for children to connect with family and friends in a parent-controlled environment, featuring kid-friendly filters and reactions, no ads, parental supervision tools, and age-appropriate content that complies with children's privacy regulations.",
+    "keywords": ["Messenger Kids", "children", "safe messaging", "parental control", "kids", "family", "supervision", "privacy", "COPPA", "child safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger Rooms",
+    "url": "https://www.messenger.com/rooms",
+    "description": "Messenger Rooms is a video conferencing feature that allows users to create virtual rooms where friends and family can join for group video calls, with no time limits, screen sharing capabilities, virtual backgrounds, and the ability to join from web browsers without needing a Facebook account.",
+    "keywords": ["Messenger", "Rooms", "video chat", "group calls", "conferencing", "virtual", "screen sharing", "backgrounds", "web", "join"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger on the App Store",
+    "url": "https://apps.apple.com/app/messenger/id454638411",
+    "description": "The Messenger app on the Apple App Store allows iPhone and iPad users to download the official messaging application from Facebook, providing access to text chats, voice and video calls, group conversations, games, and seamless integration with Facebook friends and Instagram contacts.",
+    "keywords": ["Messenger", "app", "iOS", "iPhone", "iPad", "download", "mobile", "Apple", "App Store", "installation"],
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/8a/8a/8a8a8a8a-8a8a-8a8a-8a8a-8a8a8a8a8a8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  {
+    "title": "Messenger on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "description": "The Messenger app on Google Play enables Android users to download Facebook's official messaging application, offering text messaging, voice and video calling, group chats, photo and video sharing, games, and cross-platform communication with friends across Facebook and Instagram.",
+    "keywords": ["Messenger", "app", "Android", "download", "Google Play", "mobile", "installation", "smartphone", "tablet", "messaging"],
+    "image": "https://play-lh.googleusercontent.com/7Gp5iK4Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q8K7Q=s180"
+  },
+  {
+    "title": "Messenger Desktop App",
+    "url": "https://www.messenger.com/desktop",
+    "description": "The Messenger Desktop App provides dedicated applications for Windows and macOS that offer an optimized messaging experience outside the browser, with features like standalone chat windows, desktop notifications, keyboard shortcuts, and seamless switching between conversations for power users.",
+    "keywords": ["Messenger", "desktop", "app", "download", "Windows", "Mac", "computer", "notifications", "keyboard shortcuts", "standalone"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Messenger Privacy and Safety",
+    "url": "https://www.facebook.com/help/messenger-app/171319509",
+    "description": "Messenger's Privacy and Safety resources provide guidance on protecting your account with features like secret conversations with end-to-end encryption, blocking and reporting users, controlling message requests, managing data sharing, and using safety tools to prevent harassment and unwanted contact.",
+    "keywords": ["Messenger", "privacy", "safety", "security", "encryption", "block", "report", "data", "protection", "harassment"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Meta Platforms - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+    "description": "Wikipedia's article on Meta Platforms details the parent company of Facebook, Instagram, WhatsApp, and Oculus, formerly known as Facebook, Inc., its rebranding in 2021 to reflect its focus on building the metaverse, corporate structure, leadership under Mark Zuckerberg, financial performance, and diverse portfolio of social technology products.",
+    "keywords": ["Meta", "parent company", "Facebook", "Instagram", "WhatsApp", "Oculus", "metaverse", "rebranding", "corporation", "Mark Zuckerberg"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta_Platforms_Inc._logo.svg/512px-Meta_Platforms_Inc._logo.svg.png"
+  },
+  {
+    "title": "Meta Official Site",
+    "url": "https://about.meta.com",
+    "description": "The official Meta website presents the company's vision for connecting people through technology, with information about its family of apps including Facebook, Instagram, WhatsApp, and Messenger, its investments in augmented and virtual reality through Reality Labs, corporate news, and career opportunities at the global technology leader.",
+    "keywords": ["Meta", "official", "company", "about", "vision", "apps", "Reality Labs", "VR", "AR", "careers"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Meta Newsroom",
+    "url": "https://about.fb.com/news/",
+    "description": "The Meta Newsroom serves as the central hub for all official announcements, press releases, company updates, and media resources from Meta Platforms, covering news about Facebook, Instagram, WhatsApp, Messenger, Reality Labs, and corporate initiatives across the entire family of apps and technologies.",
+    "keywords": ["Meta", "news", "updates", "press releases", "announcements", "Facebook", "Instagram", "WhatsApp", "Reality Labs", "corporate"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Meta Investor Relations",
+    "url": "https://investor.fb.com/",
+    "description": "Meta's Investor Relations website provides financial information for shareholders and potential investors including quarterly earnings reports, SEC filings, stock performance data, annual reports, corporate governance information, and presentations about the company's financial strategy and business outlook.",
+    "keywords": ["Meta", "investor", "finance", "earnings", "stock", "NASDAQ", "META", "SEC filings", "shareholder", "financials"],
+    "image": "https://s21.q4cdn.com/399680738/files/design/meta-logo.png"
+  },
+  {
+    "title": "Meta Careers",
+    "url": "https://www.metacareers.com/",
+    "description": "Meta Careers is the official job portal for finding employment opportunities across the company's global offices, featuring openings in engineering, product management, design, sales, marketing, research, and operations, with information about company culture, benefits, diversity initiatives, and the application process.",
+    "keywords": ["Meta", "careers", "jobs", "employment", "hiring", "positions", "recruiting", "work", "opportunities", "company culture"],
+    "image": "https://www.metacareers.com/static/og-image.jpg"
+  },
+  {
+    "title": "Meta Transparency Center",
+    "url": "https://transparency.fb.com/",
+    "description": "The Meta Transparency Center provides comprehensive information about how the company enforces its policies, handles government requests for data, moderates content, protects elections from interference, addresses misinformation, and reports on its progress in making its platforms safer and more accountable to users and society.",
+    "keywords": ["Meta", "transparency", "reports", "data", "moderation", "policies", "government", "elections", "safety", "accountability"],
+    "image": "https://transparency.fb.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Sustainability",
+    "url": "https://sustainability.fb.com/",
+    "description": "Meta's Sustainability page outlines the company's commitment to environmental responsibility, including goals to achieve net zero emissions across its value chain, power operations with renewable energy, water positive initiatives, and sustainable data center design that minimizes environmental impact while supporting global infrastructure.",
+    "keywords": ["Meta", "sustainability", "environment", "climate", "renewable energy", "net zero", "carbon", "green", "data centers", "eco-friendly"],
+    "image": "https://sustainability.fb.com/static/og-image.jpg"
+  },
+  {
+    "title": "Meta Civil Rights",
+    "url": "https://about.fb.com/actions/civil-rights/",
+    "description": "Meta's Civil Rights section details the company's ongoing efforts to advance equity, diversity, and inclusion across its platforms and workplace, including civil rights audits, partnerships with advocacy organizations, product changes to protect marginalized communities, and policies addressing hate speech and discrimination.",
+    "keywords": ["Meta", "civil rights", "equity", "diversity", "inclusion", "audit", "advocacy", "marginalized", "hate speech", "discrimination"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Meta Oversight Board",
+    "url": "https://www.oversightboard.com/",
+    "description": "The independent Oversight Board makes binding decisions on Facebook and Instagram's content moderation policies, issuing rulings on specific cases and providing recommendations to Meta about how to improve its content rules, with the goal of upholding free expression and human rights standards across the platforms.",
+    "keywords": ["Meta", "Oversight Board", "content moderation", "decisions", "independent", "rulings", "free expression", "human rights", "cases", "policy"],
+    "image": "https://www.oversightboard.com/static/ob-og-image.png"
+  },
+  {
+    "title": "Meta Research",
+    "url": "https://research.facebook.com/",
+    "description": "Meta Research showcases the company's scientific publications, AI breakthroughs, and technological innovations across computer vision, natural language processing, augmented reality, virtual reality, and social computing, with contributions from FAIR (Facebook AI Research) and collaborations with academic institutions worldwide.",
+    "keywords": ["Meta", "research", "AI", "machine learning", "FAIR", "science", "publications", "innovation", "technology", "academic"],
+    "image": "https://research.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Engineering",
+    "url": "https://engineering.fb.com/",
+    "description": "Meta Engineering Blog provides technical deep-dives, infrastructure insights, and engineering stories from the teams building and scaling Facebook, Instagram, WhatsApp, and Messenger, covering topics like distributed systems, data center architecture, mobile optimization, and software development practices at planetary scale.",
+    "keywords": ["Meta", "engineering", "technology", "infrastructure", "scaling", "distributed systems", "data centers", "software", "development", "architecture"],
+    "image": "https://engineering.fb.com/wp-content/uploads/2021/02/engineering-opengraph.jpg"
+  },
+  {
+    "title": "Meta Open Source",
+    "url": "https://opensource.fb.com/",
+    "description": "Meta Open Source is the hub for the company's contributions to the open source community, featuring projects like React, PyTorch, GraphQL, and Presto, with repositories on GitHub, documentation for developers, success stories from adopters, and information about the company's philosophy of sharing technology with the world.",
+    "keywords": ["Meta", "open source", "GitHub", "React", "PyTorch", "GraphQL", "Presto", "developer", "projects", "code"],
+    "image": "https://opensource.fb.com/static/og-image.png"
+  },
+  {
+    "title": "Meta AI",
+    "url": "https://ai.meta.com/",
+    "description": "Meta AI is the company's artificial intelligence research division, showcasing advancements in computer vision, natural language processing, speech recognition, and embodied AI, with demonstrations of projects like image generation, language models, translation systems, and AI-powered features across Meta's family of apps.",
+    "keywords": ["Meta", "AI", "artificial intelligence", "research", "machine learning", "computer vision", "NLP", "language models", "translation", "innovation"],
+    "image": "https://ai.meta.com/static/og-image.png"
+  },
+  {
+    "title": "Meta Reality Labs",
+    "url": "https://about.meta.com/realitylabs/",
+    "description": "Reality Labs is Meta's division focused on building the future of connection through augmented reality and virtual reality products, including Oculus headsets, Quest devices, Ray-Ban Stories smart glasses, and research into haptics, eye tracking, and spatial computing that will power the metaverse experience.",
+    "keywords": ["Meta", "Reality Labs", "VR", "AR", "virtual reality", "augmented reality", "Oculus", "Quest", "metaverse", "hardware"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Meta Quest",
+    "url": "https://www.meta.com/quest/",
+    "description": "Meta Quest is the official site for Meta's virtual reality headset line, featuring product information about Quest 2 and Quest Pro, the VR game and app store, accessories, developer resources, and community content for experiencing immersive entertainment, fitness, social connection, and productivity in virtual reality.",
+    "keywords": ["Meta", "Quest", "VR", "virtual reality", "headset", "Oculus", "gaming", "immersive", "fitness", "entertainment"],
+    "image": "https://www.meta.com/static/og-image.jpg"
+  },
+  {
+    "title": "Meta Horizon Worlds",
+    "url": "https://www.oculus.com/horizon-worlds/",
+    "description": "Horizon Worlds is Meta's social VR platform where users can create avatars, explore virtual worlds built by the community, play games, attend events, and connect with others in immersive 3D spaces, representing the company's vision for the metaverse as a place for social interaction and shared experiences.",
+    "keywords": ["Meta", "Horizon Worlds", "VR", "metaverse", "social", "virtual worlds", "avatars", "community", "games", "events"],
+    "image": "https://www.oculus.com/static/og-image.jpg"
+  },
+  {
+    "title": "Meta for Work",
+    "url": "https://www.workplace.com/",
+    "description": "Workplace from Meta is a business communication platform that uses familiar Facebook features to connect employees, with tools for company-wide announcements, group collaboration, video meetings, live video streaming, and integrations with enterprise software, helping organizations build community and improve internal communication.",
+    "keywords": ["Meta", "Workplace", "business", "communication", "collaboration", "enterprise", "employees", "video meetings", "groups", "announcements"],
+    "image": "https://www.workplace.com/static/og-image.png"
+  },
+  {
+    "title": "How to Create a Facebook Account",
+    "url": "https://www.facebook.com/help/188157731232424",
+    "description": "This official Facebook Help Center guide provides step-by-step instructions for creating a new Facebook account, including entering your name, email or mobile number, password, date of birth, and gender, followed by email or SMS verification steps to complete the registration process and start using the platform.",
+    "keywords": ["Facebook", "create account", "sign up", "registration", "new user", "setup", "profile", "join", "signup", "beginner"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Delete Facebook Account",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "This official guide explains the process for permanently deleting a Facebook account, including the differences between deactivation and deletion, the 30-day grace period for cancellation, what happens to your data after deletion, and important considerations before taking this irreversible step.",
+    "keywords": ["Facebook", "delete account", "permanent", "remove", "close", "deletion", "cancel", "erase", "data", "goodbye"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Deactivate Facebook Temporarily",
+    "url": "https://www.facebook.com/help/2143766785847117",
+    "description": "This help article walks through the process of temporarily deactivating a Facebook account, which hides your profile and information from other users while preserving your data for easy reactivation, with options to choose reasons for deactivating and manage email notifications during the break.",
+    "keywords": ["Facebook", "deactivate", "temporary", "break", "pause", "hide profile", "reactivate", "rest", "time off", "suspend"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Reactivate Facebook Account",
+    "url": "https://www.facebook.com/help/185747581723698",
+    "description": "This guide explains how to reactivate a Facebook account after temporary deactivation by simply logging back in with your email and password, restoring all your friends, photos, posts, and settings exactly as they were before you took a break from the platform.",
+    "keywords": ["Facebook", "reactivate", "restore", "log back in", "return", "activate", "recover", "resume", "account", "back"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Change Facebook Password",
+    "url": "https://www.facebook.com/help/203305661673479",
+    "description": "This security guide provides instructions for changing your Facebook password, including accessing security settings, entering your current password, choosing a strong new password, and saving changes to protect your account from unauthorized access and potential security breaches.",
+    "keywords": ["Facebook", "password", "change", "security", "reset", "update", "protect", "account", "login", "credentials"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Reset Forgotten Facebook Password",
+    "url": "https://www.facebook.com/help/460197197789572",
+    "description": "This recovery guide helps users who have forgotten their Facebook password reset it through options like email, phone number, or trusted contacts, with step-by-step instructions for verifying identity and creating a new password to regain access to their locked account.",
+    "keywords": ["Facebook", "forgot password", "reset", "recover", "account access", "locked out", "help", "identity verification", "login", "trouble"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Recover Hacked Facebook Account",
+    "url": "https://www.facebook.com/help/295892225523556",
+    "description": "This emergency guide provides steps for recovering a hacked Facebook account, including reporting the compromise, securing your email, reviewing recent activity, removing unauthorized posts, and strengthening security with two-factor authentication to prevent future breaches.",
+    "keywords": ["Facebook", "hacked", "recover", "compromised", "security breach", "unauthorized", "account takeover", "restore", "emergency", "protection"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Enable Two-Factor Authentication",
+    "url": "https://www.facebook.com/help/148233965508152",
+    "description": "This security guide explains how to set up two-factor authentication on Facebook, adding an extra layer of protection by requiring a login code from your phone in addition to your password, with options for text messages, authentication apps, or security keys.",
+    "keywords": ["Facebook", "2FA", "two-factor", "authentication", "security", "login approval", "codes", "protect", "hacking", "safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Change Facebook Profile Picture",
+    "url": "https://www.facebook.com/help/161019200415676",
+    "description": "This guide walks through updating your Facebook profile picture, including uploading a new photo from your computer or mobile device, adjusting the thumbnail crop, adding a frame, setting a temporary profile picture, and choosing who can see your new image.",
+    "keywords": ["Facebook", "profile picture", "change", "update", "photo", "avatar", "image", "upload", "frame", "thumbnail"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Add Friend on Facebook",
+    "url": "https://www.facebook.com/help/146466204002856",
+    "description": "This social guide explains how to send friend requests on Facebook, including searching for people by name, email, or phone number, sending requests from their profile, managing pending requests, and understanding the difference between friends and followers on the platform.",
+    "keywords": ["Facebook", "add friend", "friend request", "connect", "invite", "send", "accept", "follow", "people", "network"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Unfriend Someone on Facebook",
+    "url": "https://www.facebook.com/help/183486608789080",
+    "description": "This guide provides instructions for removing someone from your Facebook friends list without blocking them, explaining how to access your friends list, find the person, and unfriend them, with information about what the other person sees and how to reconnect later if desired.",
+    "keywords": ["Facebook", "unfriend", "remove friend", "unfriend someone", "connections", "friends list", "unfollow", "disconnect", "social", "relationship"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Block Someone on Facebook",
+    "url": "https://www.facebook.com/help/1680093822602877",
+    "description": "This privacy guide explains how to block someone on Facebook, preventing them from seeing your profile, contacting you, or interacting with your content, with steps for blocking from profiles or settings, managing your block list, and unblocking users when appropriate.",
+    "keywords": ["Facebook", "block", "privacy", "harassment", "unwanted contact", "restrict", "ban", "stop", "avoid", "protection"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Report Someone on Facebook",
+    "url": "https://www.facebook.com/help/181495968648557",
+    "description": "This safety guide provides instructions for reporting profiles, posts, messages, or comments that violate Facebook's Community Standards, including options for reporting harassment, hate speech, violence, fake accounts, and other policy violations to Facebook's moderation team for review.",
+    "keywords": ["Facebook", "report", "abuse", "harassment", "violation", "moderation", "community standards", "flag", "complaint", "safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Create Facebook Page",
+    "url": "https://www.facebook.com/business/help/461775097570076",
+    "description": "This business guide provides step-by-step instructions for creating a Facebook Page, including choosing the right page type (business, brand, or community), adding profile and cover photos, completing your business information, and setting up your page for success on the platform.",
+    "keywords": ["Facebook", "page", "create", "business page", "brand", "setup", "profile", "cover photo", "information", "official presence"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Manage Facebook Page",
+    "url": "https://www.facebook.com/business/help/1278940904810854",
+    "description": "This comprehensive guide covers managing your Facebook Page, including posting content, responding to messages and comments, analyzing page insights, assigning admin roles, scheduling posts, and using publishing tools to maintain an active and engaging presence for your audience.",
+    "keywords": ["Facebook", "page", "manage", "admin", "posts", "insights", "comments", "messages", "schedule", "audience"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Page Roles and Permissions",
+    "url": "https://www.facebook.com/help/187316341316631",
+    "description": "This administrative guide explains the different roles and permissions available for Facebook Pages, including admin, editor, moderator, advertiser, and analyst roles, detailing what each role can do and how to assign or remove page roles to manage your team effectively.",
+    "keywords": ["Facebook", "page", "roles", "admin", "permissions", "team", "manage", "access", "editors", "moderators"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Delete Facebook Page",
+    "url": "https://www.facebook.com/help/250563911097368",
+    "description": "This guide explains how to permanently delete or unpublish a Facebook Page, including the difference between deletion and unpublishing, steps to access page settings, confirmation requirements, and what happens to your content and followers after page removal.",
+    "keywords": ["Facebook", "page", "delete", "remove", "unpublish", "permanent", "cancel", "erase", "page removal", "close"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Page vs Group Comparison",
+    "url": "https://www.facebook.com/help/162866443247094",
+    "description": "This helpful guide compares Facebook Pages and Groups, explaining the key differences in purpose, audience, features, privacy settings, and management tools to help users decide which option best suits their needs for building community or promoting a business on the platform.",
+    "keywords": ["Facebook", "page", "group", "comparison", "difference", "vs", "choose", "business", "community", "decide"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Page Insights Guide",
+    "url": "https://www.facebook.com/business/help/651294705016616",
+    "description": "This analytics guide explains how to use Facebook Page Insights to track performance metrics like page views, post reach, engagement rates, follower growth, and audience demographics, helping page administrators understand their audience and optimize their content strategy.",
+    "keywords": ["Facebook", "page", "insights", "analytics", "metrics", "performance", "tracking", "audience", "engagement", "data"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Promote Facebook Page",
+    "url": "https://www.facebook.com/business/help/1691735858164770",
+    "description": "This marketing guide provides strategies for promoting your Facebook Page, including inviting friends, sharing your page on other platforms, running ads, collaborating with influencers, creating engaging content, and using cross-promotion techniques to grow your audience and increase page likes.",
+    "keywords": ["Facebook", "page", "promote", "growth", "audience", "likes", "followers", "marketing", "advertising", "engagement"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Page Templates",
+    "url": "https://www.facebook.com/business/help/314654045852103",
+    "description": "This guide explains the different page templates available for Facebook Pages, including templates for businesses, venues, nonprofits, politicians, and services, each with customized tabs, buttons, and layouts designed to highlight the most relevant information for different page categories.",
+    "keywords": ["Facebook", "page", "templates", "layouts", "design", "customization", "business", "nonprofit", "venue", "services"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Add Admins to Facebook Page",
+    "url": "https://www.facebook.com/help/244800081001192",
+    "description": "This administrative guide provides instructions for adding, removing, and managing admins on your Facebook Page, including how to assign different role levels, what each admin can do, and best practices for page security when multiple people need access to manage your presence.",
+    "keywords": ["Facebook", "page", "admins", "add", "manage", "roles", "team", "access", "security", "assign"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Page Publishing Tools",
+    "url": "https://www.facebook.com/business/help/169157292851510",
+    "description": "This guide covers Facebook's publishing tools for pages, including how to schedule posts in advance, manage a content calendar, use the publishing queue, edit scheduled posts, and view your published history to maintain a consistent posting schedule for your audience.",
+    "keywords": ["Facebook", "page", "publishing", "schedule", "content", "posts", "calendar", "queue", "planning", "tools"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Create Facebook Group",
+    "url": "https://www.facebook.com/help/167970719931212",
+    "description": "This community guide explains how to create a Facebook Group, including choosing a name, setting privacy options (public, private, or hidden), adding members, creating a cover photo, and configuring group settings to build an online community around shared interests or causes.",
+    "keywords": ["Facebook", "group", "create", "community", "setup", "privacy", "members", "interest", "discussion", "build"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Group Privacy Settings",
+    "url": "https://www.facebook.com/help/220336891328465",
+    "description": "This guide explains the different privacy settings for Facebook Groups, including public groups anyone can join, private groups requiring approval, and hidden groups invisible to non-members, with details on how each setting affects visibility, membership, and content access.",
+    "keywords": ["Facebook", "group", "privacy", "settings", "public", "private", "hidden", "visibility", "membership", "security"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Manage Facebook Group Members",
+    "url": "https://www.facebook.com/help/933133811535630",
+    "description": "This administrative guide covers managing members in Facebook Groups, including approving or declining join requests, removing members, assigning admin and moderator roles, banning problematic users, and using member questions to screen new applicants before they join your community.",
+    "keywords": ["Facebook", "group", "members", "manage", "admin", "approve", "remove", "moderators", "ban", "join requests"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Group Admin Features",
+    "url": "https://www.facebook.com/community/what-are-facebook-groups/",
+    "description": "This overview explains the administrative features available to Facebook Group admins, including group insights, membership requests, post approvals, scheduled posts, units for organizing content, announcements, and moderation tools for maintaining a healthy and engaged community.",
+    "keywords": ["Facebook", "group", "admin", "features", "tools", "insights", "moderation", "announcements", "units", "management"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Promote Facebook Group",
+    "url": "https://www.facebook.com/business/help/226212187643074",
+    "description": "This growth guide provides strategies for promoting your Facebook Group, including sharing the group link on other platforms, inviting friends, cross-posting to related pages, using group suggestions, creating engaging content that attracts members, and leveraging member invitations to grow your community.",
+    "keywords": ["Facebook", "group", "promote", "growth", "members", "community", "invite", "share", "attract", "engagement"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Group Rules",
+    "url": "https://www.facebook.com/help/838046775716296",
+    "description": "This guide explains how to create and manage rules for Facebook Groups, including setting expectations for member behavior, pinning rules to the top of the group, using rule reminders when members post, and enforcing guidelines to maintain a respectful and focused community environment.",
+    "keywords": ["Facebook", "group", "rules", "guidelines", "community standards", "behavior", "enforcement", "expectations", "moderation", "respect"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Join Facebook Group",
+    "url": "https://www.facebook.com/help/183186625993675",
+    "description": "This guide explains how to find and join Facebook Groups that match your interests, including searching for groups, browsing recommendations, requesting to join private groups, answering entry questions, and managing your group notifications once you become a member of communities.",
+    "keywords": ["Facebook", "group", "join", "find", "discover", "interest", "community", "request", "membership", "participate"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Group Insights",
+    "url": "https://www.facebook.com/business/help/461775097570076",
+    "description": "This analytics guide explains how to use Facebook Group Insights to track community growth, member engagement, active members, top contributors, and post performance, helping group admins understand what content resonates with their audience and how to foster a more active community.",
+    "keywords": ["Facebook", "group", "insights", "analytics", "metrics", "engagement", "growth", "members", "performance", "data"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Leave or Delete Facebook Group",
+    "url": "https://www.facebook.com/help/216985290038524",
+    "description": "This guide provides instructions for leaving a Facebook Group you no longer wish to be part of, or for deleting a group you created, including steps for removing yourself, transferring ownership before deletion, and what happens to group content after you leave or delete it.",
+    "keywords": ["Facebook", "group", "leave", "delete", "exit", "remove", "quit", "depart", "abandon", "close"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Groups vs Pages for Business",
+    "url": "https://www.facebook.com/business/help/214754458331113",
+    "description": "This business guide compares using Facebook Groups versus Pages for business purposes, explaining when a group might be better for building community and customer relationships, and when a page is more appropriate for official brand presence, advertising, and analytics.",
+    "keywords": ["Facebook", "groups", "pages", "business", "comparison", "marketing", "community", "brand", "strategy", "choice"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Use Facebook Marketplace",
+    "url": "https://www.facebook.com/help/164263585272737",
+    "description": "This comprehensive guide explains how to use Facebook Marketplace for buying and selling items locally, including finding the Marketplace tab, searching for products, contacting sellers, creating listings, setting prices, and completing transactions safely within the platform.",
+    "keywords": ["Facebook", "marketplace", "buy", "sell", "local", "shopping", "items", "products", "transactions", "classifieds"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Sell on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/1542134047865540",
+    "description": "This seller's guide provides step-by-step instructions for listing items on Facebook Marketplace, including taking good photos, writing accurate descriptions, setting fair prices, choosing categories, managing inquiries from buyers, and completing sales through safe meeting or shipping arrangements.",
+    "keywords": ["Facebook", "marketplace", "sell", "listing", "items", "products", "seller", "photos", "description", "price"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Buy on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/1542134047865540",
+    "description": "This buyer's guide explains how to find and purchase items on Facebook Marketplace, including searching with filters, communicating with sellers, arranging pickup or shipping, making payments, and leaving feedback after completing successful transactions on the platform.",
+    "keywords": ["Facebook", "marketplace", "buy", "purchase", "shopping", "items", "buyer", "search", "filters", "communicate"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Marketplace Safety Tips",
+    "url": "https://www.facebook.com/help/1603162147511196",
+    "description": "This safety guide provides important tips for staying safe on Facebook Marketplace, including meeting in public places, bringing a friend, inspecting items before paying, avoiding scams, using secure payment methods, and trusting your instincts when transactions seem suspicious.",
+    "keywords": ["Facebook", "marketplace", "safety", "scams", "tips", "secure", "meeting", "payment", "protect", "avoid"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Marketplace Shipping",
+    "url": "https://www.facebook.com/help/233462261674315",
+    "description": "This guide explains the shipping options available on Facebook Marketplace, including how to enable shipping for listings, package items properly, choose shipping carriers, calculate costs, and track deliveries for transactions that don't involve local pickup.",
+    "keywords": ["Facebook", "marketplace", "shipping", "delivery", "package", "carrier", "tracking", "costs", "mail", "ship"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Marketplace Payments",
+    "url": "https://www.facebook.com/help/984056084169539",
+    "description": "This financial guide explains how payments work on Facebook Marketplace, including options for in-person cash transactions, online payments through Facebook Checkout, payment protection policies, and how sellers receive funds for shipped items sold through the platform.",
+    "keywords": ["Facebook", "marketplace", "payments", "checkout", "money", "cash", "online", "transaction", "funds", "secure"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Report on Facebook Marketplace",
+    "url": "https://www.facebook.com/help/127398102198389",
+    "description": "This guide explains how to report problems on Facebook Marketplace, including fraudulent listings, suspicious users, prohibited items, or transaction issues, with step-by-step instructions for flagging content and communicating with Facebook's safety team about marketplace concerns.",
+    "keywords": ["Facebook", "marketplace", "report", "problem", "fraud", "scam", "issue", "complaint", "flag", "safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Marketplace Categories",
+    "url": "https://www.facebook.com/marketplace/categories",
+    "description": "This browsing guide showcases the different categories available on Facebook Marketplace, including vehicles, property, electronics, furniture, clothing, toys, pets, and more, helping users navigate to find exactly what they're looking for in the local classifieds section.",
+    "keywords": ["Facebook", "marketplace", "categories", "browse", "vehicles", "property", "electronics", "furniture", "clothing", "classifieds"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Marketplace Scams to Avoid",
+    "url": "https://www.consumer.ftc.gov/blog/2021/03/facebook-marketplace-scams",
+    "description": "This consumer protection article from the FTC identifies common scams on Facebook Marketplace, including fake payments, overpayment schemes, phishing attempts, counterfeit goods, and rental frauds, with tips for recognizing warning signs and protecting yourself from fraud.",
+    "keywords": ["Facebook", "marketplace", "scams", "FTC", "fraud", "avoid", "protect", "warning", "fake", "schemes"],
+    "image": "https://www.consumer.ftc.gov/sites/default/files/ftc-logo-og.jpg"
+  },
+  {
+    "title": "Facebook Marketplace Community Standards",
+    "url": "https://transparency.fb.com/policies/community-standards/marketplace/",
+    "description": "This policy page outlines the specific rules for Facebook Marketplace listings and transactions, including prohibited items, authentic goods requirements, accurate representation standards, and behavioral guidelines for buyers and sellers using the platform's commerce features.",
+    "keywords": ["Facebook", "marketplace", "community standards", "rules", "policies", "prohibited items", "guidelines", "commerce", "transactions", "sellers"],
+    "image": "https://transparency.fb.com/static/og-image.png"
+  },
+  {
+    "title": "How to Create Facebook Event",
+    "url": "https://www.facebook.com/help/1040029837982352",
+    "description": "This guide explains how to create and manage events on Facebook, including setting event details like date, time, and location, choosing privacy settings, inviting guests, posting updates, and using event tools to coordinate gatherings, parties, fundraisers, or community meetups.",
+    "keywords": ["Facebook", "event", "create", "invite", "guests", "planning", "party", "gathering", "schedule", "coordinate"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Invite People to Facebook Event",
+    "url": "https://www.facebook.com/help/172724942932815",
+    "description": "This guide provides instructions for inviting people to Facebook events, including inviting friends individually, sharing event links, posting in groups, using the invite all feature appropriately, and managing guest lists to track who has responded to your event invitations.",
+    "keywords": ["Facebook", "event", "invite", "guests", "friends", "share", "invitation", "guest list", "RSVP", "attendees"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Event Privacy Settings",
+    "url": "https://www.facebook.com/help/206682838358457",
+    "description": "This guide explains privacy options for Facebook events, including public events anyone can see and join, private events visible only to invited guests, and how these settings affect who can find your event, invite others, and see the guest list and event discussions.",
+    "keywords": ["Facebook", "event", "privacy", "settings", "public", "private", "visibility", "invite", "guest list", "security"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Dating - Official Site",
+    "url": "https://www.facebook.com/dating",
+    "description": "Facebook Dating is a feature within the Facebook app that helps users find romantic relationships through profile matching, with options to discover potential partners based on preferences, shared interests, groups, and events, all kept separate from your main Facebook profile.",
+    "keywords": ["Facebook", "dating", "relationships", "match", "romance", "dating app", "profile", "interests", "connections", "partners"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Set Up Facebook Dating",
+    "url": "https://www.facebook.com/help/224562897555674",
+    "description": "This guide explains how to set up a Facebook Dating profile, including creating a separate dating profile, adding photos and prompts, setting preferences for potential matches, and opting into features like Secret Crush and matching with people in shared groups or events.",
+    "keywords": ["Facebook", "dating", "setup", "profile", "create", "preferences", "matches", "Secret Crush", "photos", "prompts"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Dating Safety Tips",
+    "url": "https://www.facebook.com/help/594991777257921",
+    "description": "This safety guide provides tips for using Facebook Dating responsibly, including protecting personal information, meeting in public places, reporting suspicious behavior, blocking unwanted contacts, and using built-in safety features to ensure a positive dating experience.",
+    "keywords": ["Facebook", "dating", "safety", "tips", "protect", "personal information", "meet", "report", "block", "security"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook News Feed Algorithm Explained",
+    "url": "https://www.facebook.com/help/1155510281178725",
+    "description": "This guide explains how Facebook's News Feed algorithm determines which posts users see, including factors like relationship with the poster, content type, engagement signals, post recency, and user preferences, helping people understand why they see certain content in their feed.",
+    "keywords": ["Facebook", "News Feed", "algorithm", "ranking", "posts", "visibility", "engagement", "signals", "preferences", "content"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Customize Facebook News Feed",
+    "url": "https://www.facebook.com/help/964154640320081",
+    "description": "This guide provides instructions for customizing your Facebook News Feed, including following and unfollowing people, prioritizing favorites, snoozing certain friends or pages, discovering new content, and using feed preferences to control what appears in your daily scroll.",
+    "keywords": ["Facebook", "News Feed", "customize", "preferences", "follow", "unfollow", "prioritize", "snooze", "control", "content"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Stories: How to Create",
+    "url": "https://www.facebook.com/help/1746740879373985",
+    "description": "This guide explains how to create and share Facebook Stories, temporary photo and video posts that disappear after 24 hours, including adding text, stickers, filters, and music, controlling audience visibility, and viewing story insights to see who has watched your content.",
+    "keywords": ["Facebook", "Stories", "create", "photos", "videos", "temporary", "filters", "stickers", "music", "audience"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Reels: How to Make",
+    "url": "https://www.facebook.com/help/1489148881726303",
+    "description": "This guide explains how to create Facebook Reels, short-form video content with creative tools, including recording or uploading videos, adding audio, effects, and text, setting video length, and sharing reels to your feed, stories, or the dedicated Reels tab for discovery.",
+    "keywords": ["Facebook", "Reels", "video", "create", "short-form", "audio", "effects", "editing", "share", "discovery"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Watch: How to Use",
+    "url": "https://www.facebook.com/help/221270402669930",
+    "description": "This guide explains how to use Facebook Watch, the platform's video-on-demand service, including finding watchlists, discovering shows and creators, saving videos to watch later, following favorite programs, and engaging with video content through comments and reactions.",
+    "keywords": ["Facebook", "Watch", "video", "shows", "content", "discover", "playlists", "creators", "streaming", "entertainment"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Go Live on Facebook",
+    "url": "https://www.facebook.com/help/164576361261777",
+    "description": "This guide provides step-by-step instructions for starting a live video broadcast on Facebook, including accessing live features, setting up your camera and microphone, adding descriptions, going live to your audience, interacting with viewers through comments, and ending your broadcast.",
+    "keywords": ["Facebook", "live", "video", "broadcast", "stream", "real-time", "audience", "interaction", "comments", "engagement"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Gaming: How to Stream",
+    "url": "https://www.facebook.com/gaming/help",
+    "description": "This guide explains how to use Facebook Gaming for streaming video game content, including setting up your stream, engaging with viewers, monetizing through Stars and subscriptions, joining gaming communities, and discovering new games and creators on the platform.",
+    "keywords": ["Facebook", "gaming", "stream", "video games", "gamers", "live", "content", "creators", "Stars", "community"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Gaming Creator Program",
+    "url": "https://www.facebook.com/gaming/creators",
+    "description": "This program page explains the Facebook Gaming Creator Program, which provides tools, resources, and monetization options for game streamers, including leveling programs, partnership benefits, exclusive features, and community support for building a successful streaming career.",
+    "keywords": ["Facebook", "gaming", "creators", "streamers", "program", "monetization", "partnership", "benefits", "community", "support"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Fundraisers: How to Start",
+    "url": "https://www.facebook.com/help/1418845136052311",
+    "description": "This guide explains how to start a fundraiser on Facebook for personal causes, charities, or nonprofits, including choosing a fundraising goal, selecting a beneficiary organization, sharing your story, inviting donations, and tracking progress toward your fundraising target.",
+    "keywords": ["Facebook", "fundraiser", "donations", "charity", "nonprofit", "cause", "raise money", "giving", "support", "community"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Birthday Fundraisers",
+    "url": "https://www.facebook.com/help/1418845136052311",
+    "description": "This guide explains how to set up a birthday fundraiser on Facebook, allowing users to ask friends and family to donate to a chosen charity instead of giving gifts, with tools for sharing the campaign, thanking donors, and celebrating your birthday while supporting a cause.",
+    "keywords": ["Facebook", "birthday", "fundraiser", "charity", "donations", "gifts", "cause", "celebration", "giving", "nonprofit"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Donations: How They Work",
+    "url": "https://www.facebook.com/help/1418845136052311",
+    "description": "This guide explains how donations work on Facebook, including payment processing, fee structures, donor receipts, charitable tax deductions, and how funds are distributed to nonprofit organizations through Facebook's secure donation platform and partnerships.",
+    "keywords": ["Facebook", "donations", "fundraising", "charity", "payments", "fees", "receipts", "tax", "nonprofit", "giving"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook for Nonprofits",
+    "url": "https://nonprofits.fb.com/",
+    "description": "Facebook for Nonprofits provides specialized tools and resources for charitable organizations, including fundraising features, donation buttons, volunteer sign-ups, nonprofit-specific page tools, and training materials to help organizations maximize their impact on the platform.",
+    "keywords": ["Facebook", "nonprofit", "charity", "fundraising", "donations", "volunteers", "resources", "tools", "organizations", "impact"],
+    "image": "https://nonprofits.fb.com/static/og-image.jpg"
+  },
+  {
+    "title": "Facebook Crisis Response",
+    "url": "https://www.facebook.com/crisisresponse/",
+    "description": "Facebook Crisis Response is a hub for safety tools during emergencies, including crisis pages with information, Safety Check for marking yourself safe, community help features, fundraising for relief efforts, and resources for people affected by natural disasters or crises.",
+    "keywords": ["Facebook", "crisis", "response", "safety", "emergency", "disaster", "Safety Check", "community help", "relief", "support"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Safety Check",
+    "url": "https://www.facebook.com/help/129873761451608",
+    "description": "This guide explains Facebook Safety Check, a feature that activates during natural disasters or crises allowing users to mark themselves safe, check on friends in affected areas, and receive notifications about the safety status of people they care about during emergencies.",
+    "keywords": ["Facebook", "Safety Check", "crisis", "emergency", "disaster", "safe", "mark safe", "friends", "notification", "response"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Bullying Prevention Hub",
+    "url": "https://www.facebook.com/safety/bullying",
+    "description": "The Facebook Bullying Prevention Hub provides resources for teens, parents, and educators to address and prevent bullying on the platform, including reporting tools, safety tips, conversation guides, and partnership information with organizations working to create safer online spaces.",
+    "keywords": ["Facebook", "bullying", "prevention", "teens", "parents", "educators", "safety", "harassment", "resources", "report"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Suicide Prevention",
+    "url": "https://www.facebook.com/help/594991777257921",
+    "description": "Facebook's suicide prevention resources offer support for people in crisis, including reporting tools for concerning content, direct links to helplines, safety tips for friends and family, and partnerships with mental health organizations to provide immediate assistance to those who need it.",
+    "keywords": ["Facebook", "suicide prevention", "mental health", "crisis", "support", "help", "resources", "reporting", "hotlines", "safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Well-Being Resources",
+    "url": "https://about.fb.com/actions/safety-and-well-being/",
+    "description": "Facebook's well-being resources provide tools and information to help users manage their digital wellness, including time management features, content controls, mental health resources, and research-based tips for maintaining healthy relationships with social media and technology.",
+    "keywords": ["Facebook", "well-being", "mental health", "digital wellness", "time management", "content controls", "balance", "healthy", "resources", "tools"],
+    "image": "https://about.fb.com/wp-content/themes/fb-newsroom-2018/assets/images/fb-newsroom-logo.svg"
+  },
+  {
+    "title": "Facebook Privacy Checkup Tool",
+    "url": "https://www.facebook.com/privacy/checkup/",
+    "description": "Facebook's Privacy Checkup tool guides users through reviewing and adjusting their privacy settings step by step, including who can see their posts and personal information, app permissions, profile visibility, and data sharing preferences to help maintain control over their privacy.",
+    "keywords": ["Facebook", "privacy", "checkup", "settings", "review", "adjust", "control", "visibility", "data", "permissions"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Privacy Basics",
+    "url": "https://www.facebook.com/privacy/basics/",
+    "description": "Facebook Privacy Basics is an interactive guide that explains fundamental privacy concepts in simple terms, covering who can see your content, how to control your information, managing friend lists, blocking unwanted contacts, and understanding your data on the platform.",
+    "keywords": ["Facebook", "privacy", "basics", "guide", "control", "information", "visibility", "friends", "block", "data"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Data Policy",
+    "url": "https://www.facebook.com/policy.php",
+    "description": "Facebook's Data Policy explains in detail how the company collects, uses, and shares information from users, including data from activity on and off Facebook, device information, partner data, and how this information is processed to provide, improve, and secure services.",
+    "keywords": ["Facebook", "data policy", "privacy", "information", "collection", "usage", "sharing", "processing", "security", "user data"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "How to Download Facebook Data",
+    "url": "https://www.facebook.com/help/212802592074644",
+    "description": "This guide explains how to download a copy of your Facebook data, including posts, photos, messages, comments, profile information, and activity logs, with options for file format, date ranges, and quality settings for creating an archive of your personal information.",
+    "keywords": ["Facebook", "download", "data", "archive", "information", "copy", "backup", "posts", "photos", "messages"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Off-Facebook Activity",
+    "url": "https://www.facebook.com/help/2207256696182627",
+    "description": "This guide explains Facebook's Off-Facebook Activity tool, which shows users information that businesses and organizations share with Facebook about their interactions off the platform, and provides options to clear this history or disconnect it from your account for greater privacy.",
+    "keywords": ["Facebook", "off-Facebook activity", "privacy", "data", "tracking", "clear history", "disconnect", "businesses", "interactions", "control"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Ad Preferences",
+    "url": "https://www.facebook.com/ads/preferences",
+    "description": "Facebook Ad Preferences allows users to view and control how their information is used for advertising, including seeing why specific ads are shown, managing ad topics, hiding ads from certain advertisers, and controlling data used to personalize ads across Facebook.",
+    "keywords": ["Facebook", "ads", "preferences", "advertising", "personalization", "control", "topics", "advertisers", "data", "settings"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook App Permissions Guide",
+    "url": "https://www.facebook.com/help/220336891328465",
+    "description": "This guide explains how to manage permissions for apps and websites connected to your Facebook account, including reviewing what information they can access, removing apps you no longer use, and controlling how third-party services interact with your Facebook profile and data.",
+    "keywords": ["Facebook", "app permissions", "connected apps", "third-party", "access", "data", "revoke", "manage", "privacy", "security"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Criticism of Facebook - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Criticism_of_Facebook",
+    "description": "Wikipedia's comprehensive article on criticism of Facebook covers major controversies including privacy violations, data breaches like Cambridge Analytica, election interference, misinformation spread, antitrust concerns, content moderation debates, mental health impacts, and regulatory challenges facing the company.",
+    "keywords": ["Facebook", "criticism", "controversy", "privacy", "Cambridge Analytica", "misinformation", "antitrust", "moderation", "election", "data breach"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png"
+  },
+  {
+    "title": "Cambridge Analytica Scandal Explained",
+    "url": "https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html",
+    "description": "The New York Times provides comprehensive coverage of the Cambridge Analytica scandal, explaining how the political consulting firm harvested data from millions of Facebook users without consent, the company's use of that data for political advertising, and the resulting fallout for Facebook's reputation and regulatory scrutiny.",
+    "keywords": ["Facebook", "Cambridge Analytica", "scandal", "data privacy", "NYT", "political consulting", "data harvesting", "2018", "investigation", "Mark Zuckerberg"],
+    "image": "https://static01.nyt.com/images/2018/03/19/business/19cambridgeexplainer1/merlin_135686679_f033c39d-7e91-4b0b-9ff4-babf80721895-superJumbo.jpg"
+  },
+  {
+    "title": "Facebook Antitrust Lawsuits - FTC",
+    "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v",
+    "description": "The Federal Trade Commission's official page details the antitrust lawsuit against Facebook, alleging illegal monopolization of the social networking market through acquisitions of Instagram and WhatsApp, with case documents, filings, and updates on the government's efforts to promote competition.",
+    "keywords": ["Facebook", "antitrust", "FTC", "lawsuit", "monopoly", "competition", "Instagram", "WhatsApp", "acquisitions", "legal"],
+    "image": "https://www.ftc.gov/sites/default/files/images/press-releases/social-share/ftc_social_share_default_en.jpg"
+  },
+  {
+    "title": "Facebook Data Breach 2021",
+    "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4",
+    "description": "Business Insider reports on the 2021 data breach affecting 533 million Facebook users, detailing how phone numbers, names, locations, and other personal information were leaked online, the origins of the data from a vulnerability exploited in 2019, and Facebook's response to the massive privacy incident.",
+    "keywords": ["Facebook", "data breach", "2021", "leak", "privacy", "personal information", "phone numbers", "security", "vulnerability", "Business Insider"],
+    "image": "https://i.insider.com/6068b1d430004b0019b2679a?width=1200&format=jpeg"
+  },
+  {
+    "title": "Facebook Whistleblower Frances Haugen",
+    "url": "https://www.cbsnews.com/news/frances-haugen-facebook-whistleblower-testimony-senate/",
+    "description": "CBS News covers Frances Haugen's testimony as a Facebook whistleblower, where she revealed internal documents showing the company knew about harms caused by its platforms, including negative impacts on teen mental health, amplification of divisive content, and prioritization of growth over safety.",
+    "keywords": ["Facebook", "whistleblower", "Frances Haugen", "testimony", "internal documents", "mental health", "safety", "Senate", "disclosure", "CBS"],
+    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/05/8f3d3f8b-3d8f-4f3f-9e0a-5b3d3f0e0b3a/thumbnail/1200x630/5c3d3f0e0b3a8f3d3f8b-3d8f-4f3f-9e0a-5b3d3f0e0b3a.jpg"
+  },
+  {
+    "title": "The Facebook Files - WSJ Investigation",
+    "url": "https://www.wsj.com/articles/the-facebook-files-11631713039",
+    "description": "The Wall Street Journal's investigative series 'The Facebook Files' exposes internal company documents revealing Facebook's knowledge of Instagram's harmful effects on teen girls, its struggles to control misinformation, special treatment for high-profile users, and other issues concealed from the public.",
+    "keywords": ["Facebook", "Facebook Files", "WSJ", "investigation", "internal documents", "Instagram", "teens", "misinformation", "VIPs", "disclosure"],
+    "image": "https://images.wsj.net/im-416438/social"
+  },
+  {
+    "title": "Facebook's Impact on Democracy",
+    "url": "https://www.washingtonpost.com/technology/2021/10/25/facebook-2016-election-influence/",
+    "description": "The Washington Post analyzes Facebook's role in democracy, examining how the platform's algorithms amplified divisive content during elections, spread misinformation, enabled foreign interference, and created echo chambers that may have influenced political discourse and voting behavior worldwide.",
+    "keywords": ["Facebook", "democracy", "election", "misinformation", "polarization", "political", "interference", "algorithms", "discourse", "Washington Post"],
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q4K5K5K5JFG5K5K5K5K5K5K5K.jpg"
+  },
+  {
+    "title": "Facebook and Mental Health Research",
+    "url": "https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739",
+    "description": "The Wall Street Journal reports on Facebook's internal research showing the company knew Instagram was toxic for teen girls, with studies revealing negative body image comparisons, social anxiety, and mental health harms, contradicting the company's public statements about platform safety.",
+    "keywords": ["Facebook", "mental health", "Instagram", "teens", "girls", "body image", "anxiety", "research", "internal studies", "WSJ"],
+    "image": "https://images.wsj.net/im-416438/social"
+  },
+  {
+    "title": "History of Facebook - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+    "description": "Wikipedia's detailed history of Facebook traces the platform's evolution from Mark Zuckerberg's Harvard dorm room in 2004, through its expansion to other colleges, high schools, and eventually the general public, major milestones like the News Feed launch, acquisitions, IPO, and rebranding as Meta.",
+    "keywords": ["Facebook", "history", "timeline", "founding", "Mark Zuckerberg", "2004", "growth", "milestones", "IPO", "Meta"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png"
+  },
+  {
+    "title": "The Founding of Facebook - Harvard Crimson",
+    "url": "https://www.thecrimson.com/article/2004/2/9/facebook-a-web-of-intriga/",
+    "description": "The Harvard Crimson's original 2004 article reports on the launch of 'Thefacebook' from Mark Zuckerberg's dorm room, capturing the earliest days of the platform when it was exclusively for Harvard students, before its explosive growth into the global social network it would become.",
+    "keywords": ["Facebook", "founding", "Harvard", "2004", "Thefacebook", "Mark Zuckerberg", "dorm room", "original", "history", "Crimson"],
+    "image": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/09/22/161935_1340300.jpg"
+  },
+  {
+    "title": "The Social Network (Film) - IMDb",
+    "url": "https://www.imdb.com/title/tt1285016/",
+    "description": "IMDb's page for 'The Social Network,' the Academy Award-winning film directed by David Fincher about the founding of Facebook, starring Jesse Eisenberg as Mark Zuckerberg, exploring the legal battles, friendships, and controversies surrounding the creation of the world's largest social network.",
+    "keywords": ["Facebook", "movie", "The Social Network", "film", "David Fincher", "Jesse Eisenberg", "Mark Zuckerberg", "Hollywood", "drama", "IMDb"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NTM5MTY3OV5BMl5BanBnXkFtZTgwNDI2MTU5MDE@._V1_.jpg"
+  },
+  {
+    "title": "Facebook's IPO: A Look Back",
+    "url": "https://www.cnbc.com/2022/05/18/facebooks-ipo-10-years-later-a-look-back-at-the-rocky-debut.html",
+    "description": "CNBC's retrospective on Facebook's 2012 initial public offering examines the rocky debut, technical glitches on NASDAQ, initial stock price struggles, and how the company evolved over the following decade to become one of the most valuable technology companies in the world.",
+    "keywords": ["Facebook", "IPO", "2012", "stock", "NASDAQ", "public offering", "investment", "CNBC", "finance", "Wall Street"],
+    "image": "https://image.cnbcfm.com/api/v1/image/106885767-16213426982021-05-18t160236z_1435934066_rc2ghn9kqj9w_rtrmadp_0_facebook-ipo-anniversary.jpeg"
+  },
+  {
+    "title": "Facebook Acquires Instagram",
+    "url": "https://www.theverge.com/2012/4/9/2937280/facebook-instagram-acquisition",
+    "description": "The Verge reports on Facebook's acquisition of Instagram for $1 billion in 2012, detailing the strategic move to acquire the fast-growing photo-sharing app, Mark Zuckerberg's commitment to maintaining Instagram's independence, and the long-term impact on the social media landscape.",
+    "keywords": ["Facebook", "Instagram", "acquisition", "2012", "$1 billion", "Mark Zuckerberg", "Kevin Systrom", "deal", "tech", "The Verge"],
+    "image": "https://cdn.vox-cdn.com/thumbor/6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq/0x0:1020x680/1200x800/filters:focal(0x0:1020x680)/cdn.vox-cdn.com/assets/1097135/instagram-logo.jpg"
+  },
+  {
+    "title": "Facebook Acquires WhatsApp",
+    "url": "https://www.wsj.com/articles/facebook-to-buy-whatsapp-for-16-billion-1392844405",
+    "description": "The Wall Street Journal covers Facebook's acquisition of WhatsApp for $19 billion in 2014, analyzing the strategic rationale behind the massive deal, WhatsApp's explosive user growth, the founders' commitment to privacy and minimal advertising, and regulatory scrutiny that followed.",
+    "keywords": ["Facebook", "WhatsApp", "acquisition", "2014", "$19 billion", "deal", "messaging", "Jan Koum", "privacy", "WSJ"],
+    "image": "https://images.wsj.net/im-416438/social"
+  },
+  {
+    "title": "Facebook Acquires Oculus",
+    "url": "https://www.theverge.com/2014/3/25/5547456/facebook-buys-oculus-vr-headset-manufacturer-for-2-billion",
+    "description": "The Verge reports on Facebook's acquisition of Oculus VR for $2 billion in 2014, marking the company's entry into virtual reality, the vision for VR as the next major computing platform, and the concerns from the gaming community about Facebook's involvement in the technology.",
+    "keywords": ["Facebook", "Oculus", "VR", "virtual reality", "acquisition", "2014", "$2 billion", "gaming", "Meta", "Reality Labs"],
+    "image": "https://cdn.vox-cdn.com/thumbor/6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq/0x0:1020x680/1200x800/filters:focal(0x0:1020x680)/cdn.vox-cdn.com/assets/1097135/oculus-logo.jpg"
+  },
+  {
+    "title": "Facebook Rebrands as Meta",
+    "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/",
+    "description": "Facebook's official announcement of the company rebranding to Meta Platforms, explaining the new name reflects its focus on building the metaverse, while the Facebook app remains unchanged, marking a historic shift in corporate identity and strategic direction for the technology giant.",
+    "keywords": ["Facebook", "Meta", "rebranding", "2021", "metaverse", "name change", "announcement", "corporate", "strategy", "Mark Zuckerberg"],
+    "image": "https://about.fb.com/wp-content/uploads/2021/10/meta-logo.jpg"
+  },
+  {
+    "title": "The Metaverse Explained",
+    "url": "https://www.theverge.com/22701100/metaverse-explained-fortnite-roblox-facebook",
+    "description": "The Verge provides a comprehensive explanation of the metaverse concept, tracing its origins in science fiction, its adoption by tech companies including Meta, what a metaverse future might look like with virtual and augmented reality, and the opportunities and challenges ahead.",
+    "keywords": ["Meta", "metaverse", "explained", "VR", "AR", "virtual reality", "future", "technology", "concept", "The Verge"],
+    "image": "https://cdn.vox-cdn.com/thumbor/6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq6Zq/0x0:1020x680/1200x800/filters:focal(0x0:1020x680)/cdn.vox-cdn.com/assets/1097135/metaverse.jpg"
+  },
+  {
+    "title": "Facebook's 20th Anniversary",
+    "url": "https://www.wionews.com/technology/20-years-of-facebook-how-it-shaped-the-digital-world-1757717894499/amp",
+    "description": "WION News commemorates Facebook's 20th anniversary with a retrospective on how the platform shaped digital communication, transformed social interactions, influenced politics and business, and evolved from a college networking site to a global technology powerhouse with billions of users.",
+    "keywords": ["Facebook", "20 years", "anniversary", "history", "impact", "digital world", "social media", "evolution", "milestone", "WION"],
+    "image": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2024/02/04/1757717894499-20-years-of-facebook.jpg"
+  },
+  {
+    "title": "Facebook Login Help",
+    "url": "https://www.facebook.com/login/identify",
+    "description": "Facebook's login help page assists users who are having trouble accessing their accounts, with options to identify accounts by email, phone number, or username, reset forgotten passwords, recover hacked accounts, and troubleshoot common login issues through guided support.",
+    "keywords": ["Facebook", "login", "help", "trouble", "access", "recover", "password", "account", "identify", "support"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Mobile App Download",
+    "url": "https://www.facebook.com/apps",
+    "description": "Facebook's apps page provides download links for official Facebook mobile applications across platforms including iOS, Android, and Kindle, with information about features, system requirements, and updates to help users access Facebook on their smartphones and tablets.",
+    "keywords": ["Facebook", "mobile", "app", "download", "iOS", "Android", "Kindle", "smartphone", "tablet", "installation"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Lite App",
+    "url": "https://www.facebook.com/lite",
+    "description": "Facebook Lite is a smaller, faster version of the Facebook app designed for older phones, slower networks, and areas with limited connectivity, using less data while providing core Facebook features like News Feed, messaging, and notifications for users worldwide.",
+    "keywords": ["Facebook", "Lite", "app", "lightweight", "data saving", "slow networks", "emerging markets", "android", "download", "efficient"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook for Desktop",
+    "url": "https://www.facebook.com/desktop",
+    "description": "Facebook's desktop experience offers a full-featured version of the platform optimized for computers, with easy access to News Feed, messaging, notifications, groups, pages, and all Facebook features through web browsers without needing to download additional software.",
+    "keywords": ["Facebook", "desktop", "computer", "web", "browser", "PC", "Mac", "full version", "features", "online"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Notifications Guide",
+    "url": "https://www.facebook.com/help/1038574636200979",
+    "description": "This guide explains how Facebook notifications work, including managing notification settings for different activities, controlling push notifications on mobile devices, customizing email alerts, and using notification preferences to stay informed without being overwhelmed.",
+    "keywords": ["Facebook", "notifications", "alerts", "settings", "manage", "push", "email", "preferences", "control", "updates"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Search Tips",
+    "url": "https://www.facebook.com/help/218340005247401",
+    "description": "This guide provides tips for searching effectively on Facebook, including finding people, pages, groups, and posts using filters, keywords, and advanced search techniques, with explanations of what content appears in search results and how privacy settings affect search visibility.",
+    "keywords": ["Facebook", "search", "find", "people", "pages", "groups", "posts", "filters", "keywords", "tips"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Friend Lists",
+    "url": "https://www.facebook.com/help/204330586340954",
+    "description": "This guide explains how to create and use Facebook friend lists to organize connections, control who sees your posts, filter your News Feed, and manage privacy settings for different groups of friends like family, coworkers, or close friends for more targeted sharing.",
+    "keywords": ["Facebook", "friend lists", "organize", "privacy", "custom lists", "close friends", "family", "acquaintances", "filter", "control"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Follow Feature",
+    "url": "https://www.facebook.com/help/115340025295732",
+    "description": "This guide explains the Facebook follow feature, which allows users to receive public posts from people they're interested in without being friends, with options to manage followers, control who can follow you, and customize your public posting audience.",
+    "keywords": ["Facebook", "follow", "followers", "public", "subscriptions", "content", "audience", "manage", "settings", "posts"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Memories",
+    "url": "https://www.facebook.com/help/1638944026588097",
+    "description": "This guide explains Facebook Memories, a feature that shows users past posts, photos, and activities from the same date in previous years, with options to share memories with friends, hide specific people or date ranges, and manage memory notifications.",
+    "keywords": ["Facebook", "memories", "past posts", "throwback", "photos", "history", "nostalgia", "reminders", "on this day", "sharing"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Archive Feature",
+    "url": "https://www.facebook.com/help/167970719931212",
+    "description": "This guide explains how to use Facebook's archive feature to hide posts from your timeline without deleting them permanently, allowing you to preserve memories while controlling what's visible on your profile, with options to view and manage archived content anytime.",
+    "keywords": ["Facebook", "archive", "hide", "timeline", "posts", "profile", "storage", "manage", "visibility", "content"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Recycle Bin",
+    "url": "https://www.facebook.com/help/1218975093178581",
+    "description": "This guide explains Facebook's recycle bin or trash feature, where deleted posts, photos, and videos are stored for 30 days before permanent removal, allowing users to restore accidentally deleted content and manage what they've recently removed from their profile.",
+    "keywords": ["Facebook", "recycle bin", "trash", "deleted", "restore", "recover", "posts", "photos", "30 days", "accidental deletion"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Profile Tagging",
+    "url": "https://www.facebook.com/help/124970597507379",
+    "description": "This guide explains how tagging works on Facebook, including tagging people in posts and photos, reviewing tags before they appear on your timeline, removing unwanted tags, and controlling tagging settings to manage how others interact with your profile.",
+    "keywords": ["Facebook", "tagging", "tags", "mentions", "photos", "posts", "review", "privacy", "settings", "remove"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Photo Upload Guide",
+    "url": "https://www.facebook.com/help/1624758204221149",
+    "description": "This guide provides instructions for uploading photos to Facebook, including selecting multiple images, adding descriptions and tags, creating albums, adjusting privacy settings for each upload, and using high-quality photo options for better image presentation.",
+    "keywords": ["Facebook", "photos", "upload", "images", "albums", "tags", "privacy", "quality", "gallery", "pictures"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Video Upload Guide",
+    "url": "https://www.facebook.com/help/218893110609124",
+    "description": "This guide explains how to upload videos to Facebook, including file size and length limits, supported formats, adding captions and thumbnails, adjusting privacy settings, and using video optimization features for better playback across different devices and connections.",
+    "keywords": ["Facebook", "video", "upload", "format", "captions", "thumbnails", "privacy", "length", "size", "playback"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Live Video Tips",
+    "url": "https://www.facebook.com/help/164576361261777",
+    "description": "This guide provides tips for successful Facebook Live broadcasts, including preparing your content, testing equipment, engaging with viewers through comments, using live features like polls and Q&A, and analyzing live video performance after your broadcast ends.",
+    "keywords": ["Facebook", "live", "video", "tips", "broadcast", "engagement", "comments", "polls", "Q&A", "analytics"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook 360 Photos",
+    "url": "https://www.facebook.com/help/1561034500456799",
+    "description": "This guide explains how to create and share 360-degree photos on Facebook, including capturing immersive images with compatible cameras or smartphones, uploading 360 content, and enabling viewers to explore panoramic scenes by moving their devices or dragging the image.",
+    "keywords": ["Facebook", "360 photos", "panoramic", "VR", "immersive", "spherical", "camera", "upload", "viewing", "interactive"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Avatars",
+    "url": "https://www.facebook.com/help/271891415174912",
+    "description": "This guide explains Facebook Avatars, customizable cartoon representations of users that can be created and used in comments, stories, and Messenger, with options for facial features, hairstyles, outfits, and accessories to express personality without using real photos.",
+    "keywords": ["Facebook", "avatars", "cartoon", "customization", "profile", "stickers", "comments", "stories", "Messenger", "expression"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Emoji and Reactions",
+    "url": "https://www.facebook.com/help/1105803555401551",
+    "description": "This guide explains Facebook's reaction features beyond the Like button, including Love, Care, Haha, Wow, Sad, and Angry emojis, how to use them on posts and comments, and what reaction data reveals about audience engagement with different types of content.",
+    "keywords": ["Facebook", "reactions", "emoji", "like", "love", "care", "haha", "wow", "sad", "angry"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Comment Moderation",
+    "url": "https://www.facebook.com/help/131670612788935",
+    "description": "This guide explains tools for moderating comments on Facebook, including blocking keywords, restricting certain users, hiding offensive comments, deleting inappropriate content, and using comment moderation settings to maintain respectful discussions on your posts and pages.",
+    "keywords": ["Facebook", "comments", "moderation", "block", "keywords", "restrict", "delete", "offensive", "discussion", "control"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Dark Mode",
+    "url": "https://www.facebook.com/help/2829518720246050",
+    "description": "This guide explains how to enable dark mode on Facebook for mobile apps and desktop browsers, reducing eye strain in low-light conditions, saving battery on OLED screens, and customizing your visual experience with the darker color scheme across the platform.",
+    "keywords": ["Facebook", "dark mode", "theme", "display", "settings", "eye strain", "battery saving", "OLED", "appearance", "night mode"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Accessibility Features",
+    "url": "https://www.facebook.com/accessibility/",
+    "description": "Facebook's accessibility hub provides information about features for users with disabilities, including screen reader support, alt text for images, keyboard navigation, captioning for videos, and tools designed to make the platform more inclusive for all users regardless of ability.",
+    "keywords": ["Facebook", "accessibility", "disability", "screen reader", "alt text", "captions", "keyboard navigation", "inclusive", "tools", "support"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook for Older Users",
+    "url": "https://www.facebook.com/help/2829518720246050",
+    "description": "This guide provides tips for older adults using Facebook, including larger text options, simplified navigation, privacy basics, connecting with family, joining interest groups, and using Facebook safely to stay connected with loved ones and communities.",
+    "keywords": ["Facebook", "older adults", "seniors", "tips", "larger text", "privacy", "family", "connections", "groups", "safety"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Parental Controls",
+    "url": "https://www.facebook.com/help/325807937506242",
+    "description": "This guide explains parental controls and supervision tools available on Facebook and Messenger, allowing parents to monitor their teen's activity, manage privacy settings, approve friend requests, and receive alerts about potential safety issues through family center.",
+    "keywords": ["Facebook", "parental controls", "supervision", "teens", "family", "monitoring", "privacy", "safety", "Messenger", "Family Center"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Family Center",
+    "url": "https://www.facebook.com/familycenter",
+    "description": "Facebook's Family Center is a dedicated hub for parents and caregivers to access supervision tools, resources for talking to teens about online safety, guides for managing family accounts, and information about age-appropriate experiences across Facebook and Instagram.",
+    "keywords": ["Facebook", "Family Center", "parents", "supervision", "teens", "safety", "resources", "tools", "Instagram", "family"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Protect Program",
+    "url": "https://www.facebook.com/help/229389160200154",
+    "description": "Facebook Protect is a security program for high-risk accounts including politicians, journalists, and activists, providing enhanced security features, mandatory two-factor authentication, and additional monitoring to protect against sophisticated hacking attempts and account takeovers.",
+    "keywords": ["Facebook", "Protect", "security", "high-risk", "two-factor", "politicians", "journalists", "activists", "hacking", "protection"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Verified Badge",
+    "url": "https://www.facebook.com/help/196883487377501",
+    "description": "This guide explains Facebook's verified badge (blue checkmark), indicating authentic accounts for public figures, celebrities, and brands, with information about eligibility requirements, application process, and how verification helps users identify legitimate official profiles.",
+    "keywords": ["Facebook", "verified", "badge", "blue checkmark", "authentic", "public figures", "celebrities", "brands", "identity", "official"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Subscription Services",
+    "url": "https://www.facebook.com/help/1418845136052311",
+    "description": "This guide explains Facebook's subscription services, allowing creators to offer exclusive content to paying subscribers, with features like subscriber-only posts, live streams, and groups, providing recurring revenue streams for content creators on the platform.",
+    "keywords": ["Facebook", "subscriptions", "creators", "monetization", "exclusive content", "subscribers", "revenue", "membership", "support", "earn"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Stars for Creators",
+    "url": "https://www.facebook.com/creators/stars",
+    "description": "Facebook Stars is a virtual goods feature allowing fans to support creators during live streams and videos by purchasing and sending stars, with creators earning revenue from star transactions and building deeper connections with their most engaged audience members.",
+    "keywords": ["Facebook", "Stars", "creators", "monetization", "live streams", "virtual goods", "fans", "support", "earnings", "engagement"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Creator Studio",
+    "url": "https://business.facebook.com/creatorstudio",
+    "description": "Creator Studio is Facebook's unified dashboard for content creators to manage posts, analyze performance, access monetization tools, respond to comments, and schedule content across Facebook and Instagram from a single interface designed for professional creators.",
+    "keywords": ["Facebook", "Creator Studio", "content", "manage", "analytics", "monetization", "schedule", "comments", "Instagram", "dashboard"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Business Suite",
+    "url": "https://business.facebook.com/",
+    "description": "Facebook Business Suite is a comprehensive tool for managing business presence across Facebook, Instagram, and Messenger, offering post scheduling, message management, notifications, insights, and ad creation in one place for small and medium business owners.",
+    "keywords": ["Facebook", "Business Suite", "manage", "posts", "messages", "insights", "ads", "Instagram", "Messenger", "small business"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Ads Manager",
+    "url": "https://www.facebook.com/business/tools/ads-manager",
+    "description": "Facebook Ads Manager is the primary tool for creating, managing, and analyzing advertising campaigns, offering detailed targeting options, budget controls, ad creative tools, performance reporting, and optimization features for businesses of all sizes advertising on Facebook.",
+    "keywords": ["Facebook", "Ads Manager", "advertising", "campaigns", "targeting", "budget", "creative", "reporting", "optimization", "business"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "How to Create Facebook Ads",
+    "url": "https://www.facebook.com/business/help/200000840044954",
+    "description": "This step-by-step guide explains how to create effective Facebook ads, from choosing campaign objectives and defining target audiences to designing ad creative, setting budgets, and launching campaigns that reach your desired customers and achieve business goals.",
+    "keywords": ["Facebook", "ads", "create", "campaign", "objectives", "targeting", "creative", "budget", "launch", "business"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Ad Formats",
+    "url": "https://www.facebook.com/business/ads/ad-formats",
+    "description": "This guide explains the various Facebook ad formats available to advertisers, including image ads, video ads, carousel ads with multiple images, collection ads for shopping, instant experiences for mobile, and stories ads designed for full-screen mobile viewing.",
+    "keywords": ["Facebook", "ads", "formats", "image", "video", "carousel", "collection", "instant experience", "stories", "mobile"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Ad Targeting Options",
+    "url": "https://www.facebook.com/business/help/447434751626249",
+    "description": "This comprehensive guide explains Facebook's ad targeting capabilities, including demographic targeting by age, location, and interests, custom audiences from customer lists, lookalike audiences to find similar customers, and behavioral targeting based on online activity.",
+    "keywords": ["Facebook", "ads", "targeting", "demographics", "interests", "custom audiences", "lookalike", "behavioral", "audience", "reach"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Ad Policies",
+    "url": "https://www.facebook.com/policies/ads/",
+    "description": "Facebook's advertising policies outline what content is allowed in ads, including prohibited content like discriminatory practices, misleading claims, inappropriate material, and restricted products, helping advertisers understand guidelines to ensure their ads are approved.",
+    "keywords": ["Facebook", "ads", "policies", "guidelines", "prohibited", "restricted", "content", "approval", "compliance", "rules"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Pixel Implementation",
+    "url": "https://www.facebook.com/business/help/742478679120153",
+    "description": "This technical guide explains how to install and use the Facebook pixel, a piece of code that tracks website conversions, optimizes ads, builds audiences for retargeting, and provides detailed analytics about how users interact with your website after seeing Facebook ads.",
+    "keywords": ["Facebook", "pixel", "tracking", "conversions", "website", "code", "installation", "retargeting", "analytics", "optimization"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Conversions API",
+    "url": "https://developers.facebook.com/docs/marketing-api/conversions-api/",
+    "description": "The Facebook Conversions API documentation explains how to implement server-side tracking for advertising events, providing a more reliable way to measure conversions, especially with increasing browser restrictions, and enabling better campaign optimization and attribution.",
+    "keywords": ["Facebook", "Conversions API", "server-side", "tracking", "advertising", "events", "optimization", "attribution", "developers", "measurement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Catalog Manager",
+    "url": "https://www.facebook.com/business/help/379511922452472",
+    "description": "This guide explains Facebook Catalog Manager, a tool for businesses to upload and manage product catalogs for dynamic ads, shopping experiences, and Marketplace listings, including inventory updates, product feeds, and catalog organization across Facebook shops.",
+    "keywords": ["Facebook", "catalog", "products", "inventory", "dynamic ads", "shopping", "Marketplace", "feeds", "business", "commerce"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Shops Setup",
+    "url": "https://www.facebook.com/business/shops",
+    "description": "Facebook Shops allows businesses to create online storefronts across Facebook and Instagram, featuring product catalogs, customizable shop layouts, checkout options, and integration with messaging for customer service, providing a seamless shopping experience for customers.",
+    "keywords": ["Facebook", "Shops", "ecommerce", "storefront", "products", "checkout", "Instagram", "catalog", "business", "sell"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Pay Setup",
+    "url": "https://www.facebook.com/pay",
+    "description": "Facebook Pay is a payment system that enables secure transactions across Facebook, Messenger, Instagram, and WhatsApp, allowing users to send money, make purchases, donate to fundraisers, and manage payment methods in one centralized location within Meta's apps.",
+    "keywords": ["Facebook", "Pay", "payments", "money", "transactions", "send", "purchase", "donate", "secure", "checkout"],
+    "image": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4Z0XhnnEaJ.ico"
+  },
+  {
+    "title": "Facebook Business Manager",
+    "url": "https://business.facebook.com/",
+    "description": "Facebook Business Manager is a centralized platform for managing business assets including pages, ad accounts, catalogs, and pixels, with tools for team collaboration, access control, and security settings to help organizations efficiently manage their Facebook presence.",
+    "keywords": ["Facebook", "Business Manager", "assets", "pages", "ad accounts", "team", "access", "security", "organization", "management"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Analytics Overview",
+    "url": "https://www.facebook.com/business/insights/tools/audience-insights",
+    "description": "Facebook Analytics tools provide detailed insights about your audience, content performance, and business results, including page insights, audience demographics, engagement metrics, and custom reports to help data-driven decisions for your Facebook strategy.",
+    "keywords": ["Facebook", "analytics", "insights", "metrics", "audience", "engagement", "demographics", "performance", "reports", "data"],
+    "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.2365-6/31589977_1791467165113409_8292989824179634176_n.png"
+  },
+  {
+    "title": "Facebook Page Insights API",
+    "url": "https://developers.facebook.com/docs/platforminsights/page",
+    "description": "The Facebook Page Insights API documentation provides technical specifications for developers to programmatically access page metrics, engagement data, audience information, and performance analytics for building custom dashboards and reporting tools.",
+    "keywords": ["Facebook", "insights", "API", "page metrics", "developers", "data", "analytics", "engagement", "audience", "programmatic"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Graph API Overview",
+    "url": "https://developers.facebook.com/docs/graph-api/",
+    "description": "The Facebook Graph API is the primary way to read and write data to Facebook's social graph, providing developers with access to users, posts, photos, pages, groups, events, and other objects through a consistent, RESTful API for building integrations.",
+    "keywords": ["Facebook", "Graph API", "developers", "data", "social graph", "REST", "integration", "users", "posts", "pages"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Login API",
+    "url": "https://developers.facebook.com/docs/facebook-login/",
+    "description": "Facebook Login API documentation explains how to implement secure authentication for websites and apps, allowing users to log in with their Facebook credentials, with options for permissions, user data access, and integration with existing account systems.",
+    "keywords": ["Facebook", "login", "API", "authentication", "developers", "OAuth", "permissions", "user data", "integration", "security"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Sharing SDK",
+    "url": "https://developers.facebook.com/docs/sharing/",
+    "description": "The Facebook Sharing SDK documentation provides tools for adding social sharing functionality to websites and apps, enabling users to share content, photos, and links to Facebook with customizable share dialogs and deep linking capabilities for better engagement.",
+    "keywords": ["Facebook", "sharing", "SDK", "developers", "social", "share buttons", "content", "integration", "dialogs", "engagement"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Comments Plugin",
+    "url": "https://developers.facebook.com/docs/plugins/comments/",
+    "description": "The Facebook Comments Plugin documentation explains how to embed a commenting system on websites, allowing users to comment using their Facebook accounts, with features for moderation, social integration, and synchronization with Facebook pages for unified discussions.",
+    "keywords": ["Facebook", "comments", "plugin", "developers", "embed", "website", "discussion", "moderation", "social", "integration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Like Button",
+    "url": "https://developers.facebook.com/docs/plugins/like-button/",
+    "description": "The Facebook Like Button documentation provides implementation guides for adding social proof to websites, allowing users to like and share content directly to Facebook, with customizable layouts, share functionality, and real-time count displays for engagement metrics.",
+    "keywords": ["Facebook", "like", "button", "developers", "social plugin", "share", "engagement", "website", "integration", "count"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Save Button",
+    "url": "https://developers.facebook.com/docs/plugins/save-button/",
+    "description": "The Facebook Save Button documentation explains how to add save functionality to websites, allowing users to bookmark content to their Facebook saved items for later viewing, with options for custom buttons and integration with Facebook's save feature.",
+    "keywords": ["Facebook", "save", "button", "bookmark", "developers", "plugin", "content", "later", "integration", "website"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Instant Games Platform",
+    "url": "https://developers.facebook.com/docs/games/instant-games/",
+    "description": "The Facebook Instant Games platform documentation provides tools for developing lightweight HTML5 games that run directly in Facebook and Messenger, with features for leaderboards, multiplayer, monetization, and social sharing without requiring downloads or installations.",
+    "keywords": ["Facebook", "Instant Games", "HTML5", "developers", "gaming", "Messenger", "leaderboards", "multiplayer", "monetization", "social"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Spark AR Studio",
+    "url": "https://sparkar.facebook.com/ar-studio/",
+    "description": "Spark AR Studio is Facebook's platform for creating augmented reality effects for Facebook and Instagram, providing tools for designing, testing, and publishing AR experiences like face filters, world effects, and interactive animations for users to enjoy.",
+    "keywords": ["Facebook", "Spark AR", "augmented reality", "AR", "effects", "filters", "creators", "developers", "Instagram", "interactive"],
+    "image": "https://sparkar.facebook.com/static/og-image.png"
+  },
+  {
+    "title": "Facebook Analytics for Apps",
+    "url": "https://developers.facebook.com/docs/analytics",
+    "description": "Facebook Analytics for Apps provides developers with insights about app usage, user behavior, and engagement metrics, including retention analysis, funnel tracking, event monitoring, and audience segmentation to optimize mobile applications and user experiences.",
+    "keywords": ["Facebook", "analytics", "apps", "developers", "insights", "user behavior", "retention", "events", "segmentation", "optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook App Events",
+    "url": "https://developers.facebook.com/docs/app-events",
+    "description": "Facebook App Events documentation explains how to track user actions within mobile apps, enabling measurement of conversions, optimization of ad campaigns, creation of custom audiences, and analysis of user behavior across iOS and Android applications.",
+    "keywords": ["Facebook", "app events", "tracking", "analytics", "conversions", "ads", "custom audiences", "mobile", "iOS", "Android"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Account Kit",
+    "url": "https://developers.facebook.com/docs/accountkit",
+    "description": "Facebook Account Kit documentation provides tools for implementing passwordless authentication using phone numbers or email addresses, simplifying user login flows for apps and websites while maintaining security and reducing friction in the registration process.",
+    "keywords": ["Facebook", "Account Kit", "authentication", "passwordless", "login", "phone", "email", "developers", "security", "registration"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Business SDK",
+    "url": "https://developers.facebook.com/docs/business-sdk",
+    "description": "The Facebook Business SDK documentation provides tools for integrating advertising and business features into applications, including campaign management, audience creation, analytics reporting, and marketing API access for building custom business solutions.",
+    "keywords": ["Facebook", "Business SDK", "advertising", "API", "campaigns", "audiences", "analytics", "developers", "integration", "marketing"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Marketing API",
+    "url": "https://developers.facebook.com/docs/marketing-apis",
+    "description": "The Facebook Marketing API documentation provides comprehensive tools for programmatic advertising management, including ad creation, campaign optimization, audience targeting, reporting, and automation capabilities for businesses and marketing platforms.",
+    "keywords": ["Facebook", "Marketing API", "advertising", "campaigns", "programmatic", "automation", "targeting", "reporting", "developers", "optimization"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Webhooks",
+    "url": "https://developers.facebook.com/docs/graph-api/webhooks",
+    "description": "Facebook Webhooks documentation explains how to receive real-time notifications about changes to Facebook data, enabling applications to react instantly to events like new posts, comments, messages, or page updates without constant polling of the API.",
+    "keywords": ["Facebook", "webhooks", "real-time", "notifications", "events", "API", "developers", "integration", "updates", "callbacks"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
+  {
+    "title": "Facebook Privacy Considerations for Developers",
+    "url": "https://developers.facebook.com/docs/privacy/",
+    "description": "This developer guide covers privacy considerations when building Facebook-integrated applications, including data handling requirements, user consent, permission management, compliance with platform policies, and best practices for protecting user information.",
+    "keywords": ["Facebook", "privacy", "developers", "data handling", "consent", "permissions", "compliance", "policies", "security", "user protection"],
+    "image": "https://developers.facebook.com/images/dev-site/og-image.png"
+  },
   {
     "title": "Facebook Messenger",
     "url": "https://www.messenger.com",
