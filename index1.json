@@ -4,5 +4,17 @@
     "url": "https://www.facebook.com",
     "description": "Social networking website",
     "keywords": ["facebook", "social", "networking", "media"]
+  },
+  {
+    "title": "Instagram",
+    "url": "https://www.instagram.com",
+    "description": "Photo and video sharing social network",
+    "keywords": ["instagram", "photo", "video", "social"]
+  },
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "description": "Search engine and technology company",
+    "keywords": ["google", "search", "technology", "engine"]
   }
 ]
