@@ -3,13 +3,13 @@
     "title": "Facebook",
     "url": "https://www.facebook.com",
     "description": "Social networking website",
-    "keywords": ["facebook", "social", "networking", "media"]
+    "keywords": ["facebook", "social", "networking", "search", "media"]
   },
   {
     "title": "Instagram",
     "url": "https://www.instagram.com",
     "description": "Photo and video sharing social network",
-    "keywords": ["instagram", "photo", "video", "social"]
+    "keywords": ["instagram", "photo", "video", "social", "search"]
   },
   {
     "title": "Google",
